@@ -6,6 +6,7 @@ const path = require('path');
 const app = express();
 app.use(cors());
 app.use(express.json());
+const TRANSCRIPT_DIR = path.join(__dirname, 'transcript');
 
 // Load pre-generated data JSON (video metadata)
 const dataPath = path.join(__dirname, 'data.json');
@@ -41,7 +42,7 @@ app.get('/api/videos/:id/transcript', (req, res) => {
   if (!video) {
     return res.status(404).json({ error: 'Video not found' });
   }
-  const transcriptPath = path.join(__dirname, '..', video.transcript);
+  const transcriptPath = path.join(TRANSCRIPT_DIR, video.transcript);
   if (!fs.existsSync(transcriptPath)) {
     return res.status(404).json({ error: 'Transcript file not found' });
   }
@@ -68,7 +69,7 @@ app.get('/api/search', (req, res) => {
     let score = 0;
     if (v.title && v.title.toLowerCase().includes(q)) score += 3;
     if (v.description && v.description.toLowerCase().includes(q)) score += 2;
-    const transcriptPath = path.join(__dirname, '..', v.transcript);
+    const transcriptPath = path.join(TRANSCRIPT_DIR, v.transcript);
     let transcriptMatch = false;
     if (fs.existsSync(transcriptPath)) {
       const transcript = fs.readFileSync(transcriptPath, 'utf-8').toLowerCase();
@@ -83,7 +84,7 @@ app.get('/api/search', (req, res) => {
     .sort((a, b) => b.score - a.score)
     .map(r => {
       // Return snippet of transcript if available
-      const transcriptPath = path.join(__dirname, '..', r.video.transcript);
+      const transcriptPath = path.join(TRANSCRIPT_DIR, r.video.transcript);
       let snippet = '';
       if (fs.existsSync(transcriptPath)) {
         const transcript = fs.readFileSync(transcriptPath, 'utf-8');
