@@ -1,0 +1,1577 @@
+[00:00:05] rental model where you've got like
+[00:00:06] 10,000 unique things and you need to bat
+[00:00:10] 10,000 yeah not 99,999 yep 10,000 got to
+[00:00:15] be a home run every time yes and whoever
+[00:00:17] is the least lucky and I emphasize like
+[00:00:19] unlucky like it could be like a Train
+[00:00:21] derailed or there was a blizzard there
+[00:00:23] was this you know there was a wildfire
+[00:00:27] the the utility shut down the there you
+[00:00:29] know was you name it revolutions there
+[00:00:32] there was a you know yeah water shut
+[00:00:35] down for some random reason um you know
+[00:00:38] drug gang shootout we had that one time
+[00:00:39] oh my goodness yeah really a truck got
+[00:00:41] impounded by
+[00:00:43] VA it was like near the shootout oh wow
+[00:00:45] we shut down oh wow happened several
+[00:00:47] years ago it shut down model this
+[00:00:49] production for three days oh um because
+[00:00:51] like the truck got impounded in like a
+[00:00:54] Friday and then the da wasn't open pound
+[00:00:57] yard was not open until Monday workers
+[00:01:00] so literally like we need our and it was
+[00:01:02] just carpet for the modelized trunk you
+[00:01:05] can't like ship people you know cars in
+[00:01:07] the carpet in the trunk L yeah it looks
+[00:01:09] weird cuz you see the you know all the
+[00:01:12] the body stuff it looks it looks not
+[00:01:15] okay I've pulled it out before it it
+[00:01:16] would be rough if that was what you got
+[00:01:18] at delivery might complaints yeah so so
+[00:01:21] we can you know we have to wait until we
+[00:01:23] get the truck back from the you
+[00:01:28] know uh
+[00:01:31] that's not something that can probably
+[00:01:32] be shared but hearing that now what an
+[00:01:33] incredible Story I mean honestly if
+[00:01:35] there's I there's so many different
+[00:01:38] reasons that you could possibly imagine
+[00:01:40] um yeah you must have a lot of stories
+[00:01:42] like that too yeah early the full the
+[00:01:44] full list of all the reasons for supply
+[00:01:45] chain interruptions or in tonal issues
+[00:01:48] um is is comedically long I think you
+[00:01:51] know so well I just wanted to take a
+[00:01:55] moment and kind of step back so the
+[00:01:56] reason we're here right is because of
+[00:01:58] the early days of Tesla right there's a
+[00:02:00] lot of misinformation yeah um and I know
+[00:02:03] you and I have kind of gone back a
+[00:02:05] little bit over that and so I thought
+[00:02:07] you know this is the time to just
+[00:02:09] potentially set um some of the
+[00:02:10] misinformation straight and really just
+[00:02:13] kind of kind of let you speak on how
+[00:02:16] things happen during those days and so I
+[00:02:18] wanted to step back and just really what
+[00:02:21] gave you the vision first off uh to even
+[00:02:23] step into electric vehicles I think you
+[00:02:26] made a comment one time you were on a
+[00:02:28] date or something like that you like I
+[00:02:30] guess she wasn't sure it was the date to
+[00:02:31] be
+[00:02:34] frank yeah when I it was actually with
+[00:02:37] Christy Nicholson who's a writer for
+[00:02:38] Scientific American um and I guess it
+[00:02:41] was like sort of a Sami date I don't
+[00:02:42] know uh we went out to dinner I guess so
+[00:02:46] and I was talking about electric cars a
+[00:02:47] lot this I think I was like 20 years old
+[00:02:50] um and um yeah so I asked some question
+[00:02:53] like do you think about electric cars
+[00:02:54] she's like no I don't think about them
+[00:02:56] at all I said I think about them a lot
+[00:03:00] so did was there more questions after
+[00:03:02] that or was that a that was the end of
+[00:03:03] the date no I mean
+[00:03:06] um they were're still friends today
+[00:03:08] actually I think she's coming by oon in
+[00:03:10] a few months something um so I I think
+[00:03:13] about uh electric cars since I was
+[00:03:17] basically in high school um you know
+[00:03:20] it's just kind of the thing that is like
+[00:03:24] the thing that is sort of kind of the
+[00:03:25] way cars should be if you can just solve
+[00:03:27] range yeah um so it's not like if you
+[00:03:30] think about like an internal combustion
+[00:03:32] engine car um it requires a battery and
+[00:03:35] a starter motor just to get started so
+[00:03:37] it requires electric motor and a battery
+[00:03:39] just to get started and then there's
+[00:03:41] this incredible kind of rot gobook
+[00:03:44] contraption that all has to work uh in
+[00:03:46] order for you to get a motion uh and
+[00:03:49] then most of what what you're producing
+[00:03:51] with the fuel is heat so you got to get
+[00:03:53] rid of the heat yep and then you got to
+[00:03:55] process the toxic gases and and uh you
+[00:03:58] know there's a limit to how well you can
+[00:03:59] process the toxic acid so um it's it's
+[00:04:02] sort of an
+[00:04:04] odd
+[00:04:05] uh an odd thing the internal combustion
+[00:04:09] car and people will look back on on on
+[00:04:11] the internal combustion car era as as a
+[00:04:13] strange time yeah um quaint quaint yeah
+[00:04:17] quaint and um quaint and and and just
+[00:04:20] weird basically um so you know I sort of
+[00:04:24] we looked back on the external
+[00:04:25] combustion era of steam engines as
+[00:04:28] quaint you know with this big steam
+[00:04:30] engine chuing un shoveling the coal and
+[00:04:32] stuff and you're like well you wouldn't
+[00:04:33] really get around like that today unless
+[00:04:35] you know it's sort of like more of a
+[00:04:37] niche thing in a you know some amusement
+[00:04:40] park or you know trip down memory lane
+[00:04:43] situation but but like you it would be
+[00:04:46] like weird if you're like shoveling coal
+[00:04:49] into today's
+[00:04:51] world yeah shoveling cold Co coal into
+[00:04:54] an external combustion steam engine to
+[00:04:56] get around I mean it would be like well
+[00:04:57] that's pretty weird um and that's how
+[00:05:00] they will view the future will view uh
+[00:05:02] internal combustion the same way
+[00:05:04] external combustion is viewed today um
+[00:05:08] so the issue really the only thing
+[00:05:10] holding holding electric cars back was
+[00:05:12] range and and um the fundamentals of
+[00:05:15] energy density uh deter mean that um if
+[00:05:20] you have a lead acid based battery based
+[00:05:22] car um your range is optimistically
+[00:05:26] going to it's it's going to be like
+[00:05:27] maybe 70 mil 80 miles if you really are
+[00:05:30] quite good um then uh if you get if you
+[00:05:35] go to something like nickel metal
+[00:05:36] hydride you've got twice the energy
+[00:05:38] density um so that's going to give you
+[00:05:40] with the same massive pack somewhere
+[00:05:42] around maybe 160 miles um and then uh if
+[00:05:48] you go to lithium ion and there's many
+[00:05:51] varieties of lithium ion lithium ion is
+[00:05:53] an incredibly broad description um but
+[00:05:56] without having to go to a super Advanced
+[00:05:58] lithium ion you can get to a 3 100 mile
+[00:06:00] range pack yeah uh in with the same
+[00:06:02] weight so you're going to get uh roughly
+[00:06:04] four four times the the energy density
+[00:06:07] of of lead acid uh five if you go to
+[00:06:11] Advanced lithium ion and as you go to
+[00:06:14] more advanced lithium ions more
+[00:06:15] refinment the cost goes up to further
+[00:06:17] refinement I correct uh yeah so the the
+[00:06:21] difficulty of getting to as you get to a
+[00:06:24] high energy
+[00:06:25] density
+[00:06:27] um a lithium ion you need to to um
+[00:06:31] change the anode uh to um silicon so you
+[00:06:36] get a dramatic increase in energy
+[00:06:38] density as you switch the anode to
+[00:06:40] Silicon but the problem with silicon is
+[00:06:42] that uh it expands and contracts a lot
+[00:06:45] during during charge and discharge so
+[00:06:49] and in that expansion and contraction uh
+[00:06:51] it it wants to kind of crumble and so uh
+[00:06:55] like mud cracks essentially uh is one
+[00:06:58] way to think about it yeah um so the
+[00:07:01] problem with a a pure silicon anode is
+[00:07:04] that it's very difficult to have it uh
+[00:07:07] Stay Together uh when you charge and
+[00:07:09] discharge it so then one of the things
+[00:07:12] you can do is to add silicon to the
+[00:07:14] carbon in the in the typical anode so
+[00:07:17] car carbon uh just just has only very
+[00:07:20] minor expansion contraction um so it's
+[00:07:23] easy to to maintain a carbon anode uh
+[00:07:27] and have its structure be uh robust
+[00:07:30] across many charge cycles and then you
+[00:07:32] can throw a little bit of silicon in
+[00:07:33] there uh and the Silicon can kind of
+[00:07:36] expand and contract inside the carbon
+[00:07:38] Matrix but as you start adding more
+[00:07:40] silicon it gets harder and harder to
+[00:07:42] maintain um
+[00:07:45] the structure of the anode yeah yeah um
+[00:07:50] so our our highest energy density cells
+[00:07:53] will use um I don't know like 90% carbon
+[00:07:58] maybe 10 % silicon or something like
+[00:08:00] that okay so it's a small percentage
+[00:08:02] it's a small percentage um and the the
+[00:08:06] Silicon you will have a bit a bit more
+[00:08:09] early life degradation in range with
+[00:08:11] silicon so uh so it just ites it does
+[00:08:15] get hotter there there are much higher
+[00:08:17] energy density cells you can get uh
+[00:08:20] where if if you have very precise
+[00:08:25] construction of the anode uh like with
+[00:08:27] like a chemical vac paper deposition
+[00:08:29] type process and you sort of print it
+[00:08:32] almost like a circuit board situation uh
+[00:08:34] such that the expansion can expand and
+[00:08:36] contract uh without cracking uh then uh
+[00:08:40] you can get to like 50% higher energy
+[00:08:43] density than we have in our cars but
+[00:08:45] that is still that's very expensive y so
+[00:08:47] it might be suitable for longrange
+[00:08:49] aircraft but it would not be
+[00:08:51] economically feasible for cars yeah yeah
+[00:08:54] yeah so so basically the that that's
+[00:08:56] situation um that's the that's really
+[00:08:59] the only thing holding back electric
+[00:09:00] cars is range um so
+[00:09:07] um so the the what I was going to be
+[00:09:09] studying um at at Stanford for grad
+[00:09:14] studies there was I'd be primarily in
+[00:09:16] the material science uh group um the uh
+[00:09:20] bull ni would would have been my
+[00:09:22] professor he's last he's the guy I spoke
+[00:09:23] to and I said U that I would uh I'd like
+[00:09:27] to put my studies on hold but but but
+[00:09:30] but I will probably fail so uh can I
+[00:09:33] please come back if if I fail or when I
+[00:09:35] fail um and he's like sure but I don't
+[00:09:38] think I'm going to hear from you again
+[00:09:39] and that was the last conversation I had
+[00:09:41] with B Nicks oh wow he was an oracle
+[00:09:44] yeah you knew you knew yes well um but
+[00:09:48] that that's essentially what I was going
+[00:09:49] to be studying at Stanford uh this is
+[00:09:51] back in '95 um was uh how to improve the
+[00:09:56] energy density
+[00:09:58] of how solve the energy D density
+[00:10:00] problem for electric vehicles oh crazy
+[00:10:03] so the so like I'm not someone like
+[00:10:06] Johnny come lately to electric vehicles
+[00:10:08] the point is that uh I was thinking
+[00:10:09] about electric vehicles like all the way
+[00:10:11] back to high school you know uh to like
+[00:10:15] literally talking about it on dates at
+[00:10:17] age 20 uh you know so I've been like an
+[00:10:20] electric vehicle uh you know proponent
+[00:10:23] for since like was you know a teenager
+[00:10:27] basically so uh
+[00:10:29] and that's what I was going to be
+[00:10:30] studying at Stanford is like how to how
+[00:10:32] to make the cars go go far enough that
+[00:10:34] you don't on on a some energy storage
+[00:10:37] system that you don't need uh batteries
+[00:10:39] so the the idea that I actually had at
+[00:10:41] Stanford was uh which I think some some
+[00:10:44] others are trying to pursue at this
+[00:10:46] point um but it isn't necessary uh was
+[00:10:49] to use uh Advanced chip making equipment
+[00:10:52] to develop a solid state capacitor uh
+[00:10:55] with enough energy density to uh get 2 M
+[00:10:59] range in a car mhm so uh and and idea
+[00:11:03] was that if you can piggyback on the
+[00:11:06] process on on Advanced chip making
+[00:11:08] processes where there's like tens of
+[00:11:10] billions of dollars of R&D being uh
+[00:11:12] spent every year to have uh to make
+[00:11:14] chips that are precise at the molecular
+[00:11:16] level yep then maybe you can make a
+[00:11:18] capacitor where you've got enough
+[00:11:20] surface to volume ratio um and you you
+[00:11:23] can uh stop stop stop the uh the
+[00:11:27] electrons from tunneling across if you
+[00:11:30] make the you know the sort of insulator
+[00:11:32] uh too thin that you you'll you you'll
+[00:11:35] actually quantum mechanics will make
+[00:11:38] them teleport across which is you know
+[00:11:41] so it's it's not like a things get weird
+[00:11:44] at a molecular scale yeah they quantum
+[00:11:46] mechanics is very weird it's like like
+[00:11:48] my quantum mechanics course in physics
+[00:11:50] in in final year was harder than all of
+[00:11:52] my other courses combined wow so it's
+[00:11:55] like it's intense what's your outlook on
+[00:11:57] solid that you do you think it it'll
+[00:11:58] ever get figured figured
+[00:12:00] out well Sol say capacitors yeah yeah um
+[00:12:04] I think it's possible to make capacitors
+[00:12:05] that are much better than what we have
+[00:12:07] right now
+[00:12:09] um so
+[00:12:22] um and and actually I I don't want to
+[00:12:24] use the word graphine because it's used
+[00:12:26] in in bullshed context so often but uh
+[00:12:28] graphine may be an
+[00:12:31] interesting um present an interesting
+[00:12:33] Avenue into uh creating a high energy
+[00:12:36] density
+[00:12:37] capacitor
+[00:12:38] um so like that's that that could you
+[00:12:42] you have to have a lot of layers
+[00:12:46] um and and and what you need is like
+[00:12:49] something that is
+[00:12:50] extremely uh resistant to electrons
+[00:12:53] jumping the Gap so you need a a great
+[00:12:57] conductor but also like effective
+[00:13:01] uh something that will basically drop
+[00:13:05] the probability of a an electron jumping
+[00:13:09] the uh insulator to a low number it will
+[00:13:12] still they not going to be zero but it's
+[00:13:13] to needs to be a low number otherwise
+[00:13:15] your leakage current is going to be too
+[00:13:16] too high let's just start with small
+[00:13:18] problems like teleporting electrons yeah
+[00:13:20] when electrons are doing like so this
+[00:13:22] the the world is crazy at a at at a
+[00:13:25] molecular scale the world is just like
+[00:13:27] you cannot apply your normal intuition
+[00:13:29] so I think it gets super
+[00:13:31] weird um spook distance is what I've
+[00:13:33] heard it called very very
+[00:13:36] well it's it's incredibly predictable
+[00:13:38] from from a probability standpoint the
+[00:13:41] uh quantum mechanics has unbelievable
+[00:13:44] predictability um you you just have to
+[00:13:46] believe what what it tells you even
+[00:13:48] though what it tells you doesn't sound
+[00:13:49] seem to make sense at a macro
+[00:13:51] scale um but anyway I think there's an
+[00:13:53] opportunity to I think out there to have
+[00:13:55] a very high energy density capacitor um
+[00:13:58] but that that was the idea that I was
+[00:14:00] that's the idea that I had back then but
+[00:14:02] that's not say that idea would have
+[00:14:04] succeeded um the thing I could have
+[00:14:06] found out after several years was I
+[00:14:08] could have added some knowledge like
+[00:14:09] some leaves to the tree of knowledge
+[00:14:11] only to and got get the PHD but not uh
+[00:14:15] but uh actually not not practical after
+[00:14:18] all that we learned something and
+[00:14:19] learned that this this Branch ended here
+[00:14:21] maybe yeah so like like one of the
+[00:14:24] possible
+[00:14:25] outcomes strong possibility would be uh
+[00:14:27] yeah you spent all this time uh this is
+[00:14:30] this is not technically something that
+[00:14:31] would work but it is uh
+[00:14:35] commercially not feasible uh and uh and
+[00:14:38] a waste of time yeah and that and that
+[00:14:41] that would suck basically so I figured
+[00:14:44] that I could always so that's why I
+[00:14:46] start decided in '95 to uh work on the
+[00:14:49] internet um so like when I was in
+[00:14:51] college I wanted
+[00:14:52] to I was trying to think of like what uh
+[00:14:56] are the things that would most affect
+[00:14:57] the future of humanity yeah so obviously
+[00:15:00] you pursued
+[00:15:02] multiple of those like choices right
+[00:15:05] what would you say like when you first
+[00:15:06] joined Tesla like everyone thinks that
+[00:15:08] you weren't the founder of you know
+[00:15:11] everyone tries to correct you on that he
+[00:15:12] didn't found it like what did it
+[00:15:14] actually consist of right because I
+[00:15:15] think a lot of people just think that
+[00:15:18] someone else started it you join later
+[00:15:20] and whatever but obviously that's not
+[00:15:21] true so that that that is not true the
+[00:15:24] reason people think that is because
+[00:15:26] everard has has engaged in a Non-Stop
+[00:15:28] campaign to to uh try to uh effectively
+[00:15:30] gain Soul credit for Tesla for himself
+[00:15:33] and he's the worst person I have ever
+[00:15:35] worked with and that is saying something
+[00:15:37] okay I've worked with some real
+[00:15:39] okay so for somebody to be the worst
+[00:15:40] person I ever worked with by far yeah
+[00:15:45] that's not easy is what I'm saying so uh
+[00:15:48] the the actual origin of Tesla uh uh
+[00:15:52] goes to 20 uh 2003 when I had lunch with
+[00:15:57] JV uh in in elsag gundo and we got
+[00:16:01] talking about electric cars and JB said
+[00:16:04] uh hey have you tried the AC propulsion
+[00:16:07] t0 um I said no uh but we we talked
+[00:16:11] about Battery Technology and how the
+[00:16:12] lithium ion would enable a long find
+[00:16:15] they have a long a longrange car I never
+[00:16:17] heard of art at this point never never
+[00:16:20] heard of
+[00:16:21] him so then um I got a I got a a test
+[00:16:25] drive from AC propulsion t0 um and I was
+[00:16:30] like wow okay this is this is pretty
+[00:16:31] cool um so at first I was like well can
+[00:16:34] you guys just make me a TZ I'll I'll buy
+[00:16:36] one from you and they didn't they didn't
+[00:16:37] want to make another one uh so I was
+[00:16:39] like okay and I said you guys should
+[00:16:42] really commercialize the t0 because the
+[00:16:44] t0 had all the properties that we lat
+[00:16:46] had in the Roadster you know it's sort
+[00:16:48] of like 250 mile range 0 to 60 under 4
+[00:16:50] seconds roughly 4 seconds um and um
+[00:16:55] there was a two door well didn't have
+[00:16:56] doors admittedly the t0 um but it it
+[00:17:00] looks you can see a resemblance between
+[00:17:02] the t0 and the Roadster uh it's a small
+[00:17:04] basically a small electric sports car um
+[00:17:08] and so I was trying to convince uh the
+[00:17:12] the guys there
+[00:17:14] um to to to like commercialize the TZ
+[00:17:19] like like hey the world needs to see
+[00:17:20] that that it's possible to have a viable
+[00:17:22] electric car um and um at the time I was
+[00:17:27] obviously very much
+[00:17:29] uh you know working crazy hours at
+[00:17:32] SpaceX trying to get a rocket to orbit
+[00:17:34] and we not yet reached orbit so we not
+[00:17:38] re overed for until 2008 for SpaceX
+[00:17:43] so anyway so then uh um I kept hounding
+[00:17:48] AC propulsion to uh commercialize the
+[00:17:53] t0 uh and then weirdly they they wanted
+[00:17:57] to uh not do the t0 but uh how do an
+[00:18:01] electric Toyota Scion like truth is
+[00:18:04] Stranger Than Fiction so I'm like guys
+[00:18:06] with hamsters dancing
+[00:18:08] too I mean the thing is like the uh the
+[00:18:12] batteries and power train at low volume
+[00:18:14] are going to be very expensive and and
+[00:18:16] you know so like no matter what you
+[00:18:18] would have have like maybe uh a 70 or
+[00:18:21] $80,000 electric scon or you could have
+[00:18:24] for argument sake a $100,000 electric
+[00:18:27] sports car and people are willing to pay
+[00:18:30] $100,000 for an electric sports car but
+[00:18:31] they are not willing to pay let's say
+[00:18:32] $80,000 like you'd only save a small
+[00:18:35] amount M uh uh because the the battery
+[00:18:39] pack and electric power train are
+[00:18:40] overwhelmingly what was is expensive um
+[00:18:43] but I even said listen if you guys
+[00:18:45] actually want to do an electric Scion I
+[00:18:48] will fund 10% of it but you have to find
+[00:18:50] other people who will find that fund the
+[00:18:52] other 90% uh and the only people who are
+[00:18:55] willing to do 10% were me and Sergey
+[00:18:57] Bren and is so they so then that project
+[00:19:00] sold um so then I so then I sent
+[00:19:05] uh uh I gu Tom Gage uh an email saying
+[00:19:10] like listen uh if you guys ass sure that
+[00:19:12] you don't want to commercialize the TZ
+[00:19:14] how about if you let me do that so I was
+[00:19:17] like I want to I let me I'm going to
+[00:19:19] start a company to commercialize the t0
+[00:19:22] so uh then then Dan said well if you're
+[00:19:24] interested in commercializing T he knows
+[00:19:27] two other groups that are also
+[00:19:28] interested in doing it and and would you
+[00:19:30] like would I like to meet them uh I
+[00:19:33] never met the second group uh but the
+[00:19:34] first group I met was uh uh everard
+[00:19:38] tarpening and Wright now everard keeps
+[00:19:41] trying to erase Ian Wright from history
+[00:19:43] as well because they they hate each
+[00:19:44] other okay so uh so so but all they had
+[00:19:48] uh was it was just basically the plan
+[00:19:51] was commercialized they had there were
+[00:19:52] no no employees there were no offices
+[00:19:55] there was no IP there was no nothing mhm
+[00:19:58] literally nothing there there was no
+[00:20:01] nothing you would call a
+[00:20:03] company you said like where is the
+[00:20:05] company I I don't know where is it uh
+[00:20:08] there was an empty shell corporation
+[00:20:10] that had zero value uh and no employees
+[00:20:14] no offices no designs no intellectual
+[00:20:17] property no
+[00:20:19] nothing uh except the general idea
+[00:20:22] basically of commercializing the t0
+[00:20:25] which I had before meeting them uh if I
+[00:20:28] had not met them I would have just gone
+[00:20:30] moved forward created a company with JB
+[00:20:32] yeah commercialized at t0 yeah and gone
+[00:20:35] our way and that's actually what
+[00:20:36] happened at the end of the day oh my
+[00:20:39] gosh except with a lot of grief along
+[00:20:41] the way yeah okay so uh but in effect
+[00:20:46] uh uh after about a year
+[00:20:50] uh eard Mar marad and and Ian Wright uh
+[00:20:55] uh could not stand each other and they
+[00:20:57] they made me piss pick which one uh
+[00:21:00] would leave basically they can't both be
+[00:21:02] in the same company so I I have to pick
+[00:21:05] one of them and then I talk to to JB and
+[00:21:06] I was like which is the what's how least
+[00:21:08] bad option here yeah and uh it was like
+[00:21:12] okay we we we'll say goodbye to to in
+[00:21:15] right and and keep Mark Martin I mean um
+[00:21:19] [Music]
+[00:21:20] so
+[00:21:22] uh but anyway like the the key I think
+[00:21:25] the key Point here is when somebody says
+[00:21:27] like you're invest in a company is the
+[00:21:30] the money that I provided was the least
+[00:21:31] important thing that I provided to the
+[00:21:33] company there was no company mhm and if
+[00:21:36] I had not uh met them I would have just
+[00:21:38] moved forward and created Tesla and I
+[00:21:39] think it would be indistinguishable from
+[00:21:41] what it is today you would not be able
+[00:21:42] to tell the
+[00:21:43] difference I think we could have avoided
+[00:21:45] a lot of drama as well in the early days
+[00:21:49] so
+[00:21:53] um yeah um I I would like if there's one
+[00:21:56] thing I could go back in time and say I
+[00:21:58] would wish I had never met Martin
+[00:22:01] everard so if you could go back he's the
+[00:22:03] absolute worst in case I haven't made
+[00:22:04] that clear yeah the
+[00:22:08] worst the worst may I ask don't ever
+[00:22:11] like yes may I ask I know Kelvin someone
+[00:22:14] who claims credit for for things he
+[00:22:16] didn't do uh and is uh obnoxious about
+[00:22:21] it you yeah so clearly if you had a time
+[00:22:24] machine you can go back in time and not
+[00:22:26] work with him fantastic yeah exactly
+[00:22:28] that would have course saved a
+[00:22:30] tremendous amount of Anguish yeah and
+[00:22:31] then just partnered up with
+[00:22:32] JB uh you know the name Tesla and the
+[00:22:35] logo means so much to so many of the
+[00:22:37] fans of the cars so uh help us
+[00:22:41] understand who came up with the name
+[00:22:42] Tesla and what were some of the
+[00:22:44] Alternatives and would Tesla be called
+[00:22:46] Tesla had you and JB broke out together
+[00:22:49] and not met
+[00:22:52] Martin so uh the the Tesla motors which
+[00:22:54] is what it called at the time um was the
+[00:22:57] trademark was actually held by a guy I
+[00:22:58] think who lived in around Sacramento or
+[00:23:00] something uh and he so the the trademark
+[00:23:03] Tes Tesla Motors was uh like said owned
+[00:23:06] by someone we uh not
+[00:23:08] us uh so
+[00:23:12] the uh in the beginning it actually
+[00:23:14] seemed like we would not be able to use
+[00:23:16] uh see like who came out with the tesel
+[00:23:18] motors the guy that we bought the
+[00:23:19] trademark from that guy um not need to
+[00:23:24] come up with it he trademarked it okay
+[00:23:26] so uh
+[00:23:29] and we could not he would not respond to
+[00:23:32] anyone uh any contact so then finally uh
+[00:23:36] I sent uh Mark topping who is although
+[00:23:41] he's Martin's best friend is uh still a
+[00:23:44] super nice guy uh
+[00:23:47] and uh so I sent uh Mark toing to sit on
+[00:23:50] the guy's doorstep and not leave until
+[00:23:54] we got the Telsa Motors
+[00:23:56] trademark so that's who came up with
+[00:23:58] that I forget his name but uh it's in
+[00:24:00] the it's in the trademark you you can
+[00:24:02] look up the trademark history um that's
+[00:24:04] who came up with Tesla Motors that guy
+[00:24:06] but you like the name so much that you
+[00:24:08] insisted that yeah you sent Mark to sit
+[00:24:10] on his doorstep right so yeah and we I
+[00:24:13] think we paid $75,000 for
+[00:24:15] the which was a lot at that time yeah
+[00:24:18] sure um so and I think it's also maybe
+[00:24:21] important to emphasize like uh you know
+[00:24:24] uh Martin Everhart is is is quite a bit
+[00:24:26] older than me and had successful
+[00:24:27] startups before for me and had a had a
+[00:24:29] lot of money he was just unwilling to
+[00:24:31] risk it he was not poor he had a $10
+[00:24:33] million house in
+[00:24:35] Woodside okay uh he was just unwilling
+[00:24:38] to risk his own money I was not I was
+[00:24:40] willing to risk my own money in the end
+[00:24:42] I risked it all so just important toid
+[00:24:45] this is not like some poor inventor who
+[00:24:47] gets crushed by big capitalist which is
+[00:24:49] the archetype that he tries to
+[00:24:51] portray he had uh he he could have
+[00:24:54] matched my investment uh if he wanted to
+[00:24:56] he just didn't want to
+[00:24:59] at what point you know through that
+[00:25:01] right um did you start to see the red
+[00:25:03] flags right so you join with him he's on
+[00:25:06] board where is like I then well I
+[00:25:09] convinced JB to join I so the the
+[00:25:12] ultimate path that I wish we had gone on
+[00:25:14] was was just if if AC repulsion hadn't
+[00:25:18] mentioned uh that there were two other
+[00:25:19] teams interested in commercializing the
+[00:25:21] t0 then I would have just moved forward
+[00:25:23] with JB commercialized t0 with a whole a
+[00:25:25] hell of a lot less drama um that's
+[00:25:28] that's the path that I wish had occurred
+[00:25:30] um the the the moral error that I made
+[00:25:33] here is uh is that I wanted to have my
+[00:25:37] cake and eat it too uh so I wanted like
+[00:25:39] I was like okay I want to I need to do
+[00:25:41] SpaceX but I also really want to do an
+[00:25:43] electric car company how can I have my
+[00:25:46] cake and eat it too uh so it's like okay
+[00:25:49] if I have someone else run the car
+[00:25:51] company and I will just be responsible
+[00:25:53] for the like o overall sort of
+[00:25:55] technology and design like the products
+[00:25:58] side of things like the thing that I
+[00:25:59] enjoy doing is the product side of
+[00:26:00] things not um not being the boss I don't
+[00:26:02] like being the boss at all but I like
+[00:26:04] engineering and design problems MH
+[00:26:06] so
+[00:26:09] um so so that that that so I thought
+[00:26:12] okay I'll just work on the stuff that I
+[00:26:13] like doing which is product design and
+[00:26:17] uh then someone else can be CEO and deal
+[00:26:19] with all the chores of being a
+[00:26:20] CEO this unfortunately does not work no
+[00:26:23] because you had a CEO in place that
+[00:26:25] didn't work
+[00:26:26] out well
+[00:26:28] no it it yeah
+[00:26:33] um yeah things finally came to AE in um
+[00:26:38] in mid2
+[00:26:39] 2007 um where
+[00:26:43] uh Martin just flat out lied to me uh
+[00:26:47] about the cost and and riness of the car
+[00:26:49] and I actually gave him an opportunity I
+[00:26:51] said so I said Martin Martin what what
+[00:26:54] what is the what is the the cost of
+[00:26:55] goods of of the car like how much is it
+[00:26:58] like what are we what are we tracking to
+[00:27:00] and uh and is it above the price that we
+[00:27:03] are charging and I actually knew the
+[00:27:05] answer uh because an investor had joined
+[00:27:08] uh who had done some who had audited the
+[00:27:10] costs and and that investor uh told me
+[00:27:15] like hey hey man the the numbers he's
+[00:27:17] adding up for the the best case
+[00:27:19] long-term cost of the roader is
+[00:27:22] $180,000 I think we were like selling it
+[00:27:24] for
+[00:27:26] $85,000 yeah so that's that's like
+[00:27:29] hug yeah you can't make it up on volume
+[00:27:32] money we're going to make it up scale
+[00:27:34] yeah yeah ran has that problem right now
+[00:27:37] so um so so basically the I was like
+[00:27:40] well this is extremely messed up and he
+[00:27:42] also said that uh like about a the the
+[00:27:45] the sort of new investor came in uh it
+[00:27:47] said um that about a third of the car is
+[00:27:51] Works about a third of the car is super
+[00:27:52] late and the third of it will never work
+[00:27:54] at all oh I'm like okay this is pretty
+[00:27:56] bad so I called Martin and like Martin
+[00:27:58] what what's the cost of the car and he
+[00:28:00] said he he didn't know so I'm like okay
+[00:28:02] he's flat out line to me um because I
+[00:28:04] asked did you tell M this and he said
+[00:28:06] yes I told Martin this so when I I then
+[00:28:08] called Martin said uh what's the cost of
+[00:28:11] the car Martin oh I don't know are you
+[00:28:15] sure and and that when he did both Place
+[00:28:17] lied to me I was like that's it you know
+[00:28:19] he can't be CEO anymore so we had a
+[00:28:21] board meeting and we fired him
+[00:28:24] unanimously including the people that he
+[00:28:25] had appointed to the board wow uh and uh
+[00:28:30] at the time at at the time we did not
+[00:28:32] know the full extent of the situation so
+[00:28:34] we kept him on like he was not he was in
+[00:28:37] in in the company but but fired as of
+[00:28:39] July of 2007 uh and then um I still
+[00:28:44] didn't want to vco of the company so I
+[00:28:46] got like
+[00:28:47] um an interim CEO
+[00:28:51] um but I was effectively it's fair to
+[00:28:55] say I was deao CEO from July 20 7
+[00:28:58] because in bringing out an interim CEO
+[00:29:01] interim CEO didn't know did not know
+[00:29:02] anything about cars so I had to
+[00:29:05] basically increase my time allocation to
+[00:29:07] Tesla and help figure out help the new
+[00:29:10] CEO figure things out um and this is all
+[00:29:14] happening uh as we're sort of
+[00:29:17] progressing into 2008 uh and and
+[00:29:21] then I mean I so badly didn't want to be
+[00:29:23] CEO like like to be clear I could have
+[00:29:26] been CEO from day one like I it's not
+[00:29:29] like I was like uh I had like majority
+[00:29:32] ownership on day
+[00:29:33] one yeah cuz like I'm now CEO if I
+[00:29:36] wanted to be CEO I could have just made
+[00:29:38] myself a CEO anytime I want there's no
+[00:29:40] need for any machinations or macavelli
+[00:29:42] and anything I just could say I vote me
+[00:29:45] CEO in a story um yeah so it's it's
+[00:29:49] because I was trying to not be the CEO
+[00:29:51] uh that things became problematic yeah
+[00:29:54] um so uh we had an interim Co for few
+[00:29:58] months and then did a CEO search uh in
+[00:30:02] 2007 and the only person who was willing
+[00:30:03] to say yes was was Z Dory I don't know
+[00:30:06] if you guys remember anything about Z
+[00:30:08] Dory all
+[00:30:10] right so Zev Zev is
+[00:30:14] um I I like Zev actually let's to say
+[00:30:18] like he he is fearless um so the the
+[00:30:23] only one who would the only one person
+[00:30:24] who would agree to be CEO of Tesla was a
+[00:30:27] guy he spent three years in the Israeli
+[00:30:29] paratroopers and and was afraid of
+[00:30:32] nothing so so z z z joined as CEO um but
+[00:30:39] but he from a personality standpoint uh
+[00:30:42] his personality did not mesh well with
+[00:30:43] the rest of the team
+[00:30:46] so um after about six months of of Zev
+[00:30:50] being
+[00:30:51] CEO and me being deao co-ceo because
+[00:30:55] again he didn't know anything about
+[00:30:57] electric cars he was technology guy from
+[00:30:59] the trip
+[00:31:00] industry
+[00:31:02] um uh the the team kind of had
+[00:31:06] a Revolt basically they said look if if
+[00:31:11] um if if Zev is going to continue to be
+[00:31:13] the CEO we're all going to leave so that
+[00:31:16] so they were like I was like okay then I
+[00:31:19] I like can you guys at least hang on for
+[00:31:22] us to complete a financing round uh so
+[00:31:25] cuz this is mid2 8 like July 2008 I like
+[00:31:29] we just need to complete a financing
+[00:31:31] round can you just you know tough it out
+[00:31:33] through through then and they're like
+[00:31:35] okay we'll tough it out for a few more
+[00:31:37] months um and then we we tried raising
+[00:31:41] money in basically summer of of 2008 and
+[00:31:44] we got we got term sheets but the market
+[00:31:46] started falling off a cliff around
+[00:31:49] September uh of 2008 so the term sheets
+[00:31:53] never never turn into actual agreements
+[00:31:56] um to uh invest
+[00:31:58] um and then a bunch of the investors who
+[00:32:00] were thinking about investing in Tesla
+[00:32:02] themselves went bankrupt so it's not
+[00:32:03] like you know they're hold holding out
+[00:32:06] on us they they themselves were just
+[00:32:08] trying to figure out how not to go
+[00:32:09] bankrupt you had Lon brothers and bar
+[00:32:12] ston you know by the dust um and and a
+[00:32:16] bunch of the major Banks would would
+[00:32:18] have put in the dust too if if there was
+[00:32:19] not government intervention um
+[00:32:21] so anyway and and Goldman was leading
+[00:32:23] the round uh
+[00:32:26] so uh it you know it became clear around
+[00:32:29] September of of 2008 that there no round
+[00:32:33] was going to happen um the markets were
+[00:32:35] were
+[00:32:36] plunging um and then I I I told Zev like
+[00:32:40] Zev um I'm going to have to put in
+[00:32:43] everything I've got all the money I've
+[00:32:45] got
+[00:32:46] left uh so that means I I have to be CEO
+[00:32:49] I got it you know putting all my chips
+[00:32:51] on the table um and Z said I he totally
+[00:32:54] understands um so then I was was like
+[00:32:58] okay and so so like technically I was
+[00:33:00] CEO from like mid2 2007 mhm uh you say
+[00:33:05] like you know officially CEO in like
+[00:33:08] late
+[00:33:09] 2008
+[00:33:12] um man that was a lot of drama that was
+[00:33:15] Nightmare year um so
+[00:33:20] like like partway through that year
+[00:33:22] SpaceX had failed its third launch yep
+[00:33:26] and I only ever thought we had we enough
+[00:33:28] money for three launches MH so so like
+[00:33:32] we're like zero for three launches with
+[00:33:34] with SpaceX um my marriage fell falling
+[00:33:37] apart so I'm getting
+[00:33:39] divorced uh the T of financing round is
+[00:33:41] falling apart and we're nowhere near
+[00:33:43] production and we have the Great
+[00:33:47] Recession part on yeah good
+[00:33:51] times worse than that perfect storm man
+[00:33:54] yeah extremely brutal say the least uh
+[00:33:58] the lowest of the lows
+[00:34:01] um so
+[00:34:05] then that was pure
+[00:34:08] hell
+[00:34:09] so can I ask one when you took over a
+[00:34:12] CEO this is a piece that a lot of people
+[00:34:14] I don't think I've ever I've ever seen
+[00:34:15] documented where was product development
+[00:34:17] exactly like how far long was the
+[00:34:18] product in the making when you took it
+[00:34:20] over because I can think a lot of
+[00:34:20] misconceptions people have this idea
+[00:34:22] that you showed up to a done product no
+[00:34:26] I was I I oversold the product from the
+[00:34:28] beginning mhm so like I mentioned
+[00:34:30] earlier
+[00:34:31] the my my my role was uh effectively
+[00:34:35] Like Chief product officer um so uh the
+[00:34:40] thing that gets confusing is that
+[00:34:41] normally someone who's Chief product
+[00:34:43] officer is not an investor so people get
+[00:34:45] confused like which one are you it's
+[00:34:46] like I'm both and the money was the the
+[00:34:49] the you know the investment was the
+[00:34:50] least important part um so uh it's just
+[00:34:53] that I believe if in putting your own
+[00:34:56] CAPIC at stake if if you're going to uh
+[00:34:58] start a company uh like whatever the
+[00:35:00] opposite of other people's money is I
+[00:35:02] think is is the morally right thing to
+[00:35:04] do so uh like if you're not prepared to
+[00:35:07] invest your money then why should you
+[00:35:09] ask others to invest theirs it's not
+[00:35:10] right that's why I invest uh and I for
+[00:35:13] my first company ZIP 2 I had no money so
+[00:35:15] I could not invest in zip 2 that's why
+[00:35:19] no like starting zip 2
+[00:35:23] uh just like when I put uh gr of
+[00:35:25] Stanford on hold in 95
+[00:35:28] um I had I had $100,000 in student debt
+[00:35:31] and because I didn't start the uh start
+[00:35:33] the Stanford quarter that means I I
+[00:35:35] didn't have access to student housing I
+[00:35:36] lost my student stipended I yeah I mean
+[00:35:40] like and I had like
+[00:35:41] $2,000 so uh and like more than $100,000
+[00:35:45] in student debt and one
+[00:35:49] computer so uh and and that that that
+[00:35:52] summer of 95 I wrote the first maps and
+[00:35:55] directions uh and white pages and Yellow
+[00:35:57] Pages
+[00:35:58] uh ever on the internet yep personally
+[00:36:01] by myself it's insane yes it's insane 95
+[00:36:04] I and they were like well what web
+[00:36:06] server do you use I don't use web server
+[00:36:07] I I just read the ports directly I don't
+[00:36:09] have time to move data between one
+[00:36:11] process and another just read the port
+[00:36:14] directly why do you need a
+[00:36:16] server stre Port
+[00:36:18] 880 problem
+[00:36:22] solved
+[00:36:24] um but I didn't have any money so my my
+[00:36:27] brother came down he had like $5,000 so
+[00:36:29] that was like a gigantic Improvement the
+[00:36:31] be this of two days uh we found like a
+[00:36:36] a like an sort of an attic sort of uh
+[00:36:39] office uh where there was like a hole in
+[00:36:41] the roof and watered like piled on the
+[00:36:43] floor and the rug was all stained um but
+[00:36:47] fig it doesn't rain that often in
+[00:36:48] California so uh we got like a discount
+[00:36:51] rug from Near by rug
+[00:36:53] store and then got like uh two futons
+[00:36:57] and they would just like sleep in the
+[00:36:58] office and uh and then remake it so
+[00:37:01] looked official during the day uh and um
+[00:37:05] at one point we still only had one
+[00:37:07] computer so like the website wouldn't
+[00:37:09] work at night because I was coding at
+[00:37:10] night and the web server would run
+[00:37:12] during the day uh and and the the way we
+[00:37:15] got internet access was there was an ISP
+[00:37:17] on the floor below so uh I just I just
+[00:37:20] ran uh an ethernet cable through the
+[00:37:23] ceiling drilled a hole in the floor ran
+[00:37:25] it through the ceiling tiles and plugged
+[00:37:26] it into the ISB below
+[00:37:28] they never knew no they they did know
+[00:37:30] know yeah they but they like we'll give
+[00:37:32] you a real cheap rate if you can just
+[00:37:34] plug in directly so I I didn't get like
+[00:37:36] a permit or anything you know I just
+[00:37:38] rolled a hole on the floor and took the
+[00:37:40] took the cable down and plug plugged it
+[00:37:42] plugged it right in so it was like okay
+[00:37:44] we don't need it I'll buy a T1 or router
+[00:37:46] or anything Cisco um so um then then
+[00:37:52] with when my brother came down we
+[00:37:54] managed to get a second computer so then
+[00:37:55] it could be like okay this one can run
+[00:37:57] and I can Cote on the other one um and
+[00:38:01] uh yeah so this is like that was we
+[00:38:04] didn't even have an apartment we just
+[00:38:06] basically go shower at the YMCA on on
+[00:38:07] page Al Camino um which was like you
+[00:38:11] know pretty easy to walk to so just give
+[00:38:14] you a sense of like how little money we
+[00:38:17] had in the beginning it was like
+[00:38:19] nothing and and eat at the Jack In The
+[00:38:21] Box if you know that Jack in the Box
+[00:38:24] yeah but one thing I wanted to clear up
+[00:38:26] was how did how did the Journey of all
+[00:38:29] of the founders like kind of taper so
+[00:38:32] obviously everard was fired yeah what
+[00:38:34] happened with JB and all the rest like
+[00:38:37] how was like their journey and you know
+[00:38:39] kind of their role even
+[00:38:41] towards so um yeah I mean I think it's
+[00:38:45] like it' be accurate to say that there
+[00:38:46] were like five co-founders of of Tesla
+[00:38:49] you know um and and even though I
+[00:38:52] despise martinod he obviously would be
+[00:38:54] one of those five um and Ian Wright
+[00:38:56] should also be considered one of the
+[00:38:57] five like Essen like who who was there
+[00:39:00] uh you know when when the company would
+[00:39:03] basically had nothing was was nothing um
+[00:39:06] and and that's the five people now the
+[00:39:09] the people that were like essential at
+[00:39:11] the end of the day were JB and me so um
+[00:39:15] there would not be a successful Tesla
+[00:39:16] otherwise they would it would never even
+[00:39:18] have gone into
+[00:39:19] production um and I think the evidence
+[00:39:22] for this would be like hey we fired
+[00:39:23] Martin um and gave him a bunch of money
+[00:39:26] great start a company he did he did try
+[00:39:29] it did not
+[00:39:31] succeed H yeah so if you're so awesome
+[00:39:35] Why didn't it succeed yeah and why did
+[00:39:38] nobody leave with
+[00:39:39] him yeah if somebody's awesome so they
+[00:39:43] leave good people leave with them every
+[00:39:45] time not one person
+[00:39:47] left that's a tell right there yes all
+[00:39:50] of us have left companies and not two
+[00:39:51] members follow us along so if you can't
+[00:39:52] do that as C chief executive when
+[00:39:54] everyone knew you that's not a good sign
+[00:39:55] for when you did there yes
+[00:39:58] you're trying you're trying to figure
+[00:39:59] out the truth of something MH who
+[00:40:01] followed did no one follow
+[00:40:04] okay if I'm if he's a good guy and I'm
+[00:40:07] the bad guy why they'll stay with
+[00:40:09] me yeah very clear exactly yeah um and a
+[00:40:14] top-notch engineer in silon Valley has
+[00:40:16] like 17 job offers they can work
+[00:40:18] anywhere yep so if if they're not don't
+[00:40:21] respect the person they working for it's
+[00:40:22] going to work somewhere else and and
+[00:40:24] frankly people could have gotten way
+[00:40:25] more money uh than than than Tesla was
+[00:40:29] offering uh you know and and with less
+[00:40:31] risk so it's like okay so they could get
+[00:40:34] they could go work at I don't know apple
+[00:40:36] or something uh and make more money with
+[00:40:40] less risk and they
+[00:40:43] didn't and Tesla today is and SpaceX are
+[00:40:47] rated the top uh places to go by
+[00:40:50] graduating
+[00:40:51] Engineers
+[00:40:53] yep why is that
+[00:40:57] yeah it's very clear
+[00:40:59] yeah
+[00:41:01] so
+[00:41:03] um yeah so like just to be crisp about
+[00:41:06] the timeline the company and the people
+[00:41:09] that uh deserve credit for the concept
+[00:41:12] of an electric sports car uh are AC
+[00:41:15] propulsion yeah and the t0 yeah um the
+[00:41:21] uh the so so they deserve a lot of
+[00:41:24] credit um art also will never mention
+[00:41:28] them so this is also a bad sign it's
+[00:41:31] like if you it's like it came from Whole
+[00:41:34] cloth in his mind I'm like no no no the
+[00:41:37] t0 yeah AC
+[00:41:39] propulsion uh Tom gaj and Al Kone made
+[00:41:43] an electric sports
+[00:41:44] car that used then you took their idea
+[00:41:47] and said let's commercialize it yes
+[00:41:50] agreed and independently I also thought
+[00:41:52] let's commercialize it and allegedly
+[00:41:54] there was some other team that also had
+[00:41:56] the idea let's commercial t0 because at
+[00:41:58] propulsion was not willing to do it
+[00:42:00] themselves
+[00:42:02] so
+[00:42:06] um but from the beginning I oversaw the
+[00:42:09] product development in fact EOD blames
+[00:42:12] me for a bunch of the issues with the
+[00:42:15] car uh saying oh like the reason it was
+[00:42:18] expensive was because Elon insisted on
+[00:42:19] all these things about the car it's like
+[00:42:21] okay so if I
+[00:42:22] was controlling the minutia of the
+[00:42:25] product design but I also had nothing to
+[00:42:26] do with it
+[00:42:28] which one is
+[00:42:29] it I can't be both I can't be blamed for
+[00:42:33] micromanaging the design of the car but
+[00:42:36] also have nothing to do with it one of
+[00:42:37] the two these AR incompatible yep um so
+[00:42:42] uh I aized over every inch of that car
+[00:42:50] um I mean the the passing to school of
+[00:42:53] design gave me an honorary degree in in
+[00:42:56] in because of my work on the
+[00:42:59] Roadster that so that's how much I had
+[00:43:01] to do with it a lot yeah
+[00:43:05] um
+[00:43:08] um the the issues the problems with
+[00:43:13] production I actually wrote a piece I
+[00:43:15] don't know if you uh like it's out there
+[00:43:18] somewhere um early history of Tesla like
+[00:43:22] a Blog piece I don't know if you've seen
+[00:43:24] it it's been a while I don't think I've
+[00:43:27] seen it yeah you can you could probably
+[00:43:29] you know drudge it up from the way back
+[00:43:31] machine or something like that it's like
+[00:43:34] the history of early history of Tesla CU
+[00:43:35] I was trying to explain like just in
+[00:43:37] detail how messed up things were um so
+[00:43:42] like like the the core product design
+[00:43:44] for the car itself was I think you know
+[00:43:47] compelling uh but the uh business
+[00:43:52] decisions around how to make it were
+[00:43:54] were which everod made were were
+[00:43:58] terrible um among the many decisions
+[00:44:00] that were insane were Outsourcing
+[00:44:03] battery production to a barbecue Factory
+[00:44:05] in ch in in
+[00:44:08] Thailand yes so I'm sure they make great
+[00:44:12] barbecues they didn't know how to make
+[00:44:15] an advanced lithium battery pack oh my
+[00:44:17] goodness found a factory though hey
+[00:44:20] Factory
+[00:44:22] yes are we even sure if it was real
+[00:44:24] right just literally yeah so
+[00:44:28] uh so uh so like the cells be made in
+[00:44:31] Japan uh then be shipped to uh Thailand
+[00:44:35] then be put into a batter pack then go
+[00:44:36] on a boat again to uh England uh to be
+[00:44:40] put into a car and then uh that car
+[00:44:43] would then go on a boat again to
+[00:44:45] California which is the initial market
+[00:44:47] and that so it was like this ended up
+[00:44:49] being like a five or six month long
+[00:44:50] supply chain so if there was any problem
+[00:44:52] with the sales of the pack you'd have
+[00:44:54] basically half a Year's worth of
+[00:44:55] inventory that have ride off and car it
+[00:44:57] didn't work which is basically what what
+[00:44:58] happened so the the Barbecue Company in
+[00:45:01] Thailand was just utterly unable to make
+[00:45:03] make a battery pack uh they' never done
+[00:45:06] anything like it
+[00:45:07] before um the
+[00:45:11] uh so much drama um Martin did not want
+[00:45:15] to change the the motor size uh or power
+[00:45:19] electronic size from the AC propulsion
+[00:45:22] uh design uh which then therefore
+[00:45:24] required uh having a two-speed
+[00:45:27] transmission
+[00:45:29] um uh there were three attempts to make
+[00:45:33] a two-speed transmission they all failed
+[00:45:36] uh and I think on the order of $10
+[00:45:38] million was spent just trying to make a
+[00:45:39] two two-speed transmission
+[00:45:43] um uh after we fired Martin I said we're
+[00:45:47] just going to change the make the motor
+[00:45:49] bigger and and the power electronics
+[00:45:51] biger and get rid of the two-speed and
+[00:45:52] just have uh direct uh you know no
+[00:45:55] transmission just a
+[00:45:58] direct drive uh need differential and an
+[00:46:01] RPM reducer basically but you no longer
+[00:46:03] have to have a clutch uh so uh we just
+[00:46:07] made the motor motor bigger Power
+[00:46:09] Electronics bigger got R transmission uh
+[00:46:11] so then now no trans no no transmission
+[00:46:14] in the normal sense of the word when we
+[00:46:15] first for the for the very first cars
+[00:46:17] that went into production they still had
+[00:46:19] that that crappy two-speed transmission
+[00:46:20] it was just stuck in first gear so it
+[00:46:23] had like top speed of like 65 miles hour
+[00:46:25] or something like that
+[00:46:29] um and and with some chance of seizing
+[00:46:33] so um so the
+[00:46:37] yeah the the body panels have been uh
+[00:46:42] outsourced to a company that was
+[00:46:44] completely unable to make uh carbon
+[00:46:47] fiber body panels um and was and and I
+[00:46:52] when I visited Lotus I asked with their
+[00:46:54] top 10 risks they said oh your body
+[00:46:56] panel supp is going to fail I'm like
+[00:46:58] excuse me and this was like a Friday I'm
+[00:46:59] like well let's go there right now it's
+[00:47:01] like Friday night um so we went to the
+[00:47:04] body panel thing and and just like the
+[00:47:06] tools were just the wrong they were all
+[00:47:08] wrong they didn't fit like
+[00:47:10] the uh any given body panel had to be
+[00:47:13] basically hand hand hand massaged like
+[00:47:16] make it in the tool and it would be
+[00:47:18] wrong the tools wrong and processor was
+[00:47:20] wrong so then you had to basically
+[00:47:22] handcraft each body panel in order to to
+[00:47:25] make it vaguely fit and even after that
+[00:47:27] uh the the the body panel gaps were so
+[00:47:30] bad with the trunk you could literally
+[00:47:31] put your thumb between the the in the
+[00:47:33] Gap there was like messed up beyond
+[00:47:36] belief um and I was like wow okay these
+[00:47:39] guys are have a 0% chance of succeeding
+[00:47:42] so then we had to transfer the body
+[00:47:43] panel uh production to this company stia
+[00:47:47] in France uh so they end up camping out
+[00:47:49] in France
+[00:47:51] uh
+[00:47:54] uh you know for quite for a few months
+[00:47:56] there there um just just building new
+[00:48:00] tools for the body we had to retool the
+[00:48:02] whole body um so SOA was capable of
+[00:48:06] making it the body but uh but they but
+[00:48:10] you still needed to retool the thing so
+[00:48:11] we had to retool the the entire car body
+[00:48:16] um so so let's see we so we changed the
+[00:48:18] the car
+[00:48:20] body the battery pack was uh I I shifted
+[00:48:23] production the battery pack to manow
+[00:48:25] park or to basically to the Bay Area
+[00:48:27] um technically San kalus I think at the
+[00:48:29] time um and SW and switch final assembly
+[00:48:33] to um the the the car dealership um on
+[00:48:38] on um El Camino the Ford car dealership
+[00:48:41] if if you watch revenge of the electric
+[00:48:43] car you can see some of these
+[00:48:45] scenes um so um instead of having Lotus
+[00:48:50] like so we'd make the battery pack
+[00:48:53] um in in San caros uh and then um and
+[00:48:57] and and also make the motor Power
+[00:48:59] Electronics so I Shi basically I
+[00:49:01] insourced production of the battery pack
+[00:49:04] the motor and the and the electronics uh
+[00:49:07] internal to Tesla so we could iterate
+[00:49:08] quickly and and actually have figure out
+[00:49:11] a design that worked so like because
+[00:49:13] design has to be safe reliable and not
+[00:49:15] cost crazy money or doesn't matter so
+[00:49:22] um yeah so
+[00:49:25] body car body motor Power
+[00:49:29] Electronics transmission to a single
+[00:49:32] speed uh almost everything got changed
+[00:49:36] in the car so we had to recapitalize the
+[00:49:39] company and it
+[00:49:41] took you know about two years before we
+[00:49:44] we could actually be in in real
+[00:49:45] production like from mid2 2007 to Mid
+[00:49:51] 2009 what was the original vision of the
+[00:49:54] Roadster though I mean you obviously had
+[00:49:56] some production issues
+[00:49:58] but you had a initial Vision once you
+[00:50:01] conceived it and I know retrospect you
+[00:50:03] said you that was a mistake to use the
+[00:50:05] rooster body because there's so many
+[00:50:06] compromises that well the Elise what you
+[00:50:08] mean yeah yeah uh yeah so
+[00:50:12] the Tesla was created with two two false
+[00:50:16] assumptions uh
+[00:50:18] the one false assumption was that you
+[00:50:21] could use the AC propulsion drivetrain
+[00:50:24] technology um and and and and that you
+[00:50:28] you could take a Lotus elase uh and
+[00:50:30] easily modify that to have an electric
+[00:50:32] power Trin so essentially stuff the uh
+[00:50:34] AC propulsion drivetrain into an elase
+[00:50:38] um have Lotus doe of the production out
+[00:50:40] supp everything that's um I think Martin
+[00:50:43] thought the peak number of employees
+[00:50:45] would be 35 like literally um wow which
+[00:50:49] this all sounds great especially coming
+[00:50:50] at it from like a mostly software
+[00:50:52] background of me at the time like great
+[00:50:54] sounds good you know um
+[00:50:57] uh unfortunately uh neither of those
+[00:51:00] panned out the the AC propulsion
+[00:51:02] technology was not viable in a
+[00:51:04] production vehicle and they used to for
+[00:51:06] example analog um analog par Electronics
+[00:51:10] you know so like
+[00:51:11] the depending upon what temperature it
+[00:51:13] was uh your the car would either work or
+[00:51:16] not work or certainly work very
+[00:51:18] differently um so we we we designed our
+[00:51:22] own digital um Power Power Electronics
+[00:51:25] and uh
+[00:51:29] so the car would be consistent in how it
+[00:51:30] performed
+[00:51:32] um and uh we ended up not using the AC
+[00:51:36] propulsion motor design uh we increased
+[00:51:39] the we changed the motor
+[00:51:42] design we ended up not using any any AC
+[00:51:44] propulsion technology at all um so
+[00:51:49] um so so so in that side of things and
+[00:51:51] then the problem with the with the Elise
+[00:51:54] is that once you add a big battery pack
+[00:51:56] to a car uh the the mass of the car is
+[00:52:00] now like 40% heavier than an elas so you
+[00:52:03] invalidate the entire structural design
+[00:52:05] of the Elise uh the bat pack wouldn't
+[00:52:08] fit so we had to stretch the the chassis
+[00:52:11] uh the mass distribution is completely
+[00:52:12] different like yeah like I said all
+[00:52:14] crash tests are invalidated um all the
+[00:52:16] structural design is invalidated uh you
+[00:52:18] have it's you have essentially
+[00:52:20] redesigning everything but but but are
+[00:52:23] still kept left with the constraints of
+[00:52:25] an Elise which is that it's a little too
+[00:52:27] small so that's an issue you couldn't
+[00:52:31] even use the um air conditioning system
+[00:52:33] because air conditioning was was belt
+[00:52:35] driven so we needed an electric air
+[00:52:37] conditioning system so we couldn't even
+[00:52:39] use that
+[00:52:42] um so in the end the the car was so like
+[00:52:46] I think the car had
+[00:52:48] maybe 4% or 5% of parts in common with
+[00:52:51] an
+[00:52:52] lease um nothing basically it was it was
+[00:52:56] wor than if we started from a clean
+[00:52:57] sheet so sort of like if you say like
+[00:52:59] you have a particular home in mind but
+[00:53:01] instead of building that home on a fresh
+[00:53:04] piece of ground you take somebody else's
+[00:53:06] home and stick what you want in it and
+[00:53:08] and then you you knock down everything
+[00:53:10] except one wall and the basement and so
+[00:53:13] you have the footprint and one wall and
+[00:53:16] and uh you know so you have to have like
+[00:53:18] that that sort
+[00:53:19] of and then you try to build your your
+[00:53:21] dream home on but but with with somebody
+[00:53:25] else's Foundation it's like not a good
+[00:53:27] idea and more expensive than if you just
+[00:53:29] did a clean sheet y
+[00:53:31] so that was is an
+[00:53:34] issue did you ever consider Midway
+[00:53:36] through it dropping the body entirely or
+[00:53:38] was it just a capital sunk in already
+[00:53:40] too late of an option what do you mean
+[00:53:43] by dropping the body I mean not using
+[00:53:45] the Elise at all and uh yeah I I was
+[00:53:49] like um at one point I tolded to JV I
+[00:53:51] said I think we should not have we
+[00:53:52] should not work with lotus and we should
+[00:53:53] do this bu this directly and JV was like
+[00:53:56] well you know we still we had no clue
+[00:53:58] how to build a car it's s like we just
+[00:53:59] came out this from how do you build a
+[00:54:01] car no idea you know how to learn so in
+[00:54:03] theory
+[00:54:05] uh a car company that's been around for
+[00:54:07] like 50 years should be you should have
+[00:54:09] a lot of expertise uh more so than
+[00:54:11] someone who's never never built a car um
+[00:54:17] so
+[00:54:18] yeah
+[00:54:21] um but
+[00:54:24] um because uh Lotus would have periodic
+[00:54:28] financial difficulties uh when they
+[00:54:30] would have financial difficulties they
+[00:54:31] would then uh turn the screws on Tesla
+[00:54:35] so uh because I if you're if you're at
+[00:54:38] Lotus and you have a choice of uh let's
+[00:54:41] go raise money or let's extract money
+[00:54:43] from Tesla or they will extract money
+[00:54:46] from Tesla so they they they extract a
+[00:54:49] lot of money from from from Tesla and we
+[00:54:51] didn't have any choice uh it was not
+[00:54:53] possible to to actually we had no
+[00:54:55] optionality we're we're stuck the only
+[00:54:57] way to make the car was with with with
+[00:54:59] lotus so when they increase the price on
+[00:55:00] us there's nothing we could
+[00:55:02] do
+[00:55:04] um but anyway after after all that we
+[00:55:07] managed to get the the cost of the car
+[00:55:11] down
+[00:55:12] from where it was previously headed of
+[00:55:15] 180,000 to I think around 880,000
+[00:55:20] [Music]
+[00:55:22] um by roughly mid 2009
+[00:55:26] but by redesigning and and and re
+[00:55:29] redoing basically the entire supply
+[00:55:31] chain you know with very few exceptions
+[00:55:35] um it was like insanely hard uh to to
+[00:55:37] get the cost of the car uh below the
+[00:55:40] price and then we and then we increased
+[00:55:41] the price of the car um and I think we
+[00:55:45] had like an average selling price of
+[00:55:46] around maybe 110
+[00:55:49] 120 so we're able to get to like 25%
+[00:55:52] margins but with with great
+[00:55:55] difficulty um
+[00:55:58] like hellishly
+[00:56:01] difficult no one can say Teslas aren't
+[00:56:03] apprec aren't appreciating assets the
+[00:56:05] roadsters are still going for more than
+[00:56:06] that today so yeah yeah yeah I know
+[00:56:09] still quite a collection of original
+[00:56:10] roadsters out there I was lucky enough
+[00:56:12] to get my hands on 523 okay yeah
+[00:56:14] beautiful the electric blue the one you
+[00:56:16] guys uh repainted for the owner because
+[00:56:18] uh yeah you told me the story about that
+[00:56:20] I guess he backed into a parking lot
+[00:56:21] somewhere somebody hit him and you guys
+[00:56:24] repainted it for him it's beautiful it's
+[00:56:25] beautiful
+[00:56:26] yeah I had some pretty wild colors in
+[00:56:28] the beginning um because the cars were
+[00:56:30] just being made like one at a time so it
+[00:56:32] was you could you could make them be all
+[00:56:36] kinds of interesting colors we had a
+[00:56:38] pretty vibrant orange color at one point
+[00:56:41] um
+[00:56:43] so but like the the production was
+[00:56:45] excruciatingly difficult in the
+[00:56:46] beginning
+[00:56:48] um from the first from the first set of
+[00:56:51] tooling from that company that went
+[00:56:53] bankrupt that uh was completely unable
+[00:56:56] to make car bodies uh we were able to
+[00:56:59] extract five car bodies uh and each of
+[00:57:02] those car bodies required extensive uh
+[00:57:04] hand modification in order to and and
+[00:57:06] still look like like trash basically
+[00:57:08] with giant bodyy gaps and stuff um but
+[00:57:12] there was only five literally five yeah
+[00:57:15] so the first uh five production
+[00:57:18] roadsters uh have the body from the old
+[00:57:23] tooling
+[00:57:24] um and then uh then we're able to
+[00:57:29] transition to the Sor uh it's s t Ira
+[00:57:34] French company um switch to switch to
+[00:57:38] bodies made with their
+[00:57:39] tooling
+[00:57:41] um and they they did they did a great
+[00:57:43] job
+[00:57:44] actually
+[00:57:46] um but I remember having to talk the the
+[00:57:49] production team there um into
+[00:57:53] working a lot more than they would
+[00:57:56] usually work I mean not that they're
+[00:57:58] like they have a good work ethic but
+[00:58:00] they you know they they're like I was
+[00:58:03] like can you guys please not go on
+[00:58:05] vacation because otherwise our company's
+[00:58:08] going to die essentially with the my
+[00:58:10] speech in a nutshell yeah and they were
+[00:58:12] actually like okay we'll stay and we'll
+[00:58:14] make the car buddies i i i they were
+[00:58:18] kind enough to actually postpone their
+[00:58:20] vacations and stuff and uh and put in
+[00:58:23] some serious hours to make the car
+[00:58:25] buddies for Tesla that's what it's
+[00:58:27] really cool it's
+[00:58:29] cool so
+[00:58:32] um and this guy Tim Watkins deserves a
+[00:58:35] lot of credit as well Tim Watkins was
+[00:58:37] essential to making that work JB's role
+[00:58:40] was critical he made it so that the
+[00:58:42] batteries didn't catch on fire anymore
+[00:58:44] right yeah uh J JB was like uh I mean JB
+[00:58:50] um Andrew
+[00:58:52] Vino um
+[00:58:56] I mean there there were a number of
+[00:58:58] really top-n people there that solved
+[00:59:01] the the problem I mean it's not that the
+[00:59:03] batteries wouldn't catch on fire it's
+[00:59:05] just that if if a cell caught on fire
+[00:59:06] that it would not going to Thermal run
+[00:59:07] away and Domino the other cells MH
+[00:59:11] so
+[00:59:14] the I mean in order for that to happen
+[00:59:17] we had to have liquid cooling to keep
+[00:59:19] the the cell temperatures even um and
+[00:59:22] then you've got a tough uh problem where
+[00:59:24] you want something to be thermally
+[00:59:26] conductive but electrically isolated so
+[00:59:29] you know this is these things normally
+[00:59:30] go together if something is thermally
+[00:59:33] conductive it is it is uh electrically
+[00:59:36] conductive as well um so um try to try
+[00:59:40] to find some
+[00:59:41] material uh to um still cool cool or
+[00:59:45] heat the batteries of the cells uh but
+[00:59:48] but not create a short it was quite
+[00:59:51] difficult and then the the the early
+[00:59:53] packs for the rosta were um we did did
+[00:59:56] not have we did not scallop the we did
+[00:59:59] not have away the
+[01:00:01] um um cooling tube so we just had a a
+[01:00:04] straight A straight cooling tube so that
+[01:00:06] it there wasn't much contact UM between
+[01:00:09] the cells and the the cooling
+[01:00:12] tube um anyway we made it work basically
+[01:00:16] um without too much without too much
+[01:00:18] drama um but it required a lot of
+[01:00:20] iteration and making the battery packs
+[01:00:22] ourselves uh in the Bay Area the most
+[01:00:26] expensive place to build a
+[01:00:29] car I feel like a very expensive place
+[01:00:32] to build a car but but actually uh
+[01:00:34] cheaper than if than if if it's
+[01:00:36] outsourced to a Barbecue Company in
+[01:00:38] Thailand because it actually
+[01:00:41] works um
+[01:00:44] so you know our initial designs for the
+[01:00:46] pack were uh extremely wrong because it
+[01:00:50] it also has to be okay you know in an
+[01:00:52] accident um
+[01:00:56] so you know it can't just you know it's
+[01:00:59] going to R Us to to an accident as well
+[01:01:03] so during any point of those early days
+[01:01:06] like was obviously bankruptcy was kind
+[01:01:08] of almost knocking at the door was there
+[01:01:11] bankruptcy actually technically was
+[01:01:13] knocking at the door
+[01:01:14] um uh in like 2008 but not before then
+[01:01:18] okay cuz I I had like money from PayPal
+[01:01:21] um it's just when I started running out
+[01:01:22] of money from PayPal and the markets
+[01:01:24] went to you know went went into a
+[01:01:26] recession that's when bankruptcy was
+[01:01:28] knocking at the door so it was more like
+[01:01:30] um you know in 2008 okay from 2008
+[01:01:36] through
+[01:01:37] 2012 bankruptcy was knocking at the door
+[01:01:40] okay
+[01:01:41] frequently just standing out there
+[01:01:44] looking hopefully it wasn't a speciic
+[01:01:46] person still here but still
+[01:01:51] there did it cross your mind at any
+[01:01:54] point to just say this is this is a bad
+[01:01:56] idea I just need to I don't know focus
+[01:01:58] on SpaceX or something else um during
+[01:02:02] those even four
+[01:02:03] years yeah I I had I mean one of the
+[01:02:06] toughest decisions I ever had to make
+[01:02:07] was in 2008 um I could I think I had
+[01:02:14] like $40 million left or something from
+[01:02:18] uh from the PayPal sale and I I could
+[01:02:22] have was like okay I can put at all on
+[01:02:25] SpaceX
+[01:02:26] or all on Tesla and increase probability
+[01:02:29] either one would survive or I could
+[01:02:33] split split it you know and and then
+[01:02:35] it's like but to me the the K the
+[01:02:37] company's like kids you know it's like
+[01:02:39] it's not like just a company to me so
+[01:02:41] it's sort of like if you got two kids
+[01:02:43] like how could you really say okay we're
+[01:02:44] going to let one kid starve you know so
+[01:02:47] I was like I could bring myself to say
+[01:02:48] I'm going to you know definitely that
+[01:02:52] company's going to die or definitely
+[01:02:53] that company going to die so I ended up
+[01:02:54] splitting the money and and and give the
+[01:02:57] $20 million to Taz and 20 million to
+[01:03:00] space ax um but that could have ended up
+[01:03:03] being a super dumb decision and both
+[01:03:05] companies could have gone bankrupt as a
+[01:03:06] result so at the time I was like man
+[01:03:08] this would really suck if if if both
+[01:03:11] companies go bankrupt because I I kind
+[01:03:12] of split split the meal you know
+[01:03:16] y
+[01:03:17] um but then un fortunately the fourth
+[01:03:20] launch of SpaceX reached over it and if
+[01:03:23] that fourth launch had failed SpaceX
+[01:03:24] would be dead for sure
+[01:03:27] um and then we closed the Tesla
+[01:03:29] financing
+[01:03:30] round on the last hour of the last day
+[01:03:33] that it was possible which was 6: p.m.
+[01:03:36] December 24th
+[01:03:38] 2008 um crazy crazy um and the only
+[01:03:42] people who would invest were a subset of
+[01:03:45] the existing investors in in Tesla so
+[01:03:50] um you know so that was um
+[01:03:55] you know
+[01:03:57] uh
+[01:03:59] uh yeah I was like Antonio graus R eron
+[01:04:03] price Steve
+[01:04:06] dson I think there might have been a few
+[01:04:08] others but but those are the three main
+[01:04:09] ones and
+[01:04:14] um and then Vantage Point who's the
+[01:04:16] worst venture capitalist on the face of
+[01:04:18] this Earth uh and Alan solman who's a
+[01:04:22] second only to Martin EAD in douchebag
+[01:04:24] douchebaggery
+[01:04:27] he actually wanted Tesla to go bankrupt
+[01:04:29] so he could recap the company and and
+[01:04:32] literally that was his strategy what a
+[01:04:34] douche um anyway they refused to um
+[01:04:38] allow an like we tried to do an equity
+[01:04:40] round they blocked the equity round so
+[01:04:42] then the only way to get the the because
+[01:04:45] they salsman and banish Point little
+[01:04:47] known fact want to deliberately tried to
+[01:04:50] bankrupt Tesla in December of 2008 uh
+[01:04:53] with a nefarious plan being it would go
+[01:04:56] bankrupt then they would zero out the
+[01:04:58] equity and recap the company and own the
+[01:05:00] whole thing's on pretty evil yeah yeah
+[01:05:03] but evil but also dumb um because like
+[01:05:05] once a call company goes bankrupt you
+[01:05:07] lose confidence with the customers and
+[01:05:09] like people like well this company went
+[01:05:10] bankrupt and the suppliers are like uh
+[01:05:12] this company went bankrupt I don't want
+[01:05:13] to sply you parts so so they're NE
+[01:05:15] nefarious plot we failed um but anyway
+[01:05:20] so but but the the the good investors
+[01:05:24] agreed to match
+[01:05:26] uh the the 20 my 20 million so then
+[01:05:28] Tesla would have $40 million MH so
+[01:05:31] that's but but because it could not be
+[01:05:34] an equity round it had to be a debt
+[01:05:35] convertible to equity round because bage
+[01:05:37] Point had blocking rights on the equity
+[01:05:39] yeah this is like some you
+[01:05:41] know deep lore basically
+[01:05:45] um and that that that actually was very
+[01:05:48] difficult for the Venture investors
+[01:05:49] because their uh the TBS of their of the
+[01:05:52] investment was like they were not dead
+[01:05:55] investors their Equity investors so they
+[01:05:57] have to actually go to their to their
+[01:05:59] Partners to get an exception for Tesla
+[01:06:01] to say this is debt convertible to
+[01:06:03] equity and and only is convertible to
+[01:06:05] equity if at some point in the future
+[01:06:06] Vantage Point agrees that to to allow it
+[01:06:10] it's a tough position to invest in yes
+[01:06:12] especially while General Motors and and
+[01:06:15] Chrysler are going
+[01:06:17] bankrupt so during Rec um yeah I mean I
+[01:06:20] try I try to raise outside money uh and
+[01:06:23] people were angry that I even asked like
+[01:06:25] when I when a cold try to raise money
+[01:06:27] for for Tesla um like we got zero
+[01:06:30] outside money in that December
+[01:06:36] 2008 because it's like so many companies
+[01:06:38] were going bankrupt that they were just
+[01:06:40] was like they were like hell no so we
+[01:06:42] managed to get this like squeak through
+[01:06:44] with a convertible debt
+[01:06:47] round
+[01:06:48] um that that basically just matched the
+[01:06:51] money that that I that I put in which is
+[01:06:53] everything I had and then I had like
+[01:06:54] zero money and I don't even have a house
+[01:06:56] or anything at the end of 2008 my
+[01:06:58] ex-wife had the
+[01:07:00] house so yeah so I had
+[01:07:02] like basically nothing and then I
+[01:07:05] actually had to borrow money to pay rent
+[01:07:07] and stuff cuz
+[01:07:08] like literally like zero I if yeah zero
+[01:07:14] so uh and that that that just got us six
+[01:07:17] months basically

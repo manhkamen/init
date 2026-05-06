@@ -1,0 +1,694 @@
+[00:00:00] [Music]
+[00:00:06] [Applause]
+[00:00:09] Ladies and gentlemen, hello. It is an
+[00:00:11] absolute pleasure to be with you in
+[00:00:13] person this afternoon. And hello to all
+[00:00:16] those watching online, too. Thank you
+[00:00:18] very much for joining us. My name is
+[00:00:21] Justin Springham. I'm the publisher of
+[00:00:23] Mobile World Live and I will be your
+[00:00:25] moderator for this very special keynote
+[00:00:28] session. This is the big one, right? The
+[00:00:31] keynote we've all been waiting for at
+[00:00:33] MWC 21.
+[00:00:37] This year seems particularly appropriate
+[00:00:39] to welcome Elon Musk to MWC.
+[00:00:43] After defying all conventions in the
+[00:00:45] banking industry, the auto industry, and
+[00:00:49] the aerospace industry, markets many
+[00:00:51] felt were impossible to transform. Elon
+[00:00:55] Musk now plans to do the same with the
+[00:00:58] connectivity industry.
+[00:01:01] SpaceX is leveraging its experience in
+[00:01:04] building rockets and spacecraft,
+[00:01:07] aiming to launch the world's most
+[00:01:09] advanced broadband internet system.
+[00:01:13] Please welcome Mr. Elon Musk.
+[00:01:16] [Applause]
+[00:01:19] [Music]
+[00:01:22] [Applause]
+[00:01:22] [Music]
+[00:01:24] [Applause]
+[00:01:27] Elon, it is great to see you. a very
+[00:01:30] warm welcome from MWC. Um, I would also
+[00:01:34] like to start Elon by wishing you on
+[00:01:36] behalf of everyone here at MWC a very
+[00:01:39] happy and somewhat belated 50th
+[00:01:42] birthday. Happy birthday for yesterday,
+[00:01:44] Elon.
+[00:01:46] Thank you,
+[00:01:52] Elon. We're going to talk obviously
+[00:01:55] about SpaceX, the wider goals for
+[00:01:58] SpaceX. Um before we do that I would
+[00:02:01] love to focus on Starlink. Now this is a
+[00:02:05] plan to provide the world with broadband
+[00:02:08] coverage via satellites. You've actually
+[00:02:11] compared the project to rebuilding the
+[00:02:14] internet in space.
+[00:02:17] You're an engineer at heart, Elon. Um
+[00:02:20] what has driven you to take on this new
+[00:02:23] challenge?
+[00:02:25] Well, uh there's a need for connectivity
+[00:02:29] in places that don't have it right now
+[00:02:32] or or where it is the connectivity is
+[00:02:35] very limited or or very expensive. Um
+[00:02:38] but uh it may possible like I said
+[00:02:40] that's simply not available. So, uh you
+[00:02:44] can think of Starlink as filling in the
+[00:02:46] gaps between uh 5G uh and uh fiber and
+[00:02:52] um and really getting to the parts of
+[00:02:54] the world that are the the hardest to
+[00:02:56] reach the the the most difficult to
+[00:02:58] reach uh 3% possibly 5%. Um, and I think
+[00:03:03] it it really quite nicely complements uh
+[00:03:06] fiber and uh and 5G.
+[00:03:10] Nice complimentary technologies you're
+[00:03:12] saying and and we'll dive a bit deeper
+[00:03:14] into that. Um, Elon, first of all, give
+[00:03:16] us a bit of a kind of high level
+[00:03:18] overview as to how far progressed
+[00:03:21] Starlink actually is. What have you done
+[00:03:23] so far?
+[00:03:26] So uh we we've launched and and now have
+[00:03:28] active over 1500 satellites. Um let's
+[00:03:34] see the I mean there are a few
+[00:03:35] interesting stats. The the combined
+[00:03:37] power of all the satellites is over 5
+[00:03:39] megawws. So they're um there's over 5
+[00:03:43] megawatt of solar from all the
+[00:03:45] satellites combined. Uh it's um they're
+[00:03:48] capable of outputting about 30 terabytes
+[00:03:50] per second of data. And um
+[00:03:55] yeah and and starting in
+[00:03:59] uh actually next month um almost next
+[00:04:03] month I should say starting in August uh
+[00:04:05] we should have uh global connectivity uh
+[00:04:09] for everywhere except the poles. Um I
+[00:04:12] know as I said it's it's it's really
+[00:04:15] meant for
+[00:04:17] sparsely populated uh regions. Um so the
+[00:04:22] uh because our our spot size talking in
+[00:04:24] terms of cellular is uh quite big. So
+[00:04:28] we're well suited to low to medium
+[00:04:30] density areas but but not to high
+[00:04:32] density areas. Uh in the high density
+[00:04:35] areas we will be able to serve a limited
+[00:04:38] number of customers. Um
+[00:04:42] and um but it is operational. Um, we
+[00:04:45] recently passed the strategically
+[00:04:48] notable number of 69,420
+[00:04:51] active uh users. Um, and we are, I
+[00:04:56] think, on our way to having a few
+[00:04:58] hundred,000 uh users, possibly
+[00:05:02] uh over 500,000 users um within uh 12
+[00:05:07] months. So,
+[00:05:11] so it's growing it's growing rapidly.
+[00:05:13] Um, and we're continuing to innovate the
+[00:05:16] user terminal and the uh the satellite
+[00:05:20] and the uh the ground stations and uh
+[00:05:24] sort of gateways and points of presence.
+[00:05:26] Um, I think we're operational now in
+[00:05:29] about 12 countries uh and uh more being
+[00:05:33] added every month. So, it's like said
+[00:05:36] it's it's a nice complent uh to fiber
+[00:05:39] and to 5G. Um and uh it's it's also uh
+[00:05:45] although we can't talk about about those
+[00:05:46] deals uh today because our partners not
+[00:05:49] ready to announce them. I think it can
+[00:05:50] be quite useful to a lot of Telos for uh
+[00:05:55] data back hole. Uh so uh just you know
+[00:05:58] if you people have cellular stations in
+[00:06:00] remote regions uh just uh using Starlink
+[00:06:04] for data back hole to their network uh
+[00:06:07] can be a very cost effective way of of
+[00:06:10] doing data back hole. Um and then uh
+[00:06:14] notably for solving relative to say
+[00:06:17] other satellite communication systems uh
+[00:06:20] we are at around 500 kilometers uh
+[00:06:23] whereas uh the geost synchronous
+[00:06:26] satellites are around 36,000 kilometers.
+[00:06:29] So latency for a link system is uh
+[00:06:33] similar to latency for groundbased uh
+[00:06:36] fiber and uh and 5G. So we're expecting
+[00:06:40] to get latency down under 20
+[00:06:44] milliseconds. Um so you can still do it
+[00:06:48] feels very fast like there's no lag and
+[00:06:50] you can you can play for example
+[00:06:52] competitive video games on a stalling
+[00:06:53] system.
+[00:06:56] This is a a very tough market Elon. I
+[00:06:59] mean if we look back over the last
+[00:07:00] couple of decades it has been littered
+[00:07:03] with failure. We go as far back as the
+[00:07:05] 1990s. there are big names um that no
+[00:07:09] longer are with us. They've they've
+[00:07:11] tried to make satellite broadband a
+[00:07:12] success. You've also now got strong
+[00:07:15] competition um the likes of uh of Amazon
+[00:07:18] and one web are also now attempting to
+[00:07:20] launch new satellite broadband projects.
+[00:07:23] Um what is it that that makes Starling
+[00:07:26] different to to what's gone on in
+[00:07:29] decades beforehand, Elon, but also with
+[00:07:32] your new competition as well? What is it
+[00:07:33] that that makes you different?
+[00:07:36] Yes. Um well, when I gave a talk a few
+[00:07:39] years ago about Starlink, I was asked
+[00:07:42] what's my goal for Starink? And I said,
+[00:07:45] well, our goal is not to go bankrupt. Uh
+[00:07:51] because, uh every, as you point out, um
+[00:07:53] every other low Earth orbit
+[00:07:56] communications constellation, um ever
+[00:07:59] done has gone bankrupt. uh now some of
+[00:08:01] them have emerged from bankruptcy um but
+[00:08:04] but the let's just say the original
+[00:08:06] owners uh did not benefit from from
+[00:08:09] those constellations. So um yeah,
+[00:08:12] they've either e either gone bankrupt
+[00:08:14] after
+[00:08:15] most of them went bankrupt before even
+[00:08:17] deploying their constellation fully and
+[00:08:20] and even the ones that did deploy their
+[00:08:22] their constellation they they still went
+[00:08:24] bankrupt you know um
+[00:08:27] they did subsequently emerge from
+[00:08:29] bankruptcy but you know um and obviously
+[00:08:32] companies like andcom are are doing
+[00:08:34] reasonably well today but but not for
+[00:08:37] the original owners Um so step number
+[00:08:41] one for Sonic is don't go bankrupt. That
+[00:08:44] is uh
+[00:08:46] and you know then we can if we succeed
+[00:08:50] in not going bankrupt then then that'll
+[00:08:52] be great and we can move on from there.
+[00:08:55] Um
+[00:08:56] uh but I do think from from a technology
+[00:08:59] standpoint, Starink is uh quite
+[00:09:02] different from prior Leo constellations
+[00:09:05] in that the technology that we're
+[00:09:07] deploying is is very advanced. Uh what
+[00:09:11] happens often with space-based
+[00:09:13] technology um somewhat ironically is
+[00:09:16] that it tends to be um uh older
+[00:09:20] technology than exists on the ground. Uh
+[00:09:22] so people companies generally have been
+[00:09:25] very conservative. So they they've said
+[00:09:27] well we want to we want technology
+[00:09:29] that's proven to work on the ground and
+[00:09:30] then we have to test it very you know
+[00:09:32] for for years to make sure it's going to
+[00:09:34] work in the vacuum of space with you
+[00:09:36] know a higher radiation load and that
+[00:09:38] kind of thing. And uh and so the
+[00:09:40] technology that's generally been
+[00:09:42] launched into orbit has been uh older
+[00:09:44] technology. And we took the opposite
+[00:09:46] approach and said we're going to make
+[00:09:48] technology that is uh in some ways at
+[00:09:51] least uh more advanced than what is on
+[00:09:53] the ground and we're just going to take
+[00:09:55] a chance and and uh so we have uh what
+[00:10:00] probably fair to say are the most
+[00:10:02] sophisticated the most advanced phase
+[00:10:04] ray uh technologies that uh vessel
+[00:10:10] knowledge no one has not even it's not
+[00:10:12] not even at sort of military level uh
+[00:10:14] has this level of sophistication with
+[00:10:16] phase ray technology. Um and um
+[00:10:21] I think that that's that's sort of quite
+[00:10:23] important for uh a fastmoving Leo
+[00:10:25] constellation because the the terminal
+[00:10:29] um which is user terminal that's also
+[00:10:31] phase array uh and the terminal on these
+[00:10:36] the terminal on the satellite the antenn
+[00:10:38] on the satellite they're both phased
+[00:10:40] array so you can switch uh from one
+[00:10:43] satellite that's moving rapidly overhead
+[00:10:45] to another one uh and do So uh at the
+[00:10:48] microscond level so there's no you can't
+[00:10:51] tell uh as as the system is switching
+[00:10:54] over from one satellite to another um
+[00:10:56] there's no um change in latency or data
+[00:10:59] from one satellite to another
+[00:11:02] um and a single satellite uh can um
+[00:11:06] illuminate many different uh user cell
+[00:11:10] spots on the ground. Uh so and it's and
+[00:11:13] it's and it's a digital phase array
+[00:11:15] system. So uh we can continue to program
+[00:11:18] or and reprogram the system uh to
+[00:11:21] greater efficiency because it is
+[00:11:23] digital. So like to the best of my
+[00:11:27] knowledge is the most advanced phase
+[00:11:28] rate system in the world. Um so that's
+[00:11:30] pretty cool.
+[00:11:32] Um
+[00:11:33] we also um have a advantage of a of a
+[00:11:38] launch system that is capable of a very
+[00:11:40] high launch rate and capable of putting
+[00:11:42] a lot of mass to orbit. Um I believe um
+[00:11:46] last year SpaceX uh delivered about 2/3
+[00:11:50] of all uh payload to orbit and uh this
+[00:11:56] year we may deliver closer to 80% of all
+[00:12:00] payload to orbit of Earth
+[00:12:02] just with that you know so and of the
+[00:12:05] remaining of course remains to be seen
+[00:12:07] for this year if we actually put close
+[00:12:09] to 80% of all payload to orbit but uh
+[00:12:12] all the remaining let's say roughly 20%
+[00:12:15] about 12% would be China or thereabouts
+[00:12:18] and then 8% is everyone else. So the
+[00:12:22] share to share mass to orbit capability
+[00:12:24] of the Falcon 9 rocket is uh because it
+[00:12:27] is a re reusable booster and the the
+[00:12:30] fairing is reusable. So we only have to
+[00:12:32] make the upper stage uh is um that that
+[00:12:35] has never existed before. Um and the and
+[00:12:38] the cost of mass orbit also is the
+[00:12:42] lowest it has ever been. So
+[00:12:45] uh because of reusability. So this is uh
+[00:12:48] the two well work together quite well.
+[00:12:50] Um
+[00:12:52] but it has been quite an adventure
+[00:12:53] learning
+[00:12:55] how how to make these advanced
+[00:12:57] satellites and learning how to make so
+[00:12:59] many of them and and the use terminal
+[00:13:01] and the gateway. Um, now the satellites
+[00:13:05] for example use SpaceX developed a
+[00:13:07] krypton whole effect thruster um or
+[00:13:10] which basically shoots out high-speed
+[00:13:11] ions of krypton. It's kind of cool.
+[00:13:14] Superman, watch out for our satellites.
+[00:13:16] Don't go close to them.
+[00:13:19] It's all that krypton um and um just in
+[00:13:24] general it's quite a clever satellite.
+[00:13:26] And then we're getting close to
+[00:13:29] launching satellite 1.5 which has laser
+[00:13:32] inter satellite links. Um and that'll be
+[00:13:35] used for especially for uh continuous
+[00:13:38] connectivity over the uh Arctic and
+[00:13:41] Antarctic regions uh or basically the
+[00:13:44] put for the high polar regions high the
+[00:13:45] high latitude regions. Um
+[00:13:49] and then next year we'll start launching
+[00:13:51] a version two of our satellite which
+[00:13:53] which will be significantly more
+[00:13:55] capable. Um and then that you know all
+[00:13:58] satellites from 1.5 onwards will have
+[00:13:59] inter satellite links. Um and then we'll
+[00:14:03] start getting our gateways and our uh
+[00:14:05] points of presence to really directly to
+[00:14:09] the um the major server centers. Uh so
+[00:14:16] the data goes directly from user
+[00:14:18] terminal from user terminal directly to
+[00:14:22] the server center. So if somebody's
+[00:14:24] using uh YouTube or Netflix or uh what
+[00:14:29] you know Google search or Xbox whatever
+[00:14:33] the case may be uh Amazon Web Services
+[00:14:36] that the the that the data flows in the
+[00:14:39] shortest path possible thus minimizing
+[00:14:41] latency in general. Um so even if even
+[00:14:46] if big chunks of the internet uh go down
+[00:14:49] um then you still have connectivity.
+[00:14:52] Um so I'm pretty excited about the
+[00:14:54] future. It's looking you know we're get
+[00:14:56] over confidence but it's looking quite
+[00:14:58] positive. Uh and like I said just it
+[00:15:01] serves as a as a great natural
+[00:15:03] compliment to um uh major telco fiber
+[00:15:08] and 5G.
+[00:15:10] Talk us through if you can Elon the the
+[00:15:13] finances of this huge project. How much
+[00:15:16] you investing in Starling? How much are
+[00:15:18] you prepared to invest in Starink?
+[00:15:24] Well, um I think
+[00:15:28] it depends on how you count investment.
+[00:15:30] uh is sort of what's the total I mean
+[00:15:33] one way to count investment is like
+[00:15:35] what's the total amount of money
+[00:15:36] invested before Starink becomes positive
+[00:15:39] cash flow um and um and then do you how
+[00:15:43] much of that do you include Falcon 9 and
+[00:15:45] everything we've done there um you know
+[00:15:49] I think probably before we go to you
+[00:15:52] know fully positive cash flow it it
+[00:15:54] might be it'll be at least $5 billion uh
+[00:15:58] and maybe
+[00:16:01] as much as 10.
+[00:16:03] Um so it's quite a lot.
+[00:16:05] Um
+[00:16:07] and um
+[00:16:10] yeah and then if you say like well how
+[00:16:12] much are we going to invest even after
+[00:16:13] it goes positive cash flow? I think
+[00:16:15] we'll have to keep investing a great
+[00:16:17] deal after that point in order to not be
+[00:16:20] made um irrelevant by continued
+[00:16:24] improvements in uh cellular and and
+[00:16:27] continued extensions in cellular um or
+[00:16:30] or or
+[00:16:32] lower cost uh geocynchronous satellites
+[00:16:35] uh which you know geocynchronous
+[00:16:37] satellites can offer can serve a a a
+[00:16:40] very large swath of territory but but
+[00:16:43] the total bandwidth they can serve is is
+[00:16:45] not that great and the uh latency is
+[00:16:48] high. Uh but still we we need to be able
+[00:16:50] to offer our service at a you know a
+[00:16:54] comparable or ideally lower rate than um
+[00:16:57] GTO uh satellite connectivity.
+[00:17:01] Um so anyway so it's basically to total
+[00:17:04] investment probably is like at least
+[00:17:06] five maybe 10 billion dollars and then
+[00:17:11] um over time it's going to be made
+[00:17:14] businesses. So multiple of that I don't
+[00:17:16] know could be took 20 or 30 billion over
+[00:17:19] time. So it's a lot basically.
+[00:17:22] Yeah, it is a lot of money. Um and to
+[00:17:24] recoup that investment obviously you
+[00:17:26] need customers and subscribers. Elon
+[00:17:28] just in terms of the basics to get
+[00:17:30] myself set up with a Starlink dish. Um
+[00:17:34] and that's going to cost me what about
+[00:17:35] $500
+[00:17:37] approximately to get started. And then
+[00:17:39] how much would the monthly subscriptions
+[00:17:41] be?
+[00:17:43] Yeah. Um, so right now we're we're
+[00:17:46] basically it's like $500 to uh order a
+[00:17:49] dish and it's basically it's about the
+[00:17:51] same it's the same price everywhere in
+[00:17:53] the world. The only thing that changes
+[00:17:55] from one country the next is are our
+[00:17:57] taxes and import duties. So it's it's
+[00:17:59] the same price everywhere in the world.
+[00:18:01] Um what we're taking into account sort
+[00:18:04] of exchange rates and import duties and
+[00:18:07] transport and stuff like that. So um and
+[00:18:09] then it's $100 a month. Um
+[00:18:13] and um I mean to be totally frank, we
+[00:18:15] are losing money on that terminal right
+[00:18:17] now. Uh that terminal costs us more than
+[00:18:20] more than $1,000. Um so we obviously are
+[00:18:23] subsidizing the cost of the terminal. Um
+[00:18:26] now we are working on um sort of next
+[00:18:30] generation terminals that uh are you
+[00:18:34] know provide the same level of
+[00:18:35] capability roughly the same level of
+[00:18:37] capability but but costs a lot less. So
+[00:18:40] that's one area of development for us.
+[00:18:42] Um because obviously selling terminals
+[00:18:45] for half price is not super compelling
+[00:18:47] at scale. Um you know millions of that
+[00:18:51] you know it's that's tricky. Um and uh
+[00:18:54] and over time we would like to reduce
+[00:18:56] the terminal cost from $500 to I don't
+[00:18:59] know $300 or 250 or something like that.
+[00:19:03] Um we do make it very easy to install.
+[00:19:06] So we because we we knew that uh our
+[00:19:10] customers would be all over the world in
+[00:19:12] you know often in very remote regions uh
+[00:19:15] and regions where you some people have
+[00:19:18] like installed their stalling terminal
+[00:19:20] on a cabin high up in a mountain that
+[00:19:22] doesn't even have electricity or just
+[00:19:24] got it's got like a you know solar
+[00:19:26] panels or something. It's like not even
+[00:19:27] connected to the grid. So, so it's like,
+[00:19:30] okay, well, we we'll have like a a
+[00:19:32] mountain climber or something to go
+[00:19:34] install that if it needed um a
+[00:19:37] professional installer. So, we designed
+[00:19:38] our system to not need a professional
+[00:19:40] installer. Uh you can literally take it
+[00:19:42] out of the box uh and uh within less
+[00:19:45] than 5 minutes uh have connectivity. So
+[00:19:49] the instructions are just two
+[00:19:52] instructions um which is point the
+[00:19:56] terminal uh at the sky and plug it in.
+[00:20:00] Uh and you can do that in either order.
+[00:20:03] It doesn't matter. You can plug it in
+[00:20:05] and then point it at the sky or point at
+[00:20:08] the sky and then plug it in. It's like
+[00:20:10] pretty easy. So anyone can basically
+[00:20:12] make it work and um and does not need a
+[00:20:16] professional installer.
+[00:20:18] Elon, you've got the mobile industry
+[00:20:20] watching you today. I'm sure when they
+[00:20:22] came into the room or they started
+[00:20:24] watching this uh wondering what impact
+[00:20:27] Starlink was going to have on on their
+[00:20:29] business, they probably wondered whether
+[00:20:31] you were friend or foe. Um you started
+[00:20:34] off by talking about how you can be
+[00:20:36] complimentary to 5G and and fiber as
+[00:20:40] well. Wondering if you see any potential
+[00:20:43] for partnerships with mobile operators.
+[00:20:46] Is this something you can work together
+[00:20:48] on?
+[00:20:50] Yeah, in fact um so we have uh two two
+[00:20:55] quite significant partnerships that um
+[00:20:59] with
+[00:21:00] major country telos um that uh I'd like
+[00:21:04] to be able to announce now but but we
+[00:21:06] obviously we refer to our partners to
+[00:21:08] make any announcement um and we are in
+[00:21:11] discussions with a number of other telos
+[00:21:13] uh also to uh provide uh uh
+[00:21:19] stalling access. Um, and this, like I
+[00:21:22] said, this is this is helpful for for
+[00:21:24] backhole. Um, it's also helpful because
+[00:21:26] a number of countries uh have
+[00:21:28] requirements that in order to receive a
+[00:21:31] 5G license that you have to provide um
+[00:21:35] rural coverage um and and in a lot of
+[00:21:38] cases the rural coverage just it does
+[00:21:40] not make it's very difficult to make the
+[00:21:41] economic case for for rural coverage. Uh
+[00:21:45] so effectively the the urban customers
+[00:21:49] end up uh subsidizing the rural
+[00:21:51] customers sometimes to a very very
+[00:21:54] significant degree. U and so in some
+[00:21:56] cases just like well can you just take
+[00:21:59] care of the um kind of the rural
+[00:22:01] customers that are required by our 5G
+[00:22:04] license um uh and and then we're like
+[00:22:07] sure we'll we'll do that. And it's it's
+[00:22:09] the most like I said it's usually the
+[00:22:10] most difficult to serve 3 to 5% of the
+[00:22:14] customer base. Y
+[00:22:15] uh so um so those are the two sort of
+[00:22:19] deals that we're doing is are are you
+[00:22:21] know where it a 5G lency has rural serve
+[00:22:27] requirements uh set set by the
+[00:22:30] government and uh and in some cases
+[00:22:32] where they they do have 5G um cell
+[00:22:36] towers but they the the difficulty is
+[00:22:38] achieving back hole.
+[00:22:41] Well, Elon, we will keep a very close
+[00:22:42] eye on the uh identity of those two
+[00:22:46] operators. Um, let's take the
+[00:22:48] conversation a little bit wider. Elon,
+[00:22:50] obviously, SpaceX is relatively new to
+[00:22:53] the satellite space. Um, but you are not
+[00:22:57] new to operating in space. I think
+[00:22:59] SpaceX is is now more than 20 years old.
+[00:23:02] Um, you've been very open on your plans
+[00:23:05] to return humankind to the moon. Um, but
+[00:23:09] you're not satisfied with that. We all
+[00:23:10] know that you want to go one step
+[00:23:12] further uh landing landing humans on
+[00:23:15] Mars. Um I'm wondering how does Starlink
+[00:23:20] fit in with these overall ambitions with
+[00:23:24] SpaceX?
+[00:23:27] Yeah. Uh so SpaceX was really started
+[00:23:30] with the goal of um trying to make life
+[00:23:35] multilanetary or making as much progress
+[00:23:37] as possible towards making life
+[00:23:38] multilanetary. Um the
+[00:23:44] uh
+[00:23:46] you know in order to to make life
+[00:23:47] multilanetary and become a space fairing
+[00:23:49] civilization uh in the truest sense of
+[00:23:51] the word uh the rocket technology must
+[00:23:54] be improved dramatically. Uh in
+[00:23:56] particular there the holy grail for
+[00:23:58] rocketry is uh rapidly reusable
+[00:24:03] reliable rockets. um rr
+[00:24:08] like a pirate. Um so
+[00:24:12] uh
+[00:24:14] with with Falcon 9, we've achieved um I
+[00:24:18] think the most efficient reusability of
+[00:24:20] of any rocket to date. Um uh we've got
+[00:24:24] uh boosters now that have flown uh 10
+[00:24:27] times uh and um and some that will uh
+[00:24:32] that are slated to fly 20 or possibly 30
+[00:24:34] times. So this is a lot of reuse that
+[00:24:36] we're getting. Um we're also now getting
+[00:24:40] quite good at catching the nose cone or
+[00:24:42] fairing. And so um when you look at the
+[00:24:46] cost of the rocket, you've got about u
+[00:24:50] about 60% of the cost uh depending on
+[00:24:52] how you count it, about 60% of the cost
+[00:24:54] in the first stage and about 10% in the
+[00:24:56] fairing. So that means we're recovering
+[00:24:59] about 70% of the cost of the rocket. And
+[00:25:01] then you've got about 20% of the cost in
+[00:25:03] the the upper stage which is lost every
+[00:25:05] time about 10% of the cost in the the
+[00:25:08] launch itself and the recovery and
+[00:25:11] refurbishment process. So
+[00:25:14] um this is really this is really a very
+[00:25:17] good number for a rocket. Um but we
+[00:25:21] still need to uh take this to another
+[00:25:24] level with that's why we have the
+[00:25:26] starship development which is a much
+[00:25:29] bigger rocket. It's biggest rocket ever
+[00:25:31] developed. Um it will have more than
+[00:25:33] twice the thrust of the Saturn 5 moon
+[00:25:35] rocket.
+[00:25:36] Um and is designed for full and rapid
+[00:25:40] reusability. Uh so this is with a with a
+[00:25:43] 100 ton uh to orbit capability possibly
+[00:25:47] with with further refinements 150 tons
+[00:25:49] to orbit um and uh with the ability to
+[00:25:54] launch with no zero expected
+[00:25:57] refurbishment between flights but like
+[00:25:59] so like an airplane um uh moreover it
+[00:26:02] uses uh lower cost uh propellant uh so
+[00:26:08] it's it's a 3 and a half to1 mass ratio
+[00:26:10] of oxygen fuel and the fuel is is liquid
+[00:26:13] methane which is the lowest cost fuel in
+[00:26:15] the world and pressure is autogenous
+[00:26:21] oxygen and methane gas uh instead of
+[00:26:23] helium with Falcon 9. Uh so Falcon 9
+[00:26:26] uses helium it's uses rocket propellant
+[00:26:30] grade jet fuel essentially which is
+[00:26:33] actually quite expensive and helium for
+[00:26:35] pressure which is quite expensive. Um
+[00:26:38] and uh so the the the cost of propellant
+[00:26:42] um for Sasha even though it is much
+[00:26:45] bigger will be really comparable to the
+[00:26:49] cost of propellant for Falcon 9. Uh but
+[00:26:53] it will have full and rapid reusability.
+[00:26:56] So the the crazy thing is that if things
+[00:26:59] go as according to plan, we'll have a
+[00:27:01] rocket with a 100 ton to orbit
+[00:27:03] capability that uh has a marginal cost
+[00:27:07] per launch of around $2 million, which
+[00:27:10] is less than a little Falcon 1 rocket
+[00:27:13] that we started out with. And then with
+[00:27:16] with a rocket like with Starlink or with
+[00:27:18] Starship I should say um uh when you add
+[00:27:21] in orbital refilling um you know which
+[00:27:25] really means that uh two Starships need
+[00:27:27] to dock on orbit uh one at one uh
+[00:27:31] transferring propellant to the other
+[00:27:33] sort of like like aircraft uh aerial
+[00:27:35] refueling but there's orbital refilling
+[00:27:38] primarily of oxygen.
+[00:27:41] uh then you can deliver over 100 tons to
+[00:27:44] the surface of the moon or Mars
+[00:27:47] possibly 200 tons. So
+[00:27:51] um
+[00:27:53] Starship is is the first system that
+[00:27:56] will be capable of building a a base on
+[00:27:59] the moon and a city on Mars.
+[00:28:02] And when will we see Starship Elon?
+[00:28:06] Well, you can see it's progress online
+[00:28:08] right now. such followed quite
+[00:28:10] rigorously on the internet. Um, in fact,
+[00:28:13] often if I want to see what the latest
+[00:28:14] thing is, I just go on the internet
+[00:28:16] because
+[00:28:17] it's being developed in South Texas on
+[00:28:21] right next to a public road. So number
+[00:28:24] of members of the public have telephoto
+[00:28:26] lenses pointed at our vehicle all the
+[00:28:28] time. Um so we we're hoping to do our
+[00:28:34] first uh orbital launch attempt in the
+[00:28:37] next um next few months. Um and
+[00:28:42] uh we certainly will have a booster and
+[00:28:44] a ship, an orbital capable booster and
+[00:28:46] an orbital capable ship and the uh
+[00:28:50] orbital launch site will will be ready
+[00:28:52] within the next month or so.
+[00:28:55] Elon,
+[00:28:57] I also understand that there may be a
+[00:28:59] rocket launch later today in just a few
+[00:29:01] hours.
+[00:29:03] Yes, this is another Falcon 9 launch. Uh
+[00:29:06] this is one of our transporter missions
+[00:29:07] where we do a whole bunch of uh small
+[00:29:10] satellites from um mostly from yeah uh
+[00:29:14] third parties. So it's um
+[00:29:18] this is like this is sort of like the
+[00:29:20] equivalent of like a like a bus uh you
+[00:29:22] know
+[00:29:24] many many small satellites from many
+[00:29:26] different parts of the world uh that are
+[00:29:28] not ours uh are being launched into
+[00:29:30] orbit hopefully uh successfully later
+[00:29:32] today.
+[00:29:35] Elon, we only have a couple of minutes
+[00:29:37] left. Um, just as a a kind of closing
+[00:29:40] thoughts and and reflections, Elon, I
+[00:29:42] mean, all this week at MWC, um, it's
+[00:29:45] obviously been great to come back to to
+[00:29:48] events in person. Um, we've been talking
+[00:29:50] a lot about leadership this week. Um,
+[00:29:54] and as a leader, you seem to be
+[00:29:57] missiondriven. Uh, and I'm wondering
+[00:29:59] what kind of criteria you look for when
+[00:30:02] when you take on new challenges. Um,
+[00:30:04] because you do see you seem to go for
+[00:30:06] challenges and not just necessarily
+[00:30:08] opportunities. Um, you know, what what
+[00:30:11] what kind of gets you really excited?
+[00:30:16] Well, uh, yeah, I suppose so. the
+[00:30:19] what uh SpaceX is
+[00:30:22] trying to do is to uh extend
+[00:30:26] consciousness the scope and scale of
+[00:30:27] consciousness beyond Earth. Um
+[00:30:31] and um and then what Tesla is trying to
+[00:30:34] do is to sort of ensure that life is
+[00:30:38] good on earth uh you know with
+[00:30:40] sustainable energy. Um
+[00:30:44] and um Neurolink is sort of oriented
+[00:30:48] towards um long-term AI human symbiosis.
+[00:30:52] So I mean generally these companies are
+[00:30:55] oriented towards like what
+[00:30:58] uh what what actions can I think of to
+[00:31:01] do to maximize the probability that the
+[00:31:03] future is good? Um
+[00:31:06] and and and that that future includes
+[00:31:08] the an expansion of the scope of scale
+[00:31:10] of consciousness. Um and this is based
+[00:31:13] on my fundamental philosophy of you know
+[00:31:16] we don't really know
+[00:31:19] what all the answers are or even what
+[00:31:21] questions to ask. But if we are able to
+[00:31:24] expand the scope and scale of
+[00:31:25] consciousness then we are better able to
+[00:31:28] uh know what questions to ask about the
+[00:31:31] answer that is the universe.
+[00:31:34] With that, Elon, sadly we are out of
+[00:31:36] time. It has been an absolute pleasure
+[00:31:39] to talk with you today. Uh we've been
+[00:31:40] delighted to host you at MWC. Thank you
+[00:31:43] so much for your time. Um I'd also like
+[00:31:46] to say obviously we've been talking to
+[00:31:47] you virtually. The invitation is there
+[00:31:49] if you would ever like to come to MWC in
+[00:31:52] person perhaps February 22. We would
+[00:31:54] love to host you again. Thank you so
+[00:31:57] much for your time. Best of luck with
+[00:31:58] the Starlink project and obviously the
+[00:32:00] wider space X program. Ladies and
+[00:32:03] gentlemen, please give the biggest hand
+[00:32:05] to Mr. Elon Musk.
+[00:32:07] [Music]
+[00:32:16] Thank you very much. Thank you. Thank
+[00:32:19] you, Elon.
+[00:32:22] [Applause]
+[00:32:27] [Music]

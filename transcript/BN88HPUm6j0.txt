@@ -1,0 +1,1841 @@
+[00:00:16] The X-P Prize Foundation runs incredible
+[00:00:20] large-scale competitions around the
+[00:00:21] world that set very clear, measurable,
+[00:00:24] objective goals.
+[00:00:26] Competitions and prizes can actually
+[00:00:29] bring innovation to solve not just any
+[00:00:32] problem, but really big challenging
+[00:00:35] problems.
+[00:00:36] We don't care who you are or where you
+[00:00:37] come from. If you're able to accomplish
+[00:00:39] this task, you win.
+[00:00:43] We are leveraging the genius of folks
+[00:00:46] from all over the world.
+[00:00:47] The tinkers, the entrepreneurs, the
+[00:00:49] engineers.
+[00:00:50] We're looking for something that is
+[00:00:51] audacious and achievable.
+[00:00:54] problems that the markets have failed to
+[00:00:56] solve.
+[00:00:58] People are about setting a high bar. We
+[00:00:59] want to set a goal for people that's
+[00:01:01] inspiring. It's also hard.
+[00:01:05] So no matter what challenge you want to
+[00:01:07] solve, join us on this journey. Just
+[00:01:10] don't be satisfied doing nothing.
+[00:01:18] Welcome, welcome everybody. Uh, welcome
+[00:01:21] to a special live stream on Earth Day in
+[00:01:24] here. We are on Earth.
+[00:01:24] On Earth in a beautiful, uh, nature
+[00:01:27] prize. Yeah.
+[00:01:28] Couldn't do it better for 21 Earth Day.
+[00:01:31] Yeah.
+[00:01:31] Um, here to talk about the launch of the
+[00:01:33] largest prize ever. Uh, hund00 million
+[00:01:36] XP prize for carbon capture. and here
+[00:01:39] with a very special guest, uh, probably
+[00:01:41] one of the greatest innovators and
+[00:01:42] engineer of our time, the CEO of Tesla,
+[00:01:44] of SpaceX, of a bunch of other
+[00:01:46] companies, uh, and someone I'm proud to
+[00:01:48] call a friend, Elon.
+[00:01:50] Hey, Peter.
+[00:01:50] Good to see you.
+[00:01:51] Good to see you.
+[00:01:52] Yeah, it's, uh, it's the perfect setting
+[00:01:54] for our conversation today.
+[00:01:56] Yeah,
+[00:01:57] we've known each other for a long time
+[00:01:58] now.
+[00:01:58] Yeah.
+[00:01:59] Um,
+[00:02:00] 21 years, I think. It was like 2000.
+[00:02:02] Yeah. Whoa. It I think it was 20 in in
+[00:02:04] like uh, Brazil.
+[00:02:06] Brazil. Oh, it was
+[00:02:06] actually in a similarly nice sort of
+[00:02:09] setting.
+[00:02:09] Yeah, it was a deo's birthday.
+[00:02:11] [laughter]
+[00:02:11] Yeah. Florianopoulos.
+[00:02:12] And Florianopoulos.
+[00:02:14] Yeah. And you're trying to convince me
+[00:02:15] not to start a rocket company.
+[00:02:17] I was trying to convince you to fund the
+[00:02:18] original X-P prize before I met Anushia.
+[00:02:21] Yes. But you also you're like really
+[00:02:22] advising me not to start a rocket
+[00:02:24] company because I would lose all my
+[00:02:24] money, which I thought uh I thought you
+[00:02:27] were probably right. So I thought, you
+[00:02:29] know, a 10% chance of success, but
+[00:02:31] anyway, seems to have worked out.
+[00:02:32] I'm sure you're glad you didn't
+[00:02:34] [laughter] follow my advice. Yeah.
+[00:02:36] Oh my god. So, we're going to um talk a
+[00:02:39] little bit about the rules, uh try
+[00:02:41] encourage teams around the world to
+[00:02:42] register for this thing, get as many
+[00:02:44] innovators, students talking about it.
+[00:02:47] Uh
+[00:02:48] and our goal is like basically to uh do
+[00:02:51] something that uh it you know to
+[00:02:54] have have it be sort of interesting,
+[00:02:55] fun, and and ultimately useful. um and
+[00:02:58] to spur u u creative ideas for what is
+[00:03:01] actually the smartest way to take the
+[00:03:04] trillions of tons of carbon that we
+[00:03:05] we've removed from the ground and will
+[00:03:07] remove from the ground
+[00:03:09] um from deep deep underground and and
+[00:03:10] and we've we've placed that carbon in
+[00:03:13] the atmosphere and oceans um which
+[00:03:16] obviously changes the the chemical
+[00:03:18] constituency of the surface of the
+[00:03:19] earth. Yeah. Um and um now now I I I
+[00:03:26] should sort of um measure measure my
+[00:03:29] statements in that um I think I think we
+[00:03:33] the earth like I don't I don't think
+[00:03:35] we're currently doomed to be clear. is a
+[00:03:38] [laughter] very important uh very
+[00:03:40] importantly um you know this there there
+[00:03:43] are people in all all parts of the
+[00:03:44] spectrum from ranging from nothing to
+[00:03:47] worry about uh CO2 is just makes things
+[00:03:50] better to uh we're doomed and there's
+[00:03:53] nothing we can do about it. I am
+[00:03:54] somewhere in the middle. Um so my
+[00:03:57] concern with the CO2 is not kind of
+[00:03:59] where we are today um or or even you
+[00:04:02] know the current rate rate of carbon
+[00:04:04] generation but really uh if it if we if
+[00:04:07] carbon generation keeps accelerating and
+[00:04:09] we keep getting um a u that that uh
+[00:04:14] increase in the in the keing curve you
+[00:04:15] know the CO2 possibility in the
+[00:04:17] atmosphere
+[00:04:18] and if if if if we keep going and if
+[00:04:20] we're complacent uh then I think we we
+[00:04:23] could there's some risk of of um sort of
+[00:04:27] nonlinear climate change. Um so um so
+[00:04:32] you know thus far we've seen the CO2
+[00:04:34] posing be be fairly linear on on our
+[00:04:37] time scale uh although it looks very
+[00:04:39] exponential on uh geological time scale.
+[00:04:42] Um
+[00:04:44] and uh but there there are certain
+[00:04:46] potential nonlinear events like uh if we
+[00:04:50] raise the temperature to the point where
+[00:04:51] we u melt the Siberian traps or
+[00:04:53] something like that and escapes. Yeah.
+[00:04:55] Yeah. There's there's just a a massive
+[00:04:56] amount of of sort of frozen dead plant
+[00:04:59] animal matter um in um in Siberia.
+[00:05:02] There's potentially trapped uh gases
+[00:05:05] deep in the ocean if ocean warms that
+[00:05:07] could be released. So, uh you know,
+[00:05:09] these this is just
+[00:05:11] these are just risks that are not wise
+[00:05:14] to take. Um, and since we know that, uh,
+[00:05:16] long term we're going to have to have
+[00:05:18] renewable energy anyway, um,
+[00:05:22] uh, because we'll we'll run out of oil
+[00:05:23] and gas. It's not going to last forever.
+[00:05:25] Um, so we know we know where this ends
+[00:05:28] up, but it has to end up with, uh,
+[00:05:30] renewable, sustainable energy. Um, it's
+[00:05:33] logical. Um, really just a question of
+[00:05:36] do we try to get there sooner or later?
+[00:05:38] And, and we should try to get there
+[00:05:39] sooner. It's obvious. Why run the why
+[00:05:42] run the how long do you want to run this
+[00:05:43] experiment?
+[00:05:44] Yeah, it's it's also true that even if
+[00:05:46] we stopped CO2 production,
+[00:05:49] that's probably still not enough that we
+[00:05:51] do need mechanisms for extraction of CO2
+[00:05:54] from the atmosphere and the oceans that
+[00:05:56] don't exist right now.
+[00:05:58] You know, I said I I am people sometimes
+[00:06:00] think I'm sort of like I I'm kind of in
+[00:06:04] the middle of the spectrum, you know.
+[00:06:05] And um I think if we stop CO2 production
+[00:06:08] today, which obviously we could not do
+[00:06:09] without civilization coming to a
+[00:06:11] grinding halt um and mass starvation and
+[00:06:13] and all sorts of terrible things
+[00:06:14] happening. Um so we could not stop CO2
+[00:06:18] generation today. But I think at the you
+[00:06:19] know the sort of 400 possibly even 500
+[00:06:23] ppm level I I think it's pro probably
+[00:06:25] okay. Um but if uh you know as as the
+[00:06:29] world industrializes and we're sort of
+[00:06:31] at 8 billion people get to 9 billion
+[00:06:34] people um have uh a lot more industrial
+[00:06:37] output per person um you could see the
+[00:06:41] you know you know at at what what might
+[00:06:43] be okay at sort of four or 500 um
+[00:06:46] possibility of CO2 in the atmosphere
+[00:06:48] might become quite dire at a thousand.
+[00:06:52] Yeah. Um and the trend is certainly in
+[00:06:54] that direction if we don't do anything
+[00:06:55] about it. So um that that's why I think
+[00:06:58] it's just probably an unwise experiment
+[00:07:00] to to run. Um even if you think that the
+[00:07:05] this is why I think should be a
+[00:07:07] compelling argument to even those who um
+[00:07:11] would uh assign a low probability to um
+[00:07:16] increase CO2 causing problems. Like
+[00:07:18] let's say you think it's 99.9%
+[00:07:21] likely that uh that adding all the CO2
+[00:07:25] to the ocean's atmosphere is is going to
+[00:07:27] be fine. So So you're saying there's a
+[00:07:29] 0.1% chance of disaster.
+[00:07:33] Well, there's only one which right now
+[00:07:35] we only got one planet. Even a.1% chance
+[00:07:38] of disaster, why run that risk? That's
+[00:07:40] crazy. So um so I think what's likely to
+[00:07:44] play out is that we will continue to add
+[00:07:46] a lot of uh a lot more CO2 to the
+[00:07:49] ocean's atmosphere. Um and also you know
+[00:07:51] ocean acidification as you know is also
+[00:07:53] an issue. It's you don't want you don't
+[00:07:55] want to sort of add carbonic acid to the
+[00:07:57] oceans and and change the pH level um
+[00:07:59] because it destroys reefs and and all
+[00:08:01] that. So
+[00:08:02] which it's actively doing right now as
+[00:08:04] we're watching.
+[00:08:04] Yeah. Yeah. Yeah. Exactly. Um
+[00:08:08] yes. So this is a problem.
+[00:08:10] Now I remember when I first met you,
+[00:08:12] Elon, uh you had it was about 2000 and I
+[00:08:15] remember you had two massively
+[00:08:17] transformative missions. It was one
+[00:08:19] making the making humanity multi-
+[00:08:21] interplanetary.
+[00:08:22] Yeah.
+[00:08:22] And the second was bringing us to a
+[00:08:24] sustainable economy,
+[00:08:25] a sustainable energy economy.
+[00:08:27] Right. Exactly.
+[00:08:27] And I think you've done pretty damn
+[00:08:29] good.
+[00:08:30] Are you are you happy with the progress
+[00:08:32] you've made?
+[00:08:32] Um yeah, I think it's uh it's hard to
+[00:08:35] complain.
+[00:08:36] you know, outcome so far has been been
+[00:08:38] great. Um although obviously to be, you
+[00:08:41] know, we've we've not uh we've not yet
+[00:08:42] sent anyone to Mars and um and hopefully
+[00:08:45] will in the future and um in fact just
+[00:08:48] uh a few days ago or last early last
+[00:08:51] late last week I guess um NASA awarded
+[00:08:55] SpaceX.
+[00:08:56] Awesome. 2.82.9 billion for the next
+[00:08:59] lunar lander.
+[00:09:00] Yeah. to so SpaceX SpaceX craft will be
+[00:09:03] the the next craft to put humans on uh
+[00:09:06] on the moon. I believe the first human
+[00:09:07] will be a woman actually this time. So
+[00:09:09] uh this is very this is great.
+[00:09:11] Yeah.
+[00:09:11] Um
+[00:09:12] so um but of course we have to actually
+[00:09:15] do it. Um and uh
+[00:09:17] and uh then we've got tomorrow we've got
+[00:09:19] the uh our third astronaut launch to
+[00:09:22] before we dive into the to the carbon
+[00:09:24] removal rules and so forth. Uh, I mean
+[00:09:27] it's obviously a bit of a dichotomy
+[00:09:28] because our rockets do produce carbon,
+[00:09:29] you know. True. Like what a hypocrite,
+[00:09:31] you know. True. No, no, he's obviously
+[00:09:33] just he's obviously just in for the
+[00:09:34] money. Um, but
+[00:09:36] but let's talk about let's talk about
+[00:09:37] the crew to crew.
+[00:09:38] I feel I should address this this being
+[00:09:40] a hypocrite by launching rockets that
+[00:09:42] that produce carbon.
+[00:09:44] Here's the problem is right now there is
+[00:09:46] there's really no way to get around the
+[00:09:47] physics of a rocket. So uh I think it's
+[00:09:51] important for the long-term uh pres
+[00:09:55] preservation and and ultimately the
+[00:09:57] expansion and extension of this the
+[00:09:59] scope and scale of consciousness u and
+[00:10:02] the long-term uh probably survival of
+[00:10:05] humanity and life as we know it. We must
+[00:10:07] become a multifetan species because all
+[00:10:09] these risks that we can't control
+[00:10:10] existential risks asteroid strikes.
+[00:10:13] Yeah.
+[00:10:13] Yeah. Yeah. There's like
+[00:10:14] super volcano.
+[00:10:15] We could do you know we could have a
+[00:10:16] World War II or something. You know,
+[00:10:18] there's um like I'm optimistic about the
+[00:10:21] future, but you but you can also say
+[00:10:22] like, okay, well, so how long do you
+[00:10:24] think civilization will last before
+[00:10:26] there's a catastrophic event? If you say
+[00:10:28] infinity, you're this is not correct.
+[00:10:30] Yes.
+[00:10:30] Okay. This is this is not uh history
+[00:10:33] does not suggest that. [laughter]
+[00:10:35] History suggests we do dumb things to
+[00:10:38] civilizations all the time, you know,
+[00:10:40] and and you know, ancient Egyptians, the
+[00:10:42] Romans, ancient Romans, where are they
+[00:10:44] now?
+[00:10:46] Let's do the minieries. Where are they
+[00:10:47] now?
+[00:10:48] Babylonians, Samrians, the
+[00:10:50] Yeah, you name it, you know. So,
+[00:10:53] um, so there's, uh, there've been many
+[00:10:56] civilizations that risen and fallen. And
+[00:10:57] anyway, we got to preserve, uh, we got
+[00:11:00] to become multilanetarian, and right now
+[00:11:01] the only way to do that is with, um,
+[00:11:04] with with rockets that do burn fuel. Um
+[00:11:06] but we do have a long-term plan for
+[00:11:09] sustainability of um of even rocket
+[00:11:11] flights uh by generating propellant uh
+[00:11:15] using um sustainable energy, wind and
+[00:11:18] solar uh to generate starting first with
+[00:11:21] liquid oxygen.
+[00:11:22] Um and for our Starship vehicle
+[00:11:24] uh it's uh almost 80% liquid oxygen and
+[00:11:28] 20% liquid methane.
+[00:11:30] Um and um the oxygen it's obviously
+[00:11:33] pretty easy to create that. uh you just
+[00:11:35] use um wind and solar electricity and um
+[00:11:39] and you do air separator because you got
+[00:11:41] the oxygen already in the air, the
+[00:11:42] plants are making the oxygen. Um so you
+[00:11:44] can use just you can just use
+[00:11:45] electricity basically renewable
+[00:11:47] electricity to create 80% of the
+[00:11:48] propellant on the rocket and then for
+[00:11:50] the remaining uh 20% you can use the
+[00:11:52] body process where you take you actually
+[00:11:54] take CO2 out of the atmosphere and you
+[00:11:56] combine that with water to create CH4
+[00:11:59] and and more O2. Y
+[00:12:01] um and that's and that's in fact what we
+[00:12:02] would do on Mars.
+[00:12:03] Sure.
+[00:12:04] To generate propellant.
+[00:12:05] Sure.
+[00:12:05] So, so there is a long-term plan for
+[00:12:07] sustainable generation of propellant for
+[00:12:09] the rockets. I do want to emphasize
+[00:12:11] that.
+[00:12:11] Um and if there's some if there's some
+[00:12:13] other way to do that now, we we
+[00:12:14] certainly would.
+[00:12:15] Yeah.
+[00:12:15] But I'm I'm just trying trying to sort
+[00:12:17] of address this apparent inconsistency
+[00:12:19] in um you know, if daring is bad, why
+[00:12:23] why are you doing that with rockets?
+[00:12:24] Yeah. And and listen, I think it's a
+[00:12:26] moral imperative for the human race to
+[00:12:28] be able to move off Earth while we have
+[00:12:30] the opportunity. Everything we know is
+[00:12:32] right here.
+[00:12:32] And just because it's like it's um it's
+[00:12:34] not [laughter]
+[00:12:36] just one of the others people think, oh,
+[00:12:38] is this some escape hatch for rich
+[00:12:39] people? [laughter]
+[00:12:41] No, no, you know, they think it's like
+[00:12:43] so going to Mars reads like that ad for
+[00:12:46] for Shackleton going to the Antarctic.
+[00:12:49] You know, it's it's dangerous. Uh it's
+[00:12:51] uncomfortable. Um, it's a long journey.
+[00:12:55] You might not, you know, come back
+[00:12:56] alive. Um, but it's a glorious adventure
+[00:12:59] and it'll be amazing, an amazing
+[00:13:02] experience.
+[00:13:02] And your name will go in history.
+[00:13:03] Yes. You might die. [laughter] It's
+[00:13:05] going to be uncomfortable and you
+[00:13:06] probably won't have good food and all
+[00:13:07] these things, you know. So, so if if if
+[00:13:11] an arduous and dangerous journey where
+[00:13:14] you may not come back alive, um, but
+[00:13:17] it's a glorious adventure sounds
+[00:13:18] appealing, Mars is the place. And you
+[00:13:21] still have thousands of volunteers, if
+[00:13:23] not millions of volunteers who would
+[00:13:24] want to go.
+[00:13:25] I mean, honestly, a bunch of people
+[00:13:26] probably will die in the beginning. It's
+[00:13:28] It's tough sledding over there. You
+[00:13:29] know,
+[00:13:30] we're an exploring species.
+[00:13:32] Yeah. Yeah. Exactly. Not for every We
+[00:13:33] don't make anyone go, so [laughter] it's
+[00:13:35] it's volunteers only.
+[00:13:38] You have a you have a uh a Dragon
+[00:13:40] capsule on the pad. Crew 2 is nominally.
+[00:13:43] Are you still go for launch tomorrow?
+[00:13:45] Yeah.
+[00:13:45] Awesome. You want to just spend two
+[00:13:47] minutes uh talking about the Crew 2
+[00:13:49] mission?
+[00:13:50] Yeah. So, um, yeah, we've got hopefully
+[00:13:53] a great mission planned for tomorrow.
+[00:13:56] Uh, this will be our third flight of,
+[00:13:57] uh, of people to the space station. We
+[00:13:59] had the test mission with two
+[00:14:00] astronauts, then the first sort of
+[00:14:02] operational mission with four. This is
+[00:14:03] our second operational mission with
+[00:14:04] four. Um, you know, it's an
+[00:14:06] international crew. Um,
+[00:14:10] great group. Um, I was just looking
+[00:14:12] online. and they're sort of, you know,
+[00:14:14] picking their sort of uh hopefully not
+[00:14:17] final meal, but [laughter]
+[00:14:18] you know, they're going to pick whatever
+[00:14:19] their favorite favorite food is, you
+[00:14:21] know, from from their country. And um so
+[00:14:24] I'm actually heading over there tonight
+[00:14:26] to just to um wish them wish them well.
+[00:14:28] I was out at pad 39A uh to see the stack
+[00:14:32] yesterday. A couple of things. One, pad
+[00:14:34] 39A historic.
+[00:14:36] Yeah. Is this is where people went to
+[00:14:37] the moon?
+[00:14:38] Yeah. Apollo 11 from that pad. from that
+[00:14:40] pad. Uh the first space shuttle launch
+[00:14:41] back in ' 81, STS1
+[00:14:44] and uh so that's it's a lot of like
+[00:14:47] karmic responsibility to be operating.
+[00:14:49] Yeah, it's like time square. The time
+[00:14:50] square of launch launch pads.
+[00:14:52] It's amazing.
+[00:14:52] Yeah.
+[00:14:53] Amazing. And uh and the first stage has
+[00:14:55] a beautiful patina on it. [laughter]
+[00:14:57] It does. It's uh this will Yeah,
+[00:14:59] there'll be the it'll be it's a reused
+[00:15:01] stage. So um when the stages come back,
+[00:15:05] they they kind of get scorched. Yeah. So
+[00:15:06] the the black there some people think is
+[00:15:08] is that sort of something? So that's it
+[00:15:09] got scorched from re-entry.
+[00:15:12] Your team said they used to wipe it off
+[00:15:13] to clean it and then it's just like why
+[00:15:15] bother?
+[00:15:16] It's kind of hard to wipe off. It
+[00:15:17] doesn't wipe off easily cuz it it's kind
+[00:15:19] of like baked on there.
+[00:15:21] And it's interesting.
+[00:15:21] You kind of have to repaint it really.
+[00:15:22] We're having a discussion about is it
+[00:15:24] safer to use a stage that's flown
+[00:15:26] already versus a new stage.
+[00:15:28] Yeah. So um I I think what we'd say is
+[00:15:32] like flight proven.
+[00:15:33] Flight proven. Yes.
+[00:15:34] Yeah. So, if this was an airplane, uh,
+[00:15:37] do you want to be on the first flight of
+[00:15:38] the airplane when it comes out of the
+[00:15:39] factory or do you want to be on a later
+[00:15:41] flight? I'd say let somebody, you know,
+[00:15:43] let the test pilots do their thing
+[00:15:45] before you you, you know, fly fly a
+[00:15:47] plane. So, you flying a plane, you want
+[00:15:49] to see that plane has flown a few times
+[00:15:51] before you get in, I think.
+[00:15:52] So, I I think it should be on balance
+[00:15:55] better. Um and then uh and then we'll
+[00:15:59] also we'll also be reflying the start
+[00:16:01] reflying the the spacecraft the Dragon
+[00:16:03] spacecraft.
+[00:16:04] Beautiful.
+[00:16:05] So we're trying to get reusability is
+[00:16:07] obviously very important. Um you know in
+[00:16:09] many arenas reusability is important and
+[00:16:11] reusability in rockets is important.
+[00:16:12] I remember uh being in Hawthorne seeing
+[00:16:14] your first your Falcon one there and it
+[00:16:16] was just amazing. It's come
+[00:16:19] there's some funny pictures of uh of
+[00:16:21] basically the the sort of SpaceX as a as
+[00:16:23] a kind of like a kindergartener.
+[00:16:25] [laughter]
+[00:16:26] Um and me being like ordered to 20 years
+[00:16:29] younger. Um and uh yeah, we're just in
+[00:16:32] this tiny little warehouse in Elkundo.
+[00:16:35] Yeah, I remember well.
+[00:16:37] Uh before we go to jump into the
+[00:16:39] guidelines, one last question update on
+[00:16:41] Starship because that's what I mean.
+[00:16:43] Starship's taking us to the moon, taking
+[00:16:45] us to Mars,
+[00:16:46] and it's it's the it is audacious. Can
+[00:16:49] you compare it to the Apollo?
+[00:16:51] Compare it to the Apollo vehicle, the
+[00:16:53] Saturn 5 for comparison for a second for
+[00:16:55] folks to know, get a sense of it.
+[00:16:57] Sure. Well, I think the thing that's
+[00:16:58] least obvious from when it's um on the
+[00:17:00] ground is from the from the videos and
+[00:17:02] pictures is the size of it. So, it's um
+[00:17:05] it's going to be the largest flying
+[00:17:06] object ever. M.
+[00:17:07] So it'll be uh twice the thrust and uh
+[00:17:12] weight of the Saturn 5.
+[00:17:13] Amazing.
+[00:17:14] So that's uh just for a and taller. Um
+[00:17:18] so including the launch escape tower. So
+[00:17:20] it's a very tall rocket.
+[00:17:22] Um
+[00:17:24] 120 mters tall and
+[00:17:25] and because it's so wide the it the
+[00:17:28] proportions uh are obscure that fact how
+[00:17:31] big it is.
+[00:17:32] Yeah. You can see in some of the
+[00:17:33] pictures that have been released when
+[00:17:34] it's landing on the moon and the the
+[00:17:35] people look like ants. It's very it's a
+[00:17:37] big rocket. This is this this rocket is
+[00:17:40] uh capable of um you know at least 100
+[00:17:43] tons and probably closer to 200 tons of
+[00:17:45] useful payload to the surface of the
+[00:17:47] moon.
+[00:17:48] So it's we're designed to be far in
+[00:17:51] excess of NASA's requirements.
+[00:17:52] Um and so
+[00:17:55] it's really intended to be something
+[00:17:56] that you know that can enable a
+[00:17:59] permanently occupied base on the moon. M
+[00:18:02] so you know we've got obviously promoted
+[00:18:04] base in in Antarctica. Um and it would
+[00:18:06] be great to have one of one on the moon
+[00:18:08] as well.
+[00:18:09] Yeah.
+[00:18:09] Um and you can do you know I think a lot
+[00:18:11] more research if you have the scientists
+[00:18:13] actually there um
+[00:18:14] and we could have some some very
+[00:18:16] powerful telescopes. Um
+[00:18:18] no the moon you know there's some great
+[00:18:20] sayings from uh from Robert Heinline
+[00:18:22] that said if you know if God had wanted
+[00:18:24] humanity to have space flight they would
+[00:18:26] have you know she would have given us a
+[00:18:28] moon.
+[00:18:28] Yeah. Right. [laughter]
+[00:18:29] Exactly. It's a great staging place.
+[00:18:32] Exactly. It's sort of is this just just
+[00:18:34] off the coast.
+[00:18:35] Um um Mars is is much much much further.
+[00:18:39] Yeah.
+[00:18:40] One last question. Uh
+[00:18:42] yeah. So, so but I think most actually
+[00:18:45] more important than the size of Starship
+[00:18:47] is the fact that it is intended to be
+[00:18:49] fully and rapidly reusable.
+[00:18:50] Yeah. So this is the fundamental holy
+[00:18:53] grail breakthrough needed for for access
+[00:18:57] to space. Uh to to make humanity a true
+[00:18:59] space bearing civilization, we must have
+[00:19:02] a fully and rapidly reusable rocket.
+[00:19:04] Um now we've made some progress in that
+[00:19:06] direction with Falcon 9 where the
+[00:19:08] booster is reusable and the uh Dragon
+[00:19:11] spacecraft upper portion is reusable. Um
+[00:19:14] but the the the the second stage is not
+[00:19:18] reusable. Um, and the and and I would
+[00:19:22] say right now I would not say the Falcon
+[00:19:25] booster spacecraft and uh and fairing
+[00:19:28] they're not rapidly reusable. Like it
+[00:19:30] takes a fair bit of effort. Less effort
+[00:19:32] than the much less effort than the space
+[00:19:34] shuttle took.
+[00:19:35] Yeah.
+[00:19:35] Um but uh but
+[00:19:37] turn around every year or so.
+[00:19:39] Yeah. Yeah. Exactly. That four and it
+[00:19:41] took about year to turn them around. Um,
+[00:19:44] you know, we're getting it down to um a
+[00:19:47] few months basically and soon I think
+[00:19:48] probably under a month uh to turn around
+[00:19:51] a booster. Um but landing out to sea and
+[00:19:54] then having to bring it back and then
+[00:19:56] sort of taking a month or so to to get
+[00:19:59] it ready for launch is still I wouldn't
+[00:20:01] call it rapid by aircraft standards. Um
+[00:20:05] whereas um Starship is intended to be
+[00:20:08] both fully and rapidly usable. So the
+[00:20:11] the booster comes right back to the
+[00:20:12] launch pad. Um literally is caught by
+[00:20:15] the the the
+[00:20:18] launch tower.
+[00:20:19] Yep.
+[00:20:19] So it's it lands and is actually caught
+[00:20:21] by the launch tower arms. That's
+[00:20:23] aspirationally.
+[00:20:24] I mean that there should be
+[00:20:26] that looks like science fiction.
+[00:20:27] [laughter]
+[00:20:27] Excitement guaranteed.
+[00:20:29] Um so the booster gets it comes back
+[00:20:33] about six or seven minutes later and
+[00:20:35] it's caught. Okay. So, it's it's right
+[00:20:36] there and then caught by launch tower
+[00:20:38] arms and placed right back onto the
+[00:20:39] launch stand.
+[00:20:40] Amazing.
+[00:20:41] And then the the ship is I actually want
+[00:20:44] the ship also to be caught by the um the
+[00:20:47] launch tower. Uh now the ship will take
+[00:20:50] it takes at least 90 minutes to orbit
+[00:20:51] the earth.
+[00:20:52] Yeah.
+[00:20:52] Um and um we may take more than one it
+[00:20:56] may take uh three or four orbits to get
+[00:20:58] uh the ground track realigned with the
+[00:21:01] um
+[00:21:02] landing zone. Yeah.
+[00:21:02] The landing zone depending on where you
+[00:21:03] are. Uh but the point is that the ship
+[00:21:05] will come back and be be right land
+[00:21:08] right by the tower and be placed right
+[00:21:10] back on. And so uh
+[00:21:12] like a 767 just refuel and go.
+[00:21:15] It's it's intended to be such that the
+[00:21:17] booster can be used I don't know uh a
+[00:21:20] dozen times a day and the and the ship
+[00:21:22] the ship could be you know like
+[00:21:24] basically every couple hours
+[00:21:25] and the that that's mostly about
+[00:21:28] reloading propellant and um and mounting
+[00:21:31] the ship. Uh and then the ship could
+[00:21:33] probably be used um you know probably
+[00:21:36] every
+[00:21:38] in in theory every three hours if you
+[00:21:40] can make the ground track match
+[00:21:42] u but certainly every say six to nine
+[00:21:44] hours or call it twice a day for the
+[00:21:46] ship and we'll make more ships than
+[00:21:48] there are boosters. So and I think if
+[00:21:52] once we have the uh floating space
+[00:21:53] platforms we we can set the put the um
+[00:21:57] position them such that the ship can
+[00:21:58] come back in a single orbit.
+[00:22:00] Amazing.
+[00:22:00] Um so then it could be like You know,
+[00:22:02] let's say if you get three ship launches
+[00:22:03] per day, that's a thousand flights a
+[00:22:05] year of each with 100 to 150 tons of
+[00:22:09] power.
+[00:22:10] Now, we're talking a real space program.
+[00:22:11] Let's go to uh let's go to the questions
+[00:22:13] on on the uh carbon removal prize. We'll
+[00:22:15] be going to your questions at in Twitter
+[00:22:18] in about about 20 minutes, 15 20
+[00:22:20] minutes. So Elon, this is the largest
+[00:22:22] prize ever, ever. Uh largest incentive
+[00:22:25] prize ever and I would argue for one of
+[00:22:27] the most largest uh civilization scale
+[00:22:31] challenges we have.
+[00:22:32] Sure.
+[00:22:33] And uh we're get to the rules in a
+[00:22:35] second so that folks who are looking at
+[00:22:37] creating teams can understand why we
+[00:22:39] created those rules. But why did you
+[00:22:41] fund this? Let's start with the the why
+[00:22:43] there. Yeah, I think um I wanted to spur
+[00:22:46] ideas and thinking about uh the
+[00:22:49] long-term need to um capture common
+[00:22:54] um and uh you know, I think this is one
+[00:22:57] of those things that's going to take a
+[00:22:58] while to figure out what the right
+[00:23:00] solution is.
+[00:23:01] Um and especially to figure out what
+[00:23:03] what the best economics are for uh for
+[00:23:07] CO2 removal. Um
+[00:23:11] and uh and and all the think through all
+[00:23:13] the consequences. You don't want the
+[00:23:14] cure to be worse than the disease.
+[00:23:16] Yeah.
+[00:23:16] Uh so uh you know sometimes people say,
+[00:23:19] "Well, just plant a bunch of trees." I'm
+[00:23:21] like, "That's not so easy." You know,
+[00:23:22] like like
+[00:23:23] a trillion trees.
+[00:23:24] Sure. Exactly. And then you got to like,
+[00:23:26] "Okay, well, how you need to get
+[00:23:27] fertilizer? You going to water them?
+[00:23:28] Where's the water going to come from? Uh
+[00:23:30] what habitat are you potentially
+[00:23:31] destroying where the trees used to be?"
+[00:23:33] It's not it's not just a no-brainer of
+[00:23:35] just go plant a bunch. But it's not to
+[00:23:37] say that's not a good viable option.
+[00:23:39] We should plant some trees. I I I'm in
+[00:23:41] favor of planting trees. [laughter] It's
+[00:23:43] just not a question of like okay um you
+[00:23:47] know there are like vast sections of
+[00:23:48] like like the Sahara Desert or or
+[00:23:52] uh the you know the some large barren
+[00:23:55] areas, very dry areas in the US um where
+[00:23:58] you could in theory plant a lot of
+[00:23:59] trees, but you're going to need a lot of
+[00:24:00] water. Yeah.
+[00:24:01] And you're going to need like like
+[00:24:03] you're going to have to cultivate them.
+[00:24:04] It's not like a they don't just throw
+[00:24:06] some TE's on the ground, you know,
+[00:24:06] [laughter]
+[00:24:07] um
+[00:24:08] or drop them from orbit.
+[00:24:09] Yeah. And I mean, so just I think it'll
+[00:24:12] be good to sort of uh kind of frame the
+[00:24:16] the frame the debate and and understand,
+[00:24:18] okay, what things are really going to
+[00:24:19] move the needle, how much are they going
+[00:24:20] to move the needle? Um you know, uh if
+[00:24:26] we're talking about getting tens or
+[00:24:28] hundreds of billions of tons of carbon,
+[00:24:30] in what form will that carbon be? uh
+[00:24:32] will it be stable over time? Um and like
+[00:24:35] I said, like what is this going to cost
+[00:24:38] humanity to do? However, it's paid for
+[00:24:40] what what is it going to what what's the
+[00:24:41] thing that's uh
+[00:24:42] going to be take the you know be most
+[00:24:45] affordable. Um I there are a lot of open
+[00:24:47] questions on this.
+[00:24:48] There are let me let me chunk the rules
+[00:24:51] for for those listening and uh you and
+[00:24:54] your team an amazing team and uh Marcus
+[00:24:57] Extravar and Zenia Tata and their team
+[00:25:00] work really well together. So the first
+[00:25:01] thing is that for a team to win this,
+[00:25:05] and we'll talk about the prize amounts
+[00:25:06] and so forth, they've got to actually
+[00:25:08] build something that works and
+[00:25:10] demonstrate something that can extract
+[00:25:12] a,000 tons per year, a kiloton of carbon
+[00:25:15] per year as a demo scale model.
+[00:25:18] Yeah, I think um by the way, we're we're
+[00:25:20] very much open to adjusting the rules to
+[00:25:23] be clear to everyone like like meaning
+[00:25:25] um if things aren't working or for
+[00:25:26] whatever reason like uh we need to
+[00:25:28] adjust rules, we'll we'll adjust the
+[00:25:29] rules. the the the the fundamental goal
+[00:25:32] is to um have spent uh 100 million and
+[00:25:36] actually end up being probably like 120
+[00:25:38] million or whatever with um you know
+[00:25:41] cost of managing the prize and
+[00:25:42] everything. Um so there'll be you know
+[00:25:44] at the end of the day probably something
+[00:25:45] like $120 million spent. Um and uh
+[00:25:48] hopefully that's spent well and usefully
+[00:25:50] um and that what comes out of it is
+[00:25:52] something that um uh matters to the
+[00:25:54] future. Um so that that's the that's the
+[00:25:57] goal to be clear. Um, and so if people
+[00:25:59] have, you know, uh, ideas for adjusting
+[00:26:02] the rules, um,
+[00:26:04] yeah, we're going out as guidelines and,
+[00:26:06] uh, we're going to have, I think, till
+[00:26:07] miday for get public feedback, tell us
+[00:26:10] if we miss something, we will turn them
+[00:26:12] from guidelines to rules. Once we get
+[00:26:14] really
+[00:26:14] feedback and we've gone out to so many
+[00:26:16] of the amazing climate scientists out
+[00:26:17] there and it's Yeah. Unless the rules
+[00:26:20] need to need to be valid uh, for the for
+[00:26:23] the four years of this prize duration.
+[00:26:25] Yeah. So, we're super open to critical
+[00:26:27] feedback. Um, don't hesitate to, you
+[00:26:30] know, yell and and say if this this is
+[00:26:33] how it should be different in some way
+[00:26:35] or whatever, you know. Um, the goal is
+[00:26:37] just to like let's have it be a useful
+[00:26:38] exercise and and have people have a good
+[00:26:41] time trying to figure out this problem.
+[00:26:42] I think it's sort of a it's a fun
+[00:26:43] problem to try to to work on. Um, and
+[00:26:47] uh, yeah, we just wanted it to be useful
+[00:26:49] at the end of the day, you know, and and
+[00:26:50] and and have it not be sort of uh, an
+[00:26:53] academic exercise or something that
+[00:26:54] never amounts to anything.
+[00:26:55] I think one of the things that you've
+[00:26:56] said and I've said is, you know,
+[00:26:58] everything works on PowerPoint.
+[00:26:59] Everything works in PowerPoint.
+[00:27:00] [laughter] That's exactly you could have
+[00:27:01] a PowerPoint presentation for a
+[00:27:03] teleportation system to the Andromeda
+[00:27:04] galaxy and and and [laughter] even have
+[00:27:06] a simulation of like, look, here we are,
+[00:27:08] boom, you're in the according to the
+[00:27:09] slide, you're now teleported to
+[00:27:11] Andromeda. And like, uh, but it doesn't
+[00:27:13] actually work, you So to win this prize
+[00:27:15] uh a team actually during the four years
+[00:27:17] has to build something that can at
+[00:27:19] minimum pull out a thousand tons of
+[00:27:22] carbon per year so that they can show us
+[00:27:24] that
+[00:27:25] do they have to [laughter]
+[00:27:27] do they have to pull out a thousand
+[00:27:28] times or just show that the rate it
+[00:27:29] works?
+[00:27:29] No, they have to pull out
+[00:27:30] like a literal thousand times. We weigh
+[00:27:32] it.
+[00:27:32] We're [laughter]
+[00:27:35] on a scale
+[00:27:36] and we're going to we're going to like
+[00:27:37] you know maybe we can calculate it to be
+[00:27:39] a thousand times but the rate at which
+[00:27:41] [laughter] Yes. They'll have to run it
+[00:27:43] for a year to get a thousand times out.
+[00:27:44] But if
+[00:27:45] they run it for a month, that's okay.
+[00:27:46] Probably. It's okay. All right.
+[00:27:48] [laughter] And
+[00:27:49] I mean I mean a month they have a you
+[00:27:52] know like a hundred tons [laughter]
+[00:27:54] and it it needs to fit on our weighing
+[00:27:56] machine or something you know like I
+[00:27:58] don't weigh it somehow.
+[00:27:59] We'll use one ships. [laughter]
+[00:28:03] Shipyard automatic. Um
+[00:28:05] um and you know part of the the actual
+[00:28:07] physically doing it is that they can
+[00:28:09] they have enough data to calculate costs
+[00:28:11] which are going to be important.
+[00:28:12] Uh but we're we're not looking for
+[00:28:15] theory. We're looking for practice and
+[00:28:17] and you know how hard it is to make
+[00:28:18] something real.
+[00:28:20] It's very hard to make something real. I
+[00:28:21] in in my view prototypes are trivial and
+[00:28:23] production is hard.
+[00:28:24] Yeah.
+[00:28:25] Um and there and the the general um
+[00:28:28] generally people think it's the
+[00:28:30] prototype that is the hard thing.
+[00:28:31] Prototypes are well I mean obviously
+[00:28:34] you're gonna have that 1% of inspiration
+[00:28:36] but as the saying goes it's 1%
+[00:28:37] inspiration 99% perspiration. Yeah. Um
+[00:28:40] ideas are plentiful. Actually getting it
+[00:28:42] done is very hard. You could say for
+[00:28:43] example what about the you know the idea
+[00:28:46] of going to the moon is easy. [laughter]
+[00:28:49] Going to the moon is hard. So that's
+[00:28:53] [laughter] why it's not the idea man.
+[00:28:56] Yeah.
+[00:28:56] Yeah. There's plenty of ideas out there.
+[00:28:58] [laughter] It's it's execution like
+[00:29:00] so the second my idea to go to the moon.
+[00:29:02] I patented it. [laughter] Okay, good.
+[00:29:05] See you there.
+[00:29:06] Yeah.
+[00:29:07] Uh the second thing is and this is a
+[00:29:09] term that you that you use first is that
+[00:29:11] the teams have to be able to calculate
+[00:29:13] the fully considered costs of pulling
+[00:29:16] out the CO2 and what does that mean to
+[00:29:17] you?
+[00:29:18] Yeah. So I think fully considered cost
+[00:29:19] actually just means that if there are um
+[00:29:22] you want to look at both the benefits
+[00:29:24] and the the the cost actually. So if uh
+[00:29:27] if in um sequestering cob and removing
+[00:29:29] it from the uh atmosphere or oceans uh
+[00:29:32] uh has has some uh perhaps some
+[00:29:36] environmental impact uh which might be
+[00:29:40] small but it's not negative that
+[00:29:41] certainly needs to be taken into
+[00:29:42] account. Um and uh uh and then but by
+[00:29:47] the same token if uh what's done is in
+[00:29:50] extracting carbon is a useful product
+[00:29:53] from which you could generate revenue
+[00:29:55] then that should count too
+[00:29:56] right
+[00:29:57] so I don't know I'm just sort of saying
+[00:29:58] for argument's sake like let's say uh
+[00:30:01] you could create um you know um
+[00:30:05] construction construction material like
+[00:30:07] you know um
+[00:30:08] cement
+[00:30:09] cement yeah exactly
+[00:30:10] which we just I'll talk about that later
+[00:30:12] some kind of useful rocks that are rocks
+[00:30:14] that are useful or sand or I don't know.
+[00:30:16] Yeah.
+[00:30:17] Um something that's useful for
+[00:30:19] construction. Um then uh you could say
+[00:30:22] okay well this is what we could sell it
+[00:30:24] for and uh
+[00:30:26] you know and then just fully consider
+[00:30:28] pros and cons and and and and say okay
+[00:30:30] this is what you know if um if we need
+[00:30:34] to pay to have it done in the future
+[00:30:35] which we probably will have to do then
+[00:30:38] um what's the what's the lowest net
+[00:30:41] cost? Yeah. And and to be clear,
+[00:30:45] the the working teams that what they do
+[00:30:49] has to be net negative,
+[00:30:50] right? It's not break even. It's not
+[00:30:52] play out, a thousand tons and then
+[00:30:54] emit a,000 tons. In fact, one of the
+[00:30:56] things we talked about
+[00:30:57] Absolutely.
+[00:30:58] One of the things we
+[00:30:59] obviously [laughter]
+[00:31:00] Yeah.
+[00:31:01] One of the things we talked about worse
+[00:31:02] than a disease.
+[00:31:03] Yes. How how long do you need to
+[00:31:05] sequester the carbon forest? We had a
+[00:31:07] big debate.
+[00:31:09] You want to share what you came up with
+[00:31:10] there?
+[00:31:12] what the team came up with
+[00:31:13] just the the the rate of carbon um
+[00:31:16] sequestering is to far exceed the rate
+[00:31:18] at which say it is uh potentially
+[00:31:22] dissolving back into the atmosphere. Um
+[00:31:24] so um you know like if if uh yeah um and
+[00:31:30] so one of the rules is that you have to
+[00:31:32] be able to sequester for at least a 100
+[00:31:34] years, right? So we we set a a target
+[00:31:36] doesn't have to be forever.
+[00:31:38] You know a year is not long enough. Um
+[00:31:41] so we said you have to demonstrate that
+[00:31:43] your methodology is going to contain the
+[00:31:46] the CO2 in some fashion for 100 years at
+[00:31:48] least.
+[00:31:49] Yeah. Maybe with maybe there's a small
+[00:31:51] amount that that has lost. Maybe it's
+[00:31:52] not perfect. I think we don't probably
+[00:31:54] don't want to set it to you know um 100%
+[00:31:58] for 100 years I but if it's like I don't
+[00:31:59] know 90% for 100 years that's probably
+[00:32:01] okay.
+[00:32:02] Mhm.
+[00:32:02] You know so it just needs to be
+[00:32:05] something that if we scaled it up would
+[00:32:06] it work?
+[00:32:07] Yeah. And that's the third part. That's
+[00:32:09] the third part which
+[00:32:10] common sense text test really.
+[00:32:12] Yes. And the hardest thing is that the
+[00:32:15] winning team has to prove to our judges
+[00:32:19] that their approach can actually scale
+[00:32:21] to a gigaton level. Otherwise, it's not
+[00:32:23] going to be useful.
+[00:32:24] Exactly. It can't it can't be niche.
+[00:32:26] Yeah.
+[00:32:26] It can't be inherently niche.
+[00:32:28] And if anybody knows about scaling up, I
+[00:32:30] I think
+[00:32:31] Yeah.
+[00:32:32] You do.
+[00:32:32] Uh yeah, scalable scaling is hard.
+[00:32:34] Yeah. So yeah, I'm I don't know what the
+[00:32:38] answer is here really. Um but I think if
+[00:32:40] a lot of smart people work on this,
+[00:32:42] there could be some really creative
+[00:32:43] solutions.
+[00:32:44] Something generally useful for the world
+[00:32:45] in in that regard.
+[00:32:46] Absolutely. Um
+[00:32:48] yeah, and I think just be clear like
+[00:32:50] looking for pragmatic solutions. It
+[00:32:51] doesn't need to be perfect. Um you know,
+[00:32:55] but it's got to be something that just
+[00:32:57] fundamentally if we scaled it up would
+[00:32:59] have work and that's it.
+[00:33:01] So let's talk about the prizes that are
+[00:33:03] up for grabs. Um first place is going to
+[00:33:05] be 50 million.
+[00:33:06] Yeah.
+[00:33:07] Uh which is significant. Our our hope is
+[00:33:10] that it's going to attract enough
+[00:33:11] cognitive surplus out there to focus in
+[00:33:14] on this.
+[00:33:14] Yeah.
+[00:33:15] Um 30 million split between sort of a
+[00:33:19] second, third, and fourth place prize.
+[00:33:20] And one of the things that you and your
+[00:33:22] team put forward is maybe it might be
+[00:33:25] split into different categories, right?
+[00:33:27] Different approaches.
+[00:33:29] Yeah. I mean, we want to reward people
+[00:33:31] who have done great work.
+[00:33:32] Yeah. uh fund fundamentally I'm I'm open
+[00:33:34] to increasing the price size too over
+[00:33:36] time. So if it turns out like hey
+[00:33:38] somebody really really kicked ass and uh
+[00:33:41] and somehow there's not a price for them
+[00:33:42] we'll I'll add some more to the price.
+[00:33:44] That's that's extraordinary.
+[00:33:46] Yeah. Absolutely. I want somebody to
+[00:33:48] have like spent like you know massive
+[00:33:50] blood, sweat and tears have done
+[00:33:52] something useful and then get nothing
+[00:33:53] for it. That would be pretty bad.
+[00:33:55] Yeah. So um but I I think also um you
+[00:33:59] know this somebody's going to probably
+[00:34:00] get a company out of this you know
+[00:34:02] because I think this will be a need long
+[00:34:04] term and you know so uh and and uh so
+[00:34:09] this is kind of like you can also think
+[00:34:10] of it as like you know free venture
+[00:34:12] money.
+[00:34:12] Yeah.
+[00:34:13] You know
+[00:34:13] non-diluted venture capital.
+[00:34:15] Yeah. Free free free money for a
+[00:34:17] company.
+[00:34:17] And hopefully we're also creating a
+[00:34:19] massive marketplace and proving to
+[00:34:20] people that there is there's a there
+[00:34:22] there here.
+[00:34:22] Yeah. So 50 million uh for the first uh
+[00:34:26] 30 million split among second, third,
+[00:34:27] and fourth.
+[00:34:28] In the next year, we're taking $15
+[00:34:31] million and distributing a million
+[00:34:33] dollars to the top 15 teams that appear
+[00:34:37] to be making the most progress, the most
+[00:34:38] real.
+[00:34:39] Just giving some people some seed money
+[00:34:40] basically. Yeah.
+[00:34:41] And then uh you've set aside five
+[00:34:43] million for student teams. Yeah.
+[00:34:44] Which is real important. You want to
+[00:34:46] talk about student teams? I know you're
+[00:34:47] passionate about that.
+[00:34:48] Yeah. Yeah. We we've done a lot of
+[00:34:49] student competitions for example with
+[00:34:51] Hyperloop. um just trying to uh you know
+[00:34:53] spur ideas in advanced transportation.
+[00:34:56] Um and it's really just basically an
+[00:34:59] electric car in a vacuum tube [laughter]
+[00:35:02] to be precise. I mean uh and we've we've
+[00:35:04] had several of them and and um you know
+[00:35:06] the the last Hyperloop competition they
+[00:35:08] actually I got like I think halfway to
+[00:35:10] the speed of sound. Uh so yeah, pretty
+[00:35:13] impressive. And and the the thing was to
+[00:35:16] you had to get to the fastest speed and
+[00:35:18] then and then stop without crashing.
+[00:35:20] Yeah. Um, so, um, that's it's kind of
+[00:35:23] exciting. It's like, is this thing going
+[00:35:25] to, you know, get what speed is it going
+[00:35:27] to get up to? Are they going to slam the
+[00:35:28] brakes on in time or is it going to hit
+[00:35:29] the crash barrier at the end? So, it's
+[00:35:31] pretty fun. And and then we kind of got
+[00:35:33] to
+[00:35:35] we I put that on pause and now we're
+[00:35:36] doing tunneling competitions because
+[00:35:39] nice change that Yeah, that technology
+[00:35:42] has not changed that much in a century.
+[00:35:44] No, honestly, I think we're we're going
+[00:35:46] to, you know, I mean, for I don't know,
+[00:35:49] five or seven years, I for a long time,
+[00:35:50] I was like, people ask me what
+[00:35:52] opportunities do you see, I said
+[00:35:53] tunneling, and they think I was joking,
+[00:35:54] but um I think this is the way to solve
+[00:35:57] traffic in um congested cities. Almost
+[00:35:59] every major city is congested. So, and
+[00:36:01] and with uh as autonomy uh gets better
+[00:36:04] and better and you have robo taxis and
+[00:36:06] everything um the robo taxis will be
+[00:36:08] cheaper than a bus or subway and people
+[00:36:10] will want it and it'll take you point to
+[00:36:11] point you know even when it's like
+[00:36:13] raining and snow uh and it's uh you know
+[00:36:16] so it's it's going to be better also I
+[00:36:18] think for you know from public health
+[00:36:20] standpoint like if there's another
+[00:36:21] pandemic and you know how do you get
+[00:36:22] around you know it's like you
+[00:36:24] uh you know it's just difficult to go in
+[00:36:26] crowded spaces so um then uh anyway so I
+[00:36:30] think tunnels are going to be really
+[00:36:31] important in the future for relieving
+[00:36:32] congestion in um in cities. So um
+[00:36:37] you know I I hope others start tunnel
+[00:36:39] tunneling companies um and just improved
+[00:36:41] tunneling technology and um that you can
+[00:36:44] have effect warp tunnels just going all
+[00:36:45] the way through this you know 3D
+[00:36:47] multiple levels and um we're the first
+[00:36:50] operational one in Vegas that's uh it's
+[00:36:53] going to go into operation I think in a
+[00:36:54] few months.
+[00:36:55] Uh
+[00:36:55] I know we could sit here and talk about
+[00:36:57] Macak Monkeys playing pong as well on
+[00:36:59] Neuralink. That was amazing.
+[00:37:00] Yeah,
+[00:37:01] that was awesome.
+[00:37:02] Yeah, but I'm not going to go there. I'm
+[00:37:04] going to focus still on on our on our
+[00:37:06] I played mine pong against the monkey.
+[00:37:07] You did? Did you win?
+[00:37:08] Yeah. No, but uh Well, but it hadn't
+[00:37:10] practiced as much yet. So, now it might
+[00:37:12] be able to beat me. Monkeys have very
+[00:37:14] good agility,
+[00:37:15] they've got to catch the branch.
+[00:37:16] They can swing through the trees and we
+[00:37:18] cannot. [laughter] Not very well, you
+[00:37:19] know. Um yeah.
+[00:37:22] So, I think a monkey actually could play
+[00:37:24] like a fast twitch video game really
+[00:37:25] well.
+[00:37:26] That's great.
+[00:37:26] Better maybe better than a human.
+[00:37:27] You can sponsor a team. Yeah, [laughter]
+[00:37:30] exactly. Esports, it's just monkeys
+[00:37:32] mechs against the best teams.
+[00:37:34] Yeah, it turns out the monkeys actually
+[00:37:36] love playing video games and uh and so
+[00:37:38] do my drinking smoothies. [laughter] No,
+[00:37:40] it's just like humans. I mean, basically
+[00:37:41] humans love snacks and video games and
+[00:37:43] so do monkeys,
+[00:37:44] you know.
+[00:37:45] Oh, that's awesome. Um, we're about to
+[00:37:48] go to questions in uh in two minutes. I
+[00:37:50] know we got a stack of them. Uh I just
+[00:37:52] want to hit on there are four categories
+[00:37:54] that teams can can uh put uh their
+[00:37:59] approaches forward. Uh first is direct
+[00:38:01] air capture. Pull it out of the air. Any
+[00:38:04] comment on that?
+[00:38:06] Uh sure. Well, I mean there's you can
+[00:38:08] certainly pull it out. There's there's
+[00:38:09] lot there's lots of ways to get carbon
+[00:38:10] out of the air.
+[00:38:11] Yeah.
+[00:38:12] Um you could absorb it many different
+[00:38:14] ways.
+[00:38:14] Yeah. Category two is oceans sort of
+[00:38:16] algae, kelp, plankton. um uh a lot of
+[00:38:20] CO2 in the oceans. People don't realize
+[00:38:22] that
+[00:38:24] uh category 3 land um trees. I mean uh
+[00:38:27] Mark Benoff is you know been backing a
+[00:38:30] trillion trees project. I mean that is
+[00:38:32] where are they going to be planted?
+[00:38:33] We'll find out.
+[00:38:34] Okay. [laughter]
+[00:38:36] There's by the way when people say that
+[00:38:38] world earth is being overpop populated.
+[00:38:40] Mhm.
+[00:38:41] Uh not true. It's like look out the
+[00:38:43] window and I know you and I have had
+[00:38:45] this conversation that you're more
+[00:38:47] worried about underpopulation of planet.
+[00:38:49] Oh yeah. Yeah. Um earth is going to face
+[00:38:51] a massive population collapse uh in in a
+[00:38:54] over the next 20 30 years. Massive.
+[00:38:57] Yeah.
+[00:38:58] Um and it's this this is definitely you
+[00:39:01] know will civilization you know the
+[00:39:02] question of like civilization going to
+[00:39:04] die with a bang or wimper? This would
+[00:39:05] definitely be dying with a wimper.
+[00:39:07] Yeah. We we need
+[00:39:08] the birth rate is very low.
+[00:39:09] Yeah. It's it's been dropping right. It
+[00:39:10] used to be five, six children per
+[00:39:12] family. Globally, it's like 2.4. Below
+[00:39:14] in the US, it's below below replacement
+[00:39:17] levels.
+[00:39:18] I mean, in in in most of Europe, Russia,
+[00:39:20] Japan, Korea, Singapore, um you know, uh
+[00:39:25] it's uh it's well below replacement. Um
+[00:39:28] but I would still say
+[00:39:30] so.
+[00:39:31] Are you I mean, when we spoke last about
+[00:39:33] this, you're still a sort of abundant
+[00:39:35] optimist that the world is getting
+[00:39:36] better on many levels. Yeah, I I think
+[00:39:39] that the the world is generally getting
+[00:39:41] better. Um,
+[00:39:43] you know, I have some concerns about
+[00:39:45] advanced AI like um you know uh
+[00:39:50] that that's a risk. If I say like
+[00:39:52] existential risks, I' I'd say um super
+[00:39:56] advanced AI is one.
+[00:39:58] Um
+[00:39:59] and and probably this second biggest
+[00:40:01] risk after that is population collapse.
+[00:40:03] Not asteroid impact.
+[00:40:05] No, the population collapse. The thing
+[00:40:07] about uh demographics and birthway is
+[00:40:10] you know what's going to happen in 20
+[00:40:11] years because you know the birth rate
+[00:40:13] last year.
+[00:40:14] It takes like 20 years for a person to
+[00:40:16] grow up.
+[00:40:16] Yeah.
+[00:40:16] So we we know what the adult population
+[00:40:19] is going to be 20 years from now because
+[00:40:20] we know what kids were born last year.
+[00:40:23] Um I think it's we have a serious issue
+[00:40:27] with population collapse.
+[00:40:29] Um that's far bigger than people
+[00:40:32] realize. Um and and you know just the
+[00:40:35] the social networks and everything were
+[00:40:37] I mean the the social support networks
+[00:40:38] were not really set up for a high ratio
+[00:40:41] of retirees to workers. So many so so
+[00:40:44] then
+[00:40:45] well thank god we got robots coming in.
+[00:40:47] Yeah the robots Exactly. We'll need
+[00:40:48] those We'll need those robots but you
+[00:40:50] don't want to have the the youth
+[00:40:51] effectively enslaved to take care of the
+[00:40:53] elderly
+[00:40:55] you know which is what would kind of
+[00:40:57] happen if if you have an upside down
+[00:40:59] demographic pyramid. Um, let's get to
+[00:41:02] the questions. First of all, uh, if
+[00:41:04] you're interested in the guidelines or
+[00:41:06] to register a team, go to xprise.org.
+[00:41:09] You can download the guidelines again up
+[00:41:11] until I think May 13th. We're looking
+[00:41:13] for, uh, public comment. Please tell us
+[00:41:16] what we could do to improve it. And then
+[00:41:18] please register, you don't of as a team
+[00:41:20] so we can communicate with you if you're
+[00:41:22] interested. Uh before we go to the
+[00:41:25] questions and you go to uh XP prize's uh
+[00:41:27] Twitter account Xprize to ask questions.
+[00:41:30] Uh let's go to a short video from uh Dr.
+[00:41:35] Marcus Extravar. We call him Dr. X. He
+[00:41:38] is the lead for us. An amazing brilliant
+[00:41:40] individual uh who leads our carbon and
+[00:41:43] climate work. Um all right, let's uh
+[00:41:48] let's uh see what Dr. Extraor has to
+[00:41:50] say.
+[00:41:57] I'm looking for a hund00 million answers
+[00:41:58] that can help change the course of human
+[00:42:00] history and help heal our planet. But
+[00:42:02] what's the question? In the next 100
+[00:42:03] seconds, I'm going to explain.
+[00:42:06] [music]
+[00:42:08] I'm Marcus Extavore, vice president of
+[00:42:10] energy and climate at X-Prise. The
+[00:42:12] question is, how do we take centuries of
+[00:42:13] CO2 emissions out of the air and oceans?
+[00:42:16] If you've got the skills to answer that
+[00:42:17] question, we'd love to hear from you
+[00:42:19] today. Now, let's start with the basics.
+[00:42:21] We've got to reduce our CO2 emissions
+[00:42:23] and get to net zero. But net zero is not
+[00:42:25] enough. We also have to go carbon
+[00:42:27] negative. And we need to get there fast.
+[00:42:29] That means taking CO2 that's currently
+[00:42:31] in the air and oceans, removing it, and
+[00:42:33] storing it for a long, long time. Do you
+[00:42:35] know how to remove CO2 using the land,
+[00:42:37] oceans, rocks, or even taking CO2
+[00:42:39] directly out of the air? We've got to
+[00:42:40] get the CO2 from up here and locking it
+[00:42:42] away down here. We know plants and trees
+[00:42:44] can do this and been doing it for a long
+[00:42:46] time. They're great at [music] this. But
+[00:42:47] do you know how to help plants and trees
+[00:42:49] sequester that CO2 in the vegetation and
+[00:42:51] soils in a way that's durable and can
+[00:42:53] last for centuries? How do we use the
+[00:42:54] oceans to sequester vast amounts of CO2?
+[00:42:57] Kelp and seagrasses are great at this
+[00:42:59] and about a third of our emissions are
+[00:43:00] already in the oceans. Do you know how
+[00:43:02] to remove it and sequester it safely?
+[00:43:04] What about rocks and helping them remove
+[00:43:06] CO2? Many rocks can do this naturally,
+[00:43:08] but the process takes thousands of years
+[00:43:09] on its own. Do you know how to
+[00:43:10] dramatically speed that up? Now, you
+[00:43:12] might already have an amazing idea in
+[00:43:13] direct air capture in soil sequestration
+[00:43:16] or tree planting or farming, or maybe
+[00:43:17] kelp farming and seagrass, marine
+[00:43:19] biology, ocean alkalinity enhancement,
+[00:43:21] geological sequestration, mineralization
+[00:43:23] and enhanced weathering, or maybe a
+[00:43:25] technique no one's heard of before. We
+[00:43:26] want your $100 million ideas. Enter the
+[00:43:29] largest incentive prize in history.
+[00:43:30] Visit xpriseze.org to find out how to
+[00:43:32] register a team and get involved.
+[00:43:34] Together, we can help balance Earth's
+[00:43:36] carbon cycle and protect our climate for
+[00:43:38] future generations. What does a $100
+[00:43:39] million answer look like? It looks like
+[00:43:41] any other crazy idea. It just has to
+[00:43:44] work.
+[00:43:50] Yeah. Yeah. It's just uh we're so we're
+[00:43:52] so uh lucky to have amazing people,
+[00:43:54] which is what SpaceX and Tesla, I mean,
+[00:43:57] people who care about about changing the
+[00:43:59] world. All right, we're going to go to
+[00:44:00] uh some questions. Um let's uh we have
+[00:44:02] some over here. The first one is from
+[00:44:04] Chuck Brady in Austin. Uh Chuck is uh
+[00:44:07] one of our innovation board members, one
+[00:44:09] of the earliest funders that did the
+[00:44:11] background work in the climate for so I
+[00:44:14] found this question uh super
+[00:44:16] fascinating. So he says if the bogey is
+[00:44:19] 10 gigatons per year uh and the global
+[00:44:23] economic output is $87 trillion at least
+[00:44:25] it has been the last year then at $200
+[00:44:28] per ton uh to sequester uh uh cost
+[00:44:32] sequestration is 2 trillion or about 2%
+[00:44:35] of the global GDP. So it seems like a
+[00:44:37] reasonable drag in overall economy uh if
+[00:44:40] we could stop reverse climate change.
+[00:44:42] The shortcoming right now is we don't
+[00:44:44] have a scalable way yet to capture and
+[00:44:46] sequester CO2. So that's the background.
+[00:44:48] That seems like a reasonable estimate.
+[00:44:50] So here's this first question.
+[00:44:52] Uh should competing teams prioritize
+[00:44:54] scalability over cost and what lessons
+[00:44:57] from Tesla and SpaceX have you learned
+[00:45:00] uh to help teams thinking about uh the
+[00:45:02] design of their solutions?
+[00:45:04] Well, I think it's not unless the cost
+[00:45:07] is affordable, it's not scalable. I mean
+[00:45:09] I thought the the prior math was was
+[00:45:11] pretty sensible there. Um you know we
+[00:45:13] could we could afford something perhaps
+[00:45:15] which is um one or two% of GDP but it
+[00:45:18] would be extremely painful if it was 20%
+[00:45:21] of GDP. Yeah.
+[00:45:22] Um we started having to cut into
+[00:45:24] healthare and and and all sorts of you
+[00:45:26] know social care programs. Um and if
+[00:45:29] it's 200% of GDP it's not happening at
+[00:45:31] all.
+[00:45:31] Yeah.
+[00:45:32] Um so we want to just let them know that
+[00:45:34] the audio feeds coming. Uh yeah. Uh uh
+[00:45:38] Chuck uh has a second question I also
+[00:45:40] thought was really important. It says uh
+[00:45:42] while we want the lowest cost uh that
+[00:45:45] will do a gigaton per year uh or more uh
+[00:45:48] inevitably there going to be trade-offs
+[00:45:50] between cost and scalability.
+[00:45:52] Uh no actually I think um something's
+[00:45:55] not scalable unless the cost is uh is
+[00:45:58] low.
+[00:45:59] Yeah.
+[00:46:00] So or at least if the cost at scale is
+[00:46:02] low. Um
+[00:46:05] uh yeah I mean I mean I guess Tustin
+[00:46:06] Skelbury you could say like I could
+[00:46:08] plant a tree. Yeah sure. Uh [laughter]
+[00:46:10] okay. Um yeah. Yeah. But uh
+[00:46:14] we just need to solve the problem and
+[00:46:16] and and so both uh cost and scalability
+[00:46:19] need to be addressed. Um it's like is it
+[00:46:21] going to be remove enough carbon to
+[00:46:24] matter and can we afford it as a
+[00:46:27] civilization?
+[00:46:27] Yeah.
+[00:46:28] Those are the two things that that
+[00:46:29] matter.
+[00:46:30] Yeah. Um and then just obviously making
+[00:46:32] sure that it in in sequestering the
+[00:46:34] carbon we're not uh at the same time
+[00:46:36] creating uh some new environmental
+[00:46:39] issue. Um so
+[00:46:40] I mean that's an important point right
+[00:46:42] that we're not creating a new
+[00:46:43] environmental issue at the same time
+[00:46:45] that we are
+[00:46:45] Yeah. Yeah.
+[00:46:46] or or maybe it is but it can only be
+[00:46:49] must basically the cure has got to be
+[00:46:50] much better than the disease.
+[00:46:51] Yeah.
+[00:46:52] Obviously.
+[00:46:52] Yeah. Um so like you know you take take
+[00:46:56] take some medication some maybe there's
+[00:46:57] like slight side effects but but you
+[00:46:59] generally want the medication to be much
+[00:47:01] better than the disease. Um so it just
+[00:47:04] got to make sense like we can see a path
+[00:47:06] to this um to working at scale and
+[00:47:09] solving a problem.
+[00:47:10] It has to have some chance of that.
+[00:47:11] Pesh Galani from Los Angeles uh one of
+[00:47:14] our vision circle members says uh who do
+[00:47:16] you think should be paying for the cost
+[00:47:17] of carbon capture? Is it government oil
+[00:47:19] industry attacks across everyone? Do you
+[00:47:22] have a sense about that?
+[00:47:24] Well, generally the
+[00:47:26] market systems work very well when
+[00:47:28] prices are accurate. And the problem we
+[00:47:30] have right now is that we're not
+[00:47:32] correctly pricing the cost per ton of
+[00:47:35] CO2 in the atmosphere and oceans. So,
+[00:47:38] um, and there are various attempts to
+[00:47:40] try to get get at this with subsidies
+[00:47:42] and whatnot, but but really the market
+[00:47:44] system will work work well if the market
+[00:47:47] systems work well if there is not a
+[00:47:49] pricing error. Yeah.
+[00:47:50] Um and we have a pricing error in that
+[00:47:52] we are not paying for this externality.
+[00:47:55] It's in classic economics. It's just an
+[00:47:57] unpriced externality in the we're not
+[00:48:00] paying for our garbage removal. So then
+[00:48:02] garbage piles up, you know. So um and so
+[00:48:06] the the logical thing to do and I think
+[00:48:08] the you know vast majority of economists
+[00:48:10] would agree is to uh put a tax on
+[00:48:14] carbon. Um, and then you can find ways
+[00:48:16] with with tax rebates and whatnot to
+[00:48:18] make sure it's not a regressive tax that
+[00:48:20] it does not unfairly um, you know,
+[00:48:23] negatively disproportionately negatively
+[00:48:25] affect uh, people on low incomes uh,
+[00:48:27] with with tax rebates and stuff. So,
+[00:48:30] I think that's the way to that that
+[00:48:32] that's the thing that systemically I
+[00:48:33] think is important to address it. Um,
+[00:48:36] if you correctly price something, the
+[00:48:39] market system works.
+[00:48:40] Yeah.
+[00:48:40] Prices are just information. We have the
+[00:48:43] wrong information. So
+[00:48:46] uh Julio from Dublin says uh do you
+[00:48:49] expect the technologies coming out of
+[00:48:51] this competition to have any use on on
+[00:48:54] Mars for example and PS thank you for
+[00:48:56] what you're doing for humanity? Uh yeah
+[00:48:58] I think so interesting thing on Mars is
+[00:49:01] um that uh Mars is a primarily CO2
+[00:49:04] atmosphere uh though it also has some uh
+[00:49:07] nitrogen and carbon and other trace
+[00:49:08] elements um nitrogen and argon I should
+[00:49:12] say in addition to primarily CO2. Um so
+[00:49:16] uh in order to produce propellant on
+[00:49:18] Mars uh we would we would take the CO2
+[00:49:21] from the atmosphere combine that with
+[00:49:23] water ice. Um, Mars has a lot of ice
+[00:49:26] under the dust.
+[00:49:27] It's amazing that we didn't that 20
+[00:49:29] years ago that wasn't known. I mean,
+[00:49:31] we're discovering it every place now.
+[00:49:33] Yeah. Yeah. Mars is just is basically
+[00:49:35] covered in ice. Um, it's just got dust,
+[00:49:38] too. So, it's hard to see the ice under
+[00:49:40] the dust, but uh there's there's I I
+[00:49:43] believe um if if you warmed Mars up,
+[00:49:46] you'd have an ocean with an average
+[00:49:48] death depth I think almost a mile or
+[00:49:50] something like that on the northern part
+[00:49:51] of the of the planet. It's like
+[00:49:53] something like 40% of the planet would
+[00:49:55] have an ocean potentially up to a mile
+[00:49:57] mile deep or something like that.
+[00:49:58] Extraordinary
+[00:49:59] like like a big it wouldn't be like just
+[00:50:02] a little lake or something like that. So
+[00:50:05] um so so you take uh the water ice H2O
+[00:50:09] and you combine that with the CO2 in the
+[00:50:11] atmosphere uh use something like this
+[00:50:13] body process where you run it over a
+[00:50:15] rather catalyst and uh you get um the
+[00:50:18] the um basically
+[00:50:20] methane. Yeah, you get methane. you get
+[00:50:22] CH4 uh and O2 oxygen. Um and that's um
+[00:50:26] that's actually why we designed the
+[00:50:28] Starship to use uh methane oxygen is
+[00:50:31] because we can actually create that
+[00:50:33] sustainably. Yeah. In fact, literally by
+[00:50:35] pulling the CO2 out of the atmosphere,
+[00:50:37] combining it with water
+[00:50:38] and then uh
+[00:50:40] and then using that as propellant. And
+[00:50:42] so uh actually by its very nature Mars
+[00:50:46] has to have a sustainable um sustainable
+[00:50:49] energy sustainable rocket propellant.
+[00:50:52] Yeah.
+[00:50:53] So
+[00:50:54] let's go to uh India. Uh Rohan Kumar
+[00:50:56] from Mumbai says why don't you simply
+[00:50:59] implement the available technologies on
+[00:51:01] a larger scale
+[00:51:03] like which technologies?
+[00:51:05] Yeah tree planting. Uh
+[00:51:07] I mean I I think there should be more
+[00:51:09] trees. Uh
+[00:51:10] I mean I think the I would say that
+[00:51:15] there currently does not exist
+[00:51:18] technologies that can scale to the
+[00:51:21] gigaton level at a reasonable cost and
+[00:51:24] that's the underlying purpose of this
+[00:51:26] competition is to uh to either either
+[00:51:30] demonstrate existing technologies can
+[00:51:31] and teams can use whatever technologies
+[00:51:33] they want or to really innovate and come
+[00:51:36] up with new approaches. just like
+[00:51:38] it will the thing is that uh generally
+[00:51:40] if if trees can grow somewhere they gen
+[00:51:43] you you usually do grow they they you
+[00:51:45] know they like unless they generally
+[00:51:48] yeah there's no one there pulling them
+[00:51:49] out other than humans in the Amazon
+[00:51:51] yeah I mean the Amazon is quite a thick
+[00:51:54] quite a big big thick jungle I've flown
+[00:51:56] over the Amazon many times and that is
+[00:51:58] one hell of a jungle
+[00:52:00] um in fact that like you would fly for
+[00:52:02] long periods of time and see nothing no
+[00:52:04] lights no fires no nothing um just
+[00:52:07] darkness and then eventually like fly
+[00:52:09] over Brazilia the capital and like out
+[00:52:10] of nowhere there's a bunch of lights um
+[00:52:13] but but there's just there's you know in
+[00:52:15] order to have a big increase in uh in in
+[00:52:19] tree biomass we would have we would have
+[00:52:22] to irrigate uh and um you know and pro
+[00:52:27] um provide manure you know like like
+[00:52:29] basically fertilizer and um we'd have to
+[00:52:32] cultivate
+[00:52:33] make it hospitable for the trees to
+[00:52:35] grow.
+[00:52:35] Yeah. And then you say, okay, well,
+[00:52:36] what's the energy cost of the of the
+[00:52:38] fertilizer and the getting the fresh
+[00:52:40] water there and um you know, just making
+[00:52:44] it habitable for trees. It's it's it's
+[00:52:46] you got to factor in the you know, the
+[00:52:48] energy cost of the fertilizer and and
+[00:52:49] the energy cost of the water
+[00:52:51] and all that. So it's like, okay, what's
+[00:52:52] the actual net carbon result? It's it's
+[00:52:54] not as good as people might think. It's
+[00:52:56] again, I'm not saying I'm anti- tree.
+[00:52:58] I'm pro tree, but [laughter]
+[00:53:00] but it but it would just be very
+[00:53:01] difficult to to blanket the Sahara with
+[00:53:04] trees. Um so let's this is an important
+[00:53:07] one here uh as teams are coming together
+[00:53:09] uh so Grant in Washington DC says uh
+[00:53:12] what is Elons and Peter's process of
+[00:53:14] building a strong team and ultimately I
+[00:53:17] think the quality of your team is
+[00:53:19] everything.
+[00:53:20] Uh yeah sure absolutely how you get
+[00:53:22] things done. How do you I mean when you
+[00:53:24] start a new company like like Neurolink
+[00:53:27] or Boring uh how do you recruit that
+[00:53:31] first core team?
+[00:53:33] Neurink and boring are very small
+[00:53:35] companies of websites like these are um
+[00:53:38] tiny compared to SpaceX and Tesla which
+[00:53:41] is
+[00:53:41] sure
+[00:53:42] well well well over 90% of what I do is
+[00:53:44] just SpaceX and Tesla. Um so
+[00:53:48] um you know Neurolink and Warren company
+[00:53:50] are each just a few hundred people. Um
+[00:53:53] but how do you but these teams
+[00:53:55] 80,000 people?
+[00:53:56] That's incredible dude.
+[00:53:57] Yeah. So it's tell uh SpaceX is like
+[00:53:59] over 8,000 people. So
+[00:54:01] but how do you recruit that your initial
+[00:54:03] team to work on something? Is it do you
+[00:54:05] put out word? Do you uh do you know
+[00:54:07] somebody typically? Do you build around
+[00:54:09] somebody else? Do you pull from your
+[00:54:11] existing companies?
+[00:54:13] Well, it varies. I mean, um, my my I
+[00:54:17] mean, the first company way back in the
+[00:54:18] day, uh, Zip 2, um, what I did was, um,
+[00:54:23] um,
+[00:54:28] I just wrote software, you know, so I
+[00:54:30] didn't have any money. So, I came out to
+[00:54:31] with Zip 2, I came out to go do grad
+[00:54:34] studies at Stanford. Um, I had $100,000
+[00:54:37] in like student debt and one computer.
+[00:54:39] Um and I was going to actually work on
+[00:54:42] um advanced capacitors for used in
+[00:54:44] electric vehicles.
+[00:54:45] I remember that you saying that
+[00:54:46] way way back in the day.
+[00:54:47] Yeah.
+[00:54:48] Um so and I spent a couple summers
+[00:54:50] working on that before in in Silicon
+[00:54:52] Valley before going to Stanford. And
+[00:54:54] then that that summer I was like well
+[00:54:57] you know the internet's going to be
+[00:54:58] something that really changes the it's
+[00:55:00] going to be one of the biggest impacts
+[00:55:02] on on humanity. You know, it's like
+[00:55:03] humanity uh communication will go from
+[00:55:06] being like osmosis to humanity having a
+[00:55:08] nervous system where you could access
+[00:55:11] any part of humanity's knowledge from
+[00:55:12] from anywhere from any connection
+[00:55:14] anywhere. You could be in the middle of
+[00:55:15] the Amazon jungle and have access to all
+[00:55:17] of humanity's information more than if
+[00:55:19] somebody was living in the Library of
+[00:55:21] Congress. So, I was like, well, I I want
+[00:55:23] to be part of creating that. And so, I
+[00:55:25] just started writing software. I've been
+[00:55:26] writing software for a long time, but um
+[00:55:29] I actually wrote the first maps and
+[00:55:30] directions on the internet. First white
+[00:55:32] pages, first yellow pages by myself um
+[00:55:35] and then you know we hired a few interns
+[00:55:39] and then my brother joined another
+[00:55:41] friend of mine, Greg Curry, he's passed
+[00:55:42] away and um
+[00:55:45] and then we got some venture funding. Um
+[00:55:48] I thought it was crazy that these guys
+[00:55:49] were going to give us like they gave us
+[00:55:51] like $3 million and I was like this is
+[00:55:53] insane. like it's just us and some
+[00:55:55] interns
+[00:55:56] uh and then they're [laughter] giving us
+[00:55:58] $3 million. This is crazy. They must be
+[00:56:00] mad.
+[00:56:01] So I I think what I'm hearing you say is
+[00:56:02] if you know the the first most critical
+[00:56:04] part of the team is you as the as the
+[00:56:07] founder and the passionate individual
+[00:56:08] try to do useful things. Um
+[00:56:10] let's try and squeeze in a few more.
+[00:56:12] Well, I mean I think like the things you
+[00:56:14] like for for for SpaceX it was just
+[00:56:16] literally like okay we we we should
+[00:56:19] become multi you know multif family
+[00:56:21] species and um but these are like long
+[00:56:25] answers so I but I think in general if
+[00:56:28] you want to recruit people uh that are
+[00:56:31] you know really talented and driven you
+[00:56:33] have to say you have to state what the
+[00:56:34] what's the mission what's the problem
+[00:56:36] we're trying to solve
+[00:56:37] and and uh and and just be clearly
+[00:56:39] willing to you know pour a lot of blood
+[00:56:41] sweat and tears into it um and have a
+[00:56:43] convincing argument for why it matters.
+[00:56:45] Um
+[00:56:46] you know there's you know say like
+[00:56:48] there's three three major things for um
+[00:56:52] you know in terms of motivation. Uh it's
+[00:56:54] like first of all somebody's got to look
+[00:56:56] forward to coming to work in the morning
+[00:56:57] like if they're like are they enjoying
+[00:57:00] the the work itself intrinsically um
+[00:57:03] that's very important. Um
+[00:57:06] and uh the right work environment can
+[00:57:09] really make make a big difference there.
+[00:57:10] I think the ideally is that they're also
+[00:57:13] feel like that their rewards will
+[00:57:14] receive um fair financial compensation
+[00:57:17] like that they that you know the that
+[00:57:19] the financial rewards are are are good
+[00:57:22] and fair. Uh and then third for the
+[00:57:24] really for the best people in the world
+[00:57:26] they'll want to know are they is what
+[00:57:28] they're doing going to matter.
+[00:57:29] Yeah.
+[00:57:29] Like so uh if they spend 10 years doing
+[00:57:32] this will it make a difference to the
+[00:57:34] world or you know will people notice?
+[00:57:37] Will it matter? You know
+[00:57:38] can I get the next question please? Uh
+[00:57:41] Lee uh from San Diego says, "The X-P
+[00:57:43] prize just awarded 20 million in prize
+[00:57:45] money related to carbon removal. Uh can
+[00:57:47] you explain what the difference is
+[00:57:49] between that and the Musk Foundation's
+[00:57:51] X-P prize?" Uh we had a $20 million uh
+[00:57:55] Energy COIA prize for pulling CO2 out of
+[00:57:58] the smoke stack of a natural gas and
+[00:58:01] coal plant and turning it into a product
+[00:58:04] more profitable in the cost of
+[00:58:06] extraction. And we just uh the two teams
+[00:58:08] that won that were creating uh concrete
+[00:58:11] and uh they're up and scaling. So it's a
+[00:58:14] you know now it's instead of just out of
+[00:58:16] the the plants right now and thank you
+[00:58:18] to Wyoming uh for their support there.
+[00:58:21] Um it's now can we pull it out on a
+[00:58:23] global a global level?
+[00:58:24] Okay.
+[00:58:25] Um
+[00:58:26] what sort of tonnage are they able to
+[00:58:27] do?
+[00:58:28] Uh I actually don't know the answer. uh
+[00:58:30] but uh uh
+[00:58:33] uh Nandan from India says can a
+[00:58:36] 17-year-old register uh given that I
+[00:58:40] have the resources and ideas. Uh yeah,
+[00:58:43] I think so. Sure.
+[00:58:44] I I think
+[00:58:45] there's there age limit right now.
+[00:58:46] There's no age limit. We're in fact
+[00:58:47] student teams are going to be important.
+[00:58:49] Um Oie from London says technology is a
+[00:58:51] piece of the climate change solution,
+[00:58:53] but how do you change behavior and
+[00:58:55] habits? What do you think about that?
+[00:58:59] I think changing people's behavior and
+[00:59:00] habits is tough. Um or basically if
+[00:59:02] you're trying to convince people to make
+[00:59:03] life more more miserable for themselves,
+[00:59:05] this is a a hard argument to win.
+[00:59:07] Um so with with Tesla, when we created
+[00:59:10] Tesla, we're like, "Okay, look, we we
+[00:59:12] got to make a car that's exciting and
+[00:59:14] and fun and and looks good. Uh, and then
+[00:59:17] people don't have to, if you're trying
+[00:59:18] to convince people to that in order to
+[00:59:20] save the environment, you have to wear a
+[00:59:22] hair shirt [laughter]
+[00:59:24] and and and make life miserable and your
+[00:59:26] food's going to be terrible. It's that's
+[00:59:28] this is a uphill battle. Okay. So, at
+[00:59:31] Tesla, we're like, we're just going to
+[00:59:32] make electric cars that are better than
+[00:59:34] gasoline cars.
+[00:59:35] Faster. Yeah. Lower cost for
+[00:59:36] maintenance. They look beautiful.
+[00:59:38] They're faster and they have also, you
+[00:59:40] know, cool advanced technology. They're
+[00:59:42] more fun. um you know have to go to gas
+[00:59:44] stations which are nasty um and so you
+[00:59:48] know but you got to solve long distance
+[00:59:50] problem with superchargers um so I think
+[00:59:52] it is actually you know uh going to be
+[00:59:56] be way more palatable to people if if if
+[00:59:59] it's uh if whatever solution is is
+[01:00:01] removing carbon does not make their
+[01:00:03] quality of life worse.
+[01:00:04] Yeah. One last question here from uh
+[01:00:06] from Godfrey in New York. Um, I know
+[01:00:09] Godfrey, he is uh got ALS and uh he is
+[01:00:14] loving his fully self-driving Model S.
+[01:00:16] Okay. Well, it's not fully self-driving.
+[01:00:18] Yeah, I know. I know, but but [laughter]
+[01:00:20] it's getting there. It's getting there.
+[01:00:21] It's getting there. And uh and so he's I
+[01:00:23] mean for people who are disabled, it's
+[01:00:24] extraordinary technology. It's coming
+[01:00:26] and he's a he's a brilliant uh brilliant
+[01:00:28] human being. He says, "Hi, Elon. Big fan
+[01:00:30] of your work. Massively and eternally
+[01:00:32] grateful to you for being a powerful
+[01:00:34] source of inspiration to me. Can you
+[01:00:36] please share uh who and what inspires
+[01:00:39] you and drives you to be so insanely
+[01:00:41] productive uh at a superhuman level? So,
+[01:00:46] what who and what
+[01:00:50] um well, I don't know. I think I I was
+[01:00:52] uh I was always kind of like a crazy
+[01:00:54] kid, I suppose. Um
+[01:00:57] I was just very curious about the world
+[01:00:59] and um how did we come to be here?
+[01:01:03] What's the meaning of life and all that?
+[01:01:04] And uh
+[01:01:06] um I always had a really intense desire
+[01:01:10] to understand things and learn. Um
+[01:01:18] yeah, I mean I had sort of an
+[01:01:19] existential crisis I guess when I was I
+[01:01:21] don't know 11 or 12 or something to try
+[01:01:24] to figure out what it's all about you
+[01:01:26] know and uh ultimately came came to the
+[01:01:29] conclusion that um we don't really know
+[01:01:31] the answer but uh but if we increase the
+[01:01:34] scope and scale of civilization then we
+[01:01:37] uh we have a much better chance of
+[01:01:39] understanding the meaning of life and
+[01:01:40] why why we're here or even what are the
+[01:01:42] right questions question to ask. So
+[01:01:44] therefore, we should strive to expand
+[01:01:46] the scope and scale of consciousness to
+[01:01:49] better understand the questions to ask
+[01:01:52] about the answer that is the universe.
+[01:01:53] Yeah. Well, on behalf of uh
+[01:01:58] the human race, on behalf of everybody
+[01:02:01] watching, Elon, thank you for all that
+[01:02:02] you do. I I know you you work 247 and
+[01:02:05] driven by passion. So,
+[01:02:07] thanks.
+[01:02:08] Yeah. um just uh grateful for what
+[01:02:12] you've done and thank you for supporting
+[01:02:13] and and launching this uh this X-P
+[01:02:16] prize. It's meaningful beyond belief and
+[01:02:18] hopefully
+[01:02:20] now it's everybody else's turn to try
+[01:02:21] and and dig in and form teams.
+[01:02:23] Yeah, I hope you'll have a good time and
+[01:02:24] and you know some some productive stuff
+[01:02:26] comes out of it. That'd be great.
+[01:02:27] Yeah, that would be awesome. Um for
+[01:02:30] everybody uh tuning in, uh I know we
+[01:02:32] have literally thousands of questions.
+[01:02:34] We're going to be going to uh to Twitter
+[01:02:37] spaces live which is Twitter's new uh
+[01:02:39] audio chat feature. Dr. Marcus Extravore
+[01:02:43] and Zenia Tata and I will be there to
+[01:02:45] engage and answer as many of questions
+[01:02:47] as we can about the rules.
+[01:02:48] Is this like Twitter's clubhouse thing?
+[01:02:50] This is Twitter's clubhouse. [laughter]
+[01:02:51] Yes. Yes.
+[01:02:52] Okay.
+[01:02:52] Awesome. So, um pal, uh again, I'm going
+[01:02:56] to be there tomorrow morning. Good luck
+[01:02:57] with the launch.
+[01:02:58] Yeah, it's going to be a late night. I
+[01:02:59] I'll be up uh all night um because
+[01:03:02] launch is pretty early in the morning.
+[01:03:04] Yeah. Um I'm going to I'm going to tap
+[01:03:06] on you for my invitation to the uh to
+[01:03:09] Bokhica for a uh
+[01:03:10] Sure.
+[01:03:11] a Starship flight.
+[01:03:12] It's pretty wild seeing that.
+[01:03:14] It's uh that feels like the future. It
+[01:03:17] that's pretty insane.
+[01:03:18] Yeah. Yeah. Buck Rogers, here we come.
+[01:03:22] Yeah. Yeah.
+[01:03:24] All right. See you guys in Twitter
+[01:03:25] spaces. Elon. All right. Thanks. All
+[01:03:28] right. Pleasure. Thank you.
+[01:03:30] Thanks.

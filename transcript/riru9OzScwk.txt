@@ -1,0 +1,1383 @@
+[00:00:00] have you all here this is just so cool
+[00:00:02] but this is happening and hello all
+[00:00:06] right
+[00:00:11] oh I'm sorry say that one more time very
+[00:00:16] tiny tiny image in the corner well we
+[00:00:19] can they see if I can make this bigger I
+[00:00:25] need to see myself like I know what I
+[00:00:27] look like
+[00:00:29] what's up guys well we are yeah I think
+[00:00:37] we had some attempts um okay we can see
+[00:00:40] you loud and clear and we're just so
+[00:00:41] glad to have you here so so thank you
+[00:00:43] Ilan we're we're glad you're here on my
+[00:00:46] name is Zack Lauda I'm founder of hash
+[00:00:48] club I found it after I dropped out of
+[00:00:51] ninth grade to move to San Francisco and
+[00:00:53] to be a programmer my public school had
+[00:00:55] no computer science classes and still
+[00:00:57] most US public schools don't teach any
+[00:00:59] technology hack Club is a non-profit
+[00:01:02] lies on donations I know it's crazy 60
+[00:01:05] percent of high schools don't teach
+[00:01:06] computer science hack Club is a no
+[00:01:09] profit that relies on donations and it's
+[00:01:12] open and free to any high school student
+[00:01:13] who wants to learn to build an
+[00:01:15] innovative coat so we're live right now
+[00:01:30] we'll get started one second on so this
+[00:01:33] interview with you I like everything a
+[00:01:35] hack Club was ideated a teenager reached
+[00:01:38] out to you we have a small army of
+[00:01:40] teenagers managing the OBS stream to
+[00:01:42] YouTube right now we even have a
+[00:01:44] teenager facilitating this call so Elon
+[00:01:46] if hack Club is successful in 50 years
+[00:01:49] from now we're enough people running the
+[00:01:50] world who actually build things so thank
+[00:01:52] you for being here I would have pass it
+[00:01:54] off to a mug who's the host a mode
+[00:01:56] please take us away it's show time
+[00:02:00] my name is a Moog and I'm a 17 year old
+[00:02:02] from Connecticut and I've been with hat
+[00:02:04] club for two years and two years ago I
+[00:02:06] walked into my first meeting and came
+[00:02:08] out with a website and a burning desire
+[00:02:10] to create more and hack
+[00:02:12] has connected me to my closest friends
+[00:02:14] and organized events that I've never
+[00:02:16] thought were possible but most
+[00:02:17] importantly a club has taught me that if
+[00:02:20] there's a problem out there do we need a
+[00:02:22] build to fix it and that's why you Ilan
+[00:02:24] are a perfect guest today because you've
+[00:02:26] taken half clubs ideals and ran with
+[00:02:28] them you've talked about how electric
+[00:02:30] cars radhaji and uninteresting and as
+[00:02:32] chief engineer you've created Tesla to
+[00:02:34] be the premier electric car company for
+[00:02:36] decades people have said spaceflight is
+[00:02:38] just expensive affordable spaceflight is
+[00:02:41] impossible but you build space I should
+[00:02:43] think around up define what everybody
+[00:02:45] said four decades of putting affordable
+[00:02:46] space flight for honor horizons and just
+[00:02:49] like all of us
+[00:02:51] you were once a bold young student
+[00:02:55] and you have a drive to do them when you
+[00:02:57] were 12 you sold your first video game
+[00:02:59] for $500 and that's an echoed through a
+[00:03:01] hat club everywhere where you see so
+[00:03:02] many students doing that that's why
+[00:03:04] you're in for so many of our students
+[00:03:06] you've taken our ideals and ran with
+[00:03:07] them so with that being said we're gonna
+[00:03:09] go to our first question of the day Theo
+[00:03:12] who helped organize all of this do go
+[00:03:15] ahead cool all right
+[00:03:17] hi Ilan I'm Thea sixteen year old
+[00:03:20] student in Boston and I run a hat clip
+[00:03:23] here so my question is about cryonics so
+[00:03:27] cryonics I've got a controversial
+[00:03:28] some people think they're legit some
+[00:03:31] people think it's like totally
+[00:03:32] unfeasible and pseudoscience my question
+[00:03:34] is do you think that yeah yeah like
+[00:03:38] basically like yeah okay okay any
+[00:03:42] questions so I do you think that cries
+[00:03:45] at cryonics are legit um and do you
+[00:03:47] think that the tech to revive people who
+[00:03:49] have been preserved using cryonics will
+[00:03:51] exist in like let's say a hundred years
+[00:03:52] you got to take your best guess
+[00:03:56] well actually I think assuming the brain
+[00:04:01] is frozen quickly after death then I
+[00:04:05] think you probably could extract quite a
+[00:04:07] lot of information from it in the future
+[00:04:09] and you might be able to create
+[00:04:12] something approximating that person I
+[00:04:15] mean there's gonna be a few issues
+[00:04:16] obviously but the brain is very physical
+[00:04:22] it's it's much less mysterious than
+[00:04:24] people think
+[00:04:25] well I suppose simultaneously amazing
+[00:04:28] and and less mysterious it's I mean the
+[00:04:34] neurons are like they're like circuits
+[00:04:35] like they look like physical circuits oh
+[00:04:38] yeah so so therefore if you have a
+[00:04:41] physical brain you should be able to
+[00:04:43] recreate those physical circuits yeah
+[00:04:46] with some issues of course since you
+[00:04:48] know there's gonna be some damage but
+[00:04:50] and they do this right now with rats I
+[00:04:52] mean if you if you look kind of like you
+[00:04:54] know when they do grad experiments which
+[00:04:57] are kind of gruesome but I guess maybe
+[00:04:59] they've got some payback due from both
+[00:05:01] you know Black Plague and stuff
+[00:05:06] but they like they like dude ranch
+[00:05:08] premise will you know train the rat on a
+[00:05:10] maze and then they'll freeze the rat
+[00:05:12] brain and know like dissect it and you
+[00:05:14] can like see the maze kind of thing in
+[00:05:17] the brain like nice pretty nut so can
+[00:05:21] you humans - yeah cool okay thank you so
+[00:05:24] much
+[00:05:25] yeah pretty question so Elan so like all
+[00:05:28] of us you were once like a student
+[00:05:29] hacker and you had all these same
+[00:05:30] interesting ideas could you share with
+[00:05:32] us a story like about your first hack or
+[00:05:34] something along those lines
+[00:05:36] yeah you guys seem really awesome by the
+[00:05:38] way I mean you know I can't tell you
+[00:05:46] know all the things that I did because
+[00:05:47] that probably get me in trouble but you
+[00:05:53] know I think some I'd be logged out for
+[00:05:54] you know I had all the basic things you
+[00:05:59] know like act for school computer like
+[00:06:02] the old it sort of we started with the
+[00:06:04] basic stuff like third nation Harry hack
+[00:06:06] you know look for the default username
+[00:06:09] that's where they came with the thing
+[00:06:11] okay you what's the sermon but they
+[00:06:16] probably taped their password I know the
+[00:06:17] best you know that kind of stuff by the
+[00:06:21] way that can get you very far
+[00:06:25] what's the Wi-Fi password check the
+[00:06:27] router and these just stayed there so
+[00:06:32] though you know then it's like you know
+[00:06:35] zero day exploits where there's like a
+[00:06:38] you know some code error in the driver
+[00:06:41] or in a common library you know those
+[00:06:44] those bunch of those you know and you
+[00:06:57] know there was like when when compiling
+[00:07:01] code you could pilot to be encrypted and
+[00:07:03] then I had but I met with a friend of
+[00:07:08] mine said oh no you there's no way you
+[00:07:09] can tell me what my code is because I'm
+[00:07:13] gonna compile it running and then it's
+[00:07:15] is and then deleted it it's like okay
+[00:07:19] well you know what actually happens is
+[00:07:21] that when you you go to leap unless you
+[00:07:23] just rub the entire gram of the system
+[00:07:25] is still there so just like in general
+[00:07:28] you just like filling the first few
+[00:07:30] bites and bingo you got the whole you
+[00:07:33] know here's your code just you just
+[00:07:36] basically around the memory you know
+[00:07:39] filling filling filling gaps the same
+[00:07:41] for files of course so people think oh I
+[00:07:44] deleted my file no actually the computer
+[00:07:47] just like you know deleted the first few
+[00:07:50] bites of the directory basically then
+[00:07:55] the disk allocation of that file and you
+[00:07:58] can totally just do you know just just
+[00:08:03] read read all the lights on it on the
+[00:08:04] disk and and pretty what you're gonna
+[00:08:06] get you're gonna get most of what was
+[00:08:08] allegedly deleted so much to do hardly
+[00:08:11] is a full layer obviously amazingly a
+[00:08:15] lot of knuckleheads still didn't realize
+[00:08:16] that oh yeah I myself like didn't know
+[00:08:29] about hard to eat till like two years
+[00:08:31] ago so so efficient will come from Sam
+[00:08:35] Yuka and reminder for everybody asking
+[00:08:37] question introduce yourself your grade
+[00:08:39] and wear your hat clubs located
+[00:08:41] anyway same yuktah you have the floor hi
+[00:08:44] everyone my name is Samyuktha
+[00:08:48] I'm a sixteen year old and my hat Club
+[00:08:50] is located Atlanta Georgia so my
+[00:08:52] question is okay if what role do you
+[00:08:57] think organizations like hack Club or
+[00:08:59] generally just like high schoolers play
+[00:09:01] in tech especially a lot of times like
+[00:09:03] for us it seems to be really
+[00:09:04] concentrated like for me I don't live on
+[00:09:06] the west coast I live in Georgia so I
+[00:09:08] have separated a lot of time from all
+[00:09:10] the action like all the hack something
+[00:09:12] whatever so what role do you think that
+[00:09:14] like more remote or just like generally
+[00:09:16] building this kind of movement has on
+[00:09:18] the future technology well I mean you
+[00:09:23] know but I write software that you know
+[00:09:27] you your friends find interesting like
+[00:09:29] you know is either
+[00:09:31] or useful so you know like writing
+[00:09:36] videogames every night
+[00:09:37] alright playing video games those like
+[00:09:40] well like the right one - yeah my own
+[00:09:43] video game everything so it wasn't like
+[00:09:46] from some sort of like your career
+[00:09:47] development standpoint I was like whoa
+[00:09:48] computers can do this that's incredible
+[00:09:50] and so let me see if I can write a game
+[00:09:54] - because I was like really admiring all
+[00:09:57] these people I could write these awesome
+[00:09:59] video games that's like wow would be
+[00:10:01] super great if I can write one tears of
+[00:10:03] wrote a few simple games and then when
+[00:10:06] you referred to blastaar I mean his dad
+[00:10:08] let's just say I'm at least consistent
+[00:10:10] because the video game I wrote about
+[00:10:11] what that particular one was a space
+[00:10:13] video game like defending against aliens
+[00:10:18] with your spaceship it was the last star
+[00:10:23] is what it meant to be so I think just
+[00:10:27] like trying to make do things that are
+[00:10:29] interesting and useful to go fun with
+[00:10:33] your friends and it makes you like have
+[00:10:34] a good time you know and like say what
+[00:10:36] draws you in like what doesn't feel like
+[00:10:39] work and do that you know you know but I
+[00:10:45] think it is kind of like I sort of
+[00:10:48] connected most of time but kind of a
+[00:10:49] weird sort of lonely pursued or not
+[00:10:52] lonely but it's like it's usually not
+[00:10:56] that collaborative meaning like you're
+[00:10:58] up late at night typing weird symbols
+[00:11:00] into a computer or all of you know
+[00:11:04] usually by yourself or at least there
+[00:11:06] might be someone nearby but you're not
+[00:11:08] like talking to them a lot so it's like
+[00:11:10] it's kind of a weird thing you know um
+[00:11:12] just like does that feel - yeah
+[00:11:15] sometimes it does sometimes it doesn't
+[00:11:17] but yeah just I think the hardest thing
+[00:11:21] is to do something useful or interesting
+[00:11:24] for others and that's worth doing and
+[00:11:27] like half usually ones like you know
+[00:11:29] breaking into stuff which is you know
+[00:11:31] within reasonable bounds I think you
+[00:11:35] know kind of fun you want to be a little
+[00:11:36] bit of a pirate you know it's listen to
+[00:11:39] all the rules these especially okay
+[00:11:42] don't listen to the rules these kids can
+[00:11:48] get away with a lot more say yeah yeah
+[00:11:53] absolutely
+[00:11:54] yeah like hot club was really bad was
+[00:11:58] exposing me to cool things and finally
+[00:11:59] were like appeals to you my first hot
+[00:12:01] club meeting I found literally
+[00:12:02] everything will every single weird CSS
+[00:12:04] thing I could do and slapped it on a
+[00:12:06] website it was terrible but it was a lot
+[00:12:08] of fun oh yeah question it's gonna come
+[00:12:11] from Jacob take it away
+[00:12:13] oh hi love my name is Jacob pop I am
+[00:12:16] from Cincinnati Ohio and I was wondering
+[00:12:19] so if the world is a simulation would
+[00:12:22] you say there is a way that we can
+[00:12:23] manipulate the simulation or sort of
+[00:12:25] find a way to cheat to make everything
+[00:12:28] better for ourselves
+[00:12:29] yeah that's a great question well you
+[00:12:34] know when I talk about the simulation
+[00:12:35] hypothesis I you know this is like a
+[00:12:38] falafel standpoint it's not with the
+[00:12:40] post and what of like well you know we
+[00:12:42] shouldn't care about things or because
+[00:12:43] if you're in the simulation it's as real
+[00:12:45] as reality it is reality and and then to
+[00:12:49] your point like whether it's a
+[00:12:52] simulation or not it's we should really
+[00:12:54] strive to make it like interesting and
+[00:12:56] exciting and how the future should be
+[00:12:58] you know so many people look towards you
+[00:13:00] and you know especially times like this
+[00:13:03] it's like man we really need reasons for
+[00:13:05] optimism in the future and and
+[00:13:11] I think we want to you know expand the
+[00:13:15] scope and scale of consciousness and got
+[00:13:18] there and be a spacefaring civilization
+[00:13:20] and go fine at if there's like other
+[00:13:22] civilizations maybe they're out there
+[00:13:24] somewhere maybe today the existed
+[00:13:26] millions of years ago
+[00:13:26] I mean there might be you know all these
+[00:13:29] like one planet civilizations that you
+[00:13:30] know have their heyday and then we hope
+[00:13:33] they might be out there you know on
+[00:13:35] these it's just really interesting ruin
+[00:13:39] some planets far away type of thing you
+[00:13:41] know and okay how do we build a positive
+[00:13:46] future that people are excited about and
+[00:13:52] too often like people are just like clam
+[00:13:53] you know dare each other down and but
+[00:13:55] attack be negative it's like too much
+[00:13:58] negativity like this like stay okay drip
+[00:14:02] out of this negativity but like hey
+[00:14:04] let's like pull towards some positive
+[00:14:06] future and be pro human you know the
+[00:14:15] next ants for you know just will towards
+[00:14:30] a better and brighter future that's yeah
+[00:14:34] I try to you know try to understand more
+[00:14:37] about the universe and why we're here
+[00:14:40] and what brought us here you know we're
+[00:14:43] trying to send like that was Adam said
+[00:14:45] like what are the questions we should
+[00:14:46] ask because like the universe is the
+[00:14:48] answer one of the questions yeah
+[00:14:51] absolutely I remember like one of one of
+[00:14:55] the first things we did in our Hakala
+[00:14:57] meetings is that I've learned about
+[00:14:59] broke hoes basileus that theory
+[00:15:02] we'd spent like the whole hour just
+[00:15:04] going down that rabbit hole
+[00:15:05] but yeah or some concern if you go down
+[00:15:12] that rabbit hole yeah we'll come from
+[00:15:16] like just bringing up this puzzle
+[00:15:19] exactly anyway
+[00:15:28] we'll come from the founder of Los Altos
+[00:15:30] taxes Eliana son hi my name is Selena
+[00:15:36] and I'm a college senior I taught Holly
+[00:15:38] slow but six years ago I was part of the
+[00:15:40] founding team at the hot club outlaw
+[00:15:42] senses high in California and you have a
+[00:15:45] ton of power and influence in the world
+[00:15:46] how does the strike of decisions to
+[00:15:48] advocate for something publicly how much
+[00:15:49] of it is doing good for the sake of
+[00:15:51] doing good well I mean mostly what I'm
+[00:15:58] trying to do is you know build things
+[00:16:05] that are useful and make the future
+[00:16:08] better and you know like I said I'm like
+[00:16:13] you know sometimes different times I'm
+[00:16:18] quite eerily Pro human you know and I
+[00:16:21] think there's love about humanity and I
+[00:16:24] so like okay we need to do some things
+[00:16:30] are really important like a transition
+[00:16:31] to sustainable energy transport and
+[00:16:35] sustainable energy production these are
+[00:16:37] you know it's like a total article it's
+[00:16:39] we transition to it we will run out of
+[00:16:43] even without environmental things we
+[00:16:45] would run out of energy and then
+[00:16:47] civilization would collapse so in fact I
+[00:16:50] should note that my interest in electric
+[00:16:52] vehicles and solar creates the
+[00:16:54] environmental concerns because I just
+[00:16:56] looks like okay if we do not have
+[00:16:57] sustainable energy and electric cars you
+[00:17:02] know then the civilization will collapse
+[00:17:04] independent of any of our environmental
+[00:17:06] concerns you know actually I'm not
+[00:17:10] somebody who would say like oh we must
+[00:17:12] immediately stop the oil and gas
+[00:17:14] industry because this would cause a
+[00:17:15] civilization to collapse also but we do
+[00:17:18] need to transition over time to a
+[00:17:20] sustainable energy system and we want it
+[00:17:25] you know probably have that in curved
+[00:17:27] you know faster rather than slower and
+[00:17:29] that you know that's that's like you
+[00:17:31] know we need
+[00:17:32] cars and solar and batteries in the kind
+[00:17:33] of thing and then we want to be on a
+[00:17:38] path to become multi-planet species and
+[00:17:40] that's spacefaring civilization and go
+[00:17:42] out there trying to understand the
+[00:17:44] nature of the universe and what's going
+[00:17:45] on and it's just basically I think from
+[00:17:50] both preservation of civilization as
+[00:17:54] well as the the adventurer and just the
+[00:17:58] excitement of the future anything about
+[00:18:01] like you know when you know when they
+[00:18:04] went to the moon you know there's not a
+[00:18:05] long time ago almost half a century I
+[00:18:07] you know a small number of people went
+[00:18:09] we actually all went with them
+[00:18:11] vicariously and we only experienced that
+[00:18:13] and it was a great moment for for
+[00:18:15] Humanity
+[00:18:15] though like we should have more that of
+[00:18:18] stuff you know that's like that's the
+[00:18:19] kind of thing that makes life worth
+[00:18:21] living so you know and then they're also
+[00:18:26] you know all these like social issues
+[00:18:27] but I'm trying to focus my energy on
+[00:18:29] like what is the thing that is
+[00:18:31] definitely good and then you know people
+[00:18:34] will argue about this that or the other
+[00:18:35] thing but we definitely need sustainable
+[00:18:38] energy and I think we definitely want to
+[00:18:39] go out there and explore the universe
+[00:18:41] absolutely that was a really interesting
+[00:18:43] perspective and great question Selina
+[00:18:45] next up we have so harsh take it away
+[00:18:49] hi so my name is the hard from a high
+[00:18:51] schooler I'm a 16 year old high school
+[00:18:54] near Boston and I had a question about
+[00:18:55] mainstream media so you've expressed
+[00:18:57] your displeasure with mainstream media
+[00:18:59] um I was just wondering what do you see
+[00:19:02] as a replacement for mainstream media or
+[00:19:04] rather an alternative to it like it's
+[00:19:06] mainstream if like the current Lord is
+[00:19:08] falled who you see taking their place
+[00:19:10] won't there be when it just be the same
+[00:19:12] like same concept but just different
+[00:19:14] people I think this is a good example of
+[00:19:20] what I think the future of media should
+[00:19:22] be basically citizen citizen journalism
+[00:19:26] this is a medium like you basically you
+[00:19:32] know it's like you know this the thing
+[00:19:37] to appreciate about like the several
+[00:19:40] mainstream media is that this there's a
+[00:19:42] feedback mechanism around advertising
+[00:19:44] and click
+[00:19:45] which is not healthy it's it's kind of
+[00:19:50] like it's hard to sort of blame but
+[00:19:54] individuals in this system it's like the
+[00:19:56] system is messed up you know and and so
+[00:19:59] if you're a journalist a you don't write
+[00:20:01] the inflammatory article that gets tons
+[00:20:03] of clicks then you might lose your job
+[00:20:06] the same goes for the editor and and
+[00:20:08] we're not and so this is just a tough
+[00:20:11] situation
+[00:20:12] like it's tough this was heads it's kind
+[00:20:15] of a no-win situation to be totally
+[00:20:16] Frank like I'm like you know very much
+[00:20:20] sort of like and y ahora tizen like
+[00:20:22] Tesla's never advertised even in 2008
+[00:20:25] we're almost dying I was like I could
+[00:20:27] not bring myself to advertise I just
+[00:20:29] rather put the money into making the car
+[00:20:32] better and end the word of mouth um you
+[00:20:36] know there's still a path through word
+[00:20:38] of mouth basically under stink there's
+[00:20:41] something broken with the moral
+[00:20:44] structure of advertising be totally
+[00:20:46] Frank it's me it's messed up you know
+[00:20:51] that and that's was that's I think the
+[00:20:53] root of the problem and then the answer
+[00:20:55] I think is is citizen journalism that
+[00:20:57] we're doing right right now because you
+[00:20:59] asked way better questions frankly than
+[00:21:01] the mainstream media yeah absolutely I
+[00:21:06] think we've all seen like the rise to
+[00:21:07] clickbait especially on YouTube like all
+[00:21:10] those youtubers trying to get what
+[00:21:11] you're using you're right it is a real
+[00:21:13] interesting idea to talk about how it's
+[00:21:14] the system overall it's like pushing
+[00:21:16] everybody to do this alright next up
+[00:21:18] we're gonna hear a question from Cedric
+[00:21:23] Cedric are you there yeah hi um so Elon
+[00:21:28] in I think it's funny that you said that
+[00:21:30] you uh you didn't like advertising
+[00:21:35] because in my eyes a lot of your success
+[00:21:38] is in your your public representation um
+[00:21:42] like everyone knows who you are and if
+[00:21:45] they're not entertained if they're not
+[00:21:48] endeared by your shenanigans I mean
+[00:21:49] they're at least entertained by them um
+[00:21:51] and you know I
+[00:21:54] I mean not okay I understand again you
+[00:22:01] can't bat a thousand other shenanigans
+[00:22:03] but in general they're pretty fun yeah I
+[00:22:08] yeah everyone likes um and the maker
+[00:22:10] movement it is about shenanigans but it
+[00:22:13] has it has a much a much different
+[00:22:16] public representation right people don't
+[00:22:18] think that they can make things um and
+[00:22:20] you do a lot to make like through your
+[00:22:22] efforts in STEM education you do a lot
+[00:22:24] to make it more accessible um but people
+[00:22:27] still can't think that they can't do it
+[00:22:28] so how do we what advice would you give
+[00:22:31] to us like members of the maker move to
+[00:22:33] improve the public representation of
+[00:22:36] making things you've got a super great
+[00:22:49] point a lot of people the thing that
+[00:22:52] stops them from from 18 things we're
+[00:22:53] doing things is actually they're their
+[00:22:56] self-limiting and they messed up there
+[00:22:59] are people of much more like you know
+[00:23:03] it's like you gotta try just and believe
+[00:23:07] you know believe in yourself and try and
+[00:23:09] people can be way more than they think
+[00:23:13] and yeah I'm actually it's kind of in
+[00:23:18] fact more like the sort of physical
+[00:23:22] making
+[00:23:25] making things to think we're getting
+[00:23:26] we're getting disconnected from
+[00:23:29] physicality and from the world of atoms
+[00:23:31] and like a lot of people's like say like
+[00:23:34] where does the catcher come from it
+[00:23:35] doesn't come from the store you know it
+[00:23:37] comes from the Ketchum Factory and it's
+[00:23:39] quite hard and you have to figure out
+[00:23:41] how to do manufacturing and supply chain
+[00:23:43] and all that sort of stuff in fact I
+[00:23:44] think manufacturing is really underrated
+[00:23:46] it's pretty great and there's a lot of
+[00:23:50] potential for innovation and it's it's
+[00:23:54] just a goodness a good thing to do so
+[00:23:57] you know I think we should put more
+[00:24:01] weight on manufacturing and production
+[00:24:03] and making physical things and and like
+[00:24:07] people think make factory just like
+[00:24:09] making copies of something and it's
+[00:24:11] actually notice it's it's making the
+[00:24:12] machine that makes the machine and it's
+[00:24:14] really interesting and the transmat of
+[00:24:16] innovation and creativity as far as
+[00:24:19] possible in that you know I'm out here
+[00:24:21] in butchie's Texas this basha production
+[00:24:25] complex and by far the hard thing is
+[00:24:27] making the production system we blown up
+[00:24:31] a bunch of prototypes and we got zero
+[00:24:36] number four now we're gonna hopefully
+[00:24:37] your pressure test that tomorrow but the
+[00:24:42] thing that's really hard is the
+[00:24:43] production system and it's really hard
+[00:24:47] people really working you know really
+[00:24:50] times a team here working very hard and
+[00:24:53] in that method that's work
+[00:24:55] what special hard things so it's like
+[00:24:57] I'd say look like designing it is a
+[00:24:59] rocket it's like 1x hard then building
+[00:25:02] one of it is 10x and building the
+[00:25:04] production system is at least 100 X
+[00:25:06] possibly a thousand X just to give you a
+[00:25:11] difficulty though but I'm really hired
+[00:25:16] I love the maker movement and it's just
+[00:25:18] like just it's very satisfying to you
+[00:25:23] know what we're making some of the big
+[00:25:26] or small you know like we're you know
+[00:25:29] making cars or cookies honestly just
+[00:25:31] great stuff you know actually yeah
+[00:25:34] absolutely like the Hat club ship
+[00:25:36] channel like follows that same i0 cycle
+[00:25:38] we ship anything if you make some yeah
+[00:25:42] sure yeah our next question will come
+[00:25:44] from Lockland hey I'm lachland Campbell
+[00:25:50] I'm an eighteen year old former high
+[00:25:51] club leader from State College Fund lead
+[00:25:53] yeah so there's a widespread belief that
+[00:25:56] solving climate change and capitalism
+[00:25:58] are incompatible we've found it both
+[00:26:00] SpaceX and Tesla as for-profit companies
+[00:26:02] do you think we need to change
+[00:26:04] capitalism or how do you see the role of
+[00:26:06] for-profit corporations trying to solve
+[00:26:08] climate change I think this is a really
+[00:26:23] important discussion debate that we
+[00:26:25] should have because actually capitalism
+[00:26:30] is a good system provided that the rules
+[00:26:32] are set correctly and so the the issue
+[00:26:35] that we have right now is basically a
+[00:26:38] none price externality in the co2
+[00:26:41] capacity of the ocean atmosphere and so
+[00:26:43] we have a non-price externality then
+[00:26:45] then that's when capitalism were just
+[00:26:47] simply responding to market forces and
+[00:26:49] other forces are simply what do people
+[00:26:51] want that's basic definition capitalism
+[00:26:55] is just doing what what people want
+[00:27:00] it's but if the rules are if there's not
+[00:27:06] a nice externality which is not that
+[00:27:07] often the done that often but in the
+[00:27:11] case of co2 capacity versions now spare
+[00:27:13] there's an priced externality with a
+[00:27:14] certain risk associated with it and as
+[00:27:17] that magnitude get more you know it
+[00:27:19] become the riskiest hire so the obvious
+[00:27:23] solution here is a carbon tax
+[00:27:25] no overtime not I'm confident we won't
+[00:27:29] have this and if you just put the carbon
+[00:27:31] tax replace everything to be fine and
+[00:27:35] the greatly even like companies like
+[00:27:38] Exxon are saying you know do do it
+[00:27:41] calling tax so it's just it's the thing
+[00:27:44] that that should be done and then that
+[00:27:46] will rank that will reign in the system
+[00:27:52] yes there's a lot I have to say on this
+[00:27:54] run which if I may sort of backs on for
+[00:27:57] a bit
+[00:27:57] I don't probably meet your trouble but
+[00:27:59] whatever the universe can really do you
+[00:28:05] want to say what is the system that will
+[00:28:07] result in the most amount of good for
+[00:28:09] the most amount of people like what
+[00:28:10] maximize is the area under the curve of
+[00:28:13] population happiness that's like the
+[00:28:15] best really what you know I think we
+[00:28:18] should be trying to achieve and almost
+[00:28:24] by definition is capitalism but we gotta
+[00:28:27] fix capitalism in certain areas like I
+[00:28:29] said with with the rules around to
+[00:28:34] capacity of oceans to a sphere but
+[00:28:36] mostly it works quite well and it's hard
+[00:28:40] to think of what according what a good
+[00:28:41] alternative would be like I hope you
+[00:28:44] will say well the government should do
+[00:28:45] it but really what is the government but
+[00:28:47] a corporation in the limit you know if
+[00:28:50] you stay like if you if you scale up the
+[00:28:52] corporation and the government is just
+[00:28:54] the biggest corporation and it has
+[00:28:58] monopoly so is the government gonna do
+[00:29:01] so do the right thing if when it is
+[00:29:03] monopolistic corporation unlikely the
+[00:29:08] govern is not is essentially not not not
+[00:29:10] the solution it is and then mostly
+[00:29:16] monopolistic the bigger corporation gets
+[00:29:19] and the more monopolistic a corporation
+[00:29:20] gets the weak of the feedback loop is
+[00:29:22] for serving the customers or the
+[00:29:25] population if you if you have a weak
+[00:29:29] feedback loop then the responsiveness is
+[00:29:32] not gonna be good that part will not be
+[00:29:34] good yeah doing and how can you really
+[00:29:42] complain and what's your alternative but
+[00:29:45] if you have a competition then that
+[00:29:47] keeps people on keeps entities honest
+[00:29:49] like the two entities are competing to
+[00:29:51] make your happy then that's good but if
+[00:29:53] they don't have to compete to make you
+[00:29:54] happy that's bad absolutely you know we
+[00:29:57] could talk about this for hours and
+[00:29:59] these are also discussed a lot on the
+[00:30:01] slack but unfortunately we have a lot of
+[00:30:03] questions and we can take
+[00:30:04] two more we're going to take one quick
+[00:30:06] question from a student Claire hello
+[00:30:12] so my name is Claire I'm a student at
+[00:30:14] Hawthorne and so I'm a question
+[00:30:17] regarding your link and greenness face
+[00:30:19] so you have launched rockets to Mars and
+[00:30:24] I was wondering what you thought the
+[00:30:25] role of like near science personally
+[00:30:31] that was to go there's the goal but we
+[00:30:33] have not yet in fact it's embarrassing
+[00:30:35] we have not yet launched the rocket to
+[00:30:37] Mars but we will yeah I mean what is the
+[00:30:40] rolling yeah there's the car the person
+[00:30:45] right yeah yes the yes there is a theory
+[00:30:49] it's technically a time in orbit around
+[00:30:52] the Earth and Mars so yes did it get to
+[00:30:55] Mars itself but it's Mars jacent so I
+[00:31:01] was wondering what you thought like the
+[00:31:03] role in your science or PCI's would be
+[00:31:05] in space travel or you think they're
+[00:31:07] like unrelated entities I think that the
+[00:31:15] brain computer interface is extremely
+[00:31:17] important for essentially achieving
+[00:31:25] symbiosis with AI because we are input
+[00:31:28] outputs limited we're effectively a
+[00:31:30] sidewalk right now where the you know
+[00:31:33] the your phone or computer is an
+[00:31:35] extension of yourself but the your your
+[00:31:38] input it is is bounded by the screen and
+[00:31:41] your output is bounded by your thumbs or
+[00:31:43] fingers so effectively over time we
+[00:31:49] would drift away from machine
+[00:31:52] intelligence have a high bandwidth
+[00:31:55] neural interface then we can be we can
+[00:32:00] solve the the i/o problem and go along
+[00:32:05] for the ride and matically just as our
+[00:32:08] cortex and our limbic system happy
+[00:32:13] together you know and I've not met
+[00:32:17] anyone who wants to leap there
+[00:32:18] cortex or the limbic system and even
+[00:32:20] though the cortex system in principle
+[00:32:22] much more smarter than the limbic system
+[00:32:24] mostly the cortex is trying to make the
+[00:32:26] limbic system happy so we have a
+[00:32:30] tertiary layer and we in fact like said
+[00:32:32] we have a tertiary layer in silicon but
+[00:32:35] but the communication bandwidth to that
+[00:32:38] that's what internal air is um is very
+[00:32:41] constrained it's like this point cutted
+[00:32:44] you know trying a pool using a stroll
+[00:32:47] it's very very thin by yes and so I
+[00:32:56] think that's quite important and of
+[00:32:58] course along the way with the brains
+[00:32:59] pure interface we would also solve a lot
+[00:33:03] of brain injuries and as well as like as
+[00:33:09] you as you get old you sort of lose your
+[00:33:11] memory well we could restore your memory
+[00:33:12] and you know we could you could really
+[00:33:17] big wall in instability and in have a
+[00:33:21] stroke or if this joint congenital that
+[00:33:25] all could be fixed with a big brain if
+[00:33:27] your interface by creating your shutting
+[00:33:29] your old shunt you also like restore
+[00:33:32] functionality of limbs by you know
+[00:33:35] having like selling some of a neural
+[00:33:40] and and then having essentially
+[00:33:42] microcontroller in in the in the muscle
+[00:33:45] regions and so you could restore full
+[00:33:47] the movement even with yeah sorry I mean
+[00:33:55] this is really fascinating and
+[00:33:57] unfortunately we do have to move on
+[00:33:59] because you're on a tight time limit so
+[00:34:00] our final question today is gonna come
+[00:34:02] from if you want these questions are
+[00:34:04] great they're waiting for me in the more
+[00:34:11] time if you'd like
+[00:34:12] ok well in that case we have a fun
+[00:34:16] question from Jamshid I'm Jung shade I'm
+[00:34:20] 19 and I ran a hat Club in the Bay Area
+[00:34:23] so we all know don't doubt your vibe is
+[00:34:26] super fire and the question I don't need
+[00:34:28] to know is we have plans for another
+[00:34:31] song and if so when is it dropping you
+[00:34:37] know my head and then I go friend like
+[00:34:47] recorded them and your song a song
+[00:34:51] that's different I guess I was so Jesus
+[00:35:01] incredibly it started for me to make a
+[00:35:02] song I mean I don't know anything about
+[00:35:04] music but if I get sort of inspired
+[00:35:09] about something then I'll make no sign
+[00:35:10] and put out there yeah we're really just
+[00:35:18] looking forward to the entire album you
+[00:35:20] know well you don't have to make it out
+[00:35:24] one that would be a lot yeah do make a
+[00:35:31] song this is crazy
+[00:35:32] I mean yes yeah our next question is
+[00:35:43] gonna come from Ben Abin hi um I'm
+[00:35:48] really curious just to hear about
+[00:35:50] something recent you've done like just
+[00:35:52] solving a problem
+[00:35:55] like necessarily anything large but just
+[00:35:58] an interesting thing that you've done
+[00:36:00] recently and how you did that
+[00:36:02] been real quick can you yeah
+[00:36:06] I'm Ben Albin I'm a hack club leader in
+[00:36:09] the DFW area and I do a lot of
+[00:36:11] programming and stuff probably the
+[00:36:20] biggest issue I have is like context
+[00:36:22] switching because I got like three
+[00:36:24] things going on here at SpaceX and Tesla
+[00:36:27] near link point company your personal
+[00:36:31] stuff the fine is like quite taxing my
+[00:36:34] brain is a context for chain but that's
+[00:36:40] where I'm most trouble with but because
+[00:36:43] there's so many problems that occurred
+[00:36:45] during day and I'm actually really deep
+[00:36:48] feeds on so many so many things pretty
+[00:36:50] ridiculous so it seemed like like last
+[00:36:53] night um and this is I don't know 2 or 3
+[00:36:58] a.m. or something I was in the tent two
+[00:37:04] of the starship production complex at
+[00:37:07] the barrel welding station and we were
+[00:37:14] for the circumferential welds of the
+[00:37:17] ship where you were seeing a little bit
+[00:37:20] of pucker where the Wells puckering in a
+[00:37:22] little bit you can see it on that it's
+[00:37:25] pretty obvious online I used to look
+[00:37:27] like Finnish limb man so it's way better
+[00:37:29] than wise but we were still getting a
+[00:37:32] little bit of hug her and and the world
+[00:37:35] to go to bed slow and then I was out
+[00:37:40] there talking with the welding team and
+[00:37:43] the the I think it was like the issue
+[00:37:49] was like really were we're rotating the
+[00:37:52] barrel only had a 1/4 meter per minute
+[00:37:55] but the barrel rotation tool is capable
+[00:37:58] of 1.5 meters per minute and the welding
+[00:38:02] the welding torch was not set at maximum
+[00:38:04] power and so the
+[00:38:07] the result was that we were eating them
+[00:38:09] to steal too much and it was softening
+[00:38:12] and and and and and they're just
+[00:38:15] slightly collapsing under its own weight
+[00:38:18] because it was it was something so when
+[00:38:20] you do a well do you really want to be
+[00:38:22] have a high energy density will be just
+[00:38:24] right there
+[00:38:25] you want your height gap behind you this
+[00:38:28] high energy will you don't want to heat
+[00:38:29] up the parent material because it like
+[00:38:32] circuits give us solvents stop it a
+[00:38:33] little bit and kind of Parker and and
+[00:38:37] that's bad for buckling you don't want
+[00:38:39] to have a buckling initiation point and
+[00:38:40] then and then yes that's a sore was
+[00:38:49] working on last night as an example then
+[00:38:52] okay
+[00:38:55] because they were worried about like
+[00:38:57] changing the parameters and and then
+[00:38:58] maybe having scrap battles these are
+[00:39:01] barrels that are 90 years in diameter 30
+[00:39:03] w feet diameter basically and the two of
+[00:39:07] them and it's so they're like well we
+[00:39:08] don't wanna scrap the barrel we worried
+[00:39:10] about changing the settings but it looks
+[00:39:11] like okay but let's just have some fun
+[00:39:13] here or try some experiments because
+[00:39:15] otherwise nothing ventured nothing
+[00:39:16] gained so they're like super excited
+[00:39:19] about that and in fact right after was
+[00:39:21] cool I'm headed out there to see the
+[00:39:22] results and I think we kind of missed
+[00:39:24] half the world but I think the house was
+[00:39:26] good and so and then we'll wind up with
+[00:39:30] a faster world that is less heat and
+[00:39:32] produced material which causes less
+[00:39:34] dimensional variation because you've got
+[00:39:36] I've got you know a nursery stainless
+[00:39:39] has a pretty high coefficient of thermal
+[00:39:40] expansion so you when you warm it up
+[00:39:43] from the gap changes like because it's
+[00:39:45] been expanding so one like time gap you
+[00:39:50] know a hot weld move fast and then you
+[00:39:53] don't have a good joint I thought you
+[00:40:01] really interesting that you're gonna see
+[00:40:03] the results after this call so this is
+[00:40:04] like currently on your mind yeah yeah
+[00:40:15] absolutely yeah
+[00:40:19] our next question will come from our
+[00:40:21] founders act real question on first
+[00:40:29] question is three parts one tabs or
+[00:40:31] spaces to memory max 3 liner dark mode
+[00:40:38] what was the first one I suppose
+[00:40:59] okay tabs I generally use a basic text
+[00:41:08] editor not memory Matt you know
+[00:41:22] programming for game environments so I
+[00:41:24] was like I can't got used to the
+[00:41:25] developer studio she has issues very
+[00:41:32] wide like you know most games were
+[00:41:35] actually made you know using that I do
+[00:41:42] you think that compilers there should be
+[00:41:45] a lot we should put more work into into
+[00:41:47] compilers like the compiler should
+[00:41:49] really be catching a lot of these
+[00:41:50] elementary errors like memory leaks and
+[00:41:52] you know defining a variable wrong it's
+[00:41:58] just would massively improve on tracing
+[00:42:03] and yeah yeah there's two questions so
+[00:42:17] by the way you should check out rust and
+[00:42:19] also I'm sorry to hear that you have the
+[00:42:20] wrong answer about types of spaces
+[00:42:22] because spaces I mean easily secrete
+[00:42:34] keystrokes so if you're trying to code
+[00:42:36] fast then you reduce the tabs say when
+[00:42:48] you got on this call you didn't actually
+[00:42:49] get on a google meters and suddenly you
+[00:42:52] found yourself teleported back to the
+[00:42:54] Year 500 you don't know how you got
+[00:42:57] there but somehow you realize that
+[00:43:03] you've also become dictator of the world
+[00:43:08] you you realize that your honor you are
+[00:43:10] one
+[00:43:11] of three identical Earth's in the Year
+[00:43:13] 500 BC and you also why is 2020 in two
+[00:43:17] thousand five hundred and twenty years
+[00:43:19] from now there's gonna be a great war
+[00:43:21] between these three earths
+[00:43:23] and only one or it is gonna survive the
+[00:43:26] question is what do you do is dictator
+[00:43:28] the woman 500 BC to best increase your
+[00:43:30] Earth's chance of survival there's three
+[00:43:32] quick constraints one you die you only
+[00:43:35] have the rest of your life to set your
+[00:43:36] plans in motion so you have to hope that
+[00:43:38] whatever you start during the lifetime
+[00:43:39] happens during the rest of the 2500 20
+[00:43:42] years
+[00:43:43] second you can start anywhere you want
+[00:43:45] and assume you speak the local language
+[00:43:46] but it is 500 BC in your limited
+[00:43:48] accordingly
+[00:43:49] is this your video game but third you
+[00:43:56] the war is inevitable there's no way you
+[00:43:58] can prevent it you can picture three
+[00:43:59] Earth's going into a black box only one
+[00:44:01] survives well I mean I must be pretty
+[00:44:05] advanced if I'm in the Year Father and
+[00:44:07] all these things so probably that must
+[00:44:09] know some advanced technology or I think
+[00:44:12] what I know about the future and all
+[00:44:15] these like three years things sorry
+[00:44:18] sorry you know everything you know today
+[00:44:19] but you can't prepare it sorry
+[00:44:24] so does like basically transporter back
+[00:44:26] in time well I mean you'd want to set in
+[00:44:36] motion the Enlightenment as much as
+[00:44:37] possible and propagate the scientific
+[00:44:42] method and you know basically teach
+[00:44:46] people physics and what reality is
+[00:44:49] actually about but if it's like some
+[00:44:51] information theory because we've been a
+[00:44:55] bull the technology faster or the alien
+[00:44:58] invasion fleet's gonna take us out yeah
+[00:45:01] I guess I understand the Enlightenment
+[00:45:05] in motion which probably would result in
+[00:45:08] not being dictator for very long it's
+[00:45:10] the feral don't really like dictators in
+[00:45:13] that situation I think we would honestly
+[00:45:17] want to just try to advance technology
+[00:45:20] at the fastest pace possible
+[00:45:25] yeah and yeah that's I would do three
+[00:45:37] things maybe four things um first I
+[00:45:40] would build roads
+[00:45:41] I think infrastructure very important
+[00:45:44] invested in second everything I know
+[00:45:48] today I don't know a lot of physics but
+[00:45:50] I bet I can at least bring back the
+[00:45:52] fundamentals of electricity and push
+[00:45:54] material science further ahead pretty
+[00:45:55] far
+[00:45:57] third I I would try to get I think if
+[00:46:03] there's one I think one thing that's
+[00:46:04] worked consistently very well throughout
+[00:46:06] history to to get really great
+[00:46:09] innovations happening is getting really
+[00:46:11] smart people together and giving them
+[00:46:13] pretty close to limit resources I think
+[00:46:15] you see this in Athens I think you see
+[00:46:17] this with the Medici family I think you
+[00:46:18] see this with Bell Labs I see it I think
+[00:46:20] you see this as Xerox PARC I would do
+[00:46:23] that and finally I would start Athens
+[00:46:25] and I'd prevent the Peloponnesian War
+[00:46:26] because I think that's such a mini back
+[00:46:28] really far back yeah that one I mean
+[00:46:36] generally like a lot of these
+[00:46:37] civilizations seem to have done Barriss
+[00:46:40] amount of infighting and their own worst
+[00:46:42] enemy was for sure its own worst enemy
+[00:46:45] so many times you know Antonia after
+[00:46:52] Alexander was like man they just
+[00:46:54] basically just kill to kill each other
+[00:46:56] it was insane
+[00:46:59] so I think the lesson there is like hey
+[00:47:01] let's minimize the infighting and work
+[00:47:04] together towards a you know common goal
+[00:47:06] of like being a spacefaring civilization
+[00:47:09] and we're in alignment and you know I've
+[00:47:14] been ensuring that the environment is
+[00:47:16] good you know just like any public here
+[00:47:21] we may have a little more fun I think
+[00:47:25] sometimes people forget like hey you
+[00:47:26] know we should have some fun and you
+[00:47:28] know be light-hearted and not get too
+[00:47:31] serious
+[00:47:32] you know because you could have some fun
+[00:47:36] along the way yeah
+[00:47:38] I love that yeah I remember when Matthew
+[00:47:42] first asked me this question a while
+[00:47:43] back I don't think you do P I was just
+[00:47:45] like oh I'll just write down everything
+[00:47:46] I know
+[00:47:46] boom I'm done next up our next question
+[00:47:50] will come from melody oh hey Ilan my
+[00:47:54] name is melody I'm from West
+[00:47:55] Philadelphia and I started one of the
+[00:47:57] very first hat clubs in America so what
+[00:47:59] am i clap my question for you is what
+[00:48:02] was going for your mind when you smashed
+[00:48:05] that window in the cybertek unveiling
+[00:48:07] and how did you gain the confidence to
+[00:48:10] like keep going iron bull steel ball at
+[00:48:24] the window before the event so he's like
+[00:48:29] quite shocking that didn't work at the
+[00:48:33] time I think what happened is like when
+[00:48:37] Franz sledgehammer at the door I think I
+[00:48:40] think probably we cracked the bumper and
+[00:48:43] that's what led to the steel wall
+[00:48:46] cracking that we're new instead of the
+[00:48:50] surpassing elected to in fact we were
+[00:48:53] practicing that was quite startling and
+[00:49:00] then irony was like you know oh the
+[00:49:04] first winner doesn't work don't worry
+[00:49:05] the second one will what that'll
+[00:49:07] definitely work
+[00:49:10] the thing was on the other side of the
+[00:49:13] vehicle not the second window along but
+[00:49:15] on the other side so anyway that was
+[00:49:21] that was both startling I think you know
+[00:49:25] in a getting a lot of attention so I
+[00:49:27] guess wasn't that bad and we could
+[00:49:29] always repeated again and but I mean it
+[00:49:35] was quite shocking it's so difficult on
+[00:49:36] me in my tracks there I was like whoa
+[00:49:38] now what I think the thing that maybe
+[00:49:45] saved the day at the end was driving the
+[00:49:48] ATVs electric ATV up on the on the rock
+[00:49:51] bed you know that was it was like yeah
+[00:49:54] yeah for a while it was like is this
+[00:49:57] hopefully this thing worse this could
+[00:49:59] really end poorly but then it you know
+[00:50:02] able to get the electric eighty beyond
+[00:50:04] that on the truck bed and I think it
+[00:50:06] ended on a good note but yeah I was kind
+[00:50:10] of stunned and I kind of forgot where I
+[00:50:11] was supposed to do that's what actually
+[00:50:13] happened there it's gonna be a great
+[00:50:20] great car the vines you know it's I
+[00:50:22] think maybe our most fun car there's a
+[00:50:25] tiger tribe yeah I know there was like a
+[00:50:27] big there's like a big watching party
+[00:50:29] from a club when you in build it and it
+[00:50:31] also became a bit of a meme in the
+[00:50:32] community but our next question is
+[00:50:35] didn't come from ELISA ELISA you Nick
+[00:50:41] I believe ELISA doesn't have a
+[00:50:44] microphone if I remember correctly okay
+[00:50:46] in that case we'll hear a question from
+[00:50:49] Jack hello everyone I'm Jack and
+[00:50:55] apparently a 15 year old from Cupertino
+[00:50:58] high school and my question is how would
+[00:51:01] you know when technology has a bent to
+[00:51:03] farm and what are some of your solutions
+[00:51:05] if the AI takes over the world
+[00:51:12] well I resilience to social media is
+[00:51:20] quite weak I think that is where you
+[00:51:26] know I have sympathized with the
+[00:51:31] anti-globalization protesters in in that
+[00:51:34] like that our sort of my admirers
+[00:51:38] community is weak this can easily be
+[00:51:41] exploited by you know people with bad
+[00:51:44] intentions or even an interest in AI
+[00:51:46] doing their gradient side logon with
+[00:51:49] with some goal and could be totally
+[00:51:51] random like just maximize advertising
+[00:51:53] clicks you know so it's like if you know
+[00:51:56] if you're a I it's like you're in fact
+[00:51:58] Facebook actually literally has the eyes
+[00:52:00] with the school goes maximize
+[00:52:05] advertising revenue it could create all
+[00:52:07] sorts of you know crisis issue and it
+[00:52:12] could start a war or something like it
+[00:52:13] just be doing it's like whatever bribes
+[00:52:15] the class it will do so we should be on
+[00:52:18] on the lookout for and just really in
+[00:52:21] fact that was my line atomic predation
+[00:52:24] but AI is it's like you know we should
+[00:52:27] be monitoring the social media stuff to
+[00:52:30] see putting AI to manipulate
+[00:52:33] be public mind space yeah it was like
+[00:52:37] the and I think uh some things that you
+[00:52:40] could see for something I because it
+[00:52:41] would be moving very quickly like it
+[00:52:43] would be responding much faster than
+[00:52:46] sort of a network of trolls or boss you
+[00:52:50] know oh man it was or just respond
+[00:52:53] respond very quickly so you could make
+[00:52:55] it like you say I to protect whether an
+[00:52:56] AI is being used this is an important
+[00:52:59] thing to do though yeah absolutely
+[00:53:05] absolutely I know yeah you've done a lot
+[00:53:09] of your work and like talked a lot about
+[00:53:10] like the future of AI and like what that
+[00:53:12] actually means like all different Marcus
+[00:53:14] fears and ELISA as Mike is working so
+[00:53:17] she's gonna wrap us up to date and then
+[00:53:19] one go to Zack for everyone
+[00:53:22] emphasizes from very strongly beware ai
+[00:53:25] ai manipulation it's not necessarily a I
+[00:53:30] going rogue by itself but it could be
+[00:53:31] just somebody operating in AI yeah it
+[00:53:35] like most understand just how good that
+[00:53:37] can be and it's just like watch alphago
+[00:53:41] playing least at all now imagine that
+[00:53:44] social media ELISA are you ready hi my
+[00:53:59] name's Nate look I think Tamiya kissa
+[00:54:05] for this office you guys here Lisa can
+[00:54:10] you speak up a little bit
+[00:54:12] [Music]
+[00:54:19] you type your question we're getting
+[00:54:21] some audio issues okay so real quick we
+[00:54:33] have a question from Austin George hi
+[00:54:39] I'm Austin
+[00:54:40] so I'm 18 I organized a hack Club in
+[00:54:43] Long Island New York and I also directed
+[00:54:45] hackathon called T Naxalite and so I
+[00:54:48] guess my question is really across Tesla
+[00:54:50] SpaceX and your other initiatives you
+[00:54:53] led like pretty huge teams and I'm sure
+[00:54:55] there's like people in those teams I
+[00:54:56] think your ideas are crazy and like
+[00:54:58] impossible so my question is what's the
+[00:55:00] most important thing you've learned in
+[00:55:02] terms of communicating your ideas and
+[00:55:03] sharing your vision with the team
+[00:55:10] believe in using the tools of physics
+[00:55:12] very effective and the mental constructs
+[00:55:16] are very effective and one of them is
+[00:55:18] the you should always take the approach
+[00:55:20] that you're wrong and your goal is to be
+[00:55:22] less wrong
+[00:55:23] sorta sizes to the team's very
+[00:55:28] frequently wrong idea is current from me
+[00:55:32] which obviously it will that will happen
+[00:55:35] sometimes
+[00:55:35] for sure then sometimes people give me
+[00:55:39] too much credit and I think well he did
+[00:55:41] this without us one thing that we
+[00:55:42] thought was impossible so therefore even
+[00:55:44] the size of this other thing that he
+[00:55:45] sounds actually crazy well maybe it's
+[00:55:49] true it's like no that's just wrong yeah
+[00:55:51] it's like so like definitely there's
+[00:55:54] taking the approach of your we're all
+[00:55:56] wrong and we should be less wrong it's
+[00:55:58] very important and if we could just be a
+[00:56:02] little less wrong each day that really
+[00:56:04] you know even you know you know just
+[00:56:08] mostly being less wrong every day would
+[00:56:10] be an incredible victory and this whole
+[00:56:14] time
+[00:56:15] we're with the technical teams and and
+[00:56:21] there's very important that ever
+[00:56:22] everyone take that approach
+[00:56:26] we're in an amazing sense because like
+[00:56:29] the counterpoint would be that you have
+[00:56:31] the Platonic ideal of a perfect idea
+[00:56:33] which is possible really there's some
+[00:56:36] error between this platonic
+[00:56:39] platonically perfect idea or approach
+[00:56:42] and what you're actually doing and then
+[00:56:45] that gap is much bigger than you think
+[00:56:46] it is so just think of it like okay
+[00:56:50] we're gonna minimize the error in the
+[00:56:52] between room board what you're doing and
+[00:56:55] and what is a plutonic we perfect that's
+[00:56:58] a very important concept and then things
+[00:57:03] like people tend to self limit and think
+[00:57:06] that it will they they shouldn't
+[00:57:08] question someone who's an expert yeah
+[00:57:10] but this is definitely not the case you
+[00:57:13] should absolutely question experts in
+[00:57:14] another arena and it shouldn't mean that
+[00:57:16] you should necessarily assume that that
+[00:57:19] you have a better opinion than an expert
+[00:57:22] in an arena but the thing that should
+[00:57:23] drive the the outcome is the fundamental
+[00:57:27] reasoning not a crew said it though it
+[00:57:30] it should be best idea of reasoning when
+[00:57:33] it's not not the prominence or stature
+[00:57:36] or the first thing you said it it's very
+[00:57:39] point to question authority i all kinds
+[00:57:42] it just you know yes um we
+[00:57:49] everyone is wrong some of the time and
+[00:57:51] then so yeah probably the most important
+[00:57:56] thing I was yeah that was really
+[00:57:59] interesting question and also really
+[00:58:00] fascinating answer so Elon real quick
+[00:58:03] thank you so much I'm really sorry
+[00:58:05] everybody that's all the time we have
+[00:58:06] I'm gonna hand it over to Zak to close
+[00:58:08] up of today but you on thank you so much
+[00:58:10] on math exactly
+[00:58:11] Zak what you want thank you so much for
+[00:58:16] being here with us and for everyone on
+[00:58:18] this corner for watching really thank
+[00:58:20] you for tuning in it's an honor to have
+[00:58:21] your time so some quick wrap-up items
+[00:58:25] for anyone who's watching who would like
+[00:58:26] to join hat club applications are open
+[00:58:28] it's actually open community just go to
+[00:58:30] hack Club comm we would love to have you
+[00:58:32] be part of it um a couple quick wrap-up
+[00:58:35] items so for everybody at the on this
+[00:58:37] call um please hang around we'll be
+[00:58:40] passing it over to melody Melody's gonna
+[00:58:42] be announcing some upcoming events some
+[00:58:44] stuff about the community and a little
+[00:58:46] bit more about hat Club Elan thank you
+[00:58:48] again so much for your time we are just
+[00:58:50] unbelievably humbled and grateful and I
+[00:58:53] think I speak for all of us when this
+[00:58:55] when I say this is a really special hour
+[00:58:56] that you gave us really great questions
+[00:59:00] as really pushed to the questions I'm
+[00:59:02] not one for false praise so just like
+[00:59:05] you're just a very impressive group and
+[00:59:07] this makes me feel like actually
+[00:59:11] thinking about the future is having this
+[00:59:14] conversation with you guys so it's not
+[00:59:16] this like you guys seem great yeah
+[00:59:25] right yeah getting things done shipping
+[00:59:28] code thank you so much for joining in
+[01:00:21] joining us today so we're gonna I'm
+[01:00:27] going to talk to so for free to like
+[01:00:29] please stick around for we're gonna be
+[01:00:32] doing a student showcase after this call
+[01:00:35] but first I wanted to yeah I wanted you
+[01:00:42] all to like please check out our website
+[01:00:43] at Hot Club comm if you're a high school
+[01:00:45] student we have like a wonderful
+[01:00:46] community waiting for you and follow us
+[01:00:51] on Twitter at hat club we also next up
+[01:00:55] we also have a couple of upcoming AMAs
+[01:01:01] so next Thursday of next week we're
+[01:01:04] gonna have Jack Conte de CEO of patreon
+[01:01:07] on May 7th
+[01:01:09] we're gonna have some own Gertz she is
+[01:01:12] the queen of steel robots and invented
+[01:01:14] the truck'll ax and on May 14th we're
+[01:01:17] gonna have a gear Amol Raj he founded
+[01:01:20] herself formerly site and created some
+[01:01:23] of the most popular JavaScript
+[01:01:25] frameworks back in the day
+[01:01:28] so on top of that we also we're a hack
+[01:01:33] Club is a federal one C 3 nonprofit you
+[01:01:36] know
+[01:01:36] this call what we canwe it's caught
+[01:01:38] wouldn't be possible without our
+[01:01:39] wonderful student volunteers
+[01:01:41] if you loved we would love it if you
+[01:01:43] could support us we rely on people like
+[01:01:46] you to bring coding to the world so you
+[01:01:48] would like to contribute today to help
+[01:01:50] the next generation of high-school
+[01:01:52] coders head to HACC club.com slash and
+[01:01:57] donate all right so we're gonna bring it
+[01:02:01] over to Claire who will help run a
+[01:02:04] discussion and to capture first
+[01:02:08] impressions from community and after
+[01:02:10] that we are going to showcase some of
+[01:02:13] the wonderful
+[01:02:21] you
+[01:02:28] using um so I was hoping we could talk
+[01:02:32] about maybe like so I know a lot of
+[01:02:35] questions weren't able to be answered
+[01:02:36] but it would be interesting to maybe
+[01:02:38] talk about um what you felt you learned
+[01:02:41] or like if you've changed anything any
+[01:02:45] preconceptions or ideas you had before
+[01:02:48] the call um just like you know advice or
+[01:02:51] something I actually you know told you
+[01:02:52] what high school to go to or something
+[01:02:54] um so you guys can feel free to come on
+[01:02:58] Mike if that's not - wow that was really
+[01:03:02] cool I found it really interesting when
+[01:03:04] he was talking about like capitalism and
+[01:03:06] like since we actually like we were
+[01:03:09] talking about this a bit like in pre
+[01:03:11] calls like about what you might think
+[01:03:13] about like Capo's and versus socialism
+[01:03:15] and it was very interesting to like hear
+[01:03:16] him describe like government as like one
+[01:03:19] monopoly I found that like his news on
+[01:03:21] that were very very interesting
+[01:03:22] definitely um so for those of you can do
+[01:03:25] debate she was like reading all the he
+[01:03:28] was reading captain links and I'm just
+[01:03:33] like climate change um so yes that was
+[01:03:38] pretty inspiring anyone else that his
+[01:03:43] demeanor was so loose I mean usually on
+[01:03:46] other interviews he's a bit more tense
+[01:03:48] but I guess since he's around a maker
+[01:03:50] community space with a bunch of
+[01:03:51] teenagers he can be a bit less tense
+[01:03:54] than he normally is yeah that's
+[01:03:56] something that I noticed you'd like I
+[01:03:57] don't know what I thought that a
+[01:03:59] billionaire would sound like but like as
+[01:04:02] aggressively normal and like
+[01:04:05] aggressively normal yeah
+[01:04:08] aggressive will be normal he's just like
+[01:04:11] us he's a yeah yeah he's pretty grounded
+[01:04:14] like we're gonna go down to earth
+[01:04:17] he's so country apart for life
+[01:04:21] for like other people it's because he
+[01:04:23] can be so normal around other people
+[01:04:25] it's just make some a better person to
+[01:04:28] the coop towards like like the community
+[01:04:31] that's probably what makes me such a
+[01:04:33] good leader too right yeah I mean he
+[01:04:35] doesn't do he doesn't like there's no um
+[01:04:37] let's talk all again advertise
+[01:04:41] he's against advertising and there's not
+[01:04:42] a lot of PR but then he's like this good
+[01:04:46] at PR sauce yeah go ahead
+[01:04:50] when he was like talking about a like
+[01:04:53] area under the curve of a happiness
+[01:04:55] graph and just like trying to maximize
+[01:04:56] that and all this projects like I
+[01:04:58] thought that was really cool yeah what
+[01:05:02] do you guys know Zach's like super long
+[01:05:05] three years question I just came after
+[01:05:14] Zach I was like really shocked I don't
+[01:05:17] know how ilan like was following along
+[01:05:19] with the question I forgot half of it
+[01:05:24] the question was like the one about like
+[01:05:26] having three parallel Earth's and then
+[01:05:28] like he had the leader I think a lot
+[01:05:34] people said in the chat surprised how
+[01:05:36] articulate he was with the question like
+[01:05:38] I think that was like pretty amazing
+[01:05:39] it's especially good for all the other
+[01:05:41] questions every single one was well
+[01:05:43] thought out even though they were pretty
+[01:05:44] much on the spot I think like kind of
+[01:05:48] how do you friend Zach's answer
+[01:05:49] everyone's answer were as far as what
+[01:05:52] you want say was so like with so much
+[01:05:54] more abstract than what I would
+[01:05:55] initially think of lady I would think of
+[01:05:57] something first or long lines but Zach
+[01:05:59] said as far as it really concrete things
+[01:06:01] like build roads but like propagate the
+[01:06:03] scientific method I would never follow
+[01:06:05] that but when you think about that I
+[01:06:07] feel like that makes a lot more sense
+[01:06:08] because if you if you think of the
+[01:06:11] really concrete still you can do now if
+[01:06:13] you choose to do that into really
+[01:06:14] temporary but then like something like a
+[01:06:16] girl on the Enlightenment or the
+[01:06:18] scientific method you know that's gonna
+[01:06:20] extend and that's gonna have such an
+[01:06:22] effect far later on so I thought yeah
+[01:06:24] that's interesting you like like
+[01:06:27] understanding the theoretical side of
+[01:06:28] computer science and stuff like that I
+[01:06:30] feel like I've previously kind of
+[01:06:32] brushed that off as far as all the
+[01:06:34] abstract stuff like having a head in the
+[01:06:36] clouds isn't as important as knowing how
+[01:06:38] to code with the current tools right now
+[01:06:41] but like I feel something like that
+[01:06:43] shows how important that is having been
+[01:06:45] more abstract mindset in some cases yeah
+[01:06:48] I think that just comes from his more
+[01:06:50] science side of things like he's very
+[01:06:52] much into physics and everything so I
+[01:06:54] I expected his answer would have
+[01:06:56] something to do with the scientific
+[01:06:58] method but that was really cool to hear
+[01:07:00] it's very much like his personality oh
+[01:07:07] oh I really liked the way he approached
+[01:07:11] trying to tell other people his ideas
+[01:07:15] because it was very logical the logic
+[01:07:19] person if you do lots of physics then
+[01:07:22] everyone and I thought to add on his
+[01:07:28] answers really genuine and well thought
+[01:07:30] out for like a short am a because in
+[01:07:33] AMAs usually think it's scripted but I
+[01:07:36] thought he had really good answers that
+[01:07:38] were really thought out a bit longer
+[01:07:40] than was originally planned so we have
+[01:07:45] some context a clear statement he was
+[01:07:47] scheduled for 30 minutes his team told
+[01:07:50] us 30 minutes and no more and then he
+[01:07:52] went for an hour his team texted our
+[01:07:58] group chat you in there like up with two
+[01:08:00] questions so then I was like okay we
+[01:08:02] have two more thank you all so much for
+[01:08:11] like the most important
+[01:09:04] which is the worst answer to using cards
+[01:09:48] if you want I can pay me $20 I can
+[01:09:52] recreate all the punch cards and then
+[01:09:53] mail them to you the highest bandwidth
+[01:10:05] in the world they keep a bunch of empty
+[01:10:19] planes in the air just so that if they
+[01:10:20] have to get a bunch of packages from one
+[01:10:22] place to another really quickly they can
+[01:10:23] just lay in the plane at the point in
+[01:10:25] the US where they need to pick
+[01:10:26] everything out and go it's cheaper for
+[01:10:34] them to keep the place and the planes in
+[01:10:36] the air what attack nights like this
+[01:10:41] conversation right now is very legal and

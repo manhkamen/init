@@ -1,0 +1,890 @@
+[00:00:00] all right good morning everyone I think
+[00:00:01] our next guest really doesn't need an
+[00:00:04] introduction we are going to be hearing
+[00:00:06] from the serial entrepreneur behind a
+[00:00:09] range of companies PayPal Tesla Motors
+[00:00:12] Solar City SpaceX he is a Titan of
+[00:00:16] industry who is disrupted and
+[00:00:18] transformed entire industries we're
+[00:00:22] talking about automotive aerospace
+[00:00:24] energy internet finance and these are
+[00:00:27] sectors that are really tough to operate
+[00:00:30] in as a start-up in the next 40 minutes
+[00:00:33] we are going to hear from Milan musk and
+[00:00:35] we're going to learn more about Tesla
+[00:00:37] Motors in Hong Kong in China we're gonna
+[00:00:39] hear about sustainable energy solutions
+[00:00:41] we're gonna talk about Mars and we're
+[00:00:44] also going to touch on the fate and
+[00:00:46] future of humankind pretty big stuff so
+[00:00:48] in this icy cold day here in Hong Kong
+[00:00:50] let's give a very warm welcome to Elon
+[00:00:53] Musk
+[00:00:55] [Applause]
+[00:01:05] okay you can pick any Mike on the table
+[00:01:07] there's so many to choose from
+[00:01:09] okay okay all right
+[00:01:13] illness Bochum to Hong Kong I talked to
+[00:01:16] your people at Tesla here in Hong Kong
+[00:01:17] and you know Tesla opened up here in
+[00:01:19] 2010 the Model S has been selling pretty
+[00:01:22] well good build up first general
+[00:01:24] question how's the business doing here
+[00:01:26] in Hong Kong actually I mean otezla were
+[00:01:30] super appreciative of Hong Kong it's
+[00:01:33] it's the the the the city with the I
+[00:01:39] believe at this point the most number of
+[00:01:41] Tesla's per capita yeah and I think it's
+[00:01:51] sort of a it's a very exciting I think
+[00:01:53] model in Hong Kong because I think Hong
+[00:01:56] Kong will have over time the highest
+[00:01:58] percentage of electric vehicles of any
+[00:02:00] city in the world and can therefore
+[00:02:03] serve as a model for how other
+[00:02:05] high-density cities around the world can
+[00:02:08] transform to a sustainable transport
+[00:02:10] future so I think I think that's that's
+[00:02:13] very exciting so we plan to work closely
+[00:02:15] with the Hong Kong government and to
+[00:02:18] take lessons learned and see what we can
+[00:02:19] do to then propagate that to cities
+[00:02:22] around the world so we're very excited
+[00:02:25] about the partnership with with Hong
+[00:02:26] Kong because Hong Kong is such a densely
+[00:02:28] packed city there's no range anxiety in
+[00:02:31] Hong Kong but that's not the only factor
+[00:02:33] behind the popularity of the Tesla what
+[00:02:35] are the other factors sure well I think
+[00:02:38] certainly the the bright range not being
+[00:02:41] an issue is is is one factor although
+[00:02:44] that is counterbalanced by challenges
+[00:02:46] with charging yeah so one of the the
+[00:02:51] things that we need to work through and
+[00:02:53] this is a challenge that that any other
+[00:02:56] dense city in the world has is as you
+[00:03:00] have more and more electric vehicles on
+[00:03:01] the roads you have to find someplace to
+[00:03:03] to charge them and the ideal place to
+[00:03:06] charge the car is at your home or or
+[00:03:10] office essentially the same place that
+[00:03:11] you charge your phone
+[00:03:15] but this is challenging because a lot of
+[00:03:18] apartment buildings were most part
+[00:03:19] buildings didn't anticipate having that
+[00:03:22] level of power in the garage and
+[00:03:25] sometimes the parking spot spots float
+[00:03:28] around they're not consistent so it's
+[00:03:30] going to be quite important to get get
+[00:03:33] the power to the buildings that need it
+[00:03:35] and then and figure out a good and
+[00:03:38] convenient way for people to charge at
+[00:03:40] home we are deploying a lot of super
+[00:03:43] charges and of course that's that's
+[00:03:44] getting important but those are really
+[00:03:46] meant for when you're have an unusually
+[00:03:50] long trip you've been away from your
+[00:03:53] home office for a while or you need to
+[00:03:55] top up and you're out and about but by
+[00:03:59] far the most convenient is a home or
+[00:04:00] office charging and that's the thing
+[00:04:02] that we're really working closely with
+[00:04:03] the Hong Kong government on yeah we were
+[00:04:06] talking about this earlier about the
+[00:04:08] impact of falling oil prices because
+[00:04:10] high oil prices was a major selling
+[00:04:13] point for getting into hybrids or
+[00:04:15] electric vehicles now that oil prices
+[00:04:17] are in freefall what does that mean for
+[00:04:20] the industry well it definitely makes
+[00:04:23] the transition to sustainable energy
+[00:04:24] more difficult and I think no doubt that
+[00:04:27] that is going to dampen interest in
+[00:04:30] electric vehicles in general with our
+[00:04:33] cars but what we aspire to do is to make
+[00:04:36] the car so compelling that even with low
+[00:04:40] gasoline prices it's still the call you
+[00:04:42] want to buy yeah that's I mean the only
+[00:04:46] thing I can think of that's the only
+[00:04:47] sort of what else we could do really you
+[00:04:49] have to make it compelling this is
+[00:04:52] really at the Kia Tesla is to create an
+[00:04:54] electric car that's not worthy it's
+[00:04:57] going to help the environment but it is
+[00:04:59] a car that you will covet that you want
+[00:05:01] to drive that happens to be very good
+[00:05:03] for the climate change or very good very
+[00:05:05] good for the environment
+[00:05:06] yeah exactly I think this is sort of
+[00:05:08] general you know advice I'd give to
+[00:05:11] people starting company to entrepreneurs
+[00:05:12] in general is really focus on making a
+[00:05:16] product that your customers love and
+[00:05:18] it's so rare that you can buy a product
+[00:05:21] and you love the product when you bought
+[00:05:23] it
+[00:05:23] this is this is there are very few
+[00:05:26] things that fit into that category
+[00:05:28] and if you can come up with something
+[00:05:29] like that your business will be
+[00:05:31] successful for sure let's talk about
+[00:05:33] China China is the world's largest auto
+[00:05:36] market China is also at a growing
+[00:05:39] electric vehicle market - it's soon to
+[00:05:41] be the world's largest their world's
+[00:05:43] largest carbon emitter we've seen the
+[00:05:45] return of the so called air pocalypse
+[00:05:47] and crazy bad air days and places like
+[00:05:49] shinyang and beijing especially during
+[00:05:51] the winter time China needs your
+[00:05:54] technology is China really aware of that
+[00:05:56] do you get that sense and if you don't
+[00:05:59] mind if you could hold the mic a little
+[00:06:00] bit right yeah absolutely
+[00:06:04] see it's very high gain yes China is
+[00:06:12] definitely where as I've had a number of
+[00:06:14] high-level meetings with the Chinese
+[00:06:17] government and in fact the Minister of
+[00:06:21] Finance recently mentioned Tesla in a
+[00:06:23] speech that he gave oh well as a good
+[00:06:26] example actually he's so he's he's he
+[00:06:29] likes what we're doing which is a good
+[00:06:33] thing yeah yeah absolutely and and and
+[00:06:36] then last year we in an effort to help
+[00:06:39] the rest of Industry and just sort of
+[00:06:41] can be a good good neighbor we open
+[00:06:44] sourced all of our patents so any
+[00:06:46] company in China or elsewhere can use
+[00:06:47] our patterns to create electric vehicles
+[00:06:50] well
+[00:06:53] [Applause]
+[00:06:57] and what you're doing they're just
+[00:06:59] really underscores a theme that emerged
+[00:07:01] at the latest climate change conference
+[00:07:04] in Paris the debate on whether developed
+[00:07:07] countries should be doing more to help
+[00:07:09] developing countries when the goal is a
+[00:07:12] general shared goal and you're saying a
+[00:07:14] company from a developed country should
+[00:07:16] be doing that little bit more in a
+[00:07:18] market like China China is quite quite
+[00:07:26] ways and definitely better trains than
+[00:07:29] the United States
+[00:07:30] yeah by far okay so in fact had a great
+[00:07:37] experience taking the boat train from
+[00:07:39] Beijing to Xian to see the Terracotta
+[00:07:41] Warriors yeah that was it was a great
+[00:07:43] experience yeah yeah so yeah so I think
+[00:07:50] there's a lot of a lot of opportunity
+[00:07:52] there I think the challenge for Tesla is
+[00:07:55] that in China we need to establish sort
+[00:08:00] of a local partnership yeah and so we're
+[00:08:02] going to kind of figure that out there
+[00:08:07] is the issue of pollution in China the
+[00:08:09] need for sustainable energy solutions in
+[00:08:11] China gridlock is a huge issue in places
+[00:08:15] like Beijing I don't know if you've been
+[00:08:16] stuck in Beijing traffic I've been stuck
+[00:08:18] in be together people everyone here
+[00:08:21] who's traveled to China you're stuck and
+[00:08:22] it's pretty crazy can Tesla autopilot
+[00:08:25] provide some sort of a solution to that
+[00:08:28] well I think I think what a pilot can
+[00:08:31] certainly take the edge off
+[00:08:35] because the the the our autopilot
+[00:08:39] capability right now is really good in
+[00:08:41] in two scenarios well it would either
+[00:08:44] were on a highway where there's no
+[00:08:46] traffic and the lines are quite clear
+[00:08:49] yeah or or in heavy traffic so it's
+[00:08:52] super good in heavy traffic
+[00:08:54] not that I'd recommend it but you know
+[00:08:56] you can read a book or do email is what
+[00:08:58] I found
+[00:09:00] I've heard people say
+[00:09:06] the the really take the edge off the
+[00:09:10] traffic but I'm actually quite a big fan
+[00:09:12] of tunnels tunnels are so
+[00:09:15] underappreciated please elaborate the
+[00:09:22] fundamental problem with cities is that
+[00:09:24] we build cities in 3d yeah I mean you
+[00:09:27] see but these tall buildings with lots
+[00:09:29] of people on each floor but then you've
+[00:09:31] got roads which are 2d so that that
+[00:09:34] obviously just doesn't work you're
+[00:09:37] guaranteed to have gridlock but you can
+[00:09:39] go 3d if you have tunnels and you can
+[00:09:42] have many tunnels crisscrossing each
+[00:09:43] other with maybe a few meters vertical
+[00:09:45] distance between them and and and
+[00:09:48] completely get rid of traffic problems
+[00:09:49] mm-hmm and just - anything that actually
+[00:09:51] Hong Kong is in the process of building
+[00:09:53] some tunnels and I was very pleased to
+[00:09:56] hear that but but that really is the
+[00:10:00] solution for solving traffic in major
+[00:10:03] cities yeah you can also go 3d with
+[00:10:05] flying cars you can't
+[00:10:08] that's not gonna happen for a long time
+[00:10:10] well I mean flying cars sound cool but
+[00:10:15] then they do make a lot of wind and
+[00:10:19] they're quite of noisy and you've sought
+[00:10:21] this out the probability of something
+[00:10:23] falling on your head is much higher yeah
+[00:10:27] gotcha we talked about charging stations
+[00:10:30] in the challenge for rolling out more
+[00:10:32] charging stations in Hong Kong the
+[00:10:34] challenge is exponentially greater in
+[00:10:36] China especially in the rural areas to
+[00:10:38] connect the big cities what what are
+[00:10:41] your plans on that so we actually have a
+[00:10:44] super charging network throughout China
+[00:10:46] you can go at this point almost anywhere
+[00:10:50] in China using the Tesla supercharger
+[00:10:53] network and then we've got there's a
+[00:10:56] whole bunch of third-party affiliate
+[00:10:59] destination chargers and we've actually
+[00:11:01] had people drive all the way from
+[00:11:03] Beijing to Tibet yeah so it's a Wow yeah
+[00:11:07] in a Model S well that's incredible yeah
+[00:11:09] have you driven a Tesla and rural China
+[00:11:22] the model 3 what can you tell us about
+[00:11:25] the model 3 what it's going to look like
+[00:11:27] and I know that you've mentioned to me
+[00:11:29] about sorry I can't tell you what its
+[00:11:34] gonna look like
+[00:11:35] okay okay but I mean I can tell you just
+[00:11:37] generally some characteristics about it
+[00:11:39] which is it's meant to be a slightly
+[00:11:41] smaller version sort of a smaller
+[00:11:44] version of the Model S and it won't have
+[00:11:48] quite as many bells and whistles but
+[00:11:49] it'll be at a much lower price point
+[00:11:52] yeah it's the intent is to gruffly get
+[00:11:57] the cut the price in half for a smaller
+[00:11:59] vehicle and and and I think really
+[00:12:02] that's going to be probably the most
+[00:12:04] profound profound call that we make is
+[00:12:07] that that'll that'll be I think a very
+[00:12:09] compelling car at an affordable price
+[00:12:11] yeah but this is with the model 3 the
+[00:12:14] electric vehicle could go fully
+[00:12:15] mainstream other car manufacturers you
+[00:12:19] have GM in mind with the bolt doing the
+[00:12:21] same thing and you welcome your rivals
+[00:12:23] doing this right yeah the gold tester
+[00:12:27] from the beginning has been to
+[00:12:28] accelerate the advent of sustainable
+[00:12:29] transport so we we actually did some
+[00:12:32] partnerships we did one with Mercedes
+[00:12:35] and one with Toyota and
+[00:12:39] you know from saw stripey and everything
+[00:12:41] so the whole purpose of of it was really
+[00:12:45] to accelerate the advent of sustainable
+[00:12:47] transport so it's always great to hear
+[00:12:50] when other car companies are making
+[00:12:52] electric cars yeah including car
+[00:12:54] companies inside China yeah are there
+[00:12:57] any Chinese electric car vehicle makers
+[00:12:59] that are capturing your attention or
+[00:13:02] well we don't think too much about what
+[00:13:06] what competitors are doing yeah just
+[00:13:08] because I think it's important to be
+[00:13:11] just focused on making the best possible
+[00:13:14] products you know it's sort of maybe
+[00:13:17] analogous to what this about you know if
+[00:13:20] you're in a canoe if you're if you're in
+[00:13:22] a race it's a don't worry about what how
+[00:13:25] the other what the other runners are
+[00:13:26] doing just run yeah but you know do to
+[00:13:31] push that metaphor even more are you
+[00:13:33] afraid that whoever's hosting the race
+[00:13:36] could tilt the race in favor of
+[00:13:42] the Chinese racer I'm trying about this
+[00:13:58] anywhere to answer that question and not
+[00:13:59] lose you get one pass this interview if
+[00:14:08] you'd like to take the pass you could
+[00:14:09] take that pass okay
+[00:14:13] [Applause]
+[00:14:20] we've talked about innovation in China
+[00:14:22] and I thought your answer is really
+[00:14:24] interesting and it'd be cool to share it
+[00:14:25] with the audience here what was what is
+[00:14:28] the example of made in China innovation
+[00:14:31] that you saw it wow that's pretty cool
+[00:14:33] well I think actually a lot of the
+[00:14:35] social medias so soon in China you know
+[00:14:40] Weibo WeChat pretty impressed nothing
+[00:14:43] better than what is available in the
+[00:14:44] u.s. yeah or you want to be chat I am
+[00:14:47] actually oh really
+[00:14:48] yeah you know I only use WeChat when I'm
+[00:14:50] in mainland China on business do you use
+[00:14:52] we chat in LA and Silicon Valley I can
+[00:14:55] to correspond with people in China okay
+[00:14:57] yeah that's it yeah but it's pretty good
+[00:15:01] which do you use Alibaba have you used
+[00:15:07] okay yeah it is very very impressive
+[00:15:12] yeah WeChat how do you use it which
+[00:15:15] messaging functions do you like to use
+[00:15:16] on it well I wouldn't call myself sort
+[00:15:19] of a richer expert
+[00:15:21] yeah I basically just message people
+[00:15:23] yeah and send pictures some text
+[00:15:32] now recently I did a panel discussion in
+[00:15:36] Beijing with a group of technologists
+[00:15:38] and the subject came up or I brought up
+[00:15:42] the question can there be an Elan musk
+[00:15:44] in China and the answer was no and it
+[00:15:49] was because of and this is according to
+[00:15:51] Chi Fuli former head of Google China who
+[00:15:54] started Microsoft research in Beijing
+[00:15:57] and he said it's because of the
+[00:15:58] education system in China it emphasizes
+[00:16:01] too much rote learning you are Elon Musk
+[00:16:06] do you what do you make of that I mean
+[00:16:08] do you do you agree actually I mean
+[00:16:13] obviously are a number of very
+[00:16:15] successful entrepreneurs in China Jack
+[00:16:17] Ma Ponemah that's right exactly so I
+[00:16:20] think I'm a short and how do you agree
+[00:16:22] with that but it is generally true that
+[00:16:25] innovation comes from questioning the
+[00:16:28] way things have been done before yeah
+[00:16:30] and if in the education system
+[00:16:33] you're taught to do that that will
+[00:16:35] inhibit entrepreneurship being able to
+[00:16:38] question what you're being taught being
+[00:16:40] able to yeah I mean just you know saying
+[00:16:43] well is there a better way yeah you know
+[00:16:45] to ask that question yeah let's talk
+[00:16:47] about innovation at Tesla few more
+[00:16:49] questions there so we talked about Tessa
+[00:16:51] auto pilot
+[00:16:52] there's also Tesla summon and I love
+[00:16:54] that name the summit where some in the
+[00:16:56] Tesla with your mobile phone and you
+[00:17:00] know we did talk about this earlier I
+[00:17:02] know that there's a big gap between
+[00:17:04] those two programs and self-driving cars
+[00:17:07] but is Tesla on its way to a driverless
+[00:17:11] model yeah I mean I think the whole
+[00:17:15] industry of what they won't be producing
+[00:17:17] autonomous cars and if you went if you
+[00:17:20] fast forward let's say 10 or certainly
+[00:17:24] not more than 15 years I think almost
+[00:17:25] all cars produced will be autonomist all
+[00:17:28] cars produced will be autonomous all new
+[00:17:30] cars yes but that's not the same as all
+[00:17:32] cars in the road because there's roughly
+[00:17:35] 2 billion cars and trucks in the road
+[00:17:36] and just under 100 billion produced
+[00:17:40] every year so it's so the production
+[00:17:42] rate is only 5% of the fleet size
+[00:17:46] but if you say of new cars produced I'll
+[00:17:49] be surprised if a majority of them are
+[00:17:52] not self-driving in that's a 10 to 15
+[00:17:55] years and of all those new self-driving
+[00:17:58] cars out on the road how many of them
+[00:17:59] will have you know it's like a will have
+[00:18:03] a steering wheel versus not having a
+[00:18:06] steering wheel it's like the you know
+[00:18:11] just a remnant of the past right the
+[00:18:15] same real thing I'm not sure I mean
+[00:18:17] there may be some perhaps auxilary
+[00:18:20] steering wheel that only pops out when
+[00:18:23] you know when they you need to take
+[00:18:25] manual control for whatever reason but
+[00:18:28] probably if you've got a long long term
+[00:18:29] my guess is there there isn't steering
+[00:18:32] wheel and most cause it would be
+[00:18:33] something that you would have to special
+[00:18:35] order or something yeah in most cars not
+[00:18:40] all cars and I do want to be clear that
+[00:18:42] the predictions are not endorsements
+[00:18:46] yeah you know so I'm not saying that
+[00:18:49] this would be a good or a bad thing I'm
+[00:18:51] just saying that this is probably what
+[00:18:52] this is pattern recognition and
+[00:18:54] anticipating what's going to happen next
+[00:18:56] it's it's likely I mean I think it's
+[00:18:59] sort of like elevators used to have a
+[00:19:01] manual elevator operator and you'd have
+[00:19:03] somebody would be sort of moving the
+[00:19:05] lever and be able to do fine tune
+[00:19:06] adjustments with the elevator for each
+[00:19:08] floor now there's no manual controller
+[00:19:12] for elevators yeah I think it's gonna
+[00:19:15] seem the same way for cause yeah and how
+[00:19:17] about the way consumers interact with
+[00:19:20] driverless cars how many consumers will
+[00:19:22] choose to own their own car versus
+[00:19:25] signing into a networked fleet of
+[00:19:27] driverless cars probably still most
+[00:19:31] people will own their own car but there
+[00:19:35] will be it's hard to predict the exact
+[00:19:38] percentage but I mean I think probably
+[00:19:43] roughly 60 70 percent of people will
+[00:19:47] probably want to own their cars
+[00:19:48] and I'll call it two-thirds own
+[00:19:50] one-third share this is a complete you
+[00:19:54] know shooting in the dark gas but yeah
+[00:19:57] I think so most people will want to own
+[00:19:59] their own car yeah
+[00:20:02] but they also make me choose to add it
+[00:20:05] to the shared fleet and then take it
+[00:20:07] other shared fleet at will yeah you
+[00:20:09] don't see that as a threat to your
+[00:20:11] business model no I think it's just long
+[00:20:14] as we make great autonomous cars it's
+[00:20:17] just additional options for the consumer
+[00:20:19] yeah it's just adding functionality that
+[00:20:22] I think who will consider quite
+[00:20:24] important in a car in the future I mean
+[00:20:27] I've said this before but ending it in
+[00:20:30] the long term owning a car that does not
+[00:20:31] have a port Onam escape ability will be
+[00:20:33] like a bit like owning a horse
+[00:20:35] I mean you sort of own oars for
+[00:20:37] sentimental reasons but not for actual
+[00:20:41] transport yeah yeah let's talk about the
+[00:20:45] futuristic looking Model X and a
+[00:20:48] question that many Hongkongers have is
+[00:20:50] can I park this thing in my parking
+[00:20:52] garage because of those Falcon wing
+[00:20:54] doors what's your answer to that yeah
+[00:20:59] actually the Falcon wing doors are
+[00:21:00] double hinged so call them about going
+[00:21:04] instead of going because they have a
+[00:21:06] dual acting hinge so they're actually I
+[00:21:07] can open open in a tighter space than
+[00:21:09] almost any door and certainly more than
+[00:21:11] a conventional Titus base in the
+[00:21:13] conventional door if you can physically
+[00:21:15] fit between your car and a Model X then
+[00:21:17] you'll be able to get in the Falcon wing
+[00:21:19] door yeah and it looks beautiful and I
+[00:21:22] love the I can't mention this again you
+[00:21:26] thought yesterday I loved the Back to
+[00:21:27] the Future series reminds me of the
+[00:21:29] DeLorean which I know it should not
+[00:21:30] compare Tesla to you know it looks
+[00:21:33] sci-fi it looks cool but it also and
+[00:21:36] this is important it serves a design
+[00:21:38] purpose what is that purpose yes so the
+[00:21:42] following door is designed to improve
+[00:21:46] accessibility of the third row I mean
+[00:21:49] typically in a3 a3 to a car and an SUV
+[00:21:50] it's quite difficult to access the third
+[00:21:52] row directly you have to fold up the
+[00:21:56] second row seats and you really somehow
+[00:21:59] have to move the seat back of the second
+[00:22:02] row which if you've got sort of a child
+[00:22:04] or child seat in the second row can make
+[00:22:07] it really inconvenient to access the
+[00:22:08] third row so by having
+[00:22:10]  crowing door we have much bigger
+[00:22:11] opening that allows you to directly step
+[00:22:13] to the third row
+[00:22:14] quite conveniently even if the there are
+[00:22:19] baby seats in the second row and then if
+[00:22:23] you're a mother and put putting your
+[00:22:25] child in the child seat in the second
+[00:22:26] row is very easy because you have such a
+[00:22:29] big opening and you can it you can step
+[00:22:31] into the car and put the child into the
+[00:22:33] child seat instead of cantilever ring
+[00:22:35] your child over sort of you know through
+[00:22:38] a hole over the baby seat sort of on
+[00:22:42] rests so it's meant to improve
+[00:22:46] accessibility and there are really only
+[00:22:47] two ways to achieve that level of
+[00:22:49] accessibility one is the is it is the
+[00:22:51] sliding door of a minivan and the other
+[00:22:54] is to have something like the felt going
+[00:22:56] door mmm and the reason we can go for a
+[00:22:59] sliding door for like a minivan is that
+[00:23:01] it fundamentally constrains the
+[00:23:03] aesthetics of the exterior of the car
+[00:23:05] and you have to have three support rails
+[00:23:08] which also negatively affect the
+[00:23:10] aesthetics that's why all minivans
+[00:23:12] pretty much look the same and we want
+[00:23:16] everyone to have something was that had
+[00:23:18] that level of accessibility and actually
+[00:23:20] has greater accessibility than a minivan
+[00:23:21] door but also looks good
+[00:23:23] this is classic user centered design and
+[00:23:27] can I just say thank you for designing
+[00:23:28] for moms and thank you for designing for
+[00:23:30] parents
+[00:23:33] [Applause]
+[00:23:37] yeah I think I think parents will really
+[00:23:40] really enjoy the model X yeah
+[00:23:43] and what we're also taking good you know
+[00:23:45] feedback from customers and for example
+[00:23:49] one of the things that was asked of some
+[00:23:50] of Hong Kong customers that have ordered
+[00:23:52] the Model X is to have a partial a
+[00:23:54] partial open function of them of the
+[00:23:57] falconwing door so if you're if it's a
+[00:23:58] if it's really heavy rain it's like an
+[00:24:01] umbrella or yeah so you'd once sort of a
+[00:24:04] maybe a 5060 percent open level so you
+[00:24:08] have a good shield from from the rain
+[00:24:09] yeah and I think people would please to
+[00:24:12] know that actually it's already in the
+[00:24:13] works
+[00:24:13] very good and something that is also
+[00:24:17] potentially in the works but only for
+[00:24:19] select few a submersible Tesla not
+[00:24:26] anytime soon but to be a fun fun side
+[00:24:30] project to have a some more submersible
+[00:24:33] Tesla but I think the market for
+[00:24:35] submarine cars is quite small but you
+[00:24:39] don't have to use the cross Harper
+[00:24:41] tunnel in Hong Kong you could just go
+[00:24:44] through the Victoria Harbour yeah that's
+[00:24:46] true
+[00:24:47] that'd be pretty epic just drive right
+[00:24:48] off the right off the edge of the that's
+[00:24:51] right up here be James Bond every day
+[00:24:53] and your commute absolutely yeah a Tesla
+[00:24:56] truck could that ever happen yeah I
+[00:24:58] think it's quite likely we'll do a truck
+[00:24:59] in a future yeah yeah any more details
+[00:25:02] than that no I think it's sort of a
+[00:25:05] logical thing for us to do in the future
+[00:25:07] okay now what Tesla your goal has been
+[00:25:09] to make a better car and you've done
+[00:25:12] that with an electric vehicle that
+[00:25:14] people covet that has quite a cult
+[00:25:17] following
+[00:25:17] that's upgradeable but you also want to
+[00:25:21] achieve and your turn of phrase is very
+[00:25:23] nice or or try to achieve this Platonic
+[00:25:26] ideal of a car right to reach perfection
+[00:25:29] so what does the perfect car look like
+[00:25:33] well I mean I do use that phrase with
+[00:25:36] our engineering design team that
+[00:25:37] aspirationally we're in pursuit of the
+[00:25:40] Platonic ideal of the perfect car and
+[00:25:45] who knows what that looks like actually
+[00:25:47] but it's I you want to try to make every
+[00:25:50] element of the car as as flawless as
+[00:25:54] possible and they'll always be you know
+[00:25:57] some degree of imperfection but try to
+[00:26:01] minimize that and and create a car that
+[00:26:03] is just delightful in every way and I
+[00:26:06] think if you do that then the the rest
+[00:26:08] kind of takes care of itself you're also
+[00:26:11] the chairman of solar city building out
+[00:26:15] a network of solar panels and solar
+[00:26:16] systems and I can see why solar can make
+[00:26:20] sense in a place at California where
+[00:26:21] it's sunny all the time homes are big a
+[00:26:24] lot of roof space you can lay it all the
+[00:26:26] solar panels but in a place like Hong
+[00:26:28] Kong
+[00:26:29] you know densely packed vertical cities
+[00:26:32] how can solar make sense here yeah I
+[00:26:35] think it's true that in dense cities
+[00:26:39] rooftop solar is is not going to solve
+[00:26:42] the energy need what you can do is have
+[00:26:47] ground mount solar power let's say near
+[00:26:51] Hong Kong tapping into the existing
+[00:26:53] power lines that are coming in and so
+[00:26:57] you can supply Hong Kong with solar
+[00:26:59] power we just need to be coming from a
+[00:27:01] land area that's not too far away and I
+[00:27:05] mean it's worth noting certainly a meter
+[00:27:07] China has actually an enormous landing
+[00:27:09] area much of which is hardly occupied at
+[00:27:12] all hmm
+[00:27:13] with given that the Chinese population
+[00:27:16] is so concentrated along the coast
+[00:27:18] once you go inland at the population in
+[00:27:21] some cases is remarkably tiny so you
+[00:27:24] could easily power all of China with
+[00:27:27] solar all of China was solar usually
+[00:27:30] yeah the world's most populous country
+[00:27:36] yep definitely Wow
+[00:27:45] okay let's um let's go even more way out
+[00:27:48] there and talk about SpaceX you're a CEO
+[00:27:51] of SpaceX and you've said that your
+[00:27:53] ultimate goal is to get humankind to
+[00:27:55] Mars I've heard your response to the
+[00:27:58] question but these guys need to hear it
+[00:28:00] why is Mars important why does Mars
+[00:28:02] matter sure well it's really fundamental
+[00:28:06] surgeon we need to make as a
+[00:28:09] civilization you know what kind of
+[00:28:12] future do we want do you want a future
+[00:28:14] where we are forever confined to one
+[00:28:15] planet until some eventual extinction
+[00:28:17] event however far in the future that
+[00:28:18] might occur or do we want to become a
+[00:28:20] multi-planet species and and then
+[00:28:24] ultimately be out there among the stars
+[00:28:25] being among many planets many star
+[00:28:27] systems and I think the latter is a far
+[00:28:30] more exciting and inspiring future than
+[00:28:32] the former and and Mars is the next
+[00:28:36] natural step in fact it's the only
+[00:28:38] planet we really have a shot at at
+[00:28:40] establishing a self-sustaining city on
+[00:28:42] and and I think once we do establish
+[00:28:46] such a city there will be a strong
+[00:28:48] forcing function for the improvement of
+[00:28:49] spaceflight technology that will then
+[00:28:51] enable us to establish colonies
+[00:28:54] elsewhere in the solar system and
+[00:28:56] ultimately extend beyond the beyond our
+[00:28:58] solar system and and so there's the
+[00:29:01] defensive reason of protecting the
+[00:29:04] future of humanity ensuring that the
+[00:29:05] light of consciousness is not
+[00:29:06] extinguished should some calamity before
+[00:29:09] Earth but also and that's the defensive
+[00:29:12] reason but personally I find the more
+[00:29:15] the word what it gets me more excited is
+[00:29:18] is the fact that this would be an
+[00:29:20] incredible adventure maybe like the
+[00:29:22] greatest adventure ever and it would be
+[00:29:25] exciting and inspiring and they need to
+[00:29:27] be things that excite and inspire people
+[00:29:29] yeah you have to be you know reasons why
+[00:29:31] you get up in the morning it can't just
+[00:29:33] be solving problems it's got to be yeah
+[00:29:35] something something great is gonna
+[00:29:36] happen in the future yeah we talked
+[00:29:38] about this at length yesterday it's it's
+[00:29:40] not an exit strategy or a back-up plan
+[00:29:42] came in kind or it fails right it's also
+[00:29:45] to inspire people on earth right and to
+[00:29:49] transcend
+[00:29:50] to go beyond our mental limits of what
+[00:29:55] we think we can achieve right I mean I
+[00:29:57] think sort of how incredible the Apollo
+[00:29:59] program was and just I mean if if you
+[00:30:02] ask anyone and say name name some of
+[00:30:04] humanity's greatest achievements in the
+[00:30:06] 20th century the Apollo program landing
+[00:30:09] on the moon would would MIT in many if
+[00:30:12] not most places be number one when will
+[00:30:15] there be a man SpaceX mission and when
+[00:30:18] will you go to Mars pretty close to to
+[00:30:23] do it to to standing crew up to the
+[00:30:27] space station that's currently scheduled
+[00:30:29] for the end of next year yeah so that
+[00:30:32] will be don't be exciting
+[00:30:33] without Dragon 2 spacecraft and then
+[00:30:39] we'll have a next generation rocket and
+[00:30:43] spacecraft beyond the Falcon Dragon
+[00:30:46] series and I'm hoping to describe the
+[00:30:50] that that architecture later this year
+[00:30:54] at the International Astronautical
+[00:30:56] Congress which is like the bit the big
+[00:30:59] international space event every year so
+[00:31:02] I think that that'll be quite exciting
+[00:31:04] yeah and and terms of me going I dunno
+[00:31:09] maybe four or five years from now maybe
+[00:31:11] going to the space station would be nice
+[00:31:12] oh wow
+[00:31:13] and in terms of the first flights to
+[00:31:17] Mars and we're hoping to do that in the
+[00:31:20] in around 2025 I'm sorry in 2020 year
+[00:31:24] 2029 nine years from now they're about
+[00:31:27] oh my goodness that's just around the
+[00:31:29] corner well nine years um are you
+[00:31:34] so are you are you doing zero-gravity
+[00:31:37] training I've done the parabolic flights
+[00:31:41] okay but you must be reading up and
+[00:31:46] doing the physical testing to get ready
+[00:31:48] for this
+[00:31:49] the ultimate flight of your life you've
+[00:32:00] seen the Martian we've talked about the
+[00:32:02] harsh it's like the hardest thing anyone
+[00:32:05] could ever do is there's getting there
+[00:32:07] and also surviving and trying to
+[00:32:09] anticipate everything that could go
+[00:32:10] wrong and make sure it doesn't happen
+[00:32:13] you can tell I'm not going to be signing
+[00:32:15] up for your manned spaceflight it's a
+[00:32:17] big take place why do you think I mean
+[00:32:19] going to Mars is definitely gonna be
+[00:32:20] it's gonna be a hard and dangerous and
+[00:32:24] you know difficult in probably
+[00:32:26] everywhere you can imagine but so it
+[00:32:29] certainly wouldn't be you know if you're
+[00:32:31] if you if you care about sort of being
+[00:32:33] safe and comfortable going to Mars would
+[00:32:36] be a terrible choice yeah and this and
+[00:32:38] this is at the heart of who you are
+[00:32:40] because you to quote Pink Floyd you do
+[00:32:43] not like to live a comfortably numb'
+[00:32:45] life you know you take on incredible
+[00:32:48] risk to take on an entrenched big
+[00:32:52] established industries and to shake and
+[00:32:54] rattle them up and to introduce
+[00:32:55] something new and it's it's so cool to
+[00:32:58] watch and I think that's why everybody
+[00:33:00] here is signed up to come here and to
+[00:33:01] listen to you just to hear more about
+[00:33:04] that people want to be more like you
+[00:33:11] and for the fate of humankind I think it
+[00:33:15] would be great to have more Elon Musk's
+[00:33:17] so what do we need to do to become more
+[00:33:20] like Elon I don't know I think maybe
+[00:33:25] sounds better than it is
+[00:33:31] yeah I you know I mean honestly like
+[00:33:37] like there's a friend of mine he's got a
+[00:33:39] great saying about creating a company
+[00:33:42] which is creating turnable the company
+[00:33:45] and have it succeed is like eating glass
+[00:33:47] and staring into the abyss so I mean
+[00:33:51] what tends happen is it sort of quite
+[00:33:52] exciting for the first several months of
+[00:33:55] starting a company and then then reality
+[00:33:58] sets in things don't go as well as
+[00:33:59] planned customers aren't signing up the
+[00:34:02] technology of the part isn't working as
+[00:34:04] well as you thought and and then can
+[00:34:07] that consumers be compounded by a
+[00:34:09] recession and and it can be very very
+[00:34:14] painful for several years so I think
+[00:34:18] frankly starting a company you I would
+[00:34:22] advise people to have a high pain
+[00:34:24] tolerance and thanks for reminding us of
+[00:34:26] the harsh very harsh and brutal reality
+[00:34:29] of launching a start-up there is that
+[00:34:33] Elon Musk / Tony Stark mystique you know
+[00:34:36] people think you know you are Robert
+[00:34:38] Downey jr. modeled his character Tony
+[00:34:40] Stark Iron Man on you it's it's easy
+[00:34:41] it's fun you're a superhero Titan of
+[00:34:44] industry but it's really hard it's it's
+[00:34:48] really difficult and it's something that
+[00:34:49] requires perseverance and grit do you
+[00:34:54] fear that maybe an in this generation or
+[00:34:57] the younger generation that they don't
+[00:34:58] have that perseverance in grit to take
+[00:35:02] on these really tough challenges I think
+[00:35:05] some people do yeah and but but I think
+[00:35:10] it is definitely true that I mean maybe
+[00:35:12] there are occasionally companies that
+[00:35:14] get created work where there's not an
+[00:35:17] extended period of extreme pain but I'm
+[00:35:20] not aware of you know very many of such
+[00:35:22] instances yeah and so but I do think
+[00:35:28] that the new great entrepreneurs are
+[00:35:32] born of every day and will continue to
+[00:35:36] see amazing companies get both
+[00:35:39] so yeah but I would definitely advise
+[00:35:45] people there's not any company to expect
+[00:35:49] a long period of quite high difficulty
+[00:35:53] yeah but I mean song is people stay
+[00:35:58] super focused on creating absolute best
+[00:36:00] product or service that really delights
+[00:36:03] their end customer like if they stay
+[00:36:05] focused on that then basically if you
+[00:36:10] get a such that your customers want you
+[00:36:12] to succeed
+[00:36:13] then then you probably will all right
+[00:36:15] you have to focus on the customer
+[00:36:16] delivering for them yeah
+[00:36:18] make sure if your customers w you will
+[00:36:20] your odds of success are dramatically
+[00:36:23] higher all the entrepreneurs in this
+[00:36:25] were in this room they're listening to
+[00:36:26] that message and you know we're running
+[00:36:29] out of time so this is the final
+[00:36:30] question this is for the budding
+[00:36:32] entrepreneurs in the room who could take
+[00:36:33] an Elon Musk idea and run with it I mean
+[00:36:35] quite famously Hyperloop is a idea that
+[00:36:38] you had to give away because you just
+[00:36:39] don't have enough time to to deal with
+[00:36:41] it what what are the other ideas that
+[00:36:43] you have that you would love to see
+[00:36:45] another entrepreneur just take on and go
+[00:36:49] well I think there's a lot of
+[00:36:50] opportunity in general in
+[00:36:52] electrification of transport so electric
+[00:36:56] aircraft I think there's there's a lot
+[00:36:58] of opportunity there I think in in
+[00:37:02] genetic so it's it's that's sort of a
+[00:37:04] thorny area but I think that's in terms
+[00:37:06] of solving some of the more intransigent
+[00:37:09] attachment diseases genetics are really
+[00:37:11] key to to solving those something that I
+[00:37:15] think people may be only beginning to
+[00:37:18] look at is establishing some kind of
+[00:37:22] brain computer interface so a brain
+[00:37:26] computer interface yeah at their at the
+[00:37:29] neuron level so this is sort of
+[00:37:32] intelligent intelligence augmentation as
+[00:37:36] opposed to artificial intelligence right
+[00:37:37] I mean I think that that is that has a
+[00:37:40] lot of potential you mentioned to me
+[00:37:42] this to me yesterday
+[00:37:44] I really had kind of no idea what you
+[00:37:46] were talking about and then I looked up
+[00:37:47] Ian banks neural lace
+[00:37:50] that's right and so it's this concept of
+[00:37:53] you know wiring the brain so it's either
+[00:37:55] weak dude there could be a brain
+[00:37:58] internet and it could also mean that we
+[00:38:02] can upload our thoughts to the cloud you
+[00:38:06] would never forget anything you you
+[00:38:09] wouldn't need to take photographs yeah I
+[00:38:12] know it's incredible I mean it's you
+[00:38:15] would never forget anything you would
+[00:38:17] expand your ability to process
+[00:38:20] information to remember information
+[00:38:22] right the denial of service attack
+[00:38:28] happens it can also be used to fight
+[00:38:36] degenerative diseases like Parkinson's -
+[00:38:38] yeah absolutely yeah yeah and I think it
+[00:38:41] actually would be quite quite an
+[00:38:43] equaliser as well because I think the
+[00:38:45] the Delta between you know like it would
+[00:38:49] sort of even things out I think you mean
+[00:38:51] a human kind it would be there would be
+[00:38:54] no education disadvantage everyone would
+[00:38:57] are starting at the same level yeah so
+[00:38:59] there would be no meritocracy no there
+[00:39:02] would meritaten there would be but it
+[00:39:04] would be the differences would be
+[00:39:06] smaller the Delta would be smaller
+[00:39:08] probably Wow and you really welcome that
+[00:39:10] kind of world welcome that you asked for
+[00:39:14] predictions okay predictions are not the
+[00:39:17] same as references so I mean do I think
+[00:39:22] something like that is likely to occur I
+[00:39:24] think probably Wow yeah well it's
+[00:39:27] incredible we could go on and on
+[00:39:29] unfortunately have to wrap and leave it
+[00:39:30] that let's let's give it up for yelling
+[00:39:32] - that was really awesome thank you so
+[00:39:33] much
+[00:39:37] thank you
+[00:39:39] Thank You Christy and from CNN and the
+[00:39:43] de facto game-changer Elon Musk if I can
+[00:39:47] invite you to both stay on stage for a
+[00:39:48] moment we're gonna do a group photo
+[00:39:53] I'd like to please invite to join us on
+[00:39:55] stage mr. Gregg so Hong Kong secretary
+[00:39:58] for the Commerce and economic
+[00:39:59] development along with all our
+[00:40:00] distinguished speakers and our vertical
+[00:40:03] champions as well as a venue partner for
+[00:40:05] the start me up HK festival come on up
+[00:40:07] on stage you're gonna take a group photo
+[00:40:08] together I believe we're gonna move the
+[00:40:12] furniture briefly can I also please just
+[00:40:16] make sure that we include these
+[00:40:17] individuals Matt Dooley Renu Bhatia and
+[00:40:20] Sam Baily Irene Chu and Alou Steve
+[00:40:25] Monaghan ng young and the brink team
+[00:40:28] Miki Christina and Manavi will have to
+[00:40:32] get in nice and close with each other

@@ -1,0 +1,900 @@
+[00:00:00] What questions can I answer?
+[00:00:08] It it is not practical to carry an extra
+[00:00:10] battery pack in an electric vehicle. Uh
+[00:00:13] so for the the battery pack swap, um
+[00:00:15] there would be there had to be some sort
+[00:00:16] of swap station. However, if you have a
+[00:00:18] 300 mile range car, you're really not
+[00:00:20] talking about a lot of swap stations.
+[00:00:22] You I mean, you just need say one
+[00:00:24] between LA and San Francisco. Um and and
+[00:00:28] then there's a question as to whether
+[00:00:29] people will even want to swap a battery
+[00:00:31] pack rather than simply park their car
+[00:00:33] at a highway restaurant rest stop, grab
+[00:00:35] a meal or a coffee at the restroom, come
+[00:00:37] back 20 30 minutes and you've you've
+[00:00:40] recharged enough to complete the
+[00:00:41] journey. I think most people probably do
+[00:00:43] that. Um but we wanted to preserve the
+[00:00:46] optionality of of of a of a fast pack
+[00:00:48] swap just in case there were people in a
+[00:00:50] hurry.
+[00:01:03] Uh right. So Better Place actually got
+[00:01:05] the idea of battery pack swapping from
+[00:01:07] Tesla when Shiai came and visited and we
+[00:01:10] told him that we were going to
+[00:01:11] incorporate battery pack swapping. I was
+[00:01:13] like, "Oh, good idea." Yeah. Well, yeah.
+[00:01:15] Um uh
+[00:01:18] not that I think it's a genius move. I
+[00:01:20] mean, you know, you have cell phones and
+[00:01:21] laptops that have to have battery packs
+[00:01:23] as well. Um uh but um but we're not
+[00:01:28] currently working with with Better
+[00:01:30] Place. Um
+[00:01:32] uh
+[00:01:34] yeah, I yeah, not not that we we don't
+[00:01:37] like them or anything. It's just we
+[00:01:38] don't see uh any sort of technical
+[00:01:41] advantage or anything to working with
+[00:01:43] them that it is not obvious to to us how
+[00:01:45] we make the consumer experience better
+[00:01:48] with better place.
+[00:01:50] Um
+[00:01:52] so yeah
+[00:02:11] um well um it's sort of on the order of
+[00:02:15] of a thousand pounds of propellant that
+[00:02:16] you need to to expend to land proposals.
+[00:02:25] Well, um the the the booster, the rocket
+[00:02:28] booster is what delivers you to to a
+[00:02:29] parking orbit. Then you use a little bit
+[00:02:31] of propellant to maneuver over to the
+[00:02:33] space station. Um then then depart from
+[00:02:35] the space station, uh initiate a
+[00:02:37] de-orbit burn, control your re-entry, um
+[00:02:41] during the descent phase. Um in total,
+[00:02:44] there's about 3,000 lbs of propellant.
+[00:02:47] Um, so use maybe uh a thousand in terms
+[00:02:50] of getting to the space station and and
+[00:02:52] departing and de-orbiting.
+[00:02:54] Um, about a thousand on landing and
+[00:02:57] you'd have probably a,000 spare roughly
+[00:02:59] speaking. Now, if you if there was
+[00:03:00] something unusual happened like you had
+[00:03:02] to temporarily abort on an approach to
+[00:03:05] the space station, then you might use
+[00:03:06] another 500 pounds of propellant or
+[00:03:08] something like that. But, um, we will
+[00:03:10] actually have still have parachutes as
+[00:03:12] an emergency on Dragon. Um, so, um, so
+[00:03:17] you you you test the engines at say a
+[00:03:20] couple miles of altitude, make sure
+[00:03:21] they're working. If they're not, then
+[00:03:23] you deploy the emergency parachute. Kind
+[00:03:24] of like the Surus aircraft.
+[00:03:37] Well, it's not yet in production. Um uh
+[00:03:40] but but the but on a on a go forward
+[00:03:42] basis um
+[00:03:45] well the most of the engineering is done
+[00:03:47] um we're sort of the 90% engineering
+[00:03:50] complete stage right now. Um the the the
+[00:03:53] factory uh we're fortunate in being able
+[00:03:55] to purchase the the NUMI factory in
+[00:03:56] Northern California which was jointly
+[00:03:59] owned by Toyota and GM although it was
+[00:04:01] in recent years it's only been making
+[00:04:02] Toyota uh products where they made the
+[00:04:05] the Corolla and the Tacoma. Um, so we
+[00:04:08] we're able to buy at a very good price a
+[00:04:10] great factory um and and thus minimize
+[00:04:13] the uh incremental tooling cost to
+[00:04:17] produce the Model S. So we there's an
+[00:04:19] existing paint shop so we only have to
+[00:04:21] modify a paint shop instead of building
+[00:04:22] one from scratch. Um there's stamping
+[00:04:26] machines and all sorts of things there
+[00:04:27] that are helpful. Um the two biggest
+[00:04:30] milestones this year um I think are
+[00:04:32] probably getting our stamping line
+[00:04:33] operational the to stamp the aluminum
+[00:04:35] body panels. the Model S is actually
+[00:04:38] going to be the the only uh aluminum car
+[00:04:41] made in North America. Um the the um the
+[00:04:45] Audi A8 and and a few of the advanced
+[00:04:47] German cars are aluminum, but currently
+[00:04:49] there there are no aluminum passenger
+[00:04:51] vehicles made in the United States. Um
+[00:04:54] although for me coming from the sort of
+[00:04:56] space arena, it's like obviously made
+[00:04:57] from aluminum. What else would you make
+[00:04:58] from u like steel is really heavy and
+[00:05:01] not great? Um,
+[00:05:04] so, um, and then the second thing is the
+[00:05:07] paint shop. Painting a car is actually
+[00:05:09] really difficult. Um,
+[00:05:12] if you want to get a get a a spectacular
+[00:05:14] paint job. Um, and we're aiming for
+[00:05:16] something called a which we call a piano
+[00:05:19] finish, like what kind of things you see
+[00:05:20] on a on a grand piano. So, something
+[00:05:22] that's noticeably better than any other
+[00:05:25] car. Um, and so that's a that's a high
+[00:05:28] bar and and particularly to do so
+[00:05:30] without adding a lot of cost to the
+[00:05:33] process. Um, so we're
+[00:05:37] optimistic that we'll get maybe not all
+[00:05:40] the way there, but most of the way
+[00:05:41] there. Those are the two big production
+[00:05:42] milestones this year.
+[00:05:45] I got a lot of hands way in the back of
+[00:05:47] the room.
+[00:05:53] Yeah.
+[00:06:03] Huh?
+[00:06:22] Um, yeah. Well, um I mean there will
+[00:06:25] certainly be issues that we have to deal
+[00:06:27] with. Um but by but the sort of less
+[00:06:30] than 1% chance of by less than 1% I mean
+[00:06:33] less than 1% chance of annihilation of
+[00:06:35] humanity. Um and I mean even if even if
+[00:06:40] we do massively increase the the CO2
+[00:06:42] concentration in the atmosphere, it is
+[00:06:44] unlikely to result in the annihilation
+[00:06:46] of humanity. Um
+[00:06:48] it it could could kill a few hundred
+[00:06:50] people, a few hundred million people um
+[00:06:52] due to, you know, rising sea levels and
+[00:06:54] that kind of thing, which is obviously
+[00:06:56] not not good. Um but but uh it's but it
+[00:07:00] is not an annihilation event. Um uh but
+[00:07:03] if you look at the fossil history, there
+[00:07:05] have been several annihilation events.
+[00:07:08] Um you know, mostly due to uh meteors um
+[00:07:12] one kind or another, possibly some due
+[00:07:14] to super volcanoes.
+[00:07:16] um and some due to you know who who
+[00:07:18] knows what but um so we obviously suffer
+[00:07:23] from some risk of a similar annihilation
+[00:07:25] event um and also potentially uh a
+[00:07:29] man-made thing like a super virus or you
+[00:07:32] know um uh
+[00:07:35] you know it could be something like with
+[00:07:37] with the certain um large collider um
+[00:07:44] you know potentially could see could see
+[00:07:47] a press release where the the good news
+[00:07:49] is we've discovered a new law of
+[00:07:50] physics. The bad news is there's a small
+[00:07:53] black hole that's rapidly growing.
+[00:07:57] Um
+[00:08:01] now I think that's extremely unlikely.
+[00:08:03] Um it's clear um but you know we've
+[00:08:07] we've um discovered new laws of physics
+[00:08:10] before.
+[00:08:33] Well, I I I'm not a venture capitalist.
+[00:08:36] So, uh people sometimes think I'm I'm
+[00:08:38] I'm a venture capitalist, but actually
+[00:08:39] I'm
+[00:08:41] I'm an engineer. Um so um when I apply
+[00:08:45] capital it is to uh my own companies and
+[00:08:48] to occasionally to the companies of of
+[00:08:51] close friends of mine where I do zero
+[00:08:53] due diligence and I just basically
+[00:08:55] invest in the basis that I that I think
+[00:08:56] they're they're good and likely to
+[00:08:58] succeed. Um so I
+[00:09:03] so I'm I'm not I'm not the guy to pitch
+[00:09:04] on ideas um
+[00:09:07] to be funded because that's that's I'm
+[00:09:09] not a venture capitalist. It's better to
+[00:09:10] to to pitch a venture capitalist on on
+[00:09:13] that.
+[00:09:17] Um
+[00:09:19] well uh I suppose if it were to help the
+[00:09:21] space help the space program I mean you
+[00:09:24] know that would that would be quite
+[00:09:26] surprised if that were the case but but
+[00:09:28] it's possible. Um yeah I mean surprises
+[00:09:31] are good.
+[00:09:48] um
+[00:09:50] it would look a little bit different not
+[00:09:52] not that much different. Um
+[00:09:56] my my my my view on reusability is you
+[00:09:58] have to take the u the first stage has
+[00:10:00] to basically turn around uh relight its
+[00:10:03] engines, boost back to the launch pad
+[00:10:04] and land propulsively.
+[00:10:07] Um is just tricky. Um
+[00:10:11] uh it's it's very doable. Um uh and then
+[00:10:15] the second stage uh the second stage is
+[00:10:17] harder because second stage you're a
+[00:10:20] pound-for-pound trade-off on payload. Uh
+[00:10:22] so any any mass that you add in terms of
+[00:10:25] heat shield or re-entry systems it's
+[00:10:27] it's directly subtracted from the amount
+[00:10:30] that you can put into orbit. Whereas the
+[00:10:31] first stage is anywhere from a a 5 to1
+[00:10:35] to 10 to1 ratio. So you you add 10
+[00:10:38] pounds and it only takes away one pound
+[00:10:40] of payload. Um
+[00:10:43] and there's also a lot more you have to
+[00:10:44] do with the the second stage. You have
+[00:10:45] to have a much more significant heat
+[00:10:47] shield. You have to have you have to
+[00:10:50] de-orbit the stage, control it during
+[00:10:52] re-entry. It's got to have some um lift
+[00:10:56] over drag so you can steer it back to
+[00:10:57] the launch site. Um and then you've got
+[00:11:00] to either propulsy land or perhaps use a
+[00:11:02] power foil or something like that.
+[00:11:04] Um
+[00:11:06] all those things cost mass, but that's
+[00:11:08] kind of how how I think it it should it
+[00:11:11] can and should be done. That's what
+[00:11:12] we're So that basic architecture is what
+[00:11:15] we're going to try to do. Um, the trick
+[00:11:17] is to do it with uh just very mass
+[00:11:21] efficiently. Um, because you you've only
+[00:11:23] got that three maybe three and a half%
+[00:11:25] of of mass to play with. You know, you
+[00:11:29] want to try to get at least say 2% of
+[00:11:31] your mass to orbit. So that only leaves
+[00:11:33] like one and a half% for everything
+[00:11:34] else. Not much.
+[00:11:49] Yeah, I I think long term you you'd see
+[00:11:51] that sort of thing. Um and and maybe
+[00:11:54] even in in in the short in the in the
+[00:11:56] initial phase. Um it kind of depends on
+[00:11:59] whether um the the country builds United
+[00:12:03] States builds a super heavy lift or not
+[00:12:05] like a Saturn 5 class vehicle. Um if you
+[00:12:08] have a Saturn 5 class vehicle, you don't
+[00:12:09] need to do on orbit assembly. Um if you
+[00:12:11] have something smaller than that then
+[00:12:12] you then you do if you want to go to
+[00:12:14] Mars. Um
+[00:12:17] uh
+[00:12:19] so so it kind of depends on on which how
+[00:12:21] things unfold in that direction. Um I
+[00:12:25] think it'd be great to have a super
+[00:12:26] heavy lift launch vehicle.
+[00:12:29] uh if it's a if it's a if it's done in a
+[00:12:31] typical uh government-driven way, I I
+[00:12:34] think we'll will not come to fruition
+[00:12:36] because of massive schedule overruns uh
+[00:12:39] and massive cost overruns. Um
+[00:12:44] so it it really depends on whether NASA
+[00:12:46] decides to take a commercial approach to
+[00:12:48] super heavy lift. Um if then there will
+[00:12:51] be super heavy lift and obate the need
+[00:12:52] for onor orbit construction.
+[00:12:55] Um and then uh you know
+[00:12:59] when when there's a lot of traffic
+[00:13:00] between uh Earth and Mars, I would
+[00:13:02] expect there's probably some, you know,
+[00:13:05] large kind of space cruiser that's
+[00:13:06] circulating between Earth and Mars and
+[00:13:09] then you just basically take a small
+[00:13:11] shuttle craft up to the the space
+[00:13:13] cruiser, if you will, and the space
+[00:13:14] cruiser gets uh refueled from from Earth
+[00:13:17] or from Mars. Um, but that that's a
+[00:13:20] long-term optimization and it would be
+[00:13:22] driven by by a lot of traffic occurring
+[00:13:25] between the two two planets.
+[00:13:41] Well, I think it's I think it's
+[00:13:42] generally good. Um
+[00:13:48] um well
+[00:13:50] uh NASA is our biggest customer for for
+[00:13:53] SpaceX. Um so they certainly are are
+[00:13:56] huge on the customer front. They um
+[00:13:58] about 40% of our launches are for NASA.
+[00:14:02] Um
+[00:14:03] they haven't uh I mean it they did pay
+[00:14:06] for um demonstration flights. Uh
+[00:14:11] so there was sort of a quasi funer. Um
+[00:14:15] uh but it was specifically for their
+[00:14:17] needs. So it wasn't just sort of here's
+[00:14:19] some money do what you want. It's like
+[00:14:21] we have the specific need. will pay you
+[00:14:24] as you demonstrate milestones um in in
+[00:14:27] that direction.
+[00:14:29] Um in the case of Tesla, we were
+[00:14:31] fortunate enough to receive a government
+[00:14:34] loan uh last year which was unrelated to
+[00:14:36] the bailout. Unfortunately, it was
+[00:14:38] announced right around this the time of
+[00:14:39] the bailouts, but people sort of assumed
+[00:14:41] it was somehow uh bailout.
+[00:14:44] Um the the the loan that we we received
+[00:14:48] um was actually part of a program was
+[00:14:50] initiated in 2007 in boom times. Um uh
+[00:14:53] and one of the requirements of that loan
+[00:14:55] program was that you had to be a viable
+[00:14:57] entity in your own right and provide um
+[00:15:00] 20 to 30% of um private capital as
+[00:15:04] matching as a matching contribution um
+[00:15:06] which therefore excluded for example GM
+[00:15:09] and Chrysler who were bankrupt. Um
+[00:15:13] um
+[00:15:16] so so so so Ford, Nissan and Tesla
+[00:15:19] receive
+[00:15:20] um line essentially lines of credit um
+[00:15:24] that which are specifically rated in our
+[00:15:27] case specifically related to the
+[00:15:29] engineering and production costs of the
+[00:15:30] Model S. So it's certainly helpful from
+[00:15:33] a from a capital evolution standpoint.
+[00:15:36] Um, and then if if if we if we repay the
+[00:15:40] loan early, then there's no there's no
+[00:15:42] capital dilution. If we re if we um but
+[00:15:45] if we don't repay the loan early, then
+[00:15:47] uh the US government gets a bunch of
+[00:15:50] stock warrants in Tesla. So, I think
+[00:15:53] it's a pretty sort of smart I mean, in
+[00:15:55] the grand scheme of things of the
+[00:15:56] various government deals that are done,
+[00:15:57] this is I think one of the smarter ones.
+[00:16:18] Um yeah, I I think uh I mean there there
+[00:16:20] will be many sources of electricity uh
+[00:16:22] that are sustainable. Um there's um
+[00:16:26] obviously you know uh wind, geothermal,
+[00:16:29] hydro um and uh but but my my personal
+[00:16:34] view is that uh solar power will be uh
+[00:16:38] we will generate more power more
+[00:16:39] electricity from solar than from any
+[00:16:41] other single source. It may not be a
+[00:16:42] majority but I expect at least plurality
+[00:16:45] uh from from solar power. Um and that
+[00:16:47] that would be a combination of uh photo
+[00:16:50] voltakes at the point of use uh you know
+[00:16:52] roofs of of houses and businesses. um
+[00:16:56] which is also good from the standpoint
+[00:16:57] of not requiring additional power lines.
+[00:17:00] Um and then uh at the power plant level
+[00:17:04] I think we'll see a lot of solar thermal
+[00:17:06] uh power generation um where you're
+[00:17:10] essentially just using the sun to to
+[00:17:11] heat a working fluid and and then
+[00:17:13] generate steam and power a turbine.
+[00:17:16] There are a bunch of those projects that
+[00:17:17] are going to come online in California
+[00:17:19] and a few other places in the United
+[00:17:21] States soon. Um and if you think of
+[00:17:23] solar power um I you think sort of
+[00:17:28] beyond beyond humanity's need for for
+[00:17:30] electricity um the earth is entire
+[00:17:32] almost entirely solar powered um the
+[00:17:36] whole weather system is solar powered or
+[00:17:38] almost the entire weather system is
+[00:17:39] solar powered a little bit is from earth
+[00:17:41] rotation but you know all or
+[00:17:43] precipitation solar powered the only
+[00:17:45] reason we're not a frozen uh dark ice
+[00:17:48] ball at 4 degrees Kelvin is because of
+[00:17:50] the sun Um
+[00:17:53] and uh the whole ecosystem is solar
+[00:17:56] powered. I mean plants are essentially a
+[00:17:58] solar powered chemical reaction. Um so
+[00:18:02] really we're just talking about
+[00:18:04] replacing this itty bitty thing called
+[00:18:06] electricity um and and having that also
+[00:18:09] be solar power.
+[00:18:20] Thanks
+[00:18:26] That that was the intent. That was the
+[00:18:27] whole That was the whole idea.
+[00:18:41] Um, no, I don't think so. Um, you know,
+[00:18:43] like I said, the I mean, the the whole
+[00:18:45] purpose of Tesla was to to draw the rest
+[00:18:48] of the car industry into electric cars.
+[00:18:51] So, I'm the more electric car programs I
+[00:18:53] see being announced, the happier I am.
+[00:18:56] Um, the success of Tesla as a company
+[00:19:00] financially is going to be a function of
+[00:19:01] the quality of products that we produce.
+[00:19:03] Um, so, you know, we have to make better
+[00:19:06] cars than say GM and Chrysler. I don't
+[00:19:09] see that as a huge challenge.
+[00:19:13] [Laughter]
+[00:19:20] No, I mean you know
+[00:19:23] this the sad thing is that generally uh
+[00:19:26] in in the United States if people can
+[00:19:28] afford uh an expensive car they do not
+[00:19:31] buy an American car. Um, and
+[00:19:35] I think it's I think you know in the 60s
+[00:19:40] the US made great cars. Um, and before
+[00:19:42] that made great cars, but but then
+[00:19:44] something happened in the 70s. I don't
+[00:19:46] know what happened. It was a lot of bad
+[00:19:48] things. Architecture went to hell.
+[00:19:50] Fashion was questionable.
+[00:19:52] Um,
+[00:19:54] and our cars turned to
+[00:19:58] So, um I I think um
+[00:20:04] actually as a a friend of mine uh said
+[00:20:07] uh summarized the Tesla strategies to in
+[00:20:11] the long term is to make cars that don't
+[00:20:12] suck. So,
+[00:20:15] so I think I think we'll be okay. and
+[00:20:17] and there there's some vindication in
+[00:20:19] that you know Toyota which is the
+[00:20:21] largest car company in the world and the
+[00:20:22] leader in hybrids is an investor and
+[00:20:25] partner with with Tesla and if if it was
+[00:20:28] easy they would simply do it themselves
+[00:20:29] and not bother to to partner with us. Uh
+[00:20:32] Daimler is the was the inventor of the
+[00:20:35] uh internal combustion engine car the
+[00:20:37] maker of Mercedes and Smart. Um and
+[00:20:39] again they they would not uh ask us to
+[00:20:42] be a supplier to them uh or nor would
+[00:20:44] they be an investor in Tesla if uh they
+[00:20:46] thought it was a simple matter to
+[00:20:48] replicate what we're doing.
+[00:21:01] Um
+[00:21:03] uh no no this this aluminum is is is
+[00:21:06] great. Um the the Audi A8, for example,
+[00:21:08] is an aluminum car. Um all all the
+[00:21:11] airplanes that that you fly are mostly
+[00:21:13] aluminum. Um
+[00:21:16] and um it's it's it's a little it's a
+[00:21:19] little it's aluminum is a little it's
+[00:21:21] harder to work with uh in terms of
+[00:21:23] bonding and joining. Um
+[00:21:27] uh it's harder to weld than than than
+[00:21:29] steel, for example. Um so so it is
+[00:21:32] technologically more difficult to work
+[00:21:33] with. uh but it is a superior uh
+[00:21:36] superior metal uh for for anything where
+[00:21:39] where weight is important. Um that's why
+[00:21:41] planes are not made of steel. Um so um
+[00:21:46] in fact the Model S uh our design target
+[00:21:48] is is to meet a fivestar crash rating by
+[00:21:51] 2012 standards. Um which are higher than
+[00:21:55] the the a car that's fivear in by 2010
+[00:22:00] standards is only a three star by 2012
+[00:22:02] standards. So, we have a very high bar
+[00:22:04] that we're aiming for from a safety
+[00:22:05] standpoint. And obviously, you know,
+[00:22:07] I'll be driving the car. Uh, my friends
+[00:22:09] will be driving the car. Um, uh, our
+[00:22:13] beloved shareholders will be driving the
+[00:22:14] car. So, we
+[00:22:16] safety is is extremely important. Um, if
+[00:22:21] there I don't think there'll be a safer
+[00:22:23] car on the road.
+[00:22:25] Oh, sorry. So, the price uh it's it's
+[00:22:29] kind of like a 5 series BMW. So
+[00:22:30] depending upon configuration, it would
+[00:22:32] vary from about $50,000 to $100,000.
+[00:23:00] Um
+[00:23:04] well uh I I generally think that um that
+[00:23:09] there's been a bit too much outsourcing
+[00:23:10] in general uh both outsourcing out of
+[00:23:14] California outsourcing out of the United
+[00:23:15] States. Um business sometimes tends to
+[00:23:18] be a little fatty. you know, it's sort
+[00:23:20] of like what's the sort of there was for
+[00:23:23] a very long time a very strong
+[00:23:24] outsourcing fad. Um and um
+[00:23:29] but but but I don't think people really
+[00:23:30] looked at the fundamentals um in a lot
+[00:23:33] of cases when they when they outsourced
+[00:23:34] and um particularly when the technology
+[00:23:38] is evolving rapidly, I think it's it's
+[00:23:40] important to have a tight iteration loop
+[00:23:42] between um engineering and production.
+[00:23:45] So if so what as soon as you've designed
+[00:23:47] something you can bring it to production
+[00:23:48] right away. Um and you can get the
+[00:23:52] engineers can go on the on the floor and
+[00:23:54] see uh the mistakes that they've made.
+[00:23:56] Uh the production people can talk to
+[00:23:59] engineers and say here are some good
+[00:24:01] ideas and so you can you can evolve uh
+[00:24:04] the product and and achieve get get to a
+[00:24:06] better design solution faster. Um I
+[00:24:09] think this is an important thing that's
+[00:24:10] often overlooked. Um you know at SpaceX
+[00:24:14] our rockets are lower cost than the
+[00:24:16] Chinese Indians or anyone anyone else.
+[00:24:19] Um and that's before reusability is
+[00:24:22] taken into account and and I think I
+[00:24:24] think it's lot it's because of that
+[00:24:25] tight iteration. Um and in the case of
+[00:24:29] uh Tesla um you know you know the
+[00:24:32] Fremont plant the Numi plant they they
+[00:24:34] until April 1st of last year they made
+[00:24:36] the Corolla there which is a $17,000
+[00:24:39] car. So if it was fundamentally inexpens
+[00:24:41] if it was fundamentally too expensive to
+[00:24:42] operate in California, how could they
+[00:24:44] make a $17,000 car? Um so I I you know
+[00:24:49] we in California I think we do need to
+[00:24:51] be um cautious about adding more and
+[00:24:54] more costs to to to living here. Um
+[00:24:59] you know the I do think we're close to
+[00:25:01] sort of we're on a cusp of a tipping
+[00:25:03] point if if the taxes start getting you
+[00:25:05] know much higher than they are uh you
+[00:25:08] know that can California the marginal
+[00:25:10] tax rate is 11%. You could go to state
+[00:25:13] of Washington and pay 0%. Um so it is is
+[00:25:17] an expensive place to live. Um I like
+[00:25:20] living in California. Uh so I'm here but
+[00:25:22] I know many people who who moved out
+[00:25:24] because the taxes are too high or the uh
+[00:25:29] what is it? Workman's comp and and other
+[00:25:31] costs are too high. Um,
+[00:25:34] California does does, uh, I think tend
+[00:25:37] to overregulate a little bit. Um,
+[00:25:40] so, uh,
+[00:25:43] so I I think generally
+[00:25:47] California is going to have a really
+[00:25:48] tough thing to do, which is it's it's
+[00:25:50] got to cut cut the cut the the cost of
+[00:25:53] of of what it spends at the state level.
+[00:25:56] um and uh and and maybe even reduce the
+[00:26:00] taxes a little bit to be competitive
+[00:26:02] with other states um and deregulate. Um
+[00:26:06] those are the things that can be done to
+[00:26:08] increase uh employment in California. Um
+[00:26:13] politically, these are difficult things
+[00:26:14] to do. Uh and I'm not entirely sure how
+[00:26:18] Cal California gets out of this bind. It
+[00:26:20] might have to be a proposition or
+[00:26:23] something. Um because the legislature
+[00:26:25] seems unable to arrive at anything
+[00:26:27] sensible.
+[00:26:31] Sure. Sorry.
+[00:26:47] Uh no no no no no materials limitations
+[00:26:50] in space. Um, silicon, don't worry about
+[00:26:53] silicon from a limitation standpoint.
+[00:26:55] There's lots of silicon. Um, copper is
+[00:26:58] probably okay, too. Uh,
+[00:27:00] there's quite a lot of copper in the
+[00:27:02] world. Um,
+[00:27:04] for for battery packs, uh, one of the
+[00:27:07] challenges we had was cobalt. Actually,
+[00:27:09] cobalt's cobalt is only available in a
+[00:27:10] few places in the world, but it's quite
+[00:27:12] expensive. Um, and the biggest source is
+[00:27:15] the Congo, which, um, tends to vary in
+[00:27:18] it political stability. Um,
+[00:27:22] so
+[00:27:24] that's why going to going to the Model
+[00:27:26] S, we changed the the chemistry to
+[00:27:29] require only about a quarter as much
+[00:27:30] cobalt. Um, and thus reduce the cost of
+[00:27:32] the battery pack and actually also
+[00:27:34] increase the the energy of the pack. Um,
+[00:27:38] uh, if you're going to worry about any
+[00:27:40] material shortages, u maybe some rare
+[00:27:42] rare earth u elements uh are maybe a
+[00:27:46] concern. China has a huge concentration
+[00:27:48] of rare earth elements. which are used
+[00:27:50] in permanent magnet motors. Um to avoid
+[00:27:54] that issue uh well actually there are
+[00:27:56] other reasons for it as well but Tesla
+[00:27:58] does uses a has a electric motor design
+[00:28:01] that doesn't use any rare earth
+[00:28:02] elements.
+[00:28:05] I think well I think we're generally
+[00:28:06] okay on the on the commodities front. I
+[00:28:08] wouldn't worry too much about it ex
+[00:28:09] except for the the non uh reusable
+[00:28:12] commodities like uh oil and that kind of
+[00:28:16] thing.
+[00:28:17] By the way, all prices are going to go
+[00:28:18] way way way up in case anybody's
+[00:28:20] wondering.
+[00:28:24] Um, make sure I
+[00:28:28] Okay, back there.
+[00:28:48] Um, you know, I'm not too worried about
+[00:28:50] recharging stations. The great thing
+[00:28:51] about electricity is is really
+[00:28:53] ubiquitous. I mean, there are more power
+[00:28:54] outlets than more power outlets than
+[00:28:56] access to any other kind of energy by
+[00:28:59] orders of magnitude. Um, in in the in
+[00:29:02] the case of Tesla and and most of the
+[00:29:04] new electric cars that are coming out,
+[00:29:05] the charger is built into the car, so
+[00:29:07] you can plug it in almost anywhere. Um,
+[00:29:09] if you want to charge fast, you're going
+[00:29:11] to need a high power outlet. Um, but Uh
+[00:29:14] what we're seeing with the use of the
+[00:29:16] Tesla Roadster is almost all charging
+[00:29:17] occurs at home. Uh like 90% plus. Um now
+[00:29:22] it is important that you have a range
+[00:29:24] that is reasonable. I mean if you've got
+[00:29:25] sort of a really low range like say 50
+[00:29:27] miles 50 miles range then well you can't
+[00:29:31] you can't do a lot of round trips. I
+[00:29:32] mean you really you know 25 miles is
+[00:29:34] your max and you're being pretty
+[00:29:36] sporting if you do that. Um so so as as
+[00:29:40] you reduce the range you start to
+[00:29:41] require a lot of charging stations but
+[00:29:44] as you increase the range the number of
+[00:29:46] charging stations you need tends to drop
+[00:29:47] with the square of the range. Um you
+[00:29:50] know so you got sort of you know a
+[00:29:53] circle that you can travel in and um uh
+[00:29:56] so the bigger that circle is the fewer
+[00:29:58] recharging stations you need. Um and you
+[00:30:02] know so so for something like the Tesla
+[00:30:04] Roadster you only need one charging
+[00:30:05] station between LA and San Francisco.
+[00:30:07] It's a 400 mile trip uh to you turn up
+[00:30:09] to 50 miles of range. So you just need
+[00:30:11] one charge station. Um
+[00:30:15] uh but if if you had a 50 mile range,
+[00:30:17] you'd need probably 10 charging
+[00:30:19] stations, you know, uh 8 to 10 charging
+[00:30:22] stations. Um so so I I I I think you'll
+[00:30:27] really only see a lot of use of charging
+[00:30:29] stations um at least as far as Tesla
+[00:30:32] cars are concerned uh on the on the
+[00:30:35] interstates. Um, so when you're making
+[00:30:37] really long distance trips, that kind of
+[00:30:39] thing. Um, but otherwise, no.
+[00:30:56] Yeah.
+[00:31:00] Yes.
+[00:31:11] Uh sure. So in in the case of uh SpaceX
+[00:31:15] um unfortunately the the the supply
+[00:31:17] chain in the rocket business is very
+[00:31:18] shallow. Very often there is only one
+[00:31:20] supplier. Um and it's a very expensive
+[00:31:23] supplier. Um and they're really not
+[00:31:26] designed for reusability.
+[00:31:28] Um so so you're screwed if you don't buy
+[00:31:32] it yourself basically um for for the
+[00:31:35] most part you know um and so that's led
+[00:31:39] to SpaceX being sort of maybe 70 to 80%
+[00:31:42] of the rocket um being built inhouse
+[00:31:45] from raw literally from raw material um
+[00:31:49] uh and I guess another way to look at it
+[00:31:51] is to the degree that you you you
+[00:31:53] inherit the legacy uh components you
+[00:31:56] inher inherit the legacy cost structure
+[00:31:58] and limit ations.
+[00:32:00] Um so it is not from any sort of
+[00:32:03] religious bias towards insourcing but
+[00:32:05] rather because uh on the fundamentals we
+[00:32:08] were driven to do that in in Tesla in
+[00:32:10] the case of Tesla the automotive supply
+[00:32:12] chain is much better much more
+[00:32:13] competitive uh there there are many
+[00:32:15] suppliers for any given component and so
+[00:32:19] um you know maybe
+[00:32:22] 40 to 50% of the of the Tesla Model S is
+[00:32:26] insourced.
+[00:32:47] Um, you mean use use parts that are in
+[00:32:50] our rocket in something else that
+[00:32:52] they're doing? Um, not yet. Uh,
+[00:32:57] there've been a few inquiries about
+[00:32:59] using our engines um, in some other
+[00:33:01] programs which we've responded to and it
+[00:33:03] could it could happen that our engines
+[00:33:05] are are used in some other government
+[00:33:07] programs. Um
+[00:33:11] but
+[00:33:15] we do. Yeah.
+[00:33:20] Um well well just just distinguish
+[00:33:22] between a heavy lift and super heavy
+[00:33:24] lift. Um
+[00:33:26] uh because there are rockets that like
+[00:33:28] our Falcon 9 heavy and there's the Delta
+[00:33:30] IV heavy. Um and these these are sort of
+[00:33:32] on the order of in the case Delta 4
+[00:33:34] heavy it's about maybe 25 tons to orbit
+[00:33:37] in case of Falcon 9 heavy it's maybe 30
+[00:33:41] 35 tons to orbit um but uh compared to
+[00:33:45] the Saturn 5 which was over 100 tons to
+[00:33:47] orbit um it's you know there's there's a
+[00:33:49] pretty big difference there so generally
+[00:33:51] we call that sort of super heavy in the
+[00:33:53] in the 100 ton plus class um and uh yeah
+[00:33:58] SpaceX would really like to go a super
+[00:34:00] heavy And um and I think we could do it
+[00:34:03] for a small fraction of of what now you
+[00:34:06] know people what they think people think
+[00:34:08] it would cost actually. Um I think you
+[00:34:11] know I've got a record of saying I think
+[00:34:12] we could do a super heavy for
+[00:34:13] development for on the order of two and
+[00:34:14] a half billion. Um
+[00:34:17] you know prior other estimates sort of
+[00:34:20] are about 10 times that. Um
+[00:34:24] and um and the super heavy that I'm
+[00:34:27] alluding to would have about 160 ton
+[00:34:29] toward capability. So way more than a
+[00:34:32] Saturn 5. Um in fact, I've even gone as
+[00:34:36] far as to say that I will guarantee that
+[00:34:38] personally um and stake everything on
+[00:34:41] SpaceX that it will happen.
+[00:34:46] So I mean, we'll see.
+[00:34:50] um
+[00:34:52] uh
+[00:34:54] there there are strong political forces
+[00:34:56] that that don't want that that don't
+[00:34:58] want us to do that. So I'm trying to
+[00:34:59] eliminate any argument that they could
+[00:35:00] have for for not for not
+[00:35:03] not at least
+[00:35:05] allocating a small portion of the super
+[00:35:08] heavy lift funding to give us a shot at
+[00:35:11] making it work. um you know uh they can
+[00:35:17] take all the rest of the super heavy
+[00:35:18] lift funding and apply it into the
+[00:35:20] traditional way. We will take the sort
+[00:35:22] of 10 10 to 20% of that number uh on a
+[00:35:26] fixed milestone basis. So if we don't
+[00:35:28] achieve the milestones we don't get paid
+[00:35:31] um and um and and I will personally
+[00:35:34] guarantee it. So
+[00:35:37] you know if if we don't achieve the
+[00:35:39] milestones then that then that money can
+[00:35:41] then be applied to the other programs.
+[00:35:43] Um so it is a no- lose proposition
+[00:35:47] but um logic does not always prevail,
+[00:35:55] right?
+[00:36:23] true.
+[00:36:28] Yeah.
+[00:36:54] Yeah.
+[00:37:05] Yeah.
+[00:37:07] I think I think Tesla will be okay, you
+[00:37:09] know. Um
+[00:37:10] I would say on balance that the federal
+[00:37:12] government has been helpful to Tesla. Um
+[00:37:14] and um
+[00:37:17] uh yeah, so I in in the space arena um
+[00:37:23] you know um
+[00:37:25] well man this is a complicated
+[00:37:27] situation. Um but but the uh out of
+[00:37:32] necessity um NASA uh has has um you out
+[00:37:38] out of budget necessity NASA has gone
+[00:37:40] commercial as far as cargo transport is
+[00:37:42] concerned. Um and and then last year uh
+[00:37:47] President Obama said well we should also
+[00:37:49] uh outsource astronaut transport to
+[00:37:52] commercial entities. Um you know if we
+[00:37:54] can fly in Boeing airliners and Airbus
+[00:37:58] airliners and feel good about that then
+[00:38:00] why can't our spacecraft be built by
+[00:38:02] commercial entities too? Um and uh but
+[00:38:06] there was a battle royale last year um
+[00:38:09] against that um which won by a 3% margin
+[00:38:13] in the House of Representatives.
+[00:38:17] No, it was it was hairy battle. Um but
+[00:38:20] but it is moving that direction. Um
+[00:38:23] uh it's somewhat unavoidable. I mean
+[00:38:25] it's it's going to be that or or
+[00:38:27] nothing. Um
+[00:38:29] uh so so I think it's going to be that.
+[00:38:32] Um
+[00:38:34] uh yeah, so overall I'm I'm I'm pretty
+[00:38:37] optimistic about it. Um
+[00:38:39] I'd probably worry slightly more about
+[00:38:41] in in the space arena about some of the
+[00:38:44] the big uh government contractors. Um uh
+[00:38:48] they would definitely like to see SpaceX
+[00:38:50] die. Um uh I'm sure I'm being tortured
+[00:38:55] in effigy right now. Um
+[00:39:00] uh You know how you know we see a movie
+[00:39:04] and like there's the bad corporation in
+[00:39:06] the movie. Um that's like the big
+[00:39:10] defense contractor.
+[00:39:12] Those are that those that those are a
+[00:39:15] competition in a lot of cases. So
+[00:39:18] yeah.
+[00:39:21] Okay. Um I'll take a a couple more
+[00:39:23] questions and um go ahead.
+[00:39:33] Great. I'm a huge fan of NASA.
+[00:39:39] Yep.
+[00:40:02] Yeah, that's happened many times. Um
+[00:40:04] actually um
+[00:40:07] uh you know we didn't start out
+[00:40:09] insourcing
+[00:40:11] you know 70 80% of our of our hardware.
+[00:40:13] Um initially we thought well we'll we'll
+[00:40:16] try to do as little as possible but then
+[00:40:18] over time we just insourced more and
+[00:40:20] more out of necessity. And we found many
+[00:40:22] times that uh we would sign a deal uh
+[00:40:25] for supply of a component um and then um
+[00:40:30] uh the that supplier would find a reason
+[00:40:32] to triple the price. Um and as basically
+[00:40:35] as soon as they thought we we we didn't
+[00:40:37] have any way out. Um then then they
+[00:40:41] would uh start with the conclusion which
+[00:40:43] is triple price and insert reasoning. Um
+[00:40:48] uh that that's happened several times.
+[00:40:51] Um and um and then and then we we've
+[00:40:55] then we've insourced the part um to
+[00:40:56] their sprite. So but often with a lot of
+[00:41:00] a lot of grief.
+[00:41:03] Um,
+[00:41:04] so, uh, yeah, I'm I'm very pleased with
+[00:41:07] how things are now, but it it was very
+[00:41:09] very hairy for a couple years there and
+[00:41:12] two late 2007 through say for first half
+[00:41:16] of 2009
+[00:41:18] came we came close to not making it. So,
+[00:41:22] all right. Uh, last last question. Is
+[00:41:24] this somebody who I've been ignoring for
+[00:41:25] a long time?
+[00:41:26] Okay. All right. Go ahead. Sorry.
+[00:41:28] Thank you very much.
+[00:41:29] You're welcome.
+[00:41:42] Richard who?
+[00:41:47] Uh yeah. Uh actually I'm afraid I mean
+[00:41:50] Richard Brans a friend is is a friend of
+[00:41:52] mine. I mean uh so I mean he's a very
+[00:41:54] affable guy. Um he's he's not a
+[00:41:57] technologist. Um, so he he's sort of um
+[00:42:00] uh I mean his strength is brand and
+[00:42:02] marketing and and that kind of thing.
+[00:42:04] He's very good at that. Um
+[00:42:07] uh
+[00:42:09] you know I think going into the rocket
+[00:42:10] game is is is tricky because it is a
+[00:42:12] very much a technology problem. Um and
+[00:42:16] um
+[00:42:18] uh so so I think he's going to he's he's
+[00:42:20] going to encounter some challenges
+[00:42:21] there. Uh
+[00:42:23] also what Virgin Galactic is doing is a
+[00:42:26] is a suborbital flight uh which is only
+[00:42:29] about one and a half% of the energy that
+[00:42:31] you need to get to orbit. So it is a
+[00:42:33] much simpler problem. Um basically you
+[00:42:36] shoot up to about
+[00:42:38] sort of 60 60 to 70 miles and then you
+[00:42:41] fall down. That's that's essentially
+[00:42:43] what they're doing. It's it's it's like
+[00:42:45] the the best world's best roller coaster
+[00:42:47] ride. Um so it's like a really fun trip
+[00:42:51] but It's not it's not a technology path
+[00:42:53] that would ultimately take us off off to
+[00:42:55] to other planets and that kind of thing.
+[00:42:58] Um, but I think for a lot of people it's
+[00:43:00] there's there it's not there's not a
+[00:43:02] clear distinction between getting to
+[00:43:03] space and getting to orbit. Um, and and
+[00:43:06] space is somewhat of a loose definition.
+[00:43:07] It's kind of where does the atmosphere
+[00:43:09] get thin? Um, and and you can sort of
+[00:43:12] define how thin is thin. Um,
+[00:43:15] I mean it's pretty darn thin at 60 miles
+[00:43:19] altitude, but you you can't have a
+[00:43:21] satellite up there because a satellite
+[00:43:22] would orbit would decay very quickly and
+[00:43:23] it would reenter. Um,
+[00:43:26] uh, but um and and then and going up and
+[00:43:30] staying up is actually about how fast
+[00:43:32] you're zooming around the earth. It's
+[00:43:34] it's a uh takes much more energy to to
+[00:43:38] uh to do that sort of zooming around the
+[00:43:41] earth but than it is to to get the
+[00:43:43] altitude. In fact, the only reason you
+[00:43:44] need altitude at all is to get out of
+[00:43:46] atmospheric drag. If if Earth had no
+[00:43:48] atmosphere, you could be orbiting Earth
+[00:43:50] like an inch above the ground.
+[00:43:53] Um so, uh yeah, it's it's a um
+[00:43:59] uh so to get to orbit, you need at least
+[00:44:02] um to go about 25 times the speed of
+[00:44:04] sound on it before Earth. Um and the
+[00:44:07] energy required scales with the square
+[00:44:08] of the velocity. So that's say 625 units
+[00:44:10] of energy. To do a suborbital flight
+[00:44:13] such as what Virgin Galactic is talking
+[00:44:15] about, you need maybe about Mach 3,
+[00:44:17] which is 9 units of energy. So it's a
+[00:44:20] it's a pretty huge difference. And then
+[00:44:21] if you want to re-enter, you have to
+[00:44:23] burn off 625 units of energy or burn off
+[00:44:26] 9 units of energy. So it's it's a giant
+[00:44:28] difference.
+[00:44:31] So all right. Well, thank thank you.

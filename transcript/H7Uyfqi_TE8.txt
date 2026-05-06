@@ -1,0 +1,1215 @@
+[00:00:00] JEAN LEGALL: Good afternoon, ladies and
+[00:00:01] gentlemen. I'm Jean LeGall. I'm
+[00:00:03] President of the French Space Agency and
+[00:00:04] the President elect of the International
+[00:00:07] Astronautical Federation, and it is my
+[00:00:10] pleasure to welcome you here at the 67th
+[00:00:14] International Astronautical Congress.
+[00:00:18] Elon Musk is founder, C.E.O., and lead
+[00:00:21] designer of SpaceX. Elon founded SpaceX
+[00:00:26] in 2002 with the goal of revolutionizing
+[00:00:29] space technology and ultimately enabling
+[00:00:32] humans to become a multiplanetary
+[00:00:34] species, and that's the plan he's going
+[00:00:37] to lay out for us today.
+[00:00:40] SpaceX has had a number of firsts
+[00:00:42] including as the first private company
+[00:00:45] to deliver cargo to and from the
+[00:00:47] International Space Station and the
+[00:00:50] first entity to land a nautical thrust
+[00:00:51] booster back on land and on ships out at
+[00:00:54] sea.
+[00:00:56] Please join me in welcoming Elon Musk.
+[00:01:00] [APPLAUSE].
+[00:01:15] ELON MUSK: Thank you. Thank you very
+[00:01:17] much for having me. I look forward to
+[00:01:19] talking about the SpaceX Mars
+[00:01:22] architecture. And what I really want to
+[00:01:24] achieve here is to make Mars seem
+[00:01:27] possible, make it seem as though it's
+[00:01:30] something that we can do in our
+[00:01:33] lifetimes and that you can go. And is
+[00:01:36] there really a way that anyone can go if
+[00:01:38] they wanted to?
+[00:01:39] I think that's really the important
+[00:01:44] thing.
+[00:01:45] So, I mean, first of all, why go
+[00:01:46] anywhere?
+[00:01:47] Right?
+[00:01:49] I think there are really two fundamental
+[00:01:53] paths. History is going to bifurcate
+[00:01:55] along two directions. One path is we
+[00:01:58] stay on Earth forever and then there
+[00:02:00] will be some eventual extinction event.
+[00:02:03] I don't have an immediate doomsday
+[00:02:05] prophecy, but eventually history
+[00:02:08] suggests there will be some doomsday
+[00:02:10] event. The alternative is to become a
+[00:02:14] space-faring civilization and a
+[00:02:15] multiplanet species, which I hope you
+[00:02:18] agree that is the right way to go.
+[00:02:21] Yes?
+[00:02:23] [APPLAUSE].
+[00:02:29] That's what we want.
+[00:02:32] [APPLAUSE].
+[00:02:34] Yeah. So how do we figure out how to
+[00:02:42] take you to Mars and create a
+[00:02:46] self-sustaining city, a city that is not
+[00:02:50] really an outpost but can become a
+[00:02:52] planet in its own right and thus we can
+[00:02:55] become a truly multiplanet species?
+[00:02:59] You know, sometimes people wonder, Well,
+[00:03:01] what about other places in the solar
+[00:03:03] system?
+[00:03:04] Why Mars?
+[00:03:07] Well, just to sort of put things into
+[00:03:09] perspective, this is -- this is what --
+[00:03:11] this is an actual scale of what the
+[00:03:13] solar system looks like. So we're
+[00:03:16] currently in the third little rock from
+[00:03:17] the left. That's Earth. Yeah, exactly.
+[00:03:24] And our goal is to go to the fourth rock
+[00:03:26] on the left. That's Mars. But you can
+[00:03:29] get a sense for the real scale of the
+[00:03:31] solar system, how big the sun is and
+[00:03:36] Jupiter, Neptune, Saturn, Uranus. And
+[00:03:38] then the little guys on the right are
+[00:03:40] Pluto and friends.
+[00:03:45] This sort of helps to see, it's not
+[00:03:48] quite to scale, but it gives you a
+[00:03:49] better sense for where things are. So
+[00:03:53] our options for going to -- for becoming
+[00:03:56] a multiplanet species within our solar
+[00:03:59] system are limited. We have, in terms of
+[00:04:02] nearby options, we've got Venus. But
+[00:04:07] Venus is a high-pressure -- super
+[00:04:10] high-pressure hot acid bath. So that
+[00:04:13] would be a tricky one. Venus is not at
+[00:04:15] all like the goddess. This is not in no
+[00:04:20] way similar to the actual goddess.
+[00:04:24] So it is really difficult to make things
+[00:04:26] work on Venus.
+[00:04:27] Mercury is also way too close to the
+[00:04:31] sun. We could go potentially on to one
+[00:04:34] of the moons of Jupiter or Saturn, but
+[00:04:36] those are quite far out, much further
+[00:04:38] from the sun, a lot harder to get to.
+[00:04:40] Really, it leaves us with one option if
+[00:04:41] we want to become a multiplanet
+[00:04:43] civilization, and that's Mars. We could
+[00:04:47] conceivably go to our moon, and I have
+[00:04:50] nothing against going to the moon, but I
+[00:04:53] think it's challenging to become
+[00:04:57] multiplanetary on the moon because it's
+[00:04:58] much smaller than a planet. It doesn't
+[00:05:02] have any atmosphere. It's not as
+[00:05:04] resource rich as Mars. It has a 28-day
+[00:05:09] day, whereas the Mars day is 24 1/2
+[00:05:12] hours. And in general, Mars is far
+[00:05:14] better suited to ultimately scale up to
+[00:05:17] a self-sustaining civilization.
+[00:05:20] Just to give some comparison between the
+[00:05:27] two planets, there are actually --
+[00:05:29] they're remarkably close in a lot of
+[00:05:31] ways. In fact, we now believe that early
+[00:05:35] Mars was a lot like Earth. And, in fact,
+[00:05:38] if we could warm Mars up, we would, once
+[00:05:40] again, have a thick -- a thick
+[00:05:42] atmosphere and liquid oceans.
+[00:05:46] So, where things are right now, Mars is
+[00:05:48] about half again as far from the sun as
+[00:05:51] Earth. So it has decent sunlight. It's a
+[00:05:56] little cold, but we can warm it up. It
+[00:06:01] has a very helpful atmosphere which, in
+[00:06:04] the case of Mars being primarily CO2
+[00:06:06] with some nitrogen and argon and a few
+[00:06:08] other trace elements, means that we can
+[00:06:11] grow plants on Mars just by compressing
+[00:06:15] the atmosphere. And it has nitrogen,
+[00:06:17] too, which is also very important for
+[00:06:20] growing plants.
+[00:06:21] It will be quite fun to be on Mars,
+[00:06:23] because you will have gravity which is
+[00:06:27] about 37% that of Earth, so you will be
+[00:06:30] able to lift heavy things and bound
+[00:06:32] around and have a lot of fun. And the
+[00:06:36] day is remarkably close to that of
+[00:06:40] Earth.
+[00:06:41] So we just need to change that bottom
+[00:06:42] row, because currently we have 7 billion
+[00:06:45] people on Earth and zero on Mars.
+[00:06:51] So there's been a lot of great work by
+[00:06:53] NASA and other organizations in early
+[00:06:56] exploration of Mars and understanding
+[00:07:00] what Mars is like, where could we land,
+[00:07:02] what's the composition of the
+[00:07:06] atmosphere, where is there water, or
+[00:07:09] ice, we should say. And we need to go
+[00:07:13] from these early exploration missions to
+[00:07:15] actually building a city.
+[00:07:20] The issue that we have today is that if
+[00:07:23] you look at a Venn diagram, there's no
+[00:07:27] intersection of sets of people who want
+[00:07:29] to go and can afford to go. In fact,
+[00:07:32] right now you cannot go to Mars for
+[00:07:38] infinite money. Using traditional
+[00:07:41] methods, you know, if taking sort of a
+[00:07:42] holistic style approach, an optimistic
+[00:07:46] cost number would be about $10 billion
+[00:07:49] per person. For example, the Apollo
+[00:07:52] program, the cost estimates are
+[00:07:54] somewhere between $100 billion to $200
+[00:07:57] billion in current-year dollars, and we
+[00:08:00] sent 12 people to the surface of the
+[00:08:02] moon, which was an incredible thing and
+[00:08:05] I think probably one of the greatest
+[00:08:07] achievements of humanity.
+[00:08:10] But that's -- that's a steep price to
+[00:08:12] pay for a ticket. That's why these
+[00:08:14] circles only just barely touch. So you
+[00:08:19] can't create a self-sustaining
+[00:08:20] civilization if the ticket price is $10
+[00:08:23] billion a person. What we need is a
+[00:08:26] closer -- is to move those circles
+[00:08:28] together. And if we can get the cost of
+[00:08:31] moving to Mars to be roughly equivalent
+[00:08:34] to a median house price in the U.S.,
+[00:08:38] which is around $200,000, then I think
+[00:08:41] the probability of establishing a
+[00:08:43] self-sustaining civilization is very
+[00:08:45] high. I think it would almost certainly
+[00:08:48] occur -- not everyone would want to go.
+[00:08:49] In fact, I think a relatively small
+[00:08:51] number of people from Earth would want
+[00:08:53] to go. But enough would want to go and
+[00:08:55] who could afford the trip that it would
+[00:08:57] happen. And people could get
+[00:08:58] sponsorship. And I think it gets to the
+[00:09:02] point where almost anyone, if they saved
+[00:09:05] up and this was their goal, they could
+[00:09:07] ultimately save up enough money to buy a
+[00:09:10] ticket and move to Mars. And Mars would
+[00:09:13] have labor shortage for a long time so
+[00:09:15] jobs would not be in short supply.
+[00:09:20] But it is a bit tricky because we have
+[00:09:23] to figure out how to improve the cost of
+[00:09:26] trips to Mars by 5 million percent. So
+[00:09:29] this is -- this is not easy. I mean,
+[00:09:34] it's -- and it sounds like virtually
+[00:09:35] impossible but I think there are ways to
+[00:09:39] do it. This translates to an improvement
+[00:09:41] of approximately 4 1/2 orders of
+[00:09:42] magnitude.
+[00:09:46] These are the key elements that are
+[00:09:47] needed in order to achieve the 4 1/2
+[00:09:51] order of magnitude improvement. Most of
+[00:09:54] the improvement would come from full
+[00:09:56] reusability, somewhere between 2 and 2
+[00:09:58] 1/2 orders of magnitude. And then the
+[00:10:01] other two orders of magnitude would come
+[00:10:03] from refilling in orbit, propellant
+[00:10:05] production on Mars and choosing the
+[00:10:07] right propellant. So I'm going to go
+[00:10:10] into detail on all of those.
+[00:10:12] Full reusability is really the super
+[00:10:16] hard one. It's very difficult to achieve
+[00:10:19] reusability for even an orbital system,
+[00:10:23] and that challenge becomes even
+[00:10:25] substantially greater for a system that
+[00:10:28] has to go to another planet. But as an
+[00:10:34] example of the difference between
+[00:10:35] reusability and expendability in
+[00:10:37] aircraft -- and you can actually use any
+[00:10:40] form of transport. You could say a car,
+[00:10:44] bicycle, horse. If they were single-use,
+[00:10:46] almost no one would use them. It would
+[00:10:49] be too expensive. But with frequent
+[00:10:51] flights, you can take something like an
+[00:10:54] aircraft that costs $90 million and if
+[00:10:57] it was single use, you would have to pay
+[00:10:59] half a million dollars per flight. But
+[00:11:01] you can actually buy a ticket on
+[00:11:03] Southwest right now from L.A. to Vegas
+[00:11:07] for $43, including taxes. So that's -- I
+[00:11:12] mean, that's a massive improvement.
+[00:11:13] Right there it's showing a four order of
+[00:11:15] magnitude improvement.
+[00:11:16] Now this is harder -- the reusability
+[00:11:19] doesn't apply quite as much to Mars
+[00:11:21] because the number of times they can
+[00:11:23] reuse the spaceship is -- the spaceship
+[00:11:26] part of the system is less often because
+[00:11:30] the Earth-Mars rendezvous only occurs
+[00:11:31] every -- every 26 months.
+[00:11:34] So you get to use the spaceship part
+[00:11:36] roughly every two years.
+[00:11:37] Now, you get to use the booster and the
+[00:11:40] tanker as frequently as you'd like. And
+[00:11:44] so it makes -- that's why it makes a lot
+[00:11:47] of sense to load the spaceship into
+[00:11:48] orbit with essentially tanks dry and
+[00:11:51] have it have really quite big tanks that
+[00:11:55] you then use the booster and tanker to
+[00:11:56] refill while it's in orbit and maximize
+[00:12:00] the payload of the spaceships that when
+[00:12:02] it goes to Mars, you really have a very
+[00:12:04] large payload capability.
+[00:12:12] So as I said, refilling in orbit is one
+[00:12:14] of the essential elements of this.
+[00:12:17] Without refilling in orbit, you would
+[00:12:19] have a half order of magnitude impact
+[00:12:23] roughly on the cost. By "half order of
+[00:12:26] magnitude," I think the audience mostly
+[00:12:28] knows, but what that means is each order
+[00:12:31] of magnitude is a factor of ten. So not
+[00:12:35] refilling in orbit would mean a 500%,
+[00:12:38] roughly, increase in the cost per
+[00:12:41] ticket.
+[00:12:42] It also allows us to build a smaller
+[00:12:44] vehicle and lower the development cost,
+[00:12:46] although this vehicle is quite big. But
+[00:12:50] it would be much harder to build
+[00:12:53] something that's five to ten times the
+[00:12:55] size. And it also reduces the
+[00:12:57] sensitivity of performance
+[00:13:00] characteristics of the booster rocket
+[00:13:02] and tanker. So if there's a shortfall in
+[00:13:06] the performance of any of the elements,
+[00:13:08] you can actually make up for it by
+[00:13:09] having one or two extra refilling trips
+[00:13:15] to the spaceship. So this is -- it's
+[00:13:17] very important for reducing the
+[00:13:18] susceptibility of the system to a
+[00:13:20] performance shortfall.
+[00:13:25] And then producing propellants on Mars
+[00:13:29] is actually also very obviously
+[00:13:31] important. Again, if we didn't do this,
+[00:13:33] it would have at least a half order of
+[00:13:35] magnitude increase in the -- in the cost
+[00:13:38] of a trip. So 500% increase in the cost
+[00:13:40] of the trip. And it would be pretty
+[00:13:43] absurd to try to build a city on Mars if
+[00:13:47] your spaceships just kept staying on
+[00:13:50] Mars and not going back to Earth. you
+[00:13:51] would have this, like, massive graveyard
+[00:13:53] of ships. You would have to, like, do
+[00:13:55] something with them. So it really
+[00:13:56] wouldn't make sense to -- to leave your
+[00:14:01] spaceships on Mars. You really want to
+[00:14:02] build a propellant plant on Mars and
+[00:14:05] send the ships back.
+[00:14:08] So and Mars happens to work out well for
+[00:14:10] that because it has a CO2 atmosphere,
+[00:14:12] it's got water rights in the soil, and
+[00:14:16] with H2O and CO2 you can produce CH4,
+[00:14:18] methane, and oxygen, O2.
+[00:14:25] So picking the right propellant is also
+[00:14:28] important.
+[00:14:29] Think of this as maybe there's three
+[00:14:30] main choices. And they have their
+[00:14:35] merits, but kerosene or rocket
+[00:14:36] propellant-grade kerosene which is also
+[00:14:39] what jets use.
+[00:14:40] Rockets use a very expensive form of
+[00:14:42] highly refined form of jet fuel
+[00:14:44] essentially which is a form of kerosene.
+[00:14:47] It helps keep the vehicle size small,
+[00:14:51] but because it's a very specialized form
+[00:14:53] of jet fuel, it's quite expensive. Your
+[00:14:58] reusability potential is lower. Very
+[00:15:01] difficult to make this on Mars, because
+[00:15:03] there's no oil.
+[00:15:05] So really quite difficult to make the
+[00:15:10] propellant on Mars. And then propellant
+[00:15:12] transfer is pretty good but not great.
+[00:15:15] Hydrogen, although it has a high
+[00:15:17] specific impulse, is very expensive,
+[00:15:21] incredibly difficult to keep from
+[00:15:23] boiling off because liquid hydrogen is
+[00:15:26] very close to absolute zero as a liquid.
+[00:15:30] So the insulation required is
+[00:15:33] tremendous, and the cost of -- the
+[00:15:38] energy cost on Mars of producing and
+[00:15:40] storing hydrogen is very high.
+[00:15:43] So when we looked at the overall system
+[00:15:45] optimization, it was clear to us that
+[00:15:48] methane actually was the clear winner.
+[00:15:53] So it would require maybe anywhere from
+[00:15:56] 50 to 60% of the energy on Mars to
+[00:16:00] refill propellants using the propellant
+[00:16:04] depot. And just the technical challenges
+[00:16:06] are a lot easier.
+[00:16:07] So we think -- we think methane is
+[00:16:09] actually better on just really almost
+[00:16:11] across the board.
+[00:16:13] And we started off initially thinking
+[00:16:15] that hydrogen would make sense, but
+[00:16:17] ultimately came to the conclusion that
+[00:16:19] the best way to optimize the cost per
+[00:16:21] unit mass to Mars and back is to use an
+[00:16:24] all-methane system, or technically
+[00:16:30] deep-cryo Methalox.
+[00:16:31] So those are the four elements that need
+[00:16:36] to be achieved. So whatever system is
+[00:16:38] designed, whether by SpaceX or anyone,
+[00:16:42] we think these are the four features
+[00:16:45] that need to be addressed in order for
+[00:16:48] the system to really achieve a low cost
+[00:16:51] per -- a cost per ton to be of service
+[00:16:54] on Mars.
+[00:16:58] This is a simulation about the overall
+[00:16:59] system.
+[00:17:00] (Music).
+[00:17:03] (Video).
+[00:21:19] [APPLAUSE].
+[00:21:33] So what you saw there is really quite
+[00:21:37] close to what we will actually build. It
+[00:21:39] will look almost exactly what you saw --
+[00:21:41] like what you saw. So this is not an
+[00:21:43] artist's impression. The simulation was
+[00:21:46] actually made from the SpaceX
+[00:21:48] engineering CAD models. So this is not
+[00:21:51] -- you know, it's not just, well, this
+[00:21:53] is what it might look like. This is what
+[00:21:55] we plan to try to make it look like.
+[00:22:01] In the video, you got a sense for what
+[00:22:04] this system mock architecture looks
+[00:22:06] like. The rocket booster and the
+[00:22:08] spaceship take off, loads the spaceship
+[00:22:10] into orbit. The rocket booster then
+[00:22:12] comes back. It comes back quite quickly,
+[00:22:15] within about 20 minutes. And so it can
+[00:22:19] actually launch the tanker version of
+[00:22:22] the spacecraft, which is essentially the
+[00:22:24] same as the -- as the spaceship but
+[00:22:27] filling up the unpressurized and
+[00:22:29] pressurized cargo areas with propellant
+[00:22:31] tanks. So they look almost identical.
+[00:22:34] This also helps slow the development
+[00:22:35] cost, which obviously will not be small.
+[00:22:40] And then the propellant tanker goes up.
+[00:22:42] It will go -- actually, it will go up
+[00:22:43] multiple times, anywhere from three to
+[00:22:45] five times, to fill the tanks of the
+[00:22:48] spaceship in orbit. And then once the
+[00:22:52] spaceship is -- the tanks are full, the
+[00:22:54] cargo has been transferred, and we reach
+[00:22:58] the Mars rendezvous timing, which as I
+[00:23:00] mentioned is roughly every 26 months,
+[00:23:03] that's when the ship would depart.
+[00:23:07] Now, over time there would be many
+[00:23:08] spaceships. You would ultimately have, I
+[00:23:10] think, upwards of a thousand or more
+[00:23:12] spaceships waiting in orbit. And so the
+[00:23:15] Mars colonial fleet would depart en
+[00:23:17] masse. Kind of like Battlestar
+[00:23:19] Galactica, if you have seen that thing.
+[00:23:23] Good show. So it's a bit like that.
+[00:23:26] But it actually makes sense to load the
+[00:23:28] spaceships into orbit because you have
+[00:23:30] got two years to do so and then make
+[00:23:33] frequent use of the booster and the
+[00:23:35] tanker to get really heavy reuse out of
+[00:23:37] those. And then with the spaceship you
+[00:23:40] get less reuse because you have to
+[00:23:41] prepare for how long is it going to
+[00:23:43] last?
+[00:23:44] Well, maybe 30 years. So that might be
+[00:23:45] 12 to maybe 15 flights with the
+[00:23:48] spaceship at most. So you really want to
+[00:23:52] maximize the cargo of the spaceship and
+[00:23:56] use the booster and the tanker a lot.
+[00:24:03] So the ship goes to Mars, gets
+[00:24:06] replenished, and then returns to Earth.
+[00:24:07] So going into some of the details of the
+[00:24:13] vehicle design and performance -- and
+[00:24:16] I'm going to gloss over -- I'll only
+[00:24:19] talk a little bit about the technical
+[00:24:22] details in the actual presentation, and
+[00:24:25] then I'll leave the detailed technical
+[00:24:27] questions to the Q and A that follows.
+[00:24:32] This is to give you a sense of size.
+[00:24:46] It's quite big.
+[00:24:47] (Laughter).
+[00:24:49] [APPLAUSE].
+[00:24:57] The funny thing is in the long-term, the
+[00:24:59] ships will be even bigger than this.
+[00:25:01] This will be relatively small compared
+[00:25:05] to the Mars interplanetary ships of the
+[00:25:08] future. But it kind of needs to be about
+[00:25:12] this size because in order to fit a
+[00:25:14] hundred people or thereabouts in the
+[00:25:16] pressurized section plus carry the
+[00:25:18] luggage and all of the unpressurized
+[00:25:21] cargo to build propellant plants and
+[00:25:24] build everything from iron foundries to
+[00:25:29] pizza joints to you name it, we need to
+[00:25:31] carry a lot of cargo.
+[00:25:34] So it really needs to be roughly on this
+[00:25:37] sort of magnitude, because if we say
+[00:25:40] like the -- that same amount of
+[00:25:41] threshold for a self-sustaining city on
+[00:25:44] Mars for civilization would be a million
+[00:25:49] people. If you only go every two years,
+[00:25:53] if you have a hundred people per ship,
+[00:25:55] that's 10,000 trips. So I think at least
+[00:25:59] a hundred people per trip is the right
+[00:26:01] order of magnitude, and I think we may
+[00:26:02] actually end up expanding the crew
+[00:26:04] section and ultimately taking more like
+[00:26:08] 200 or more people per flight in order
+[00:26:11] to reduce the cost per person.
+[00:26:14] But it's -- you know
+[00:26:15] 10,000 flights is a lot of flights. So
+[00:26:18] you really want ultimately on the order
+[00:26:20] of a thousand ships. It will take a
+[00:26:22] while to build up to a thousand ships.
+[00:26:24] And so I think if you say, When would we
+[00:26:28] reach that million-person threshold?
+[00:26:31] From the point at which the first ship
+[00:26:33] goes to Mars, it's probably somewhere
+[00:26:37] between 20 to 50 total Mars rendezvous.
+[00:26:43] So it's probably somewhere between maybe
+[00:26:47] 40 to 100 years to achieve a fully
+[00:26:51] self-sustaining civilization on Mars.
+[00:26:59] So that's sort of the cross-section of
+[00:27:02] the ship. In some way, it's not that
+[00:27:06] complicated, really. It's made primarily
+[00:27:08] of an advanced carbon fiber. The carbon
+[00:27:11] fiber part is tricky when dealing with
+[00:27:15] deep cryogens and trying to achieve both
+[00:27:20] liquid and gas impermeability and not
+[00:27:25] have gaps occur due to cracking or
+[00:27:27] pressurization that would make the
+[00:27:29] carbon fiber leaky.
+[00:27:31] So this is a fairly significant
+[00:27:33] technical challenge, to make deep and
+[00:27:36] cryogenic tanks out of carbon fiber. And
+[00:27:41] it's only recently that we think the
+[00:27:45] carbon fiber technology has gotten to
+[00:27:48] the point where we can actually do this
+[00:27:50] without having to create a liner, some
+[00:27:53] sort of metal liner, quad liner on the
+[00:27:55] inside of the tanks, which would add
+[00:27:56] mass and complexity.
+[00:27:59] It's particularly tricky for the hot
+[00:28:01] gaseous oxygen pressurization.
+[00:28:03] So this is designed to be autogenously
+[00:28:06] pressurized, which means that the fuel
+[00:28:10] and the oxygen, we gasify them through
+[00:28:13] heat exchanges in the engine and use
+[00:28:15] that to pressurize the tanks. So we will
+[00:28:17] gasify the methane and use that to
+[00:28:19] pressurize the fuel tank. Gasify the
+[00:28:20] oxygen. Use that to pressurize the
+[00:28:23] oxygen tank.
+[00:28:24] This is a much simpler system than what
+[00:28:26] we have with Falcon 9, where we use
+[00:28:30] helium for pressurization and we use
+[00:28:34] nitrogen for gas thrusters. In this
+[00:28:37] case, we would autogenously pressurize
+[00:28:39] and then use gaseous methane and oxygen
+[00:28:44] for the control thrusters.
+[00:28:46] So really, you only need two ingredients
+[00:28:49] for this, as opposed to four in the case
+[00:28:52] of Falcon 9 and actually five if you
+[00:28:55] consider the ignition liquid. It's sort
+[00:29:04] of a complicated liquid to ignite the
+[00:29:07] engines.
+[00:29:08] That isn't very usable. In this case we
+[00:29:10] would use spark ignition.
+[00:29:17] So this gives you a sense of vehicles by
+[00:29:19] performance, sort of current and
+[00:29:23] historic. I don't know if you can
+[00:29:25] actually read that. But in expandable
+[00:29:27] mode, the vehicle, of course, we are
+[00:29:30] proposing would do about 550 tons and
+[00:29:32] about 300 tons in reusable mode. That
+[00:29:36] compares to satisfy max capability of
+[00:29:39] 135 tons. But I think this really gives
+[00:29:44] a better sense of things.
+[00:29:47] The white bars show the performance of
+[00:29:50] the vehicle; in other words, the
+[00:29:51] payload-to-orbit of the vehicle. So you
+[00:29:54] can see essentially what it represents
+[00:29:56] is what's the size efficiency of the
+[00:30:01] vehicle. And most rockets, including
+[00:30:04] ours -- ours as they're currently flying
+[00:30:05] -- the performance bar is only a small
+[00:30:07] percentage of the actual size of the
+[00:30:09] rocket.
+[00:30:09] But with the interplanetary system which
+[00:30:19] we will initially use for Mars, we've
+[00:30:24] been able to -- or we believe massively
+[00:30:26] improve the design performance. So it's
+[00:30:29] the first time a rocket's sort of
+[00:30:31] performance bar will actually exceed the
+[00:30:34] physical size of the rocket.
+[00:30:41] This gives you a more direct sort of
+[00:30:46] comparison. This is -- the thrust that
+[00:30:49] is quite enormous, talking about liftoff
+[00:30:54] thrusts of 13,000 tons. So it's quite
+[00:30:57] tectonic when it takes off. But it is --
+[00:31:00] it is a fit on Pad 39A, which NASA has
+[00:31:06] been kind enough to allow us to use,
+[00:31:10] where -- because they somewhat oversized
+[00:31:12] the pad in doing Saturn 5 and, as a
+[00:31:14] result, we can actually do a much larger
+[00:31:16] vehicle on that same launch pad. And in
+[00:31:18] the future, we expect to add additional
+[00:31:21] launch locations, probably adding one on
+[00:31:24] the south coast of Texas.
+[00:31:28] But this gives you a sense of the
+[00:31:30] relative capability, if you can read
+[00:31:36] those.
+[00:31:37] But these vehicles have very different
+[00:31:41] purposes. This is really intended to
+[00:31:43] carry huge numbers of people, ultimately
+[00:31:46] millions of tons of cargo to Mars. So
+[00:31:49] you really need something quite large in
+[00:31:51] order to do that.
+[00:31:53] So talk about some of the key elements
+[00:31:58] of the interplanetary spaceship and
+[00:32:00] rocket booster. We decided to start off
+[00:32:03] the development with what we think are
+[00:32:06] probably the two most difficult elements
+[00:32:10] of the design. One is the Raptor engine.
+[00:32:14] And this is going to be the highest
+[00:32:17] chamber pressure engine of any kind ever
+[00:32:20] built and probably the highest
+[00:32:25] thrust-to-weight.
+[00:32:26] It's a full-flow staged combustion
+[00:32:29] engine which maximizes the theoretical
+[00:32:33] momentum that you can get out of a given
+[00:32:36] source fuel and oxidizer. We subcool the
+[00:32:40] oxygen and methane to densify it. So
+[00:32:45] compared to when -- propellants normally
+[00:32:47] use close to their boiling point in most
+[00:32:49] rockets. In our case, we actually build
+[00:32:52] the propellants close to their freezing
+[00:32:54] point. That can result in a density
+[00:32:56] improvement of up to around 10 to 12%,
+[00:32:59] which makes an enormous difference in
+[00:33:00] the actual results of the rocket. It
+[00:33:04] also makes the -- it gets rid of any
+[00:33:06] cavitation risk for the turbo pumps and
+[00:33:08] it makes it easier to feed a
+[00:33:10] high-pressure turbo pump if you have
+[00:33:11] very cold propellant.
+[00:33:17] Really one of the keys here, though, is
+[00:33:20] the vacuum version of Raptor having a
+[00:33:25] 382-second ISP. This is really quite
+[00:33:29] critical too to the whole Mars mission.
+[00:33:33] And we can get to that number or at
+[00:33:34] least within a few seconds of that
+[00:33:36] number, ultimately maybe exceeding it
+[00:33:41] slightly.
+[00:33:44] So the rocket booster in many ways is
+[00:33:46] really a scaled-up version of the Falcon
+[00:33:48] 9 booster. You will see a lot of
+[00:33:50] similarities, such as the grid fins.
+[00:33:53] Obviously clustering a lot of engines at
+[00:33:58] the base. And the big difference really
+[00:34:00] being that the primary structure is an
+[00:34:02] advanced form of carbon fiber as opposed
+[00:34:04] to limited lithium and that we use
+[00:34:07] autogenous pressurization and get rid of
+[00:34:12] the helium and the nitrogen.
+[00:34:15] So this uses 42 Raptor engines. It's a
+[00:34:19] lot of engines, but we use an I.N. on
+[00:34:22] the Falcon 9. And with Falcon Heavy,
+[00:34:24] which should launch early next year,
+[00:34:27] there's 27 engines on the base. So we've
+[00:34:30] got pretty good experience with having a
+[00:34:32] large number of engines. It also gives
+[00:34:34] us redundancies. So that if some of the
+[00:34:35] engines fail, you can still continue the
+[00:34:39] mission and be fine.
+[00:34:41] But the main job of the booster is to
+[00:34:44] accelerate the spaceship to around 8 1/2
+[00:34:49] thousand kilometers an hour. For those
+[00:34:52] that are less familiar with orbital
+[00:34:56] dynamics, really it's all about velocity
+[00:34:59] and not about height. So really that's
+[00:35:02] the job of the booster. The booster is
+[00:35:04] like the javelin thrower. You've got to
+[00:35:07] toss that javelin, which is the
+[00:35:10] spaceship.
+[00:35:12] In the case of other planets, though,
+[00:35:16] which have a gravity well which is not
+[00:35:18] as deep, so Mars, the moons of Jupiter,
+[00:35:23] conceivably maybe even one day Venus --
+[00:35:27] the -- well, Venus will be a little
+[00:35:28] trickier. But for most of the solar
+[00:35:32] system, you only need the spaceship. So
+[00:35:34] you don't need the booster if you have a
+[00:35:36] lower gravity well. No booster is needed
+[00:35:38] on the moon or Mars or any of the moons
+[00:35:41] of Jupiter or Pluto. You just need the
+[00:35:43] spaceship. The booster is just there for
+[00:35:46] heavy gravity wells.
+[00:35:51] And then we've also been able to
+[00:35:52] optimize the propellant needed for
+[00:35:54] boost-back and landing to get it down to
+[00:35:58] about 7% of the liftoff prop propellant
+[00:36:01] load. We think with some optimization
+[00:36:03] maybe we can get it down to about 6%.
+[00:36:05] And we also are now getting quite
+[00:36:08] comfortable with the accuracy of the
+[00:36:09] landing. If you have been watching the
+[00:36:12] Falcon 9 landings, you will see that
+[00:36:13] they are getting increasingly closer too
+[00:36:16] to the bull's-eye. And we think,
+[00:36:18] particularly with the addition of
+[00:36:19] additional -- with the addition of some
+[00:36:21] thrusters and maneuvering thrusters, we
+[00:36:23] can actually put the booster right back
+[00:36:25] on the launch stand. And then those fins
+[00:36:27] at the base are essentially centering
+[00:36:31] features to take out any minor position
+[00:36:34] mismatch at the launch site.
+[00:36:41] So that's what it looks like at the
+[00:36:44] base. So we think we only need to gimbal
+[00:36:46] or steer the center cluster of engines.
+[00:36:50] There's seven engines in the center
+[00:36:51] cluster. Those would be the ones that
+[00:36:54] move for steering the rocket, and the
+[00:36:55] other ones would be fixed in position,
+[00:36:58] which gives us the best concentration of
+[00:37:00] -- we can max out the number of engines
+[00:37:02] because we don't have to leave any room
+[00:37:04] for gimbaling or moving the engines.
+[00:37:08] And, like, this is all designed so that
+[00:37:10] you could actually lose multiple engines
+[00:37:13] even at liftoff or anywhere in flight
+[00:37:15] and continue the mission safely.
+[00:37:22] So for the spaceship itself, in the top,
+[00:37:28] we have the pressurized compartment. And
+[00:37:29] I'll show you a fly-through of that in a
+[00:37:32] moment. And then beneath that is the --
+[00:37:33] is where we would have the unpressurized
+[00:37:35] cargo, which would be really flat packed
+[00:37:37] in a very dense format.
+[00:37:39] And then below that is the liquid oxygen
+[00:37:43] tank. The liquid oxygen tank is probably
+[00:37:45] the hardest piece of this whole vehicle
+[00:37:49] because it's got to handle propellant at
+[00:37:51] the coldest level and the tanks
+[00:37:54] themselves actually form the air frame.
+[00:37:57] So the air frame structure and the tank
+[00:38:00] structure are combined, as it is in all
+[00:38:03] modern rockets. And in aircraft, for
+[00:38:07] example, the wing is really a fuel tank
+[00:38:10] in wing shape. So it has to take the
+[00:38:12] thrust loads of ascents, the loads of
+[00:38:18] reentry, and then it has to be
+[00:38:21] impermeable to gaseous oxygen, which is
+[00:38:26] tricky, and non-reactive to gaseous
+[00:38:27] oxygen. So that's the hardest piece of
+[00:38:31] the spaceship itself, which is actually
+[00:38:32] why we started on that element as well.
+[00:38:35] And I'll show you some pictures of that
+[00:38:37] later.
+[00:38:38] And then below the oxygen tank is the
+[00:38:40] fuel tank, and then the engines are
+[00:38:42] mounted directly to the thrust cone on
+[00:38:46] the base. And then there are six of the
+[00:38:49] vacuum -- the high efficiency vacuum
+[00:38:51] engines around the perimeter, and those
+[00:38:54] don't gimbal. And then there are three
+[00:38:57] of the sea-level versions of the engine
+[00:38:59] which do gimbal and provide the
+[00:39:00] steering. Although we can do some amount
+[00:39:04] of steering if you're in space with
+[00:39:06] differential thrust on the outside
+[00:39:09] engines.
+[00:39:09] The net effect is a cargo to Mars of up
+[00:39:14] to 450 tons, depending upon how many
+[00:39:19] refills you do with the tanker. And the
+[00:39:23] goal is at least 100 passengers per
+[00:39:25] ship. Although I think we will see that
+[00:39:27] number grow to 200 or more.
+[00:39:30] This chart is a little difficult to
+[00:39:33] interpret at first, but we decided to
+[00:39:36] put it there for people who wanted to
+[00:39:37] watch the video afterwards and sort of
+[00:39:39] take a closer look and analyze some of
+[00:39:43] the numbers.
+[00:39:44] The column on the left is probably
+[00:39:46] what's most relevant. And that gives you
+[00:39:49] the trip time. So depending upon which
+[00:39:53] Earth-Mars rendezvous you are aiming
+[00:39:55] for, the trip time at 6 kilometers per
+[00:39:58] second departure blast speed can be as
+[00:40:00] low as 80 days. And then over time, I
+[00:40:03] think we could probably improve that.
+[00:40:07] Ultimately, I suspect that you would see
+[00:40:11] Mars transit times of as little as 30
+[00:40:14] days in the more distant future.
+[00:40:18] It's fairly manageable, considering the
+[00:40:19] trips that people used to do in the old
+[00:40:22] days would routinely take sailing
+[00:40:23] voyages that would be six months or
+[00:40:29] more.
+[00:40:30] So on arrival, the heat shield
+[00:40:32] technology is extremely important. We
+[00:40:34] have been refining the heat shield
+[00:40:36] technology using our Dragon spacecraft.
+[00:40:41] We are now on version 3 of PICA, which
+[00:40:43] is the phenolic-impregnated carbon
+[00:40:45] ablator. And it's getting more and more
+[00:40:47] robust with each new version, with less
+[00:40:50] ablation, more resistance, less need for
+[00:40:52] refurbishment.
+[00:40:53] The heat shield is basically a giant
+[00:40:55] brake pad. How it's like how good can
+[00:40:57] you make that brake pad against the
+[00:41:01] extreme conditions and the cost of
+[00:41:03] refurbishment and make it so you could
+[00:41:05] have many flights with no refurbishment
+[00:41:06] at all.
+[00:41:14] This is a fly-through of the crew
+[00:41:16] compartment.
+[00:41:29] I just want to give you a sense of what
+[00:41:52] it would feel like to actually be in the
+[00:41:57] spaceship. I mean, in order to make it
+[00:42:00] appealing and increase that portion of
+[00:42:01] the Venn diagram of people who actually
+[00:42:04] want to go, it's got to be really fun
+[00:42:05] and exciting, and it can't feel cramped
+[00:42:11] or boring. But the crew compartment or
+[00:42:16] the occupant compartment is set up so
+[00:42:17] you can do zero-G things, you can float
+[00:42:21] around. It would be like movies,
+[00:42:24] ElectroPuls, cabins, a restaurant. It
+[00:42:27] will be, like, really fun to go. You are
+[00:42:29] going to have a great time.
+[00:42:35] (Laughter).
+[00:42:37] So the propellant plant on Mars, again,
+[00:42:39] this is one of those slides that I won't
+[00:42:41] go into in detail here, but people can
+[00:42:45] take that offline. The key point being
+[00:42:47] that the ingredients are there on Mars
+[00:42:50] to create a propellant plant with
+[00:42:51] relative ease, because the atmosphere is
+[00:42:53] primarily CO2 and there's water ice
+[00:42:56] almost everywhere. You've got the CO2
+[00:42:59] plus H2O to make methane CH4 and oxygen
+[00:43:04] O2 using the Sabatier reaction. The
+[00:43:08] trickiest thing really is the energy
+[00:43:10] source, which think we can do with a
+[00:43:11] large field of solar panels.
+[00:43:17] So then to give you a sense of the cost,
+[00:43:20] really the key is making this affordable
+[00:43:24] to almost anyone who wants to go. And we
+[00:43:28] think, based on this architecture, this
+[00:43:30] architecture, assuming optimization over
+[00:43:32] time, like the very first flights would
+[00:43:35] be fairly expensive. But the
+[00:43:37] architecture allows for a cost per
+[00:43:41] ticket of less than $200,000, maybe as
+[00:43:44] less -- maybe as little as $100,000 over
+[00:43:48] time, depending upon how much mass a
+[00:43:50] person takes. So we're right now
+[00:43:53] estimating about $140,000 per ton to the
+[00:43:57] trips to Mars. So if a person plus their
+[00:43:59] luggage is less than that, take into
+[00:44:02] account food consumption and life
+[00:44:04] support, then we think that the cost of
+[00:44:08] moving to Mars ultimately could drop
+[00:44:18] below $100,000.
+[00:44:20] So funding, talking about funding
+[00:44:24] sources. So we have steel underpants;
+[00:44:25] launch satellites; send cargo to space
+[00:44:28] station; Kickstarter, of course;
+[00:44:31] followed by profit. So obviously it's
+[00:44:35] going to be a challenge to fund this
+[00:44:41] whole endeavor. We do expect to generate
+[00:44:46] pretty decent net cash flow from
+[00:44:48] launching lots of satellites and serving
+[00:44:51] the space station for NASA, transferring
+[00:44:56] cargo to and from space station, and
+[00:45:00] then I know there's a lot of people in
+[00:45:01] the private sector who are interested in
+[00:45:03] helping fund a base on Mars and then
+[00:45:06] perhaps there will be interest on the
+[00:45:10] government sector side to also do that.
+[00:45:12] Ultimately, this is going to be a huge
+[00:45:16] public-private partnership. And I think
+[00:45:20] that's -- that's how the United States
+[00:45:23] was established, and many other
+[00:45:26] countries around the world, is a
+[00:45:28] public-private partnership. So I think
+[00:45:29] that's probably what occurs.
+[00:45:31] And right now we're just trying to make
+[00:45:32] as much progress as we can with the
+[00:45:34] resources that we have available and
+[00:45:37] just sort of keep moving both forward.
+[00:45:44] And, hopefully, I think as we -- as we
+[00:45:45] show that this is possible, that this
+[00:45:48] dream is real, not just a dream, it is
+[00:45:52] something that can be made real, I think
+[00:45:55] the support will snowball over time.
+[00:45:59] And I should say also the main reason
+[00:46:02] I'm personally accumulating assets is in
+[00:46:04] order to fund this. So I really don't
+[00:46:07] have any other motivation for personally
+[00:46:09] accumulating assets except to be able to
+[00:46:13] make the biggest contribution I can to
+[00:46:17] making life multiplanetary.
+[00:46:19] [APPLAUSE].
+[00:46:32] Time lines. Not the best at this sort of
+[00:46:35] thing. But just to show you where we
+[00:46:44] started off. In 2002, SpaceX basically
+[00:46:49] consisted of carpet and a mariachi band.
+[00:46:53] That was it. That's all of SpaceX in
+[00:46:56] 2002. As you can see, I'm a dancing
+[00:46:59] machine. And, yeah, I believe in kicking
+[00:47:06] off celebratory events with mariachi
+[00:47:08] bands. I really like mariachi bands.
+[00:47:12] But that was what we started off with in
+[00:47:14] 2002. And really, I mean, I thought we
+[00:47:18] had maybe a 10% chance of doing
+[00:47:21] anything, of even getting a rocket to
+[00:47:23] orbit, let alone getting beyond that and
+[00:47:26] taking Mars seriously. But I came to the
+[00:47:31] conclusion if there wasn't some new
+[00:47:33] entrant into the space arena with a
+[00:47:38] strong ideological motivation, then it
+[00:47:42] didn't seem like we were on a trajectory
+[00:47:45] to ever be a space-faring civilization
+[00:47:46] and be out there among the stars.
+[00:47:49] Because, you know, in '69 we were able
+[00:47:51] to go to the moon and the space shuttle
+[00:47:53] could get to low-Earth orbit, and then
+[00:47:55] after the space shuttle got retired. But
+[00:47:56] that trend line is down to zero.
+[00:48:01] So I think what a lot of people don't
+[00:48:02] appreciate is that technology does not
+[00:48:03] automatically improve. It only improves
+[00:48:06] if a lot of really strong engineering
+[00:48:11] talent is applied to the problem that it
+[00:48:14] improves. And there are many examples in
+[00:48:17] history where civilizations have reached
+[00:48:19] a certain technology level and then have
+[00:48:21] fallen well below that and then
+[00:48:26] recovered only millennia later.
+[00:48:31] So we go from 2002 where we're basically
+[00:48:36] -- we're clueless. And then with Falcon
+[00:48:42] 1, the smallest useful little rocket
+[00:48:44] that we could think of which would
+[00:48:45] deliver a half a ton to orbit, and then
+[00:48:49] four years later we developed the -- we
+[00:48:53] built the first vehicle. So we dropped
+[00:48:55] the main engine, the upper stage engine,
+[00:48:58] the air frames, the fairing and the
+[00:49:00] launch system and had our first attempt
+[00:49:02] at launch in 2006, which failed. So that
+[00:49:07] lasted about 60 seconds, unfortunately.
+[00:49:12] But it's 2006, four years after
+[00:49:14] starting, is also when we actually got
+[00:49:15] our first NASA contract. And I just want
+[00:49:19] to say I'm incredibly grateful to NASA
+[00:49:22] for supporting SpaceX, you know, despite
+[00:49:26] the fact that our rocket crashed. Of
+[00:49:29] course, I'm NASA's biggest fan. So, you
+[00:49:33] know, thank you very much to the people
+[00:49:35] that had the faith to do that. Thank
+[00:49:36] you.
+[00:49:37] [APPLAUSE].
+[00:49:47] So then 2006, followed by a lot of
+[00:49:50] grief. And then, finally, the fourth
+[00:49:53] launch of Falcon 1 worked in 2008. And
+[00:49:58] we were really down to our last pennies.
+[00:50:00] In fact, I only thought I had enough
+[00:50:02] money for three launches and the first
+[00:50:04] three bloody failed. And we were able to
+[00:50:08] scrape together enough to just barely
+[00:50:09] make it and do a fourth launch. And
+[00:50:12] thank goodness that fourth launch
+[00:50:15] succeeded in 2008. That was a lot of
+[00:50:20] pain.
+[00:50:21] And then also at the end of 2008 is when
+[00:50:23] NASA awarded us the first major
+[00:50:27] operational contract, which was for
+[00:50:29] resupplying cargo to the space station
+[00:50:32] and bringing cargo back.
+[00:50:35] Then a couple years later we did the
+[00:50:37] first launch of Falcon 9, version 1. And
+[00:50:40] that had about a 10-ton-to-orbit
+[00:50:43] capability. So it was about 20 times the
+[00:50:46] capability of Falcon 1, and also was
+[00:50:49] assigned to carry our Dragon spacecraft.
+[00:50:54] Then 2010 is our first mission to the
+[00:50:58] space station. So we were able to finish
+[00:51:01] development of Dragon and dock with the
+[00:51:05] space station in 2010. so -- Sorry, 2010
+[00:51:11] is expendable Dragon -- expendable
+[00:51:14] Dragon. 2012 is when we delivered and
+[00:51:17] returned cargo from the space station.
+[00:51:20] 2013 is when we first started doing boat
+[00:51:22] take-off and landing tests. And then
+[00:51:24] 2014 is when we were able to have the
+[00:51:27] first orbital booster do a soft landing
+[00:51:30] in the ocean. The landing was soft. The
+[00:51:33] (inaudible) exploded. But the landing --
+[00:51:36] for seven seconds, it was good. And we
+[00:51:41] also improved the capability of the
+[00:51:44] vehicle from 10 tons to about 13 tons to
+[00:51:48] LEO.
+[00:51:51] And then 2015, last year, in December,
+[00:51:56] that was definitely one of the best
+[00:51:57] moments of my life when the rocket
+[00:51:59] booster came back and landed at Cape
+[00:52:01] Canaveral. That was really ...
+[00:52:06] [APPLAUSE].
+[00:52:16] Yeah. So that really showed that we
+[00:52:18] could bring an orbit-class booster back
+[00:52:21] from a very high velocity all the way to
+[00:52:25] the launch site and land it safely and
+[00:52:30] with almost no refurbishment required
+[00:52:33] for reflight. And if things go well,
+[00:52:35] we're hoping to refly one of the landed
+[00:52:38] boosters in a few months.
+[00:52:42] So, yeah -- and then 2016, we also
+[00:52:44] demonstrate landing on a ship. The
+[00:52:47] landing on the ship is important for the
+[00:52:51] very high-velocity geosynchronous
+[00:52:52] missions. And that's important for
+[00:52:54] reusability of Falcon 9 because about
+[00:52:59] roughly a quarter of our missions are
+[00:53:03] sort of servicing the space station. But
+[00:53:06] then there's a few other low-Earth-orbit
+[00:53:08] missions. But most of our missions,
+[00:53:10] probably 60% of our missions, are
+[00:53:12] commercial geo missions. So we've got to
+[00:53:15] do these high-velocity missions that
+[00:53:17] really need to land on a ship out to
+[00:53:20] sea. They don't have enough propellants
+[00:53:23] on board to boost back to the launch
+[00:53:28] site.
+[00:53:29] So looking into the future, next steps,
+[00:53:33] we were kind of intentionally a bit
+[00:53:35] fuzzy about this time line. But we were
+[00:53:40] going to try to make as much progress as
+[00:53:42] we can. Obviously, it's with a very
+[00:53:44] constrained budget. But we are going to
+[00:53:46] try to make as much progress as we can
+[00:53:50] on the elements of interplanetary
+[00:53:54] transport booster and spaceship, and
+[00:53:58] hopefully we'll be able to complete the
+[00:54:03] first development spaceship in maybe
+[00:54:06] about four years and start doing
+[00:54:09] suborbital flights with that.
+[00:54:11] In fact, it has enough capability that
+[00:54:14] you could maybe even go to orbit if you
+[00:54:17] limit the amount of cargo with the
+[00:54:20] spaceship. Well, you have to really --
+[00:54:22] you have to really strip it down. But in
+[00:54:25] tanker form, it could definitely get to
+[00:54:26] orbit. It can't get back, but it can get
+[00:54:31] to orbit.
+[00:54:32] Actually, I was thinking like maybe
+[00:54:34] there is some market for really fast
+[00:54:36] transport of stuff around the world,
+[00:54:39] provided we can land somewhere where
+[00:54:40] noise is not a super big deal, because
+[00:54:44] rockets are very noisy. But we could
+[00:54:47] transport cargo to anywhere on Earth in
+[00:54:52] 45 minutes at the longest. So most
+[00:54:55] places on Earth would be maybe 20, 25
+[00:54:59] minutes. So maybe if we had a floating
+[00:55:02] platform off the coast of, you know, say
+[00:55:06] -- off the coast of New York, say 20, 30
+[00:55:10] miles out, could you go from New York to
+[00:55:15] Tokyo in, I don't know, 25 minutes;
+[00:55:19] across the Atlantic in ten minutes.
+[00:55:23] Really most of your time would be
+[00:55:25] getting to the ship, and then it would
+[00:55:27] be real quick after that.
+[00:55:28] So there's some intriguing possibilities
+[00:55:32] there. Although, we're not counting on
+[00:55:35] that.
+[00:55:35] And then development of the booster --
+[00:55:36] we actually think the booster part is
+[00:55:39] relatively straightforward because it's
+[00:55:41] -- it amounts to a scaling up of the
+[00:55:44] Falcon 9 booster. So there's -- we don't
+[00:55:48] see a lot of sort of show-stoppers
+[00:55:51] there. Yeah.
+[00:55:55] But then trying to put it all together
+[00:55:59] and make this actually work to Mars, if
+[00:56:01] things go super well, it might be kind
+[00:56:03] of in the ten-year time frame. But I
+[00:56:08] don't want to say that's when it will
+[00:56:10] occur. It's, like, this huge amount of
+[00:56:13] risk. It's going to cost a lot. Good
+[00:56:17] chance we don't succeed, but we're going
+[00:56:19] to do our best and try to make as much
+[00:56:22] progress as possible.
+[00:56:27] And we're going to try to send something
+[00:56:30] to Mars on every Mars rendezvous from
+[00:56:34] here on out. So Dragon 2, which is a
+[00:56:36] propulsive lander, we plan to send to
+[00:56:41] Mars in a couple years, and then do
+[00:56:43] probably another Dragon mission in 2020.
+[00:56:46] In fact, we want to establish a steady
+[00:56:49] cadence, that there's always a flight
+[00:56:52] leaving, like there's a train leaving
+[00:56:52] the station. With every Mars rendezvous
+[00:56:57] we will be sending a Dragon -- at least
+[00:56:59] a Dragon to Mars and ultimately the big
+[00:57:01] spaceship.
+[00:57:02] So if there's a lot of interest in
+[00:57:04] putting payloads on Dragon, you know you
+[00:57:07] can count on a ship that's going to
+[00:57:10] transport something on the order of at
+[00:57:15] least two or three tons of useful
+[00:57:17] payloads to the surface of Mars.
+[00:57:20] [APPLAUSE].
+[00:57:28] That's part of the reason we designed
+[00:57:30] Dragon 2, to be a propulsive lander. As
+[00:57:33] a propulsive lander, you can go anywhere
+[00:57:35] in the solar system. So you can go to
+[00:57:38] the moon. You can go to -- well,
+[00:57:40] anywhere, really. Whereas, if something
+[00:57:43] relies on parachutes or wings, then you
+[00:57:46] can pretty much only -- well, if it's
+[00:57:49] wings, you can pretty much only land on
+[00:57:51] Earth because you need a runway, and
+[00:57:52] most places don't have a runway. And
+[00:57:56] then anyplace that doesn't have a dense
+[00:57:57] atmosphere, you can't use parachutes.
+[00:58:00] But propulsive works anywhere. So the
+[00:58:04] Dragon should be capable of landing on
+[00:58:06] any solid or liquid surface in the solar
+[00:58:09] system.
+[00:58:15] I was real excited to see that the team
+[00:58:20] managed to do the -- all our Raptor
+[00:58:23] engine firing in advance of this
+[00:58:25] conference. I just want to say thanks to
+[00:58:29] the Raptor team for really working seven
+[00:58:32] days a week to try to get this done in
+[00:58:35] advance of the presentation, because I
+[00:58:38] really wanted to show that we've made
+[00:58:40] some hardware progress in this
+[00:58:43] direction. And the Raptor is a really
+[00:58:45] tricky engine. It's a lot trickier than
+[00:58:48] Merlin because it's a full-flow stage
+[00:58:50] combustion, much higher pressure.
+[00:58:54] I'm kind of amazed it didn't blow up on
+[00:58:56] the first firing. Fortunately, it was
+[00:59:00] good.
+[00:59:10] It's kind of interesting to see the mock
+[00:59:11] diamonds forming.
+[00:59:14] [APPLAUSE].
+[00:59:30] And part of the reason for making the
+[00:59:31] engine sort of small, Raptor, although
+[00:59:34] it has three times the thrust of a
+[00:59:35] Merlin is only about the same size as a
+[00:59:39] Merlin engine because it has three times
+[00:59:41] the operating pressure.
+[00:59:43] That means we can use a lot of the
+[00:59:44] production techniques that we've honed
+[00:59:46] with Merlin.
+[00:59:47] We are currently producing Merlin
+[00:59:49] engines at almost 300 per year. So we
+[00:59:53] understand how to make rocket engines in
+[00:59:56] volume.
+[00:59:56] Even though the Mars vehicle uses 32 on
+[00:59:59] the base and 9 on the upper stage, so we
+[01:00:02] are at 51 engines to make -- that's well
+[01:00:06] within our production capabilities for
+[01:00:09] Merlin. And this is a similarly sized
+[01:00:11] engine to Merlin except for the
+[01:00:12] expansion ratio. So we feel really
+[01:00:15] comfortable about being able to make
+[01:00:17] this engine in volume at a price that
+[01:00:21] doesn't break our budget.
+[01:00:25] We also wanted to make progress on the
+[01:00:27] primary structure. So, as I mentioned,
+[01:00:31] this is really a very difficult thing to
+[01:00:36] make, to make something out of carbon
+[01:00:38] fiber.
+[01:00:38] Even though carbon fiber has incredible
+[01:00:40] strength-to-weight, when you want to
+[01:00:47] then put super cold liquid oxygen or
+[01:00:49] liquid methane -- particularly liquid
+[01:00:51] oxygen -- in a tank, it's subject to
+[01:00:55] cracking and leaking, and it's very
+[01:00:59] difficult to make. Just the sheer scale
+[01:01:01] of it is also challenging, because
+[01:01:03] you've got to lay out the carbon fiber
+[01:01:05] in exactly the right way on a huge mold,
+[01:01:07] and you've got to cure that mold at
+[01:01:12] temperature.
+[01:01:14] And then -- it's just hard to make large
+[01:01:18] carbon fiber structures that could do
+[01:01:20] all of those things and carry incredible
+[01:01:24] loads. So that's the other thing we want
+[01:01:25] to focus on is the Raptor and then
+[01:01:29] building the first development tank for
+[01:01:33] the Mars spaceship.
+[01:01:39] So this is really the hardest part of
+[01:01:41] the spaceship. The other pieces we have
+[01:01:44] a pretty good handle on. But this was
+[01:01:46] the trickiest one. We wanted to tackle
+[01:01:48] it first.
+[01:01:48] You get a size for how big the tank is,
+[01:01:52] which is really quite big. Also big
+[01:01:55] congratulations to the team that worked
+[01:01:57] on that.
+[01:01:58] They were also working seven days a week
+[01:01:59] to try to get this done in advance of
+[01:02:02] the IAC. We managed to build the first
+[01:02:08] tank, and the initial tests with the
+[01:02:10] cryogenic propellants actually look
+[01:02:12] quite positive. We have not seen any
+[01:02:14] leaks or major issues.
+[01:02:18] This is what the tank looks like on the
+[01:02:24] inside. So you can get a real sense for
+[01:02:28] just how big this tank is. It's actually
+[01:02:32] completely smooth on the inside, but the
+[01:02:34] way that the carbon fiber plies lay out
+[01:02:37] and reflect the light makes it look
+[01:02:43] faceted.
+[01:02:44] So then what about beyond Mars?
+[01:02:46] So as we thought about the system -- and
+[01:02:49] the reason we call it a system, because
+[01:02:51] generally I don't like calling things
+[01:02:52] systems because everything is a system,
+[01:02:53] including your dog -- is that -- is that
+[01:02:59] it's actually more than a vehicle.
+[01:03:02] There's obviously the rocket booster,
+[01:03:04] the spaceship, the tanker, and the
+[01:03:09] propellant plant, the in situ propellant
+[01:03:12] production.
+[01:03:13] If you have all of those four elements,
+[01:03:16] you can actually go anywhere in the
+[01:03:18] solar system by planet hopping or moon
+[01:03:20] hopping. So by establishing a propellant
+[01:03:24] depot on -- in the asteroid belt or on
+[01:03:27] one of the moons of Jupiter, you can go
+[01:03:30] to -- you can make flights from Mars to
+[01:03:33] Jupiter no problem. In fact, even from
+[01:03:37] -- even without a propellant depot at
+[01:03:38] Mars, you can do a fly-by of Jupiter
+[01:03:43] without a propellant depot.
+[01:03:46] So -- but by establishing a propellant
+[01:03:48] depot, let's say, you know, Enceladus or
+[01:03:55] Europa or -- there's a few options, and
+[01:04:00] then doing another one on Titan,
+[01:04:03] Saturn's moon, and then perhaps another
+[01:04:07] one further out on Pluto or elsewhere in
+[01:04:12] the solar system, this system really
+[01:04:17] gives you freedom to go anywhere you
+[01:04:18] want in the greater solar system. So you
+[01:04:21] can actually travel out to the Kuiper
+[01:04:22] belt or the Earth cloud. I wouldn't
+[01:04:25] recommend this for interstellar
+[01:04:30] journeys, but this -- just this basic
+[01:04:32] system, provided we have filling
+[01:04:35] stations along the way, is -- means full
+[01:04:39] access to the entire greater solar
+[01:04:41] system.
+[01:04:43] [APPLAUSE].

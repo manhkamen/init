@@ -1,0 +1,705 @@
+[00:00:00] Hi, it's me, Tim Dodd, the Everyday Astronaut. Welcome to Starbase, Texas.
+[00:00:04] Today. We're going inside star base with the ultimate tour guide Elon Musk.
+[00:00:08] He's gonna take us through the High Bay to see where Starships are assembled.
+[00:00:12] We'll also see the new Mega Bay under construction and talk about SpaceX's plans
+[00:00:16] to get this rocket flying. Now, I must warn you.
+[00:00:18] Some of the things we talk about are pretty technical,
+[00:00:20] but I've got a handful of videos to help you understand what we're talking
+[00:00:23] about.
+[00:00:24] There's links in the description to those videos and stick around because in the
+[00:00:27] next videos, we're going to go up the launch tower.
+[00:00:30] Then we'll see the new Raptor 2's up close and personal,
+[00:00:32] and talk about the Falcon 9's Merlin engine in great detail.
+[00:00:36] And if you happen to find this video valuable,
+[00:00:38] consider dropping a Super Thanks as a tip or become a channel member or a
+[00:00:42] Patreon supporter for early access and to help show your support. All right,
+[00:00:45] let's get started.
+[00:00:59] So we're making, we're making good progress with the Mega Bay over there.
+[00:01:03] So that should be done in a month or so.
+[00:01:08] That's tricky. The scale from because perspective wise right here,
+[00:01:12] it almost looks the same, you know, just from our perspective, but it's...
+[00:01:16] It's about 30,
+[00:01:19] 40 feet taller. So it's more
+[00:01:25] about  you know, this case.
+[00:01:29] So girth is more important than length because we just need, we need to be able
+[00:01:35] to construct more Ships and Boosters. And you can see like,
+[00:01:38] like the High Bay there is it's okay.
+[00:01:42] If you've got like maybe two or three,
+[00:01:46] works in progress,
+[00:01:47] but maybe have two or three workstations this in
+[00:01:52] the High Bay, in the Mega Bay, we can have, like really,
+[00:01:57] almost a dozen, maybe at least 10 workstations.
+[00:02:01] So that's why the sort of width and length are more important there.
+[00:02:08] Especially as we try to really get the production line going,
+[00:02:11] we need more workstations.
+[00:02:15] The High Bay here is okay for making for a low production rate,
+[00:02:18] but as you go to a higher production rate, you need,
+[00:02:20] you just need more workstations.
+[00:02:21] Yeah.
+[00:02:28] And so that's bBooster, right? Yeah.
+[00:02:33] Or half a Booster, half a half a Ship, it looks like.
+[00:02:38] Yeah, exactly.
+[00:02:40] Looks like you do have those your vents there, the cold,
+[00:02:44] the cold gas or the, the ullage gas vents.
+[00:02:47] Yes. Well we're using the ullage gas, for attitude control.
+[00:02:51] So instead of having separate attitude control thrusters,
+[00:02:54] we're using the ullage gas, itself,
+[00:02:57] for attitude or reaction control.
+[00:03:00] So basically for attitude control in once
+[00:03:05] you're in orbit or basically when you're in a vacuum,
+[00:03:09] the impulse needed is very low.
+[00:03:14] Earlier design iterations, we had a separate
+[00:03:18] cold gas attitude control system with nitrogen bottles.
+[00:03:21] But that actually doesn't make a lot of sense since we've got a bunch of ullage
+[00:03:24] that we're gonna vent anyway. So might as well use the ullage gas for attitude
+[00:03:35] control and small Delta V changes on orbit.
+[00:03:38] I had to admit, you taught us to question your constraints.
+[00:03:43] So, that makes sense to me, for the Booster, you know,
+[00:03:47] 'cause the Booster doesn't need to do it basically the second you turn the
+[00:03:51] engines off, it's gonna need to want to vent a lot of its stuff anyway.
+[00:03:53] And that's also corresponds with its first flip,
+[00:03:57] but for a Starship like with docking maneuvers and stuff, how does... To me,
+[00:04:01] in my head,
+[00:04:01] the Venn diagram of needing to depress a tank and the Venn diagram needing to
+[00:04:06] do an orbital maneuver, don't always, you know, have a huge amount of overlap.
+[00:04:11] So is, or is it not a concern? Can you, are they, is it always gonna be on tap?
+[00:04:16] When the Ship gets to orbit you're gonna have still
+[00:04:21] a pretty high pressure in the oxygen and fuel tanks which are autogenously
+[00:04:26] pressurized.
+[00:04:27] So you've got hot gaseous oxygen and sort
+[00:04:33] of hot methane. But you have a lot more
+[00:04:39] ullage pressure than... You actually don't need any more ullage pressure.
+[00:04:45] So, like you've got more pressure than you need.
+[00:04:52] The deorbit and the landing burns are done with the header tanks.
+[00:04:56] So you actually want to vent the main tanks down to just above atmospheric
+[00:05:00] pressure. Well, you want to
+[00:05:06] have enough pressure in the main tanks for structural stability.
+[00:05:11] So it's pressure stabilized,
+[00:05:15] but not any more pressure than is needed for pressure stabilization for
+[00:05:19] atmospheric entry. When it gets to orbit,
+[00:05:24] it's gonna have really a lot more pressure than is needed for atmospheric entry.
+[00:05:28] So we would in any case end up venting the
+[00:05:33] the main tanks down to the pressure needed for reentry.
+[00:05:41] So we'd be tossing that gas away.
+[00:05:44] That's, if it's free, you might as well use it.
+[00:05:46] Yeah. We're gonna dump the gas anyway.
+[00:05:47] So then why have separate tanks and everything,
+[00:05:50] you might as well use that gas for, you know,
+[00:05:55] attitude control and small maneuvers and
+[00:06:00] then even then we'll still end up dumping
+[00:06:04] the remaining gas that's not needed for entry.
+[00:06:08] Okay. That, so because of that last statement, you'll be dumping it anyway.
+[00:06:12] Definitely kind of, yeah.
+[00:06:14] Actually when you look at the whole design, it actually, it's just like,
+[00:06:17] obviously it was pretty dumb to have a separate
+[00:06:22] a cold gas reaction control system,
+[00:06:27] because, we have excess ullage gas.
+[00:06:33] If we simply have
+[00:06:38] main tank vents that vent in the direction that you'd want,
+[00:06:43] then there's no need to have separate ullage thrusters.
+[00:06:47] You can literally just use the vent.
+[00:06:50] So at some point, those will probably have like, almost like an Apollo style,
+[00:06:53] like four, four way, set of nozzles or something. Right.
+[00:06:58] Or because right now they're just facing prograde basically.
+[00:07:04] Yeah. Those, so that would be for settling thrusters, basically the,
+[00:07:08] those ones up there. This side thrusters that you don't see on right now,
+[00:07:13] that'll be added. So side vents.
+[00:07:23] So it just still surprises me that you're not doing, you know,
+[00:07:26] like capturing and doing some kind of high pressure, higher pressure, you know,
+[00:07:30] hot gas thrust anymore when you have.
+[00:07:32] No, the hot gas thruster was definitely overengineered and unnecessary.
+[00:07:38] So just using ullage gas for
+[00:07:44] small thrust, is the obvious move in this case. So
+[00:07:51] in retrospect, the obvious move it's much more efficient than having separate,
+[00:07:56] cold gas thrusters.
+[00:07:57] Well, I guess not, no, I think about it there probably hasn't,
+[00:07:58] there's never really been a rocket where the upper stage or the actual
+[00:08:02] spacecraft is 99% a giant empty tank or drained tank,
+[00:08:07] every other vehicle Space Shuttle, you know, very small amounts of, you know,
+[00:08:11] just the OMS pods basically. That stuff.
+[00:08:14] But there's never really been a vehicle that's on orbit where it just went
+[00:08:17] through a, you know, four or five minute burn, and now it needs to,
+[00:08:22] yeah, that actually is really, really interesting.
+[00:08:27] That's so crazy.
+[00:08:28] So it's a significant optimization mass and cost savings to use the ullage gas
+[00:08:33] for
+[00:08:35] attitude and reaction control than to have separate cold gas thrusters.
+[00:08:40] I love it.
+[00:08:41] I'd say that's like one of the biggest improvements that we've made.
+[00:08:45] I gotta admit that was one when you were talking about the last time.
+[00:08:47] And I kept thinking about it.
+[00:08:48] Actually,
+[00:08:49] I was actually- I was just- it was literally occurred to me in real time.
+[00:08:53] It occurred to me while I was explaining to you  I was like, wait,
+[00:08:56] what are we doing?
+[00:08:59] It was one of those things I kept just being like that can't be right,
+[00:09:02] but you're yeah. I mean, it, it is, it seems to be.
+[00:09:07] . Yeah. We kind of went through this exercise for the,
+[00:09:13] the Ship and I was like, wait a second.
+[00:09:14] We should do that for the Booster as well.
+[00:09:16] And that just occurred to me literally,
+[00:09:18] while I was doing the interview with you.  like, okay.
+[00:09:23] Do you mind saying a few things or, or do I sure.
+[00:09:25] What, what do you think we should?
+[00:09:27] I dunno, discuss...
+[00:09:29] Yeah, I wanna see Elon's interviewing skills.
+[00:09:32] Well, I mean, so
+[00:09:36] this is Joe Petrzelka he'shead of Booster engineering. I don't know, anything
+[00:09:44] you wanna say? Like you point at things and describe.
+[00:09:49] What's, new on like [Booster] 7 and stuff?
+[00:09:51] What are some of the new things you guys are working on?
+[00:09:53] On Booster 7, which is down at the pad right now,
+[00:09:56] it's been quite an improvement over the first Boosters that we built four and
+[00:09:59] five we simplified a lot of things.
+[00:10:02] Like there was a lot of you just learned when you put things together.
+[00:10:05] The first time we were able to get rid of a lot of it and combine a lot of it,
+[00:10:09] it's got some new aero features, so it's got upgraded grid fins,
+[00:10:12] and it has chines or strakes on the side of it. Yeah.
+[00:10:14] And those are gonna make the reentry performance much better.
+[00:10:17] So we'll be able to actually come in at a lower velocity and get higher
+[00:10:20] precision when we're coming in for the tower catch.
+[00:10:22] So we're really excited to try that out on that.
+[00:10:25] Okay. Then I got one for both of you guys. Why are the strikes or whatever you,
+[00:10:30] the chi-.
+[00:10:30] Chines.
+[00:10:31] Why aren't they 180 [degrees]?
+[00:10:33] It sounds like wind chimes.
+[00:10:35] It's.
+[00:10:35] Chimes with an "n".
+[00:10:36] Why, why, why aren't they 180 degrees to each other?
+[00:10:40] It looks like they're about a 140 or something offset. Yeah.
+[00:10:43] They're about 120 [degrees] actually. And what they do,
+[00:10:46] it's not about just increasing the like wingspan, if you will.
+[00:10:49] It's about getting the area of the cylinder of the rocket to pressurize.
+[00:10:54] So those features help the rest of the rocket pressurize.
+[00:10:57] So it's more than just the area of those chines.
+[00:10:59] You actually get more net drag on that section of the vehicle.
+[00:11:03] At an angle. Right. Not, not. Yeah. Okay. So you're,
+[00:11:06] so you're basically using that to increase like the overall surface area when
+[00:11:09] it's coming at some kind of angle of attack.
+[00:11:12] Yeah. And so the Booster is very,
+[00:11:14] it's very bottom heavy with all of the engines down there.
+[00:11:17] And so you're trying to actually add drag area down there as well.
+[00:11:20] And when you do that, that can let the Booster pitch up higher. Yes. Otherwise,
+[00:11:24] if you don't have the chines, it wants to just come in.
+[00:11:27] Feet first...
+[00:11:29] It's still gonna come in pretty, butt, end first, slightly little,
+[00:11:31] slightly less, well, you.
+[00:11:32] Can pitch it up to 10 or 20 degrees.
+[00:11:34] Yeah. And.
+[00:11:34] Get much more control authority.
+[00:11:36] And further, and it cross range.
+[00:11:38] As Joe was saying,
+[00:11:39] it's a little bit more than just increasing the cross section of the vehicle.
+[00:11:44] Because you're not coming in-.
+[00:11:44] The integrated pressure profile on the base.
+[00:11:54] The experienced wind is
+[00:11:58] hitting the cylinder of the vehicle.
+[00:12:00] And then it's rolling around the cylinder and it's kind of like losing pressure
+[00:12:03] as it rolls as it rolls around.
+[00:12:05] By having the the chines be not at
+[00:12:10] 180 degrees, but a little, little lower down,
+[00:12:12] we're catching more of that air that's escaping.
+[00:12:16] And so technically you actually have slightly less cross-sectional area,
+[00:12:21] but you have more integrated pressure at the base.
+[00:12:24] Gotcha. Let's keep moving quick while this machinery's firing up. So, but.
+[00:12:28] These are very primitive chines.
+[00:12:30] We can do way better first attempting. I expect to change them alot over time.
+[00:12:33] Yeah.
+[00:12:33] Well,
+[00:12:34] one of the things that I love about it is that you're covering up the COPVs
+[00:12:37] that. So it's both, both a COPV aero cover. Double use side of it. Which I love.
+[00:12:43] Ido fear that makes us less rigorous about getting rid of COPVs.
+[00:12:48] More complacent that they have a home.
+[00:12:50] We could put as many as we wanted under them. So they were still a force-.
+[00:12:52] Okay, good. But like, if you say, like, what's,
+[00:12:57] what are optimized chines?
+[00:12:58] You'd actually want them to get bigger as you get wider at the bottom.
+[00:13:03] Begin to start looking like chip flaps. Like the simulation right away.
+[00:13:07] Especially, especially as you're coming in, like you said,
+[00:13:10] with such a big amount of mass and basically a dry can above it you'd really
+[00:13:14] want the center of pressure to be as low as possible. Right.
+[00:13:16] Yeah.
+[00:13:18] So that brings me to another question then you're still,
+[00:13:20] I'm curious why you guys are still sticking with grid fins instead of like a
+[00:13:23] more traditional, you know, stabilator or some kind of canard or something,
+[00:13:28] you know, .
+[00:13:30] Well, this is a frequent topic of conversation.
+[00:13:32] Exactly. We discussed this a lot. I mean,
+[00:13:35] essentially like our optimization right now is getting to orbit. We
+[00:13:46] know how to use grid fins from Falcon 9. Grid fins are
+[00:13:53] much more consistent than flaps as you go from hypersonic to supersonic
+[00:13:58] to transonic, to subsonic.
+[00:13:59] So you're going through these different Mach regimes and grid fins are
+[00:14:04] much more consistent than wing or a wingy thing.
+[00:14:08] A wingy thing. Yeah.
+[00:14:10] So
+[00:14:11] especially as you go subsonic the center of pressure on any kind
+[00:14:16] flat surface shifts significantly where you go from supersonic
+[00:14:21] to subsonic.
+[00:14:28] Could you be lighter than a grid fin?
+[00:14:31] I think there's a good chance you could be. There's also another factor,
+[00:14:34] which is the actuator power needed to turn a grid
+[00:14:39] is much less than is needed for, to turn a wing a sort of a wing, like thing.
+[00:14:44] Of similar.
+[00:14:45] Uh, yeah. Especially as that, as that set of pressure changes, uh.
+[00:14:49] It increases the torque, the motor, right? On a normal wing.
+[00:14:51] You're necessarily.
+[00:14:54] Be ordered so short that even if the center of pressure changes,
+[00:14:57] it's not far from the rotation point. And so the,
+[00:15:00] to torque required does not change dramatically throughout your Mach regime
+[00:15:04] transitions.
+[00:15:05] Yeah. Yeah.
+[00:15:06] But we are constantly talking about do we have the right number of grid fins
+[00:15:10] Were they designed correctly.
+[00:15:11] Yes. So like, we're not saying we're right. To be clear, like, we're,
+[00:15:14] we're definitely not optimal, but we
+[00:15:19] it'll work . We're like, it's probably,
+[00:15:22] if working is good and it's one less problem to solve.
+[00:15:27] We obviously don't need four.
+[00:15:34] I think we could probably get away with two,
+[00:15:38] definitely not more than three.
+[00:15:40] Well, you're all the 2016, like original OG you know,
+[00:15:44] ICS had had three and I remember that being a pretty unique design
+[00:15:47] consideration, you know, and...
+[00:15:49] Yeah.
+[00:15:49] There's sure number of iterations that this vehicles gone through is insane.
+[00:15:52] Before it, even before it even hit the pavement.
+[00:15:54] It had already iterated like  so many times. Well, I started questioning,
+[00:15:59] you know, why for me, I always thought the grid fin was a lot of,
+[00:16:01] it was being able to retract them on ascent, you know,
+[00:16:04] get them out of the windstream, but now that you're not retracting them,
+[00:16:07] I was like, well that, and then also, you know, the actual mass savings,
+[00:16:10] you know, 50% of your, the mass of a grid fin is, is perpendicular to your,
+[00:16:15] your control motion, you know, your control authority.
+[00:16:18] So I always wondered if like they, how that would, the trade would be on just,
+[00:16:22] yeah. Compared to like a normal wingy thing.
+[00:16:25] If you know your position well and you know,
+[00:16:28] your wings well you can in theory have
+[00:16:33] a ballistic arc when you do your boostback burn that is
+[00:16:38] very accurate with nothing. We
+[00:16:45] tried this in the early days of Falcon 9.
+[00:16:51] Any small asymmetries
+[00:16:53] on the vehicle will cause it to go crazy,
+[00:16:58] basically it'll spin up and start flapping around and it'll just start
+[00:17:02] oscillating and rotating and...
+[00:17:05] Dynamic stability becomes a concern.
+[00:17:06] Yeah. Yeah, exactly. So, so technically you don't,
+[00:17:11] you don't actually need massive surfaces. You just need to be able to take out,
+[00:17:16] um, the asymmetries of the protuberances on the vehicle and
+[00:17:23] any error that you have with respect to position or your boostback
+[00:17:29] impulse. Yeah.
+[00:17:30] And, and even wind conditions and things like that. I'm sure might grow.
+[00:17:33] So you really, don't the control surfaces you need are,
+[00:17:37] are actually not very big.
+[00:17:40] We've shrunk the grid fins significantly from where we started out.
+[00:17:46] They're much lighter.
+[00:17:52] Even with grid fins, we really should be moving to
+[00:17:56] aspirationally two grid fins, but certainly not more than three. And,
+[00:18:00] and the third one can be small.
+[00:18:02] Little vestigial guy in the, I like just imagining a tiny little guy in, on one,
+[00:18:07] on one sector.
+[00:18:08] Yeah. Um, so.
+[00:18:14] In the High Bay. We have, actually,
+[00:18:15] this is the liquid oxygen tank section for Booster 8 is
+[00:18:20] coming along very quickly,
+[00:18:21] right behind Booster 7 and then the Ship 24 nose cone.
+[00:18:25] So this is the Ship that we hope to pair with Booster 7 for our first orbital
+[00:18:30] launch.
+[00:18:34] It's looking so much more refined already than even S20.
+[00:18:41] Oh, uh, can we see the door
+[00:18:46] on the back side of it?
+[00:18:48] Yeah. I mean, it's not gonna blow your mind.
+[00:18:51] . You'd be surprised, man. The internet sure loves that door.
+[00:18:55] Yeah. You gonna see the door anyway. So I guess why not?
+[00:19:01] Because you're, you're at this point planning to launch [Ship] 24
+[00:19:05] with Starlink V2 already, right?
+[00:19:12] Yeah. We'll see.
+[00:19:23] I mean, it's just, like I said, I'm not gonna blow your mind here. You know,
+[00:19:27] it's basically,
+[00:19:29] it's like we call it the PEZ dispenser  and it's kind of like that it's
+[00:19:34] the Starlink satellites are, You know, in this, rack,
+[00:19:39] which looks like a frigging PEZ thing, 'cause they're like, you know,
+[00:19:44] kind like rectangular just like a PEZ and they're stacked inside the,
+[00:19:49] the nose cone inside the fairing. And since
+[00:19:54] they're low profile, we only need a really a small door.
+[00:19:58] With a small door, we can use pressure stabilization.
+[00:20:02] Like we can retain pressure in the fairing so we can
+[00:20:06] at least partially pressure stabilize the the nose cone or fairing.
+[00:20:11] And then we don't have a humongous hinge door.
+[00:20:19] Like you might later on which larger pieces of cargo and things like that.
+[00:20:23] Yeah. We, we can make a giant door in the future,
+[00:20:25] but this allow it's this a small doorways, a lot less than a giant door.
+[00:20:29] Yeah. Yeah.
+[00:20:32] Simple sensor. We could come up with for deploying Starlink.
+[00:20:33] I feel like it it's just begging-.
+[00:20:36] It could go wrong. To be clear.
+[00:20:37] Like if the mechanisms inside jam up that will be pretty embarrassing.
+[00:20:42] Right, right, right.
+[00:20:42] But it looks like it's just begging to have like two big googly eyes with a
+[00:20:46] funny looking grin there, you know, or something.
+[00:20:50] So we are incurring
+[00:20:53] some complexity for the sort of the racking system inside,
+[00:20:57] 'cause you've gotta have a racking system. So it's
+[00:21:01] more complicated than a PEZ dispenser, but it's the general principle is...
+[00:21:04] Like spring loaded then or hydraulically loaded or something or?
+[00:21:07] Uh, it's, , it's, it's a bunch of electric
+[00:21:13] it's electric, and with a bunch of mechanisms.
+[00:21:20] And they just like roll themselves out and just zip out the door. And...
+[00:21:24] .
+[00:21:26] Sorry.
+[00:21:27] Inspired by pallet stacking technology. .
+[00:21:30] Like I watch YouTube videos of palette stacker.
+[00:21:32] Exactly. Industrial pallet stackers. It's the same basic principle. They
+[00:21:38] don't look super simple frankly but they do work.
+[00:21:44] It's the same basic mechanism. I mean, there's some risk of,
+[00:21:50] you know, you're loading it in at you know,
+[00:21:53] 1G and then you're unloading it at 0G. So, you know,
+[00:21:57] you could have some situation where you're unloading a mechanism and
+[00:22:02] because you unload the mechanism, it now binds. Like,
+[00:22:05] so that's a risk that we that's hard to test for.
+[00:22:08] Yeah. Yep. What, so this,
+[00:22:12] so you're planning to actually do your first set of Starlink V2's on this
+[00:22:17] vehicle, or wait, is this 25 or 24? 24? This is 24,
+[00:22:23] which is currently scheduled ish to be the first orbital attempt. Right?
+[00:22:29] So you are,
+[00:22:29] so has the plan changed to go from kind of a sub orbital to an orbital launch if
+[00:22:33] you're gonna be trying to pop out a couple Starlinks?
+[00:22:36] No, we we're always gonna go. Our next launch was
+[00:22:41] always gonna be orbital.
+[00:22:42] Is it full orbital? Not.
+[00:22:44] Yes.
+[00:22:44] Okay. So, so that would, well.
+[00:22:46] Yes. I mean, yes for.
+[00:22:48] Cause for a little while there was talk about like B4 and stuff and S20 back in
+[00:22:52] the day doing like a, just shy orbit, you know,
+[00:22:54] on the reentry by Hawaii and stuff like that. Never quite reaching...
+[00:22:57] It's, it's still, it's basically orbit.
+[00:22:59] Okay. Yeah.
+[00:22:59] There's no real difference.
+[00:23:00] Small part between the...
+[00:23:01] Yeah. I mean, you could just, it's the difference between, I mean,
+[00:23:05] you're going like three quarters of the way around the Earth. Uh you're yeah.
+[00:23:10] I mean, you.
+[00:23:10] It literally like 30 meters per second difference or something it's tiny,
+[00:23:13] it's hilariously small.
+[00:23:14] Yeah. It's extremely, yeah. It's, it's essentially orbital velocity.
+[00:23:18] So there's just no point in doing, like, why not,
+[00:23:22] why do an extra loop around the Earth, you know,
+[00:23:24] and have another orbit burn. So.
+[00:23:28] Um, but if you're.
+[00:23:28] Really like,
+[00:23:31] I wouldn't say that there's like high confidence that the first flight will
+[00:23:36] work.
+[00:23:36] I think there's a good chance that it does not reach orbit that there's an issue
+[00:23:39] with the Booster or, or stage separation or if the Ship doesn't start or,
+[00:23:45] and then even if it does get to orbit,
+[00:23:47] there's probably the Ship makes it down intact is also
+[00:23:52] not super high.
+[00:23:53] This is why it's entering over the Pacific and unpopulated area.
+[00:23:57] So if there is an issueit's not a danger to people.
+[00:24:03] So one of the things that a lot of people were asking about after,
+[00:24:08] or, you know,
+[00:24:09] once we started seeing the heat shield tiles is why they aren't scaled like a
+[00:24:12] dragon or like,
+[00:24:13] like a roof shingle where they're slightly overlapping and tapering and,
+[00:24:16] in thickness, you know, why are they just have the gaps and everything. What's?
+[00:24:23] I mean, you know, this,
+[00:24:28] there's more than there's multiple ways to approach this.
+[00:24:31] So it's not that like a shingled approach couldn't work.
+[00:24:34] You could have a shingled approach.
+[00:24:39] The thing that will happen or,
+[00:24:41] should in theory happen here is that when the tiles get hot,
+[00:24:44] they will expand and, and tighten the gap.
+[00:24:48] So the gaps that you see here should be smallerwhen
+[00:24:52] the tiles heat up. Um,
+[00:24:57] And you know, you're really not
+[00:25:02] gonna see a lot of heat going down through those gaps is our expectation.
+[00:25:07] So shingling
+[00:25:10] does not seem to be important. We could be wrong about that.
+[00:25:14] That's kinda around the vehicle as opposed to...
+[00:25:18] Right, right. Yeah. The flow is not coming straight in at those gaps. It's like.
+[00:25:24] It's yeah. I mean, be coming in at an angle similar to the Shuttle,
+[00:25:28] like I dunno, 60, 70 degrees.
+[00:25:30] So sort of like if the ground is so to the Earth,
+[00:25:34] we're sort of coming in like that. And
+[00:25:37] it's a balance between generating lift.
+[00:25:41] Like for reusable heat shield, we wanna minimize the peak heat load.
+[00:25:46] So the peak heat load is going to determine if we melt the tiles or not. Yeah.
+[00:25:50] And if you melt the tiles that they're not very good for reuse. So we're
+[00:25:55] kind of balancing between generating, lift and...
+[00:26:01] So
+[00:26:05] there's atmospheric density, velocity, and you don't wanna have like be
+[00:26:12] high, be going fast in high density air. That's gonna be.
+[00:26:17] You wanna kind of stay up in the upper atmosphere for a little bit longer than
+[00:26:19] you would if-.
+[00:26:20] You wanna slow down as much as possible in the thin upper atmosphere.
+[00:26:25] So you minimize peak heating. That's the goal minimize peak heating.
+[00:26:29] Which is pretty much what designed the whole Shuttle's airframe almost was that,
+[00:26:33] that peak heating and the controlling that peak, that PQ.
+[00:26:39] Yes. So now we're gonna learn a lot from this first entry.
+[00:26:45] If there's any issues
+[00:26:53] the Ship will not, you know, if there's unexpected heating in some places,
+[00:26:56] then the Ship will fail on entry and that'll be that. Yeah.
+[00:27:03] Is there any talks speaking of failing and reentry and all those things
+[00:27:08] have you guys there were rumbling for a little bit that you guys,
+[00:27:11] someone was talking about flying Ship 20 still, or S20, just on a sub-orbital.
+[00:27:16] Yeah. We've moved on.
+[00:27:19] Oh, just for my sake, man. Those,
+[00:27:21] those sub-orbital flights were so fun to watch. Cause it was so slow.
+[00:27:24] You gotta feel it, you know, that much longer when it's just sitting there,
+[00:27:27] you know, ascending for several minutes.
+[00:27:29] Like I've never seen anything like that.
+[00:27:31] Those flights are cool. But like this... We think we've learned,
+[00:27:36] you know, what we needed to learn really with the sub-orbital flights. Yeah.
+[00:27:40] And there wasn't really much to learn so best focus on getting to orbit.
+[00:27:45] I mean, yay. But also awww  like should be quite excited about people.
+[00:27:49] That's true. Yeah. Those, yeah. Those 33 Raptors,
+[00:27:51] I think we'll put on a pretty... That'll make up for the slow slow,
+[00:27:55] gentle climb will be 33 shaking everything.
+[00:27:58] I think what'll seem pretty odd or like strange is that
+[00:28:04] is this the Starship orbital stack is gonna come off the pad very fast. Yeah.
+[00:28:09] So, yeah, it's got high thrust to weight.
+[00:28:11] What's its thrust- approximate thrust to weight.
+[00:28:13] I mean, it should be like 1.4 ish, maybe 1.5 around 1.5.
+[00:28:18] Yeah. That's like Ariane 5 speeds with those SRBs once that, those light,
+[00:28:22] that thing just shot off, shoots off the pad, you know? And.
+[00:28:25] Yeah.
+[00:28:26] It'll be like that.
+[00:28:28] I mean, it's yeah.
+[00:28:30] That'll be disorienting to see something that big,
+[00:28:33] just accelerating that quickly, you know, it'll...
+[00:28:36] For a reusable vehicle you actually want to have a higher thrust to weight than
+[00:28:40] an expendable vehicle. Because
+[00:28:43] thrust to weight below one is not doing anything.
+[00:28:46] So your propellant is not being useful below thrust to weight of one.
+[00:28:49] So you actually want to have a higher thrust to weight for a reusable
+[00:28:54] vehicle than for an expendable. For an expendable vehicle,
+[00:28:59] the cost overwhelmingly is in the vehicle itself that you are losing.
+[00:29:03] But for a reusable vehicle, if it's,
+[00:29:08] you know, rapidly reusable and completely reusable,
+[00:29:11] the cost of propellant is the single biggest cost of the flight.
+[00:29:15] And so you want to have a high thrust toweight so that more of the thrust is
+[00:29:19] useful. Yeah. Uh, so.
+[00:29:22] So high thrust to weight ratio literally is, is financially beneficial,
+[00:29:27] purely on the you need less be able to do the same amount of work.
+[00:29:30] Like, this may sound sort of mercantile but it's actually the, the,
+[00:29:35] the thing to optimize for is cost per ton to orbit.
+[00:29:42] Like you can't cheat if you get cost per ton to orbit.
+[00:29:48] It's not about what the
+[00:29:52] mass ratio is or the ISP or anything, although we're aiming for, you know,
+[00:29:55] to have a great mass ratio, great ISP, everything. But it's really,
+[00:29:58] what is your fully considered cost per ton to orbit.
+[00:30:02] At the end of the day...
+[00:30:03] Is that's considered cost per ton to orbit is the optimization.
+[00:30:07] And any given technology is only relevant to the degree that it produces cost
+[00:30:10] per ton to orbit.
+[00:30:12] So thrust to weight ratio might matter more than ISP as long as it makes for
+[00:30:17] a lower cost per ton to orbit.
+[00:30:20] Yes.
+[00:30:20] So the trade offs always end up with,
+[00:30:23] does it decrease the cost per ton to orbit and that's what matters more.
+[00:30:27] Aspirationally, like we don't always get. Right.
+[00:30:29] But the thing that really matters is minimize cost per to orbit.
+[00:30:35] For Mars or the Moon minimize cost per ton to the surface of the Moon or
+[00:30:40] to the surface of Mars.
+[00:30:41] Just to give you a sense of just how
+[00:30:46] much we need to improve it's really insane. Like right now,
+[00:30:50] the cost of per useful landed ton to the surface of Mars
+[00:30:56] is in excess of a billion dollars.
+[00:30:59] So 'cause you can't count the heat shield or the parachute or the useful
+[00:31:04] stuff. So the landing systems mass does not count only the,
+[00:31:08] like in the case of the rovers,
+[00:31:12] it's really just the rover. That is the useful thing.
+[00:31:16] So if the rover weighs a ton and
+[00:31:21] it costs a billion dollars to get there, it's a billion dollars per ton to Mars.
+[00:31:29] And that's roughly,
+[00:31:31] you know what it currently costs now in order to make life multi-planetary
+[00:31:38] and have a self-sustaining city on Mars
+[00:31:44] that number will have to improve to,
+[00:31:47] I think probably under a 100,000 dollars a ton,
+[00:31:53] that that would be a 10,000 times better than the current state of the art
+[00:31:58] to put things into perspective.
+[00:32:00] How much of an improvement is needed not 10,000%,
+[00:32:04] 10,000 fold.
+[00:32:06] .
+[00:32:10] That's what Starship is intended to do.
+[00:32:12] Be 10,000 times better than the current state of the art.
+[00:32:16] Wow.
+[00:32:17] So.
+[00:32:17] Orders and orders and orders of magnitude.
+[00:32:20] It's a lot of orders of magnitude. But it is-
+[00:32:23] we're not breaking any laws of physics. It is possible to do that.
+[00:32:28] Should we, uh,
+[00:32:29] can we see up at the top or is there anything to see up there right now?
+[00:32:33] Not really anything to see.
+[00:32:35] I mean,I think we probably shouldn't take pictures of the inside.
+[00:32:40] Not that it's super interesting, but 
+[00:32:46] But I think we gotta be cautious about like pictures of the inside.
+[00:33:06] Where's the lifting points on this one now?
+[00:33:10] You can see the lugs up there. I mean, I'm not,
+[00:33:16] we need to move those lifting points. Those are not in a good position.
+[00:33:20]  So you don't wanna have lifting points where the heat shield tiles are.
+[00:33:24] We need to move lift points to, where the heat shield tiles are not.
+[00:33:30] Are you still hoping tocatch the Ship too with the arms or what's the,
+[00:33:36] I mean, you are right? How are you gonna catch it, I guess, like,
+[00:33:42] are you gonna do the same thing with the tiny little nubs? Like,
+[00:33:46] like the Booster?
+[00:33:47] Uh, yeah, I mean, it'll be very similar to the Booster with...
+[00:33:51] Now in the case of the Ship because we need to have heat shield tiles that go
+[00:33:54] more than 180 degrees, a little more than 180 degrees.
+[00:33:57] We'll have to have the catch points kind of like flip out.
+[00:34:04] But it'll otherwise be...
+[00:34:05] Stays in the, in the leeward side.
+[00:34:06] It's gonna be the leeward side the wind. Like you'd have to,
+[00:34:10] I mean you'd have to have heat shield tiles pop out or
+[00:34:15] have something that's in the leeward side that swings out. One of the two.
+[00:34:18] And you can't just have the... You can't catch 'em by the nose fins.
+[00:34:24] You sort of could.
+[00:34:32] Well,
+[00:34:33] like what you're seeing there that doesn't have heat shiled tiles will need to
+[00:34:36] have heat shield tiles. So everything's gonna have heat shield tiles. You see a,
+[00:34:41] like a steel part at the base of the, but that'll have to have tiles on it.
+[00:34:45] What if it's, if it's attached,
+[00:34:46] if the mounting point would be attached to somewhere on the leeward side of the
+[00:34:50] flap and the flap could rotate more than 180 degrees,
+[00:34:53] it could get in line with this- it could be the same mechanism that does the
+[00:34:57] quickie thing could be just the flap itself.
+[00:35:01] Um, I'm not sure I understand what you're saying.
+[00:35:05] If the catch ball thing is on the leeward side of the flap
+[00:35:10] and the flap can go beyond 180 degrees...
+[00:35:13] Oh, that's man. That's not the problem you want us to try and solve.
+[00:35:16] Like a huge challenge we have is the hot gas seal.
+[00:35:22] Oh, right. You'd move that more.
+[00:35:25] Over, over center of that. Like frankly, thething we need to do,
+[00:35:30] I think is move the forward flaps more towards the leeward side.
+[00:35:34] This is a major internal debate, but
+[00:35:39] there's a massive amount of optimization possible with the foward flaps.
+[00:35:43] They're in the wrong position. They're the wrong size, wrong position,
+[00:35:47] wrong location. But they will work.
+[00:35:51] Yeah. They're a start .
+[00:35:53] Yeah. They'll work, but they're far from optimal.
+[00:35:57] What are the under those one heat shields, do you see the little, those,
+[00:36:02] like yellow puck things? What are those? Are those special or something?
+[00:36:06] Just like temperature sensors.
+[00:36:08] Oh!
+[00:36:10] Uh, I think so either temperature or radio.
+[00:36:14] I'm not sure. So
+[00:36:17] either the antennas or temperature sensors.
+[00:36:22] Well, what else is new since the last time we were out here?
+[00:36:27] Well, we're building the Mega Bay.
+[00:37:19] What got your gears turning now?
+[00:37:23] No, just there's a, I mean,
+[00:37:25] there's a lot of improvements to make with the Ship and Booster design.
+[00:37:30] But anyway, right now the important thing is just to get to orbit with
+[00:37:36] you know, some reasonable payload. And then,
+[00:37:39] we have a whole series of improvements that we plan to improve the performance,
+[00:37:42] the payload to orbit.I really
+[00:37:51] am not a fan of our forward flaps that like every time I look at them,
+[00:37:55] it drives me crazy 'cause they're so suboptimal.
+[00:38:00] Well your rate of innovation and your rate of iteration,
+[00:38:03] those will be different sooner than, rather than later I'm sure.
+[00:38:08] Yeah. I mean, it's,
+[00:38:10] there's a potential scenario where we can delete the forward flaps entirely.
+[00:38:16] And the Shuttle doesn't have forward flaps.
+[00:38:19] And that's because you're using dihedral control to control
+[00:38:24] mostly pitch,
+[00:38:26] and you can still do a little bit of yaw and roll with just a pair.
+[00:38:31] So, Huh.
+[00:38:35] Um.
+[00:38:38] Cause it's mostly about your center of pressure, right?
+[00:38:41] So your center of mass and center of pressure, it's a see-saw.
+[00:38:45] So you can just think of these things like the- you've got a see-saw and
+[00:38:52] your center
+[00:38:58] of pressure, like the winds,
+[00:38:59] the air is hitting the vehicle.
+[00:39:06] You have a center of pressure. It's like, where's
+[00:39:12] that air gonna push the vehicle? Like, if
+[00:39:16] you add up all the wind pressure, if you're like pushing it with your finger,
+[00:39:23] what's the center of that force gonna be?
+[00:39:25] And then you've got your center of mass, which is similar thing, but for mass.
+[00:39:32] You've got these sort of two see-saw things, center pressure center mass. If
+[00:39:39] you have big forward flaps and big rear flaps,
+[00:39:41] you can have a much more variation in where your center of mass is gonna be.
+[00:39:46] And also what your angle attack can be and how well you can control the vehicle
+[00:39:50] and different Mach regimes in
+[00:39:55] the face of like a lot of wind shear and wind buffet.
+[00:40:02] Because there was that again, Soviet, like I don't remember what it was called,
+[00:40:07] the mole or something that just had a dihedral wing on the back was supposed to
+[00:40:11] be like a mini shuttle for them, like a two passenger shuttle.
+[00:40:14] The Buran, you mean?
+[00:40:15] What was that?
+[00:40:15] The Buran?
+[00:40:16] No, not Buran. Nope. It had foldable wings and they basically,
+[00:40:21] the only things those are fixed, they weren't dynamic, you know,
+[00:40:23] so it's not like they controlled its pitch, but it basically had a, really,
+[00:40:27] was supposed to have a really high angle of attack during initial ascent.
+[00:40:30] And then the back flaps just folded down. And, but that was to extend,
+[00:40:34] basically have actual lift and, and do a horizontal landing.
+[00:40:37] It wasn't necessarily like a dynamic link,
+[00:40:39] but the idea was that you could control your overall, you know,
+[00:40:42] pitch almost like, you know, Virgin Galactic's Spaceship Two that folds in half,
+[00:40:47] you know, how it can change its, its whole center pressure and everything just,
+[00:40:52] you know, in a single thing, but it's not, again, that's not dynamic.
+[00:40:55] It goes from one mode to mode, one to mode two, you know,
+[00:40:58] and same with that Soviet one. But yeah, there's, you know,
+[00:41:00] that probably becomes a lot trickier when you are trying to be dynamic and when
+[00:41:04] are trying to actually pinpoint control your landing. I'm sure that...
+[00:41:09] The thing I was like really counterintuitive about the
+[00:41:13] Starship is that it's not an aircraft it's falling. Yeah. So, we're
+[00:41:18] just constantly trying to brake as opposed to an aircraft that is an aircraft is
+[00:41:23] trying to generate lift and fly horizontally.
+[00:41:26] We are trying to generate drag and be as draggy as possible when we fall.
+[00:41:31] Yeah. It's
+[00:41:35] a very different optimization than an aircraft.
+[00:41:40] So yeah. Yeah. It's about,
+[00:41:45] about four times usable area of the High Bay.
+[00:41:50] So it's only a little bit taller, but it's a lot wider and deeper.
+[00:41:54] And so we, we have a lot more
+[00:41:58] positions for product manufacturing, the Booster or the Ship.
+[00:42:03] So if you, if you have a production line,
+[00:42:05] you need a lot of stations essentially for a high production.
+[00:42:09] So this is intended to have a lot of stations.
+[00:42:12] Is some of this getting replaced by another building that's like over top of
+[00:42:17] some stuff or is it...?
+[00:42:19] We are building a permanent building,
+[00:42:21] a permanent factory building and replacing the tents.
+[00:42:27] But the High Bay's...
+[00:42:29] We're building a, we're not building a building to encompass the highway.
+[00:42:32] That would be insane. But
+[00:42:35] we are going to be building a factory,
+[00:42:37] a permanent factory building and replacing the tents and we're start the factory
+[00:42:41] building from that side and kind of build and gradually replace the tents.
+[00:42:45] With a large, permanent building.
+[00:42:48] And that's actually currently in the works, I guess. So you're still, you know,
+[00:42:53] there's a lot of speculation obviously with how quickly Florida's ramping up
+[00:42:55] that this might be slowing down,
+[00:42:57] but that doesn't seem to be slowing down too much if you're building and
+[00:43:00] building out here. Hey,
+[00:43:05] by the way, I'm Tim.
+[00:43:06] Hi.
+[00:43:07] Hey, nice to meet you. Awesome. Yeah. Sorry, what was your name?
+[00:43:10] Andy Krebs.
+[00:43:11] Okay, cool.
+[00:43:11] I was engineering for the non fight hardware.
+[00:43:13] So I do the High Bays and the factory I'm responsible for those as well as the
+[00:43:16] launch pad.
+[00:43:17] Cool.
+[00:43:17] Stage 0. A lot of the stage zero stuff. Because the ground systems are, ground
+[00:43:24] systems,
+[00:43:24] especially inclusive of the tower are at least as complicated as the
+[00:43:29] Stage One or stage Two.
+[00:43:31] Yeah.
+[00:43:31] So.
+[00:43:33] Should we go check out Stage 0?
+[00:43:36] Uh, sure.
+[00:43:46] Thank you, Elon, for all your generous time and thank you,
+[00:43:49] Ryan Chylinski for helping shoot and capture this incredible conversation.
+[00:43:53] And I owe a huge thank you to my Patreon supporters for helping make videos like
+[00:43:56] this possible. If you wanna help me continue to do what I do head on over to
+[00:44:02] patreon.com/everydayastronaut, and while you're online,
+[00:44:03] be sure and check out our awesome merchandise shop,
+[00:44:05] where you can find shirts like this,
+[00:44:06] the RD-171 shirt and lots of other really cool stuff at everydayastronaut
+[00:44:10] .com/shop. Thanks everybody! That's gonna do it for me. I'm Tim Dodd,
+[00:44:14] the Everyday Astronaut, "Bringing space down to Earth for everyday people."

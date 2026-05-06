@@ -1,0 +1,450 @@
+[00:00:00] - Hi, it's me Tim Dodd, the Everyday Astronaut.
+[00:00:02] Last night, Elon Musk updated the world
+[00:00:05] on SpaceX's Starship development.
+[00:00:07] Let me tell ya, the event was amazing.
+[00:00:10] We learned a lot of really cool details.
+[00:00:12] But, I'm still a little baffled by the pace
+[00:00:14] of this program, it's unheard of.
+[00:00:17] If only there was someone that could answer a few more
+[00:00:18] of my questions about this program and about Starship.
+[00:00:22] - That's a nice shirt.
+[00:00:23] - How's it going?
+[00:00:24] Thank-you, you know full flow
+[00:00:25] staged conduction not a bad idea
+[00:00:27] Mind mic-ing yourself up there?
+[00:00:29] [Tim Voiceover] After Elon complimented my shirt,
+[00:00:31] we mic-ed him up and let the cameras roll.
+[00:00:33] Now, for those of you new to my channel,
+[00:00:35] we're gonna get into some fairly in-depth rocket science
+[00:00:38] and if it's over your head don't worry.
+[00:00:39] Stick around my channel, and I promise I'll make sense
+[00:00:42] of all the stuff we talk about,
+[00:00:43] like full flow staged combustion
+[00:00:44] cycle and aerospike engines.
+[00:00:46] There were parts of this interview
+[00:00:48] that I wasn't really planning to release at first
+[00:00:50] but, actually think the best thing I can do is just show you
+[00:00:53] the entire thing, un-cut, from a single camera,
+[00:00:56] so you can feel like you're right there with us.
+[00:00:59] - Yeah, first off, thank-you so much for,
+[00:01:01] you know, talking to me, I mean,
+[00:01:03] we're underneath your beautiful beast.
+[00:01:05] - Yeah it's crazy, can you believe this is even here?
+[00:01:08] - I was here a month ago, literally standing right here,
+[00:01:10] well not, just over the fence,
+[00:01:12] and you know you got a tube and a pointy tube,
+[00:01:14] and now you've got this!
+[00:01:15] I mean, how do you, how do you do that?
+[00:01:17] Is it just sheer will?
+[00:01:19] Is everyone that driven about the goal?
+[00:01:22] - I don't, I think I've learned a lot of lessons
+[00:01:24] about how to make things go fast.
+[00:01:26] And then I've...
+[00:01:29] propagated those lessons to the SpaceX team
+[00:01:32] and there's just like an incredibly talented,
+[00:01:34] hard working team at SpaceX, in fact at times I think,
+[00:01:38] maybe there's too many talented people at SpaceX.
+[00:01:40] We have like...
+[00:01:41] you know, too many talented people,
+[00:01:44] that we're cornering the market, or something.
+[00:01:47] You know, but there's like this very talented group
+[00:01:49] that works super hard and...
+[00:01:52] The, and just have taking the general approach
+[00:01:56] of, if a design is taking too long, the design is wrong
+[00:02:00] and therefore, the design must be modified
+[00:02:02] to accelerate progress.
+[00:02:05] And one of the most fundamental errors made
+[00:02:07] in advanced developments is to stick to a design
+[00:02:10] even when it is very complicated,
+[00:02:12] and to not strive to delete parts and processes.
+[00:02:16] It's incredibly important.
+[00:02:17] So, this is why the switch to steel was
+[00:02:19] because the advanced carbon fiber was taking too long.
+[00:02:22] - Right, right, well and you're not, you're definitely
+[00:02:25] not a sunk cost fallacist, you're like Mister,
+[00:02:28] "This is clearly the new path forward, let's hop on it"
+[00:02:30] - Yeah, is it in the future or not?
+[00:02:31] If it's not in the future, who cares?
+[00:02:32] - Yeah, yeah, and you did that, I mean
+[00:02:33] look at last year, DearMoon, you guys
+[00:02:35] were kind of in that like, awkward stage
+[00:02:36] of probably figuring this out right here.
+[00:02:38] You know, you had the carbon fiber mandrel...
+[00:02:40] - I think we didn't even have the steel,
+[00:02:41] I think we were still on the path,
+[00:02:43] when was the DearMoon thing?
+[00:02:44] - Almost exactly a year ago.
+[00:02:46] - That was before the change to steel.
+[00:02:48] - Yeah, you guys, I mean you showed the
+[00:02:49] carbon mandrel and everything and you're,
+[00:02:50] you know, excited about that, but then
+[00:02:52] all of the sudden we see you switch-
+[00:02:53] - I canceled the carbon fiber design in October last year.
+[00:02:56] - Yeah, so just after that.
+[00:02:58] - Yeah...
+[00:03:01] - You know, what people don't understand is
+[00:03:02] that you're the lead engineer, you're literally sit-
+[00:03:04] - Literally, this is, I was actually at dinner
+[00:03:06] with some, with a friend and he was like,
+[00:03:10] "Well, who's the chief engineer at SpaceX?"
+[00:03:11] Oh I go, "It's me", "No, no" he's like,
+[00:03:13] "It's not you, who is it?", like okay
+[00:03:16] it's either someone with a very low ego,
+[00:03:18] or, I don't know, you know,
+[00:03:20] but, you know that said,
+[00:03:22] you know the, like,
+[00:03:24] you know what I actually used to tell the team,
+[00:03:26] I was like, "Everyone is a chief engineer",
+[00:03:27] this is extremely important, and that
+[00:03:29] everyone must understand how, the, broadly speaking,
+[00:03:34] all the systems in the vehicle work.
+[00:03:36] And so that, so you don't have
+[00:03:39] self-system optimization, cause this is
+[00:03:41] naturally what happens, you can see
+[00:03:42] the organizational errors,
+[00:03:47] The product errors reflect the organizational errors.
+[00:03:51] So like essentially, you'll see that there's
+[00:03:53] an interface at this particular,
+[00:03:56] like, whatever departments you've got,
+[00:03:58] that will be where your interfaces are.
+[00:04:01] - Right.
+[00:04:01] - Instead of like, getting rid of something,
+[00:04:04] or questioning the constraints, the one department will
+[00:04:09] design to the constraints that the other department
+[00:04:11] has given them without calling into question
+[00:04:14] those constraints and saying, "Those constraints are wrong",
+[00:04:16] and you should actually take the approach
+[00:04:18] that the constraints that you are given
+[00:04:19] are guaranteed to be some degree wrong,
+[00:04:22] guaranteed to be some degree wrong,
+[00:04:23] because the counterpoint would be that they are perfect.
+[00:04:26] - Right, which is never.
+[00:04:28] - As you were saying like, what's the probability that
+[00:04:29] this is a platonic ideal of a perfect part?
+[00:04:32] Zero, okay, basically, so, question your constraints.
+[00:04:35] It does not matter if the person handing you
+[00:04:37] those constraints won a Nobel Prize, they are,
+[00:04:40] even our own standards are wrong some of the time.
+[00:04:41] So, question your constraints, this is extremely important,
+[00:04:46] and, another thing that like, if you say like,
+[00:04:50] "What are the mistakes that smart engineers make?",
+[00:04:54] like, one of the most, one of the biggest
+[00:04:57] traps for smart engineers is optimizing
+[00:05:00] a thing that shouldn't exist.
+[00:05:02] - Yeah, so they'll just sit there and spin on
+[00:05:04] that thing that's just like,
+[00:05:05] "Why do we even have this is the first place?"
+[00:05:07] - Absolutely, so,
+[00:05:10] When you go through college, and you're like,
+[00:05:12] studying physics or engineering, I studied physics,
+[00:05:15] the, you have to answer the question
+[00:05:17] that the professor gives you, you don't get to say,
+[00:05:19] "This is the wrong question".
+[00:05:21] - Right, right, right, yeah.
+[00:05:22] - But, in reality, we have far more degrees,
+[00:05:25] when you're in reality, you have all the degrees
+[00:05:28] of freedom of reality, and so the first thing you should say
+[00:05:31] is, "This question is wrong".
+[00:05:32] - Yeah, and that's what you said last year,
+[00:05:34] I mean, you kinda said like, "It took us a long
+[00:05:35] time to frame the question even, because we
+[00:05:37] didn't necessarily know what it was".
+[00:05:39] - It took ages to frame the question, I mean, it's just like
+[00:05:41] The Hitchhiker's Guide to the Galaxy,
+[00:05:42] Douglas Adams, best philosopher ever,
+[00:05:44] maybe, I think, best book in philosophy ever,
+[00:05:46] Hitchhiker's Guide to the Galaxy,
+[00:05:48] but his book is so deep, people don't even understand.
+[00:05:52] But like, in The Hitchhiker's Guide to the Galaxy,
+[00:05:54] the Earth is a giant computer, and the Earth,
+[00:05:57] it comes up with the answer- 42.
+[00:06:00] - Right, yep.
+[00:06:01] - And, to the question, so what's life,
+[00:06:03] the answer to life, the universe and everything?
+[00:06:05] The answer's 42, and they're like,
+[00:06:06] "What the hell, that doesn't make any sense".
+[00:06:09] The really, the hard part is the question,
+[00:06:12] the answer is the easy part, you need a much more
+[00:06:14] powerful computer to tell you what the question is,
+[00:06:16] and this is true, at the point in which you
+[00:06:18] can properly frame the question,
+[00:06:20] the answer is comparatively easy.
+[00:06:21] - Right, right.
+[00:06:22] I have one more question for you, I'm working
+[00:06:24] on a video about aerospikes, it's gonna be about
+[00:06:26] an hour long video on aerospikes and, you know,
+[00:06:28] they're like the rotary engine of rocket, you know,
+[00:06:30] rockets, like the rotary was, it's been advantageous
+[00:06:32] in some ways, you know, like your-
+[00:06:33] - Yeah, aerospikes, man, I tell you
+[00:06:35] - They're cool but, what's the biggest,
+[00:06:37] what's your biggest beef on them?
+[00:06:38] 'Cause I'm trying to get as much insight on like,
+[00:06:40] why do you think they, you know, aren't used,
+[00:06:42] and obviously, I assume, you're not ever going
+[00:06:44] to an aerospike for a lot of reasons...
+[00:06:49] - You know, I've internally asked this question
+[00:06:51] so many times, like, "Guys, don't we, shouldn't we
+[00:06:54] maybe do an aerospike?", the...
+[00:07:00] The challenge, so...
+[00:07:03] And you're going to explain to the audience
+[00:07:04] what an aerospike is?
+[00:07:05] - Oh yeah, you're gonna be like the end of this thing,
+[00:07:06] I've already set it all up, yeah yeah.
+[00:07:08] - Otherwise you know, "What the hell are you talking about?"
+[00:07:09] you know?
+[00:07:13] - You gotta get your combustion efficiency,
+[00:07:16] so, you know like, there's really two parts to, like,
+[00:07:20] when you have a rocket engine, what're you trying to do?
+[00:07:22] You're trying to shoot things out,
+[00:07:24] as fast as possible, in a straight line.
+[00:07:26] - Yes, yep, converting as much thermal
+[00:07:28] and pressure into kinetic energy.
+[00:07:31] - Yes, exactly, so you have your combustion efficiency,
+[00:07:35] and so what percentage of max theoretical combustion
+[00:07:37] efficiency are you, and then what's your
+[00:07:42] nozzle efficiency, which is really
+[00:07:44] you know, are you straightening the flow,
+[00:07:46] and shooting the molecules out in a straight line,
+[00:07:49] so that you go in the other direction, Newton's Third Law.
+[00:07:51] - Yep.
+[00:07:56] - With a traditional combustion chamber,
+[00:07:59] you can get to a very high combustion efficiency,
+[00:08:03] cause the molecules are all sort of bouncing around
+[00:08:05] in there, they've got a time to combine and do their thing,
+[00:08:09] and then when you sort of choke it through the throat,
+[00:08:13] you know, it, that gives them sort of more opportunity
+[00:08:15] to combine, so you can
+[00:08:16] Like, we think we can probably get to 90, certainly
+[00:08:21] 98.5, hopefully 99 percent of
+[00:08:24] theoretical combustion efficiency.
+[00:08:25] This is so if, God himself came and knitted together
+[00:08:29] the molecules, you're one percent better, okay
+[00:08:31] maybe one and a half percent better, that's so,
+[00:08:33] that's very high efficiency.
+[00:08:34] - Because of full flow staged combustion.
+[00:08:36] - Full flow staged combustion, exactly,
+[00:08:37] you've got a gas-gas interaction,
+[00:08:40] so you've got two hot gases combining
+[00:08:42] - Yeah.
+[00:08:43] - And with a relatively simply reaction, the only
+[00:08:45] thing that would be simpler would be hydrogen.
+[00:08:48] But you've got CH4 and O2, that's pretty simple,
+[00:08:50] you don't have any long chain hydrocarbons,
+[00:08:51] you know, with kerosene you've got the long chains,
+[00:08:53] they've gotta break down, they've gotta recombine,
+[00:08:55] it's a total soup, you know.
+[00:08:58] Yeah, it's a part like dinner situation.
+[00:09:00] It's very hard to get high combustion efficiency
+[00:09:02] with kerosene, so when you look at the,
+[00:09:05] say like, "What's the theoretical value of, say a Lox
+[00:09:08] kerosene engine, as compared to a methane engine?"
+[00:09:12] The kerosene actually looks more compelling than it
+[00:09:15] really is because you can't achieve the high
+[00:09:17] combustion efficiency with kerosene
+[00:09:21] that you can with methane.
+[00:09:23] So, you actually want to say, "What is the actual
+[00:09:25] achievable combustion efficiency times the
+[00:09:27] theoretical chemical energy?", that's the real number,
+[00:09:30] and this is where methane starts to look really good.
+[00:09:32] - Yeah, yeah.
+[00:09:34] - It's like, very hard to get to like 96 percent
+[00:09:36] combustion efficiency, or even 95 percent
+[00:09:38] combustion efficiency with kerosene,
+[00:09:40] but with methane you can get 98 easy,
+[00:09:42] 99 with a little bit of difficulty.
+[00:09:44] - And, so you don't think, you're just telling me now,
+[00:09:46] spoiler alert, you're probably never gonna see
+[00:09:48] a full flow staged combustion cycle
+[00:09:49] aerospike engine produced by SpaceX?
+[00:09:51] - You know, if somebody can show
+[00:09:53] that we're wrong, that would be great.
+[00:09:58] If somebody can explain, "Wow, you've got a,
+[00:10:01] there is a way to make your design better",
+[00:10:03] this is a gift.
+[00:10:04] - Right, right, right.
+[00:10:05] - "Thank you for this
+[00:10:06] great gift, wow, this is awesome".
+[00:10:09] It's definitely like, the worst thing would be like,
+[00:10:12] "We wanted to do this dumb design,
+[00:10:13] and stick with our dumb design", that would be insane.
+[00:10:17] - Right.
+[00:10:19] - I would love it if somebody could show how
+[00:10:20] an aerospike is the smart move,
+[00:10:23] in which case, we'll just do an aerospike.
+[00:10:24] - Yeah, then just do an aerospike;
+[00:10:25] there's a reason they haven't been used.
+[00:10:28] (chuckles)
+[00:10:30] Period.
+[00:10:31] - But maybe, that reason is not valid, you know?
+[00:10:33] 'Cause there's also, there hasn't
+[00:10:34] been a methane orbital engine.
+[00:10:38] - Right?
+[00:10:39] Or a flying full flow staged combustion, yeah.
+[00:10:41] - So, there's been neither a full flow staged combustion
+[00:10:44] engine that's seen flight, nor has there been a methane
+[00:10:47] engine that's seen flight, certainly in a rocket scenario,
+[00:10:50] I think there may have been some like,
+[00:10:51] little test things or whatever, but no actual rockets.
+[00:10:54] So, but I'm very confident that CH4 is the right fuel.
+[00:11:03] Maybe aerospike is, is right,
+[00:11:06] even though it's not been done before,
+[00:11:08] but you just have to show that your
+[00:11:09] combustion efficiency is not affected,
+[00:11:12] and that you're, and that you're
+[00:11:14] straightening the flow sufficiently.
+[00:11:17] - To get your expansion ratio
+[00:11:18] - Yeah
+[00:11:19] - Yep, awesome.
+[00:11:22] - Also, if you've got a two-stage rocket, like
+[00:11:25] I think like, this is the other thing like,
+[00:11:27] you've got two-stage rockets where your
+[00:11:28] boost stage is primarily in atmosphere,
+[00:11:30] and your upper stage is primarily in vacuum,
+[00:11:33] then you can specialize the, for a vacuum nozzle
+[00:11:36] and a sea level nozzle, and then you're like,
+[00:11:40] "Why need the aerospike?"
+[00:11:41] It's only if you do want, if you want
+[00:11:42] to try to do single stage, reusable,
+[00:11:44] then that's when you start like having
+[00:11:46] to reach for the aerospike.
+[00:11:47] - Right, yep, that's awesome.
+[00:11:49] Aerospikes, with Elon Musk!
+[00:11:51] Thank you so much.
+[00:11:52] - I would love it if somebody could show it like,
+[00:11:53] "Hey, you're missing the mark, you could
+[00:11:54] do this different thing, and this would be a better move",
+[00:11:57] that would be, thank you, please.
+[00:11:58] - Right, yeah of course, absolutely.
+[00:12:00] Hey ,thanks for your time again,
+[00:12:01] see you soon, pleasure meeting you.
+[00:12:04] (voices in background)
+[00:12:05] Oh yeah, we might need to steal your mic,
+[00:12:07] I mean, I don't know, I can bill you later.
+[00:12:12] Thanks again for this
+[00:12:13] - Absolutely.
+[00:12:14] - I have to say, I've been to IEC 2016, seeing,
+[00:12:17] that was like, it was almost like awkward back then
+[00:12:20] cause it was like,
+[00:12:21] - "You're insane", and now it's like,
+[00:12:22] "Hey look, I'm not insane."
+[00:12:23] (laughs)
+[00:12:24] - Well, you know obviously I'm sane,
+[00:12:26] but you know, I mean...
+[00:12:27] (background chatter)
+[00:12:31] Even when I am exposed to this all day,
+[00:12:34] it's so like "Holy Smith!"
+[00:12:36] you know, it's so mad, you know,
+[00:12:39] to see it actually there, and I was up
+[00:12:41] in the nose, and I mean I'm gonna
+[00:12:44] post this later but...
+[00:12:45] - Jack Buyer's photo, Beyer he got a photo of you
+[00:12:49] like, I think like peeking out of it.
+[00:12:51] - Well, like this is the, when I was inside there
+[00:12:56] - Oh, shoot, no way!
+[00:13:01] Aw and those are the header tanks?
+[00:13:03] - Yeah.
+[00:13:03] - And all the batteries got, what six...
+[00:13:05] - They've got four Tesla 100 kilowatt hour batteries.
+[00:13:07] - Yes!
+[00:13:08] - And we just like, basically welded it
+[00:13:09] on to the header tanks.
+[00:13:10] - Right.
+[00:13:11] - Oh we didn't even talk about that,
+[00:13:12] you're doing model three motors basically, is that?
+[00:13:14] - Yeah, for that, I mean, I don't love the,
+[00:13:19] I think we should, we should just have electro-mechanically
+[00:13:22] I think we are going to, probably with Mach three,
+[00:13:24] move to a purely electro-mechanical
+[00:13:26] actuators for the valves.
+[00:13:28] Currently, it's electric motors powered,
+[00:13:32] it's like Tesla motors and batteries that
+[00:13:36] essentially pump hydraulic fluid into the accumulator
+[00:13:39] and then the hydraulic piston moves the valve.
+[00:13:43] But it would be simpler to just have the motors directly-
+[00:13:45] - Just do it
+[00:13:46] - Kind of worm drive the valve.
+[00:13:50] - That's awesome.
+[00:13:53] - And also the way the header tanks are done
+[00:13:54] right now is crazy, we shouldn't be carrying
+[00:13:57] the header tanks like cargo, I mean,
+[00:13:58] we want the header tanks to be integral
+[00:14:00] to the tip, so seriously, like just take the tip,
+[00:14:02] use the tip of the rocket as the half of the header tank,
+[00:14:06] and essentially mirror the main tanks,
+[00:14:08] but in small form, in the nose.
+[00:14:10] So, just have two domes
+[00:14:13] - Yeah.
+[00:14:15] - And have the oxygen and fuel
+[00:14:20] in the tip of the rocket,
+[00:14:22] not as, not carrying the tanks like cargo,
+[00:14:24] but having the tanks-
+[00:14:25] - Just integrated, right?
+[00:14:26] - Yeah, just a mini version of the big tanks
+[00:14:28] - Right, oh, and then you don't have an extra wall
+[00:14:30] and everything too, it's just integrated into,
+[00:14:32] yeah, yeah, yeah, gotcha.
+[00:14:34] - Like in the early days of rocketry, like V2
+[00:14:35] or whatever you know, like the fuel and oxygen tanks
+[00:14:39] were carried like cargo in the aeroshell.
+[00:14:40] - Oh really?
+[00:14:41] - Yeah.
+[00:14:42] In the early days of aircraft and rockets,
+[00:14:44] the propellant tanks were carried like cargo
+[00:14:47] - Right.
+[00:14:47] - now modern rockets, modern rockets and airplanes,
+[00:14:50] like the wing is just a fuel tank in, in wing shape.
+[00:14:54] - Yeah, yeah, yeah.
+[00:14:55] - Yeah, we should do the same for the header tanks.
+[00:14:56] - I love it, thanks again .
+[00:14:58] - Thank you.
+[00:14:59] - Thank you guys.
+[00:15:03] (laughs) Sorry, I didn't mean to keep him so long I guess.
+[00:15:06] - [Man] Why're you looking at me?
+[00:15:08] (laughs)
+[00:15:10] - [Man] Was, was I rushing you out?
+[00:15:12] - (laughs) No, not at all.
+[00:15:14] - [Man] With everything at the end, "Come on!"
+[00:15:17] - I'm just trying to kick him outta here, you know?
+[00:15:18] Wasting all my time tonight, just kidding.
+[00:15:21] Uh, so that was awesome!
+[00:15:25] Actually, we've still got a lot more questions
+[00:15:26] to get answered, and stick around 'cause I'll have
+[00:15:28] a lot of content explaining some of the topics
+[00:15:30] we talk about, and sorry about the whole like,
+[00:15:32] thing on aerospikes, I wasn't planning
+[00:15:35] to release all that 'cause that's for a video
+[00:15:36] I've been working on, but whatever,
+[00:15:38] I guess you get an aerospike video spoiler today, my bad.
+[00:15:42] Sorry in the interview I didn't really get much time
+[00:15:44] to talk about like heat shields, or the super heavy
+[00:15:47] booster, or what the interior of Starship might look like,
+[00:15:49] but, maybe if we're lucky Elon will continue
+[00:15:52] to update us on Twitter, or, Elon,
+[00:15:55] you can always come talk to me any time about all the
+[00:15:57] nerdy stuff you want, I love it, I think you did too.
+[00:16:00] I owe the biggest thank you to my Patreon supporters,
+[00:16:03] you guys have helped take this little passion and hobby,
+[00:16:06] into a career, it wouldn't be a career without you guys,
+[00:16:09] so thank you so much for your support.
+[00:16:10] If you want access to more behind-the-scenes things
+[00:16:12] and exclusive content and access, please consider becoming
+[00:16:15] a Patreon at www.patreon.com/everydayastronaut
+[00:16:18] Thank you guys.
+[00:16:19] And if you want your own full flow staged combustion
+[00:16:22] cycle shirt or other really cool, nerdy, aerospace
+[00:16:24] stuff, I've got you covered, go over to
+[00:16:27] www.everydayastronaut.com/shop, and if you
+[00:16:29] work in the aerospace industry, click on the link
+[00:16:31] below in the description of the apparel that you want,
+[00:16:34] click on that, you can get 25 percent off as my
+[00:16:37] thank you to you for inspiring me to do what I do,
+[00:16:39] I wouldn't be doing any of this stuff if you
+[00:16:41] weren't doing crazy things to get humans off this planet,
+[00:16:44] so thank you guys.
+[00:16:45] It's www.everydayastronaut.com/shop.
+[00:16:47] Thanks everybody, that's gonna do it for me,
+[00:16:49] I'm Tim Dodd, the Everyday Astronaut,
+[00:16:51] bringing space down to Earth for everyday people.
+[00:16:54] (upbeat music)
+[00:16:59] (upbeat music)

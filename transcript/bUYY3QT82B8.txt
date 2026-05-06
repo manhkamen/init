@@ -1,0 +1,311 @@
+[00:00:07] - 45 seconds and counting
+[00:00:09] Dragon spacecraft is on internal power
+[00:00:12] SpaceX's go for launch
+[00:00:34] Stasia
+[00:00:41] last
+[00:00:50] second stage initiative did you buy more
+[00:00:54] state emergency
+[00:01:34] dragon is on an approach
+[00:04:02] you
+[00:04:17] so that's certainly what we hope to hope
+[00:04:20] will come true at some point and you
+[00:04:24] know as I mentioned we've really worked
+[00:04:28] hard to make sure that the the crew
+[00:04:30] version of the Dragon is minimally
+[00:04:35] different from the the cargo version so
+[00:04:39] we're really there's only one major
+[00:04:41] develop an item that which is the launch
+[00:04:44] escape system that that is needed full
+[00:04:49] crew carriage all right I think that's
+[00:04:55] sort of in a nutshell the situation with
+[00:04:57] SpaceX and I'm happy to take any
+[00:04:58] questions from people
+[00:05:29] yeah it's a good question so it's but
+[00:05:32] just about recovery of the stages so in
+[00:05:35] the case of Falcon one we have we do
+[00:05:37] intend to recover the first stage of
+[00:05:38] Falcon one and in in the you know what
+[00:05:43] we've discovered is that the the reentry
+[00:05:45] conditions even for first stage are
+[00:05:47] really quite quite difficult and so it
+[00:05:54] really gets battered around pretty hard
+[00:05:56] you know these loads up to you know 16
+[00:06:00] to 18 GS and that does see quite a bit
+[00:06:06] of heat as well so in the upcoming
+[00:06:11] flight of the the the the launch of the
+[00:06:14] malaysian satellite Falcon we actually
+[00:06:16] took the parachute recovery system off
+[00:06:18] because we we know that we don't have
+[00:06:21] enough thermal protection for the stage
+[00:06:25] to survive so therefore this there's no
+[00:06:27] point in having the parachute on and in
+[00:06:31] order for us to put enough thermal
+[00:06:33] protection on we would potentially
+[00:06:34] affect the but we would affect that the
+[00:06:37] the amount of mass margin and we just we
+[00:06:39] just don't want to take any unnecessary
+[00:06:40] risks at this stage of the game now full
+[00:06:43] flight six which is the one after this
+[00:06:46] one we will be putting on the thermal
+[00:06:48] protection and the parachute and
+[00:06:50] everything so we will make a concerted
+[00:06:52] effort to recover Falcon one flight six
+[00:06:55] of the first stage for Falcon 9 we do
+[00:07:00] have we don't have any any real
+[00:07:02] limitations for the first flight on
+[00:07:05] payload March and because it's not
+[00:07:07] carrying a you know a full payload or
+[00:07:10] real satellite or anything it's just
+[00:07:12] carrying a dummy payload so there's
+[00:07:14] plenty of mass margin for thermal
+[00:07:15] protection system so we are going to try
+[00:07:18] to recover the first flight of Falcon 9
+[00:07:20] and it's possible that the first flight
+[00:07:22] of Falcon 9 at may actually get
+[00:07:23] recovered before the first of health and
+[00:07:26] one but again these the that is sort of
+[00:07:30] a very much an optional thing at this
+[00:07:32] point in in a lot it's it's a
+[00:07:34] requirement in the long term
+[00:07:36] as far as I'm concerned but it's it's
+[00:07:38] optional in the short-term so we don't
+[00:07:40] want to have any development delays or
+[00:07:44] risk any missions do to attempt to state
+[00:07:48] a stage 2 stage recovery and we had
+[00:07:52] intended to have the the first flight of
+[00:07:54] Falcon 9 attempt to recover both first
+[00:07:56] and second stage but we sort of gave up
+[00:07:58] on recovering the second stage in the
+[00:08:00] initial flights in order to bring bring
+[00:08:03] bring in schedule module so but long
+[00:08:07] term the intent was with both Falcon 9
+[00:08:10] first and second stages and the fairing
+[00:08:12] is recovery and but this is going to be
+[00:08:16] a tricky thing that takes us years to
+[00:08:18] figure out and I wouldn't you know it
+[00:08:22] could take us I don't know three four
+[00:08:24] years to get it right and and then of
+[00:08:27] course once you get the stage back you
+[00:08:29] got to say okay now what do we need to
+[00:08:31] do to get this thing ready for flight
+[00:08:32] again and so there's gonna be learning
+[00:08:34] across this even once we start getting
+[00:08:36] the back which is okay we've better
+[00:08:38] improve the thermal protection here
+[00:08:40] we've got to strengthen parts there
+[00:08:42] we've got a you know do do this that the
+[00:08:45] other thing to make it an efficient
+[00:08:47] recovery process because it's not enough
+[00:08:49] that you recover it it's got to be
+[00:08:50] efficiently reusable
+[00:09:23] right well I wouldn't want to comment on
+[00:09:26] on the prospects for another system but
+[00:09:29] I can say for for Falcon 9 the the you
+[00:09:34] have to say cost per pound
+[00:09:36] Tullio well it there it depends on which
+[00:09:38] you know what's your altitude and
+[00:09:40] inclination and is that as part of a
+[00:09:43] spacecraft system for example you know
+[00:09:46] in in in transferring cargo to the space
+[00:09:48] station you really need something that's
+[00:09:50] going to go and and Dulko berth with the
+[00:09:52] space station and then that that
+[00:09:54] spacecraft itself takes up a quite a bit
+[00:09:58] of mass so you know for Dragon for
+[00:10:03] example it's about a three metric ton -
+[00:10:06] of hailer capability to space station
+[00:10:13] but if you were to say Falcon nines
+[00:10:15] capability to to nominal Leo say 250
+[00:10:20] nautical miles launch due east from the
+[00:10:22] Cape type of thing that would be about
+[00:10:25] you know 21 22 tonnes I was sorry 22 21
+[00:10:30] or 22 thousands I should say and you're
+[00:10:34] talking about about a approximately
+[00:10:36] forty million dollar vehicle you know so
+[00:10:39] maybe a couple thousand dollars a pound
+[00:10:42] type of thing and yeah so now that just
+[00:10:49] seems no reusability over time if we're
+[00:10:51] able to make reusability work then you
+[00:10:53] can to degree that you can make
+[00:10:54] reasonably work you can get rid of the
+[00:10:56] capital cost of the of the vehicle or
+[00:10:58] reduce the capital cost and then
+[00:11:00] ultimately you could see a cost per
+[00:11:03] pound to overt that's measured in maybe
+[00:11:05] a couple hundred dollars to three
+[00:11:08] hundred dollars something like that
+[00:11:09] but the only way to get there is with
+[00:11:12] very efficient reusability and that's
+[00:11:15] that's a very tough problem and and no
+[00:11:18] one's solved that yet we're hoping to
+[00:11:20] solve it and we're sort of aspiring to
+[00:11:22] solve it but we've got a long way to go
+[00:11:24] before we do that
+[00:11:58] okay so we we took we do believe we can
+[00:12:05] address the gap or at least a large part
+[00:12:08] of the gap in our estimate is is
+[00:12:13] somewhere around roughly two and a half
+[00:12:16] years from from when cuts D is exercised
+[00:12:21] or some version of cots D is exercised
+[00:12:25] that's the point at which we could be
+[00:12:27] delivering crew as well as cargo to the
+[00:12:31] space station so you know we think we
+[00:12:34] could probably do do this certainly in
+[00:12:36] 2012 and you know so we wouldn't
+[00:12:41] necessarily be able to that you'd still
+[00:12:43] need kind of Soyuz activity for 2011
+[00:12:45] which is already planned by the way and
+[00:12:47] probably the wise move would be to have
+[00:12:50] also some Soyuz flights planned for for
+[00:12:53] 2012 and I know NASA space operations
+[00:12:58] wants to actually ensure that there is
+[00:13:01] overlap of whatever the you know that
+[00:13:04] there's there isn't any gap say between
+[00:13:06] it if if we were late or some other
+[00:13:09] system was late they won't want to make
+[00:13:11] sure that there's overlap between creams
+[00:13:12] so I think we can address most of the
+[00:13:15] gap from KSA I take comfortably from mid
+[00:13:20] 2012 onwards as far as the stimulus
+[00:13:24] money I think that that's still in flux
+[00:13:28] so we don't know exactly what what will
+[00:13:31] happen with that and probably the the
+[00:13:35] new NASA Administrator will have say in
+[00:13:37] and how that money is applied but we
+[00:13:41] don't currently have high visibility
+[00:13:43] into what will occur with the the
+[00:13:47] stimulus funds there was actually a 400
+[00:13:48] million allocated to exploration in the
+[00:13:51] stimulus and then 154 sort of a mixture
+[00:13:56] of Commercial Crew activity okay and
+[00:14:00] then of that 80 was I saw it but I don't
+[00:14:04] know the the deck could get reshuffled
+[00:14:06] with the the
+[00:14:07] NASA Administrator and also with the
+[00:14:09] Augustine Commission
+[00:14:57] how would I describe the you know the
+[00:15:00] differences between to the internet cars
+[00:15:03] and rockets okay
+[00:15:08] well the advantage the Internet has is
+[00:15:11] that you can you can create a company
+[00:15:12] with with relatively small amounts of
+[00:15:14] capital so you don't necessarily need to
+[00:15:17] come into it with with a bunch of
+[00:15:19] capital we dealing with cars and and
+[00:15:25] rockets those are high capital
+[00:15:26] activities so that's it's difficult to
+[00:15:29] to create a company in in those arenas
+[00:15:32] it comparatively speaking more difficult
+[00:15:34] than it is in the in the internet arena
+[00:15:37] so you know one of the advantages I had
+[00:15:41] was you coming into the space arena with
+[00:15:43] with capital from to sail to to Internet
+[00:15:47] companies previously so I think that's
+[00:15:51] probably it's probably a good idea to to
+[00:15:54] try to acquire some capital by whatever
+[00:15:56] it means before entering the either the
+[00:15:59] spatial or cars business and probably be
+[00:16:05] prepared to lose a large part of it
+[00:16:09] but I think things will actually turn
+[00:16:11] out okay for from a capital return
+[00:16:15] standpoint on both the SpaceX and Tesla
+[00:16:18] but it's certainly you know far from a
+[00:16:21] certainty in in these endeavors that's
+[00:16:25] you know and I think there needs to be
+[00:16:28] some non-economic motivation as well is
+[00:16:30] I think if you certainly for me and I
+[00:16:33] think logically for most people if you
+[00:16:35] said if you rank ordered the highest
+[00:16:37] return on investment industries to go
+[00:16:40] into you probably wouldn't have rockets
+[00:16:42] and cars at the top of the list so you
+[00:16:47] know there there are places where you
+[00:16:49] could probably earn a higher return risk
+[00:16:53] adjusted return and then the car
+[00:16:54] business or the rocket business but I
+[00:17:00] think they're also you know quite
+[00:17:02] interesting and rewarding from you know
+[00:17:04] because any I think these these are
+[00:17:06] things that really matter to the future
+[00:17:47] hmm well you know SpaceX we do want to
+[00:17:53] like city improve the cost and
+[00:17:57] reliability of space transport and we
+[00:17:59] also do want to scale it up so you know
+[00:18:01] we're gonna do the the Falcon 9 heavy
+[00:18:03] we'd like to do vehicles that are even
+[00:18:05] bigger than the felt 9 heavy but of
+[00:18:09] course we need to be able to afford that
+[00:18:10] so we're just going to sort of gonna try
+[00:18:14] to keep trying to make progress and you
+[00:18:17] know I think this there's a good chance
+[00:18:19] that we will be able to afford to Purdue
+[00:18:23] to do bigger Rockets than even felt
+[00:18:25] tonight heavy but we need to have an
+[00:18:28] ongoing business and and then be able to
+[00:18:30] fund that either through internal R&D
+[00:18:33] dollars or potentially if NASA or the
+[00:18:36] DoD wants to fund a big rocket program
+[00:18:40] then that would make it a lot easier
+[00:18:57] right
+[00:19:14] well the unfortunately I don't need to
+[00:19:17] spend much time on the solar side of
+[00:19:19] things I really it's left for less than
+[00:19:22] 5% of my time on solar city and Solar
+[00:19:26] City is actually not in the business of
+[00:19:28] producing the panel's themselves but in
+[00:19:30] it there's they're kinda like Dell
+[00:19:31] computer you know were they they manage
+[00:19:33] the in customer relationship they do the
+[00:19:35] design of the overall system
+[00:19:37] they put the pieces together and manage
+[00:19:39] the service and all that but just like
+[00:19:41] Dell they don't make the CPU or the hard
+[00:19:42] drive or anything like that so so Solar
+[00:19:45] City is partly a hardware business but
+[00:19:47] probably more a service business than it
+[00:19:49] is Hardware production and so actually
+[00:19:54] on a return on capital basis Solar City
+[00:19:57] will probably be the highest return on
+[00:19:59] capital of old 3 and I'd like said I
+[00:20:06] think you know I'm cautiously optimistic
+[00:20:08] about both both SpaceX and Tesla on
+[00:20:11] return on capital being being not bad I
+[00:20:15] mean it not that not the best place that
+[00:20:17] one could deploy capital but but but
+[00:20:20] pretty good in the grand scheme of
+[00:20:22] things I don't know which one will with
+[00:20:25] it between SpaceX and Tesla which one
+[00:20:28] will have a better return on capital but
+[00:20:30] I would say probably comparable but it's
+[00:20:34] it's hard to say at this point please
+[00:20:44] don't step on me
+[00:20:46] if I cook these bread Silcox come to the
+[00:20:49] foyer the podium we'd like to present
+[00:20:53] Ilan with the National Space Society's
+[00:20:56] Wernher von Braun Memorial Award this is
+[00:21:00] the seventh von Braun award with the
+[00:21:02] winner decided by a vote of the NSS
+[00:21:05] awards committee during odd-numbered
+[00:21:06] years it's given to recognize let me get
+[00:21:10] this right
+[00:21:10] excellence in management of and
+[00:21:13] leadership for a space related project
+[00:21:16] where the project is significant and
+[00:21:18] successful and the manager has the
+[00:21:20] loyalty of a strong team that he or she
+[00:21:23] has created Ilan you and the SpaceX team
+[00:21:26] have certainly accomplished this with
+[00:21:28] the Falcon one and you're well on your
+[00:21:30] way to doing the same with Falcon 9 and
+[00:21:32] Dragon the award consists of a
+[00:21:35] representation of the von Braun ferry
+[00:21:37] rocket design during the 1950's beside a
+[00:21:42] Saturn 5 on a base inlaid with black
+[00:21:46] granite the NSS is proud to present you
+[00:21:50] with the Wernher von Braun memorial
+[00:21:52] award congratulations
+[00:22:13] continue eating if you still have food
+[00:22:15] on your plate
+[00:22:16] we'll start sessions again at two
+[00:22:18] o'clock as I understand it so thank you
+[00:22:21] for coming

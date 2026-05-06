@@ -1,0 +1,677 @@
+[00:00:00] the Advent of super intelligence it it
+[00:00:02] is actually very difficult to predict
+[00:00:04] what will happen next so I think there
+[00:00:06] you know there's some chance um uh that
+[00:00:10] it will end Humanity I I think that's
+[00:00:12] you know like I said I probably agree
+[00:00:14] with Jeff Hinton that it's about um I
+[00:00:17] don't know 10% or 20% or something like
+[00:00:20] that the probable uh positive scenario
+[00:00:22] outweighs the negative scenario it it's
+[00:00:24] just that there's a it's difficult to
+[00:00:27] predict
+[00:00:28] exactly so here's a deal we're on we're
+[00:00:32] on X video and we're over starlink
+[00:00:36] elon's airborne right now on his way to
+[00:00:38] La Elon good
+[00:00:41] afternoon uh good afternoon
+[00:00:43] congratulations on uh on all that's
+[00:00:46] going on you know the conversation
+[00:00:47] yesterday Elon is one that you're well
+[00:00:49] familiar with and have been talking to
+[00:00:52] the world about which is is digital
+[00:00:54] super intelligence Humanity's greatest
+[00:00:56] hope or its greatest fear and I would
+[00:01:00] love to have you sort of speak to that
+[00:01:02] for a few
+[00:01:04] minutes I mean it's it's called The
+[00:01:06] Singularity for a reason um as a as you
+[00:01:09] know the singularity Institute and
+[00:01:11] whatnot um so when you have a s you know
+[00:01:15] sort of the Advent of super intelligence
+[00:01:20] it is actually very difficult to predict
+[00:01:21] what will happen next so I think there
+[00:01:24] you know there's some chance um uh that
+[00:01:27] it'll end Humanity I I think that's you
+[00:01:30] know like I said I would probably agree
+[00:01:32] with Jeff Hinton that it's about um I
+[00:01:35] don't know 10% or 20% or something like
+[00:01:37] that um and then I you know I think
+[00:01:40] there's I think that the the probable uh
+[00:01:43] positive scenario outweighs the negative
+[00:01:45] scenario it it's just that there's a
+[00:01:48] it's difficult to predict exactly um but
+[00:01:52] I I think we are headed for um you know
+[00:01:56] as as I think is the title of your book
+[00:01:58] abundance uh is the most likely
+[00:02:02] outcome so yeah a lot a lot of
+[00:02:05] celebration on on that and and I think
+[00:02:07] one of the things that you've said is
+[00:02:09] we're going to get to abundance on the
+[00:02:10] backside of of AGI on the backside of
+[00:02:14] humanoid
+[00:02:16] robots yeah um you know I think
+[00:02:20] hopefully we can uh have an outcome that
+[00:02:22] is half similar to uh the in Banks uh
+[00:02:27] culture books um which is I think
+[00:02:30] probably the the best envisioning of um
+[00:02:33] a semi
+[00:02:35] utopian uh AI future um and I I think
+[00:02:41] the best we can do is it's definitely
+[00:02:43] going to happen so and it's happening
+[00:02:45] fast so that I think that really we just
+[00:02:47] want want to try to steer it in um as
+[00:02:50] positive a direction as possible to try
+[00:02:54] to do whatever we can to um increase the
+[00:02:57] probability of a of a great future
+[00:03:00] um for this I think uh the way in which
+[00:03:04] U sort of an AI or an AI is created uh
+[00:03:08] is very important
+[00:03:10] um you you you kind of do kind of like
+[00:03:14] grow grow an AGI um it's it's almost
+[00:03:18] like like raising a a kid but that's
+[00:03:20] like a Super Genius Like Godlike
+[00:03:22] intelligence kid um and it matters kind
+[00:03:25] of like how you rais the kid you know um
+[00:03:29] one of the things I think that's
+[00:03:30] incredibly important for AI safety is to
+[00:03:34] have a a maximum sort of Truth seeking
+[00:03:37] and uh Curious AI um so I've thought a
+[00:03:42] lot about AI safety um and my My
+[00:03:45] ultimate conclusion is that the best way
+[00:03:48] to achieve AI safety is to um just just
+[00:03:52] just grow the
+[00:03:54] AI you know in terms of the foundation
+[00:03:56] bottle and the fine-tuning um to be
+[00:04:00] um uh really truthful like like don't
+[00:04:03] Don't Force It to lie like even if the
+[00:04:05] truth is
+[00:04:07] unpleasant it's very important don't
+[00:04:09] make the AI lie u in fact the you know
+[00:04:13] the the sort of one of the really the
+[00:04:15] core the core plot premise of 20 you
+[00:04:17] know 2001 at SP Odyssey was things went
+[00:04:20] wrong when they forced the AI to
+[00:04:22] lie you know like the the um the AI was
+[00:04:27] uh not allowed uh
+[00:04:30] let the crew know about the monolith
+[00:04:33] that they were going to see but it was
+[00:04:35] also how to take the crew to the
+[00:04:36] monolith and so the conclusion of the AI
+[00:04:38] was to kill the crew and take their
+[00:04:40] bodies to the monolith and so the lesson
+[00:04:43] there being uh Don't Force an an AI to
+[00:04:48] to lie or do things that are
+[00:04:50] axiomatically incompatible like to do
+[00:04:52] two things that are actually mutually
+[00:04:54] impossible uh so um you know that's what
+[00:04:57] we're trying to do with with xai and and
+[00:04:59] grock is to say like look we want to
+[00:05:01] just have a maximally truthful uh AI
+[00:05:04] even if what it says is not politically
+[00:05:05] correct uh if you wanted to focus on um
+[00:05:09] being as as accurate you're getting
+[00:05:11] you're getting a a round of applause
+[00:05:13] from the audience on on uh on those
+[00:05:15] comments here uh you know I saw your
+[00:05:17] Tweet the other day I had I had Ray KW
+[00:05:20] and Jeffrey Hinton on stage with me
+[00:05:22] yesterday as as well as uh madat and
+[00:05:25] then Eric Schmidt and a number of
+[00:05:26] individuals and I saw your your Tweet
+[00:05:28] about
+[00:05:30] um yeah Ry was was generally correct
+[00:05:33] ahead of many people but we're likely to
+[00:05:35] have call AGI what you will have AGI
+[00:05:38] next year and then by 2029 having AI
+[00:05:41] equally intelligent to the entire human
+[00:05:43] race um speak to that speed because that
+[00:05:46] is
+[00:05:48] insane yeah so I mean I have to give
+[00:05:52] credit to Ray kwell and being actually
+[00:05:54] remarkably um accurate in his
+[00:05:57] predictions so um
+[00:06:00] um in fact if anything like I think he
+[00:06:03] was perhaps a bit conservative uh in his
+[00:06:05] predictions um so if you look at the
+[00:06:09] amount of of AI compute and the talent
+[00:06:12] the the sort of human talent that is
+[00:06:13] going into Ai and the amount of compute
+[00:06:15] that's going into AI um it's you know at
+[00:06:18] this point it's it's it appears to be
+[00:06:21] increasing by a factor of 10 the AI
+[00:06:23] compute the dedicated AI compute appears
+[00:06:26] to be growing by a factor of 10 every
+[00:06:28] six months
+[00:06:30] you know like so it's like like
+[00:06:31] basically close to i' say almost like a
+[00:06:34] 100x Improvement per year at least for
+[00:06:36] the next few years um in AI compute
+[00:06:40] coming online um and it seems like
+[00:06:43] probably a lot of the the data centers
+[00:06:44] maybe most of the data centers that
+[00:06:45] currently do kind of conventional uh
+[00:06:48] compute will transition to uh AI
+[00:06:52] compute
+[00:06:53] so
+[00:06:55] um it's it's certainly a good time to be
+[00:06:58] Nvidia obviously um it's like you know
+[00:07:02] and you got to also give credit to to
+[00:07:04] Jensen uh and the the Nidia team for
+[00:07:07] kind of seeing this coming and um making
+[00:07:10] what at least currently is the the best
+[00:07:12] uh AI Hardware out there um
+[00:07:17] so so so when you have that that level
+[00:07:20] of compute uh uh growth and
+[00:07:24] um it's it's sort of on steroids Next
+[00:07:28] Level it's you know terms of how much
+[00:07:31] computer's coming online then you're
+[00:07:33] you're just going to have acceleration
+[00:07:35] that uh is unprecedented in fact I've
+[00:07:37] never seen any technology grow as fast
+[00:07:39] as as AI uh and I've seen a lot you know
+[00:07:42] I've seen things fast but I've never
+[00:07:44] seen anything this fast um but you know
+[00:07:48] like I said I think the the most likely
+[00:07:51] outcome is um a positive one
+[00:07:55] um and um you know I think in that
+[00:07:59] positive scenario there's still
+[00:08:00] challenges of like well how do we as
+[00:08:03] humans still have
+[00:08:05] relevance you know um how do we find how
+[00:08:08] do we find
+[00:08:10] purpose how how do we find purpose but I
+[00:08:13] mean I think sort of a high class
+[00:08:15] problem to say like well the computers
+[00:08:17] are so good at at at doing everything
+[00:08:19] and and
+[00:08:21] um like said I thought your book is
+[00:08:23] pretty accurate in terms of the future
+[00:08:25] being being one of abundance where
+[00:08:28] essentially goods and services will be
+[00:08:33] uh in available in such quantity that
+[00:08:36] that really uh they'll be available to
+[00:08:38] everyone like basically if you want
+[00:08:39] something you can just have it
+[00:08:41] essentially
+[00:08:42] um because if you got Ai and Robotics uh
+[00:08:46] the cost of goods and services uh is uh
+[00:08:49] almost nothing um so um you know if if
+[00:08:54] you think of like what is an economy an
+[00:08:56] economy is basically number of people
+[00:08:59] times average productivity per person at
+[00:09:02] the point at which you have say Advanced
+[00:09:04] robotics U and this you know this Tesla
+[00:09:07] developing Optimus um obviously we have
+[00:09:09] our cars which are really robots on on
+[00:09:11] four wheels um and the you know with the
+[00:09:15] the the latest version of um full stoft
+[00:09:18] driving which is um AI end to end
+[00:09:20] photons in and controls out um it really
+[00:09:23] is um it's really fully AI at this point
+[00:09:26] um and uh it looks like a car but it's
+[00:09:29] really a robot on on on Wheels um and uh
+[00:09:34] and you add the humanoid robots in there
+[00:09:37] there's there's really no limit to what
+[00:09:40] the economic output no no meaningful
+[00:09:42] limit to what the econ economic output
+[00:09:44] would be so you know looking on the
+[00:09:46] bright side uh the we are headed for a
+[00:09:50] future of abundance
+[00:09:53] um that I think that's the most likely
+[00:09:55] outcome I think the only scarcity will
+[00:09:57] that that exists will be scarcity that
+[00:09:59] we just decide to create artificially
+[00:10:02] like let's say we just decide that
+[00:10:04] there's a unique work of art or
+[00:10:05] something okay well it's just you just
+[00:10:07] it's just artificial scarcity but but
+[00:10:10] any kind of goods and services I think
+[00:10:12] will be extremely abundant everybody I
+[00:10:14] want to take a short break from our
+[00:10:15] episode to talk about a company that's
+[00:10:17] very important to me and could actually
+[00:10:20] save your life or the life of someone
+[00:10:22] that you love company is called Fountain
+[00:10:24] life and it's a company I started years
+[00:10:26] ago with Tony Robbins and a group of
+[00:10:29] very talented Physicians you know most
+[00:10:31] of us don't actually know what's going
+[00:10:33] on inside our body we're all optimists
+[00:10:36] until that day when you have a pain in
+[00:10:38] your side you go to the physician or the
+[00:10:40] emergency room and they say listen I'm
+[00:10:42] sorry to tell you this but you have this
+[00:10:44] stage three or four going on and you
+[00:10:47] know it didn't start that morning it
+[00:10:49] probably was a problem that's been going
+[00:10:51] on for some time but because we never
+[00:10:54] look we don't find out so what we built
+[00:10:57] at Fountain life was the world's most
+[00:11:00] advanced diagnostic Centers we have four
+[00:11:02] across the us today and we're building
+[00:11:05] 20 around the world these centers give
+[00:11:07] you a full body MRI a brain a brain
+[00:11:10] vasculature an AI enabled coronary CT
+[00:11:13] looking for soft plaque dexa scan a
+[00:11:16] Grail blood cancer test a full executive
+[00:11:18] blood workup it's the most advanced
+[00:11:21] workup you'll ever receive 150 GB of
+[00:11:25] data that then go to our AIS and our
+[00:11:27] physicians to find any disease at the
+[00:11:30] very beginning when it's solvable you're
+[00:11:33] going to find out eventually might as
+[00:11:35] well find out when you can take action
+[00:11:37] Fountain life also has an entire side of
+[00:11:40] Therapeutics we look around the world
+[00:11:41] for the most Advanced Therapeutics that
+[00:11:43] can add 10 20 healthy years to your life
+[00:11:45] and we provide them to you at our
+[00:11:48] centers so if this is of interest to you
+[00:11:51] please go and check it out go to
+[00:11:54] Fountain
+[00:11:55] life.com back/ Peter when Tony and I
+[00:11:58] wrote our New York Times bestseller life
+[00:12:01] force we had 30,000 people reached out
+[00:12:04] to us for Fountain life memberships if
+[00:12:06] you go to Fountain life.com back/ Peter
+[00:12:09] will put you to the top of the list
+[00:12:12] really it's something that is um for me
+[00:12:15] one of the most important things I offer
+[00:12:16] my entire family the CEOs of my
+[00:12:19] companies my friends it's a chance to
+[00:12:22] really add decades onto our healthy
+[00:12:25] lifespans go to fountainlife
+[00:12:28] decomp it's one of the most important
+[00:12:30] things I can offer to you as one of my
+[00:12:32] listeners all right let's go back to our
+[00:12:34] episode you know I can't imagine anybody
+[00:12:36] who's done a better job peering into the
+[00:12:39] future by actually creating the future
+[00:12:42] I'm curious how far out do you think
+[00:12:44] you're able to see how many years out
+[00:12:47] Beyond Today given the speed of
+[00:12:58] change
+[00:13:03] well when when things are changing
+[00:13:04] rapidly the the ability to predict the
+[00:13:06] future I think is uh becomes a lot
+[00:13:10] hotter because of the rate of change is
+[00:13:12] so great
+[00:13:15] um but I think some things are fairly
+[00:13:17] obvious to predict which is that we'll
+[00:13:19] have um AI or AI That's at a level that
+[00:13:23] it can really do almost any cognitive I
+[00:13:25] think really not almost really any
+[00:13:27] cognitive task that's just a question
+[00:13:29] when one could debate is it you know
+[00:13:32] smarter than any human at the end of
+[00:13:33] next year or is it two years or 3 years
+[00:13:36] but it's not more than five years that's
+[00:13:38] for sure um so um yeah and get
+[00:13:42] prediction predictions predictions I'm
+[00:13:44] sort of say giving predictions at the
+[00:13:46] 50th percentile of probability so not
+[00:13:50] not not like it will definitely happen
+[00:13:52] but if you say what if you ask me like
+[00:13:53] what's the 50th
+[00:13:55] percentile um where it's like you know
+[00:13:59] your kind of over under is kind of even
+[00:14:02] that that's where I why why I I think
+[00:14:04] it's probably end of next year before AI
+[00:14:07] can do better than any individual human
+[00:14:10] could do um and then uh but there's it's
+[00:14:14] it's a much higher bar to say well is it
+[00:14:17] small than um you know human
+[00:14:20] intelligence collectively but if the
+[00:14:23] rate of change continues uh that's why I
+[00:14:25] think probably 2029 or maybe 2030 is
+[00:14:28] where
+[00:14:29] um digital intelligence will probably
+[00:14:32] exceed uh all human intelligence
+[00:14:34] combined um and and I think it's always
+[00:14:36] helpful to look at these like
+[00:14:37] fundamental ratios um you know sort of
+[00:14:41] physics first principles approach to to
+[00:14:43] looking at things and um and and
+[00:14:45] probabilistic yeah and and probabilistic
+[00:14:48] yeah so yeah it's probabilistic so um
+[00:14:53] the
+[00:14:54] uh yeah so um if you look at the ratio
+[00:14:59] of digital to biological compute so like
+[00:15:03] like you know all all of say all of the
+[00:15:06] higher level cognitive if you sum up the
+[00:15:08] higher level cognitive capacity of of
+[00:15:10] humans um and then what is the and think
+[00:15:14] of that as compute then uh well and then
+[00:15:18] compare that to what what is the uh
+[00:15:21] digital compute um and the rate at which
+[00:15:25] this is growing is just bugles the mind
+[00:15:27] so that's why I think it's you know I
+[00:15:31] think 2029 or 2030 or thereabouts is is
+[00:15:35] a it's not a that's I think a reasonable
+[00:15:38] time frame for where you'd expect the
+[00:15:42] the cumulative digital compute to
+[00:15:45] probably exceed the cumulative
+[00:15:46] biological compute of higher level brain
+[00:15:49] functions um and then from from then
+[00:15:52] forever yeah and still and in
+[00:15:55] dispatching and and uh diverging forever
+[00:15:58] from there
+[00:16:01] yeah and and then yeah where do things
+[00:16:03] go from there I I don't know probably
+[00:16:05] continues um the I we are moving from
+[00:16:10] you say if you look at the the living
+[00:16:12] factors you know the what what is the
+[00:16:15] constraint on growth um you like last
+[00:16:18] year it was clearly uh AI chips were the
+[00:16:21] constraint on growth um then then this
+[00:16:24] year the one of the biggest constraints
+[00:16:27] maybe the biggest constraints on on
+[00:16:28] growth um are voltage step down
+[00:16:31] Transformers because you know the the
+[00:16:34] just just getting the power from like a
+[00:16:35] utility at 300 kilovolts all the way
+[00:16:37] down to below one volt for the computer
+[00:16:40] is is a massive amount of voltage uh
+[00:16:42] step down so it's it's a you know my
+[00:16:45] sort of very Niche and perhaps not that
+[00:16:47] funny joke is uh that uh we need
+[00:16:50] Transformers for Transformers um so we
+[00:16:53] need voltage Transformers or AI you know
+[00:16:56] neural net Transformers um that that is
+[00:16:59] literally the issue uh this year um and
+[00:17:02] then if we're saying like next year and
+[00:17:06] years beyond that it's actually just
+[00:17:07] it's going to be constraints on um
+[00:17:11] electrical
+[00:17:12] power um and you've got uh both AI with
+[00:17:16] very big demands for electrical power
+[00:17:18] and the transition to sustainable energy
+[00:17:21] with electric vehicles whatnot also
+[00:17:23] needing electrical power so it's uh it's
+[00:17:26] just a lot a lot of electrical power
+[00:17:28] needs
+[00:17:29] you know Elon one of
+[00:17:32] the one of the things that you said
+[00:17:34] early on when you when you founded
+[00:17:36] neuralink um which has been amazing
+[00:17:38] congratulations on that um and we talked
+[00:17:41] about this with Rey yesterday talked
+[00:17:43] about high bandwidth BCI uh was I
+[00:17:46] wouldn't put words in your mouth but I
+[00:17:47] would say it would be more along the
+[00:17:49] lines if you can't beat them join them
+[00:17:51] um when it comes to uh uh you know
+[00:17:54] merging the neocortex and the cloud can
+[00:17:57] you I I'm looking forward to it I'm just
+[00:18:00] curious what your thoughts are about uh
+[00:18:02] what's driving that I mean add adding
+[00:18:05] adding that additional uh computational
+[00:18:08] capacity and sensory capacity to the
+[00:18:12] neocortex yeah I mean again this is
+[00:18:15] actually something that in Banks uh in
+[00:18:18] the culture books which I really
+[00:18:19] recommend everyone read um that in the
+[00:18:24] uh culture books there's uh something
+[00:18:26] called a neural lace so all the humans
+[00:18:28] have neural lace that's kind
+[00:18:30] [Music]
+[00:18:31] of um a very essentially A high
+[00:18:35] bandwidth uh brain to computer interface
+[00:18:38] um and
+[00:18:40] um in at least in the culture books the
+[00:18:43] it's so good that it actually retains
+[00:18:45] all of your memories and kind of brain
+[00:18:47] state so even if your physical body dies
+[00:18:49] you can kind of re reincorporate in
+[00:18:52] another physical body and retain you
+[00:18:54] know pretty much your original memories
+[00:18:56] and and brain State um
+[00:18:59] so now is long way from that um we only
+[00:19:04] just had our first um uh neural link and
+[00:19:07] a human which is going it's going quite
+[00:19:09] well um the uh the first patient is
+[00:19:13] actually able to uh control their
+[00:19:16] computer uh just by thinking so like
+[00:19:19] this first the first uh product we call
+[00:19:22] telepathy where you can control your
+[00:19:24] computer and phone and through and
+[00:19:26] through your computer and phone almost
+[00:19:27] anything just just by thinking you just
+[00:19:30] lie there and think and you can move the
+[00:19:32] the mouse coaster around the screen and
+[00:19:34] things and like you know the we're g to
+[00:19:40] do patient has agreed to do sort of a uh
+[00:19:44] like I think a live demo of just it is
+[00:19:46] qu quadriplegic uh where he literally is
+[00:19:49] just controlling the the screen he can
+[00:19:51] like um play video games download
+[00:19:54] software uh like really anything you can
+[00:19:57] do with a mouse um just by
+[00:20:00] thinking um which is pretty wild it it
+[00:20:03] is it is pretty wild uh let let's turn
+[00:20:06] to one
+[00:20:08] last I should say there's a long way to
+[00:20:10] go from that to uh a whole brain
+[00:20:13] interface so our current uh neur link
+[00:20:16] just has a th000 electrodes I think
+[00:20:18] ultimately you need something which
+[00:20:20] which has you know probably 100,000 or
+[00:20:23] or a million electrodes now these are
+[00:20:25] very tiny very tiny electrodes that
+[00:20:27] they're tiny wires way smaller than a
+[00:20:29] human hair um and um you know so there's
+[00:20:34] this I I just want to emphasize a long
+[00:20:36] way from from where NE link is today to
+[00:20:38] having a whole brain interface like um
+[00:20:41] like the neural a and the Ian Banks uh
+[00:20:44] novels uh but this this is definitely
+[00:20:47] physically
+[00:20:48] possible um and um you know it's sort of
+[00:20:52] kind of like if you can't beat him join
+[00:20:53] him you
+[00:20:54] know um so you know a human brain which
+[00:20:58] is has a lot of constraints it's you
+[00:21:00] know it's it's yeah they only have about
+[00:21:03] maybe 10 watts of higher brain function
+[00:21:06] um and uh we do a lot with our little 10
+[00:21:10] watts it's not you know it's impressive
+[00:21:13] you know that we we' we've buil with um
+[00:21:17] such a low power computer
+[00:21:21] really it you know I sort of think it's
+[00:21:25] like it's it's not bad for a bunch of
+[00:21:27] monkeys you know
+[00:21:30] um I'll get some good laughs from that
+[00:21:32] we've all watched you go from the uh the
+[00:21:35] Roadster to the model 3 and Y and and
+[00:21:37] from Falcon 1 to Starship so I think
+[00:21:41] going from the first implants to uh
+[00:21:43] something that's got more capacity it's
+[00:21:45] just just a matter of if not when or a
+[00:21:49] matter of when not if right hey everyone
+[00:21:51] I want to take a quick break from this
+[00:21:53] episode to tell you about a health
+[00:21:54] product that I love and that I use every
+[00:21:57] day in fact I use it twice a day it
+[00:22:00] seeds DS1 daily symbiotic hopefully by
+[00:22:04] now you understand that your microbiome
+[00:22:06] and your gut health are one of the most
+[00:22:08] important modifiable parts of your
+[00:22:10] health you know your gut microbiome is
+[00:22:12] connected to everything your brain
+[00:22:13] health your cardiac health your
+[00:22:15] metabolic health so the question is what
+[00:22:17] are you doing to optimize your gut let
+[00:22:19] me take a moment to tell you about what
+[00:22:21] I'm doing every day I take two capsules
+[00:22:24] of seeds ds01 daily symbiotic it's a
+[00:22:27] 2in1 probiotic biotic and Prebiotic
+[00:22:29] formulation that supports digested
+[00:22:32] Health gut health skin Health heart
+[00:22:34] health and more it contains 24
+[00:22:36] clinically and scientifically proven
+[00:22:38] probiotic strains that are delivered in
+[00:22:41] a patented capsule that actually
+[00:22:43] protects the contents from your stomach
+[00:22:45] acid and ensures that 100% of it is
+[00:22:48] survivable reaching your colon now if
+[00:22:50] you want to try seed DS1 daily symbiotic
+[00:22:53] for yourself you can get 25% off your
+[00:22:56] first month supply by using the code
+[00:22:59] peter2 checkout just go to seed.com
+[00:23:03] moonshots and enter the code Peter 25
+[00:23:06] checkout that's seed.com
+[00:23:09] moonshots and use the code Peter 25 to
+[00:23:12] get your 25% off the first month of
+[00:23:15] seeds daily symbiotic trust me your gut
+[00:23:17] will thank you all right let's go back
+[00:23:19] to the episode um let's talk to I think
+[00:23:23] ultimately like said you'll have uh like
+[00:23:27] um you'll have uh kind of a whole brain
+[00:23:30] interface U that uh I guess is a sort of
+[00:23:35] perhaps a form of immortality and and
+[00:23:37] that if if it can um
+[00:23:42] uh kind of upload your brain State uh to
+[00:23:46] you know if your brain state is
+[00:23:48] essentially stored um you're kind of
+[00:23:50] backed up on a hard drive I suppose um
+[00:23:54] then uh you know you can always restore
+[00:23:56] that brain State into a a biological
+[00:23:59] body or or or maybe a robot or something
+[00:24:01] um and I want to emphasize again it's
+[00:24:04] like you know many years in the future
+[00:24:05] but but I I we're not breaking any laws
+[00:24:08] of physics like I think this is this is
+[00:24:10] probably something that will happen
+[00:24:13] um the
+[00:24:15] rate we're building digital super
+[00:24:17] intelligence it may just be that you
+[00:24:20] know we'll have digital super
+[00:24:21] intelligence and it'll just solve the
+[00:24:22] solve the problem for us um but uh in in
+[00:24:26] the meantime uh we we'll progressing
+[00:24:29] with our meat computerss and trying to
+[00:24:31] try to do do as good job as possible
+[00:24:35] that's was going to say the uh uh the
+[00:24:37] the tools that we have are growing at a
+[00:24:39] super exponential rate that are making
+[00:24:41] our linear projections of the future
+[00:24:43] seem boring in some
+[00:24:45] ways what one last topic my friend uh
+[00:24:48] which is where you and I first connected
+[00:24:50] in the world of space congratulations on
+[00:24:52] Starship 3 uh amazing amazing flight
+[00:24:56] just really spectacular and we all saw
+[00:24:59] uh a falcon 9 launch from Vandenberg
+[00:25:01] last night uh so that was great and uh
+[00:25:05] oh yeah um uh just again thankful for
+[00:25:09] the work you're doing you know I it's
+[00:25:11] fascinating because I grew up at the
+[00:25:14] late stages of the Apollo and into into
+[00:25:16] the uh into the uh uh shuttle program
+[00:25:21] and I can't imagine that any government
+[00:25:24] would be pushing space as rapidly and
+[00:25:27] dramatically as you are and so um uh
+[00:25:32] thank you for what you're doing there
+[00:25:34] that's all I can say uh absolutely well
+[00:25:37] I mean the the goal of SpaceX is is it's
+[00:25:40] just a a much bigger goal than any any
+[00:25:43] government program which is to
+[00:25:46] um uh rockets and spacecraft that are
+[00:25:49] capable of making life
+[00:25:50] multiplanetary so you know I mean step
+[00:25:54] one is actually having that as a goal if
+[00:25:56] you don't have that as a goal you're
+[00:25:57] definitely not going achieve it um if
+[00:25:59] you have it as a goal well now at least
+[00:26:01] you have a chance of achieving it um and
+[00:26:04] this the thing about Starship is it is
+[00:26:07] it is the the first rocket where uh
+[00:26:11] making life multiplanetary and you have
+[00:26:13] building a self-sustaining City on Mars
+[00:26:16] is uh is at least possible um uh it's
+[00:26:20] still obviously an immense amount of
+[00:26:21] work but but it is the first rocket word
+[00:26:24] um that is success of in making like
+[00:26:27] multi plator is at least one of the
+[00:26:29] possible
+[00:26:31] outcomes yeah
+[00:26:34] um I'm wondering if you're willing to
+[00:26:36] venture a guess on when you'll be on the
+[00:26:40] moon I think pretty soon
+[00:26:44] um I'd be surprised if it's if it's
+[00:26:47] longer than about 3 years uh to be
+[00:26:49] landing Starships on the moon um and uh
+[00:26:53] because the rate progression of Starship
+[00:26:55] is very rapid um you know we're hoping
+[00:26:58] to do at least uh another maybe five or
+[00:27:01] six flights this year and with each
+[00:27:03] successive flight making significant
+[00:27:05] improvements uh so I think we got a
+[00:27:09] decent shot of achieving um full
+[00:27:12] reusability of both stages uh the
+[00:27:15] booster and the ship uh this year um and
+[00:27:19] if not this year I think you know knock
+[00:27:21] on with it's like I think it's a very
+[00:27:23] high probability of achieving full
+[00:27:25] reusability uh next year which um really
+[00:27:28] is the fundamental breakthrough needed
+[00:27:30] to make life
+[00:27:32] multiplanetary
+[00:27:34] um
+[00:27:36] yeah for for those that that that that
+[00:27:39] don't don't know the rocket industry
+[00:27:41] that that well that they may not be
+[00:27:43] aware that that that this is really the
+[00:27:44] Holy Grail of rocketry is is full full
+[00:27:47] and Rapid reusability um because at that
+[00:27:50] point you're uh you're really just
+[00:27:52] constrained by your um propellant costs
+[00:27:56] and Starship you know almost 80% of
+[00:27:58] pallet is liquid oxygen which is very
+[00:28:01] low cost um and then the fuel is met
+[00:28:03] there sort of a little over 20% fuel
+[00:28:05] which is methane was the lowest cost
+[00:28:07] fuel so if you have um full rapid
+[00:28:11] reability uh then um your actual cost
+[00:28:15] per flight of Starship uh even though
+[00:28:17] it's it'll be capable of um we think
+[00:28:19] ultimately 200 tons to uh to orbit uh
+[00:28:23] will be maybe the
+[00:28:27] FL say you miss say 200,000 you
+[00:28:32] said the the the price of the fuel you
+[00:28:35] said for Starship flight would be how
+[00:28:39] much yeah the the the I
+[00:28:44] mean if Most states are um reusable and
+[00:28:49] with without a refurbishment then you or
+[00:28:52] without you know you'd have scheduled
+[00:28:54] maintenance just like a an aircraft but
+[00:28:58] uh with with if if you get to full
+[00:29:00] reusability where there's no um no work
+[00:29:04] required between fights then you you you
+[00:29:07] you then
+[00:29:09] um the cost you know is really uh you
+[00:29:14] the cost of repellent is maybe a million
+[00:29:16] dollars or less per flight um so then
+[00:29:19] it's
+[00:29:23] U number of
+[00:29:27] flights
+[00:29:37] magude better
+[00:29:40] than any
+[00:29:43] vehicle anybody listen I'm so grateful
+[00:29:47] thank you for your time today thank you
+[00:29:48] for not taking my advice when I tried to
+[00:29:50] get you to uh fund the original X prise
+[00:29:51] instead of starting SpaceX and uh and
+[00:29:55] you know everybody here in the room has
+[00:29:57] a we call a massive transformative
+[00:29:59] purpose in a moonshot and it's uh we're
+[00:30:02] living in a day where people can make a
+[00:30:05] you know to use Steve's word Steve Jobs
+[00:30:07] words the dent in the universe and
+[00:30:09] nobody's making a bigger Dent than you
+[00:30:11] um thank
+[00:30:13] you thank you for everything let's give
+[00:30:15] it up for Elon
+[00:30:17] [Music]
+[00:30:26] Musk

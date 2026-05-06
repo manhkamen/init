@@ -1,0 +1,3133 @@
+[00:00:02] It's hardcore history.
+[00:00:07] So my apologies if today's show sounds a
+[00:00:10] little like you're joining a
+[00:00:11] conversation that's already in progress.
+[00:00:15] But this has happened with me before
+[00:00:17] where I'll be talking with someone about
+[00:00:18] something usually over a long period of
+[00:00:20] time.
+[00:00:21] Messaging back and forth or whatever it
+[00:00:23] might be.
+[00:00:25] And I'll think to myself usually a
+[00:00:26] little too late in the game. Wow, you
+[00:00:28] know, should have thought about making
+[00:00:29] this a podcast. I mean more people than
+[00:00:31] just yours truly might want to hear
+[00:00:33] what's being said here.
+[00:00:34] And that's how today's show got started.
+[00:00:37] Just an ongoing discussion that at a
+[00:00:40] certain point
+[00:00:41] you look at it and you go, "Hmm, well,
+[00:00:43] I should have started recording a long
+[00:00:45] time ago, but uh so if it sounds like
+[00:00:47] you're picking up the conversation in
+[00:00:48] the middle of it, you might be.
+[00:00:50] I've never been that good in the
+[00:00:51] conversations or the interviews as you
+[00:00:52] probably know if you've heard me. I've
+[00:00:54] really like setting it up and starting
+[00:00:56] at ground zero and building from a from
+[00:00:58] a place of no knowledge and eventually
+[00:00:59] getting somewhere in the conversation
+[00:01:00] that's interesting. We just go right to
+[00:01:02] the interesting and I hope we can all I
+[00:01:04] hope it all makes sense without having
+[00:01:06] all the background, but that's what
+[00:01:08] today's program will be like. So I had a
+[00:01:09] conversation that was ongoing about of
+[00:01:11] all things
+[00:01:12] um military aircraft.
+[00:01:16] Especially military aircraft in the
+[00:01:17] Second World War. At times it got very
+[00:01:20] specific, you know, the P-38
+[00:01:22] American fighter plane in the Second
+[00:01:24] World War.
+[00:01:25] Um but I was having a discussion with
+[00:01:27] Elon Musk and um we were talking about
+[00:01:31] uh the role of engineers in warfare. And
+[00:01:35] that's a famous history, right? Go back
+[00:01:36] to Archimedes supposedly killed by the
+[00:01:38] Roman soldier when he's doodling in the
+[00:01:40] sand and he didn't want to be
+[00:01:41] interrupted and he made all those
+[00:01:43] supposedly I think MythBusters well in
+[00:01:46] their own way figured out that some of
+[00:01:47] the stuff probably wouldn't work, but
+[00:01:49] you know, they're not Archimedes either.
+[00:01:51] Uh but you know, the history of warfare
+[00:01:52] with these engineers creating weapons
+[00:01:53] and of course in the modern world those
+[00:01:55] people are
+[00:01:57] monumentally more important than they
+[00:01:59] were in primitive times, although
+[00:02:01] somebody invented
+[00:02:02] a bow and arrow someday.
+[00:02:05] The early military engineers.
+[00:02:07] Um but Mr. Musk and I were talking about
+[00:02:10] this and at a certain point I thought,
+[00:02:12] "Okay, this is a pretty good thing to
+[00:02:14] just have a podcast about." Now my worry
+[00:02:16] was that we were going to get into the
+[00:02:18] minutia of like turbo supercharged
+[00:02:20] engines
+[00:02:22] and the performance of different
+[00:02:23] aircraft at different altitudes based on
+[00:02:25] the octane rating in the fuel.
+[00:02:27] And I'm not saying we didn't do any of
+[00:02:29] that. I'm just saying it turned out to
+[00:02:31] be more interesting than I thought it
+[00:02:33] was going to be when we did get there.
+[00:02:35] I want to
+[00:02:37] issue a little disclaimer at the outset.
+[00:02:40] I am the worst person in the world to
+[00:02:42] talk to about engineering if there's any
+[00:02:44] sort of engineering knowledge required
+[00:02:46] in the conversation on my end. I'm a guy
+[00:02:49] that can't
+[00:02:50] you know, hammer a nail and do a board.
+[00:02:52] So I'm an idiot. So um if I don't look
+[00:02:56] like I know what I'm doing here, well,
+[00:02:57] you know, not only that, but if you
+[00:02:59] wanted to say which of the three
+[00:03:01] branches of service in the 20th century
+[00:03:03] military, you know, land, sea and air
+[00:03:05] that I was least confident
+[00:03:07] uh that I wouldn't look like an idiot
+[00:03:09] talking about it would be aircraft. So
+[00:03:10] we're just going to hold on and see if
+[00:03:13] we can keep up with a guy who loves this
+[00:03:15] stuff and understands it at a level I'll
+[00:03:17] never be able to um
+[00:03:19] appreciate. And just in case his own
+[00:03:21] knowledge wasn't enough, he brought in
+[00:03:23] uh one of the best engineers at SpaceX,
+[00:03:25] Mr. Bill Riley, to come in and back him
+[00:03:28] up on this stuff. So um one way or
+[00:03:30] another we should get this stuff right,
+[00:03:31] I would think with the three of us.
+[00:03:33] In any case, um
+[00:03:35] I hope you enjoyed this discussion with
+[00:03:37] Elon Musk talking about well, I guess it
+[00:03:40] started off with him saying that
+[00:03:41] engineers don't get enough credit in um
+[00:03:44] warfare and
+[00:03:46] well, you know, we'll touch upon a
+[00:03:48] little high octane fuel and turbo
+[00:03:50] supercharged engines along the way.
+[00:03:53] Without further ado, Elon Musk and Mr.
+[00:03:56] Bill Riley from SpaceX.
+[00:04:01] So so what I thought was I'll give the
+[00:04:03] background about how the hell this even,
+[00:04:05] you know, got started in terms of our
+[00:04:06] conversation. And then what I thought
+[00:04:08] maybe we could start off with, you know,
+[00:04:09] you had talked a lot about how this was
+[00:04:11] an engineers war and I thought to myself
+[00:04:14] that the Second World War of course was
+[00:04:15] not the first engineers war. You can go
+[00:04:18] back into history and you can find these
+[00:04:19] moments, the famous uh the Romans
+[00:04:21] inventing the corvus device to help them
+[00:04:24] win the naval war in the First Punic
+[00:04:25] Wars, all those kind of thing.
+[00:04:27] But those are so rare because of the
+[00:04:28] pace of technological change being so
+[00:04:30] much more slow. And then you get to
+[00:04:32] something like the Franco-Prussian War
+[00:04:34] maybe, but certainly in the First World
+[00:04:35] War where aircraft development becomes a
+[00:04:39] race and that if you develop the next
+[00:04:41] new thing, you might control the skies
+[00:04:43] for the next four or five months until
+[00:04:44] the other side catches up. So maybe you
+[00:04:46] could tell me a little bit about this
+[00:04:48] whole engineers war kind of concept.
+[00:04:51] Yeah, absolutely. Um so for
+[00:04:54] a lot of books on strategy on war
+[00:04:58] actually
+[00:04:59] don't address technology or address it
+[00:05:01] in a tangential manner, but obviously if
+[00:05:03] there's an overwhelming technology
+[00:05:05] advantage, that side will win even if
+[00:05:07] the odds are dramatically stacked
+[00:05:09] against them from a numerical standpoint
+[00:05:12] or they are
+[00:05:14] even if the other side has better
+[00:05:15] generalship and is is very smart. If
+[00:05:18] there's a big technology discontinuity,
+[00:05:21] then the the side with the the advanced
+[00:05:23] technology will win.
+[00:05:24] And as you as you alluded to, most
+[00:05:26] battles in history because technology
+[00:05:28] moved very slowly, uh it was more about
+[00:05:31] maneuvering and about tactics and
+[00:05:33] strategy and and whatnot.
+[00:05:36] But uh to use sort of an extreme
+[00:05:38] example,
+[00:05:40] if for example, you can shoot lasers
+[00:05:43] from space
+[00:05:45] uh to at at at to any point on the
+[00:05:47] ground by just by like
+[00:05:49] pointing at it. Um it would not matter
+[00:05:52] if you're fighting Julius Caesar,
+[00:05:54] uh
+[00:05:56] you know,
+[00:05:57] uh Heinz Guderian, Napoleon,
+[00:06:01] they just got lasered from space.
+[00:06:03] So there's no it's it's it's sort of a
+[00:06:06] you know, what when there is a
+[00:06:07] technology discontinuity, it it that
+[00:06:09] just fundamentally flips flips the whole
+[00:06:11] situation. And
+[00:06:14] in the in the wars in the modern era we
+[00:06:16] we're we're we're very much a technology
+[00:06:18] race war. Like they were just how fast
+[00:06:20] can we
+[00:06:21] innovate the technology? I mean
+[00:06:23] obviously an extremely good example of
+[00:06:24] that would be a best best example would
+[00:06:27] be uh
+[00:06:28] the nuclear bomb.
+[00:06:30] If you if you got
+[00:06:31] any anyone who got nuclear bombs,
+[00:06:33] that you now win.
+[00:06:35] That's it. Over end of story. And the
+[00:06:37] reason for the US Manhattan Project
+[00:06:39] which I'd like to emphasize was very
+[00:06:41] much a function of the uh
+[00:06:43] the the physics community
+[00:06:45] more than it was the government. People
+[00:06:47] think that like this was a government
+[00:06:48] thing. The government
+[00:06:50] certainly supported it, but it was a
+[00:06:52] decision by the physics community
+[00:06:54] without which this it certainly would
+[00:06:55] not have happened.
+[00:06:57] And and and the the physics community
+[00:06:59] said we came to the conclusion that
+[00:07:01] we cannot have let let Hitler have the
+[00:07:03] bomb obviously and so we must make it
+[00:07:05] first and be certain of it.
+[00:07:08] So that
+[00:07:09] the that's that's an example of like,
+[00:07:10] "Okay, you've just got
+[00:07:12] uh some
+[00:07:13] super weapon that and anyone who gets it
+[00:07:16] wins."
+[00:07:17] Uh no no better example than nuclear
+[00:07:19] weapons.
+[00:07:20] So
+[00:07:22] but but I think these technologies
+[00:07:23] played a a much stronger role in
+[00:07:26] a war than is generally um understood.
+[00:07:30] And technology is reviewed in in the
+[00:07:32] broadest sense. You could also think of
+[00:07:34] it in the sense of say, do you have a
+[00:07:39] a better phalanx? Do you have uh spears
+[00:07:42] that are bronze or iron or steel?
+[00:07:46] That's a big difference. And one of the
+[00:07:48] things that the Romans
+[00:07:49] had were um
+[00:07:51] they had actually quite good metallurgy.
+[00:07:54] So
+[00:07:55] they they had the their swords
+[00:07:58] the the there's two general phases
+[00:08:00] uh is steel
+[00:08:02] or smith and martensite. The their
+[00:08:04] swords were more martensitic. Uh and so
+[00:08:06] they had
+[00:08:07] swords that did not bend as much and so
+[00:08:09] they suddenly only be fighting
+[00:08:11] others who had swords that
+[00:08:14] were much more ductile um and basically
+[00:08:17] bend over a Roman sword.
+[00:08:20] So obviously you got
+[00:08:21] if you do have a sword fight and your
+[00:08:23] sword just bends like like a noodle,
+[00:08:25] it doesn't work as well after that. So
+[00:08:28] the Romans actually I think won their
+[00:08:30] wars
+[00:08:31] through technology.
+[00:08:33] Uh obviously the internal wars they they
+[00:08:35] they were more uh you know, equal
+[00:08:36] technology footing, but when when when
+[00:08:38] fighting outside uh the Roman Empire,
+[00:08:41] they would win their wars
+[00:08:44] for technology. Uh so when the Romans
+[00:08:47] fought the the Scythians or Sybians,
+[00:08:50] the the they really did not have a good
+[00:08:52] counter to the mounted war archer.
+[00:08:55] And especially if they get lured into
+[00:08:56] terrain that is flat and easy to to
+[00:08:58] maneuver for uh horses, then uh they're
+[00:09:01] they're they're pretty much helpless
+[00:09:02] against uh the technology of a a mounted
+[00:09:05] war archer and and and a mounted archer.
+[00:09:09] And and and Genghis Khan took full
+[00:09:10] advantage of the of the whole mounted
+[00:09:11] archer thing obviously as like most
+[00:09:13] people who study anything about this
+[00:09:15] now.
+[00:09:16] But looking at say um
+[00:09:18] the World War II and and fighter plane
+[00:09:21] advancement, bomber advancement,
+[00:09:24] it's it's perhaps uh interesting to go
+[00:09:26] into
+[00:09:27] kind of how things started out
+[00:09:29] and then how fast things innovated
+[00:09:33] uh and and the the the the the the the
+[00:09:34] the technology war of uh specifically
+[00:09:37] going into the um
+[00:09:39] fighters and and certainly bombers of
+[00:09:42] World War
+[00:09:45] And I'd like to say that
+[00:09:47] you know, I think there there was very
+[00:09:48] impressive design work around fighters
+[00:09:52] done by many countries. Um so
+[00:09:56] Japan, US, Germany,
+[00:09:59] uh uh UK,
+[00:10:00] uh Russia,
+[00:10:02] and and and others had had some very
+[00:10:03] impressive
+[00:10:05] fighter designs. And then and then the
+[00:10:07] US obviously completely crushed it on
+[00:10:09] the bomber front. So,
+[00:10:11] but but things didn't quite start out
+[00:10:13] that way.
+[00:10:14] At the beginning of World War II,
+[00:10:16] when there'd be fights between say in
+[00:10:19] the Pacific theater between
+[00:10:21] a US aircraft and Japanese aircraft, it
+[00:10:25] there were at sometimes be cases where
+[00:10:27] there were cases where the entire US
+[00:10:29] squadron was shot down for zero losses
+[00:10:32] on the Japanese side.
+[00:10:34] It just
+[00:10:35] you know, to- total KO.
+[00:10:39] And uh because the US fighters really at
+[00:10:41] the beginning of World War II were were
+[00:10:43] not very good. Um and nor were the
+[00:10:45] tactics.
+[00:10:46] And nor was the training.
+[00:10:48] So,
+[00:10:49] it's basically uh the tactics are well,
+[00:10:51] the aircraft are terrible and uh
+[00:10:55] and the the training is not not correct.
+[00:10:57] Well, wait, you bring up something
+[00:10:58] interesting though because I mean you
+[00:10:59] brought up lasers earlier and I think we
+[00:11:01] can all agree that if you go to some
+[00:11:03] primitive planet where everyone's in
+[00:11:05] caveman type times and you have lasers,
+[00:11:07] it's game over. But there's but there
+[00:11:09] are smaller levels of technological
+[00:11:12] discrepancy, right? Bronze weapons
+[00:11:14] versus iron weapons or or the latest
+[00:11:17] aircraft versus the aircraft from 5
+[00:11:19] minutes ago, right? Or you mentioned a
+[00:11:21] second ago tactics. Well, you know, one
+[00:11:24] of the things that you know, there's so
+[00:11:25] much that you learn when you first start
+[00:11:27] learning about the World Wars for
+[00:11:29] example. And then as you delve farther
+[00:11:31] into it, you learn many of the of the
+[00:11:33] more intricate things like tactics. So,
+[00:11:35] for example, how American fighter pilots
+[00:11:37] would have tactics to try to overcome
+[00:11:40] the fact that they're flying inferior
+[00:11:42] machines, right? Um um uh the Thach
+[00:11:45] Weave and all these sorts of things
+[00:11:47] where they try to take advantage of
+[00:11:48] Yeah, the Thach Weave is is is a great
+[00:11:49] example.
+[00:11:50] Yeah, exactly. Um
+[00:11:52] the the the Thach Weave is is is was a
+[00:11:54] great example of improvement in tactics.
+[00:11:56] Um if you've got if you're fighting a
+[00:11:57] nimble it is um this is was developed in
+[00:12:00] in the in the US in response to the
+[00:12:02] Japanese fighters which were very uh
+[00:12:05] uh agile.
+[00:12:06] Nimble. Very nimble.
+[00:12:07] Yeah, nimble. And so if if you're
+[00:12:08] fighting if if you're you're in if
+[00:12:09] you're in a thing that's sort of more
+[00:12:12] like a tank and you're you're fighting
+[00:12:14] something which is
+[00:12:15] you know, extremely nimble and but but
+[00:12:17] you if you you are not nimble, but
+[00:12:18] you've got better armor,
+[00:12:20] then the the the you basically want to
+[00:12:22] just let the
+[00:12:24] the the nimble fighter get on your tail
+[00:12:26] and then let your squad squadronmate
+[00:12:29] come back and
+[00:12:31] and come behind you and and and and
+[00:12:34] shoot that plane down while it's trying
+[00:12:36] to shoot you down, but it takes a a long
+[00:12:38] time to shoot you down because you've
+[00:12:39] got a lot of armor.
+[00:12:41] So so that's like a
+[00:12:43] in a in a nutshell, the Thach Weave. And
+[00:12:45] you could do that back and forth.
+[00:12:47] Uh it it's um
+[00:12:49] it made a big difference. Well, and you
+[00:12:51] also have the the stuff that always
+[00:12:52] drives me crazy that I was always so
+[00:12:54] worried you were going to take me into
+[00:12:55] this territory when we talked and I was
+[00:12:57] going to look like an idiot. But but I
+[00:12:59] mean for example, things like uh
+[00:13:01] superchargers
+[00:13:03] and being able to take the enemy to
+[00:13:05] altitudes where your plane's better than
+[00:13:07] their plane. I mean the intricacies and
+[00:13:09] all this stuff. Yeah, okay. So so so let
+[00:13:11] me ask you this then because we were
+[00:13:12] just talking about um choices in war.
+[00:13:15] And if you have the laser beam and the
+[00:13:16] other guy doesn't, they're through. But
+[00:13:18] I mean one of the things and and it's
+[00:13:19] funny that I could be a history major
+[00:13:21] and all these things for years, but it
+[00:13:22] took a video game to make me really
+[00:13:24] think about some of the production
+[00:13:27] tradeoffs, right? The stuff that's not
+[00:13:28] so that's not so sexy for a wargamer.
+[00:13:31] Things like is it better or where's the
+[00:13:33] sweet spot to build a lot of one design
+[00:13:36] where you already have the production
+[00:13:38] line geared up to build Sherman tanks or
+[00:13:40] T-34 tanks or is it better to to build
+[00:13:44] um a much smaller amount of much more
+[00:13:46] sophisticated things. So, Hitler making
+[00:13:48] multiple choices on jet fighters and jet
+[00:13:50] bombers. Or maybe would you rather have
+[00:13:53] 20,000 T-34s or 1,100 Tiger IIs? How
+[00:13:57] does one How does one if if if I put you
+[00:13:59] in charge if I said, "Elon, come in here
+[00:14:01] in the Second World War. Help us make
+[00:14:02] these tradeoff decisions." Um do you
+[00:14:04] have any thoughts on those kinds of
+[00:14:06] tradeoffs?
+[00:14:07] Well,
+[00:14:08] I think it's going to be kind of like in
+[00:14:09] a wargame, you know? So, if you've got
+[00:14:13] let let let's say you have something
+[00:14:14] with a particular kill ratio. Let's say
+[00:14:16] if if your kill ratio is three and the
+[00:14:19] thing costs twice as much, then you
+[00:14:21] should still do that thing because
+[00:14:23] you're going to be better off you you're
+[00:14:25] it it only costs twice as much, but it
+[00:14:27] has a three-to-one kill ratio.
+[00:14:28] So, what about something like then um
+[00:14:31] adjustments? So, like when I think of um
+[00:14:33] you know, one of the things they used to
+[00:14:34] teach us in in the military history
+[00:14:36] classes was that if you're facing
+[00:14:37] another opponent, the the side that has
+[00:14:39] the technological advantage is at its
+[00:14:42] greatest um disparity at the very
+[00:14:44] beginning of the conflict. And that if
+[00:14:46] the longer the conflict goes on, the
+[00:14:48] more time the adversary has to adjust
+[00:14:51] and come up with countermeasures. So,
+[00:14:53] that's how tribal peoples in Afghanistan
+[00:14:55] maybe adjust to being the
+[00:14:57] technologically inferior side. Um
+[00:15:00] could one make a case today that there
+[00:15:03] are examples of that, you know, the US
+[00:15:05] still I would I would assume, correct me
+[00:15:06] if I'm wrong, the technological leader
+[00:15:08] there in military technology. But if
+[00:15:10] you're uh the Russians or the Chinese
+[00:15:13] and we end up in a war in 20 years, are
+[00:15:15] there ways that they can compensate for
+[00:15:17] the fact that they're behind on certain
+[00:15:18] I mean is an electromagnetic pulse
+[00:15:21] attack something that helps compensate
+[00:15:23] for a satellite uh discrepancy?
+[00:15:26] Um
+[00:15:28] I know we're jumping around here. That's
+[00:15:29] I'm sorry. So, yeah, jump around.
+[00:15:32] Um I do think if I could jump in though,
+[00:15:34] I think there's there's an interesting
+[00:15:36] thing here too, which is your rate of
+[00:15:37] innovation might be the key after the
+[00:15:40] first opening salvos because if you're
+[00:15:42] able to innovate faster, you can make up
+[00:15:44] ground. For example, you know, the first
+[00:15:46] Mustangs had the Allison engines and
+[00:15:48] they weren't good at altitude, but you
+[00:15:50] put a Rolls-Royce turbo supercharged and
+[00:15:52] then you get a really good all-around
+[00:15:54] fighter.
+[00:15:55] So, it it might be that the rate of
+[00:15:56] innovation and ability to adapt to like
+[00:15:59] the the basically the game of rock,
+[00:16:00] paper, scissors that Elon and I often
+[00:16:02] talk about. Like when there's a better
+[00:16:04] scissors out there, you need a better
+[00:16:06] rock.
+[00:16:07] Or the Butter Battle Book by Dr. Seuss.
+[00:16:09] But you know, you're always chasing the
+[00:16:11] next widget. The rate of innovation is
+[00:16:14] the key. Um
+[00:16:15] Okay, so what about the reverse
+[00:16:17] engineering aspect then? So, famously
+[00:16:19] one of the stories from the Second World
+[00:16:20] War is the US getting their hands on a
+[00:16:22] relatively intact Zero fighter. I think
+[00:16:25] it was in the Aleutian Islands and being
+[00:16:27] able to take that apart and maybe maybe
+[00:16:29] gain 6 months of time that they wouldn't
+[00:16:31] have had before in the development
+[00:16:33] phase. Um any thoughts on those kinds of
+[00:16:35] things? The ability to to to maybe learn
+[00:16:37] from your adversary?
+[00:16:39] Yeah, um
+[00:16:40] I I if if if we sort of put ourselves in
+[00:16:42] the position of like, "Hey, we're it's
+[00:16:43] our job to design
+[00:16:45] advanced fighters."
+[00:16:47] For sure we'd love to see uh you know,
+[00:16:49] again say an enemy fighter or even
+[00:16:51] allied fighter and take it apart and
+[00:16:52] take a look at the the small engineering
+[00:16:54] decisions that we we think would be
+[00:16:56] interesting.
+[00:16:58] What materials they use, what joining
+[00:17:00] methods.
+[00:17:01] Like you know, if it's a so we're
+[00:17:03] getting engine you know,
+[00:17:05] you know, what what uh pressure were
+[00:17:07] they running the
+[00:17:08] uh cylinders at, uh what what are they
+[00:17:10] using for O-rings.
+[00:17:12] It's a ton of things like that. But for
+[00:17:13] example, something like just like
+[00:17:15] material properties that you can count
+[00:17:17] on make a big difference. So, but if if
+[00:17:20] you're using say an high-strength uh
+[00:17:23] aluminum uh sheet for a stress-skin
+[00:17:27] wing,
+[00:17:27] you you may have material properties
+[00:17:29] depending on how that alloy is made that
+[00:17:31] could be that that could be variable.
+[00:17:33] And then that that forces you to
+[00:17:36] use the the lower end of what that
+[00:17:37] variable strength might be.
+[00:17:39] Um and that makes the skins thicker,
+[00:17:41] that makes the plane heavier. And then
+[00:17:43] you've got a knock-on effect where if if
+[00:17:44] the wings are heavier now, the landing
+[00:17:46] gear need to be heavier, engine needs to
+[00:17:47] be more powerful. You get this recursive
+[00:17:49] effect of mass. So, on the other hand,
+[00:17:52] if you can count on
+[00:17:54] very tight material specs, now you can
+[00:17:56] you can design the the plane to use
+[00:17:59] uh thinner wing skins.
+[00:18:02] Cuz you don't have to account for the
+[00:18:03] fact that maybe this this batch of
+[00:18:05] aluminum was was not that good.
+[00:18:07] Things things like that actually make a
+[00:18:08] big deal or are a are a big deal.
+[00:18:11] In World War II with the fighter
+[00:18:12] situation,
+[00:18:13] a big factor was what what octane rating
+[00:18:16] could you count on uh for the for the
+[00:18:19] the engine.
+[00:18:20] The fuel, yeah.
+[00:18:21] It's a huge deal.
+[00:18:22] had the high octane stuff. Yeah. Really?
+[00:18:25] Um
+[00:18:27] So, if if if you do You know, you're
+[00:18:28] going to like that Adam Tooze book we
+[00:18:30] were talking about cuz one of the things
+[00:18:32] that he focused on that I'd never heard
+[00:18:33] about in terms of Second World War
+[00:18:35] importance was he was talking about the
+[00:18:37] rare materials, the tungsten type stuff
+[00:18:40] and all the all the sorts of things I
+[00:18:41] couldn't tell you five little things
+[00:18:43] about and they were talking about what a
+[00:18:45] huge deal it was for I mean the Germans
+[00:18:47] would invent this wonderful new weapon
+[00:18:49] like a something like a cone bore gun
+[00:18:51] for example, but required tungsten to
+[00:18:53] make it work. So, the scientists have
+[00:18:55] created this wonderful new weapon, but
+[00:18:57] the the state does not have the the
+[00:18:59] ability to get the basic materials you
+[00:19:01] need to have that weapon work. And a
+[00:19:03] huge part of the whole war thing was who
+[00:19:05] has the the rare materials and where do
+[00:19:07] you get them from and how do you how do
+[00:19:08] you jury-rig it when you don't have it,
+[00:19:10] you know, domestically? Um that's
+[00:19:11] fascinating stuff. You that's right up
+[00:19:12] your alley.
+[00:19:14] Yeah, absolutely.
+[00:19:15] Germany and and I think Japan as well
+[00:19:16] were really operating from from a
+[00:19:17] position of really not having good
+[00:19:19] access to access to um
+[00:19:22] uh high-quality fuel and limited access
+[00:19:24] to uh rare materials.
+[00:19:27] But I think it's it's not so much the
+[00:19:28] rare materials that that that matters.
+[00:19:29] It's like
+[00:19:30] if you if if you need
+[00:19:33] you know, the the the you really want
+[00:19:34] want a plane's
+[00:19:36] body and frame to be primarily aluminum
+[00:19:38] and a simple thing like
+[00:19:41] can you count on on
+[00:19:43] what what's your what what's your what
+[00:19:44] are your A-basis material allowables,
+[00:19:46] B-basis? You know, basically, do you
+[00:19:48] have to make a temp the skin 10% thicker
+[00:19:50] to account for
+[00:19:52] variability in the quality of the
+[00:19:53] aluminum
+[00:19:54] or aluminum as it should be called.
+[00:19:57] Uh that's going to make
+[00:19:59] your plane is now 10% heavier at a
+[00:20:00] structural level because of of uh
+[00:20:03] strength variation in the in the
+[00:20:04] aluminum that you've been sent, then uh
+[00:20:06] that will actually have a knock-on
+[00:20:07] effect on everything else. The recursive
+[00:20:09] effect of your speed, maneuverability,
+[00:20:12] everything.
+[00:20:13] the the there's a recursive effect of
+[00:20:14] mass. So,
+[00:20:17] It's a mass that gets mass as we say,
+[00:20:19] right? Yes, mass begets mass.
+[00:20:21] So,
+[00:20:22] you know, if your primary structure is
+[00:20:24] 10% heavier because you had to take 10%
+[00:20:27] knockdown because of variable materials,
+[00:20:30] now everything's going to have to be uh
+[00:20:32] uh heavier, too. You need a a more
+[00:20:34] powerful engine to to go at the same
+[00:20:36] speed and especially to climb at the
+[00:20:37] same speed. You need bigger landing
+[00:20:40] gear. You need more fuel uh because
+[00:20:42] you're carrying a heavier plane.
+[00:20:44] All these things amplify the mass of
+[00:20:46] anyone uh so you increase mass,
+[00:20:49] you uh in one area, it's it's actually
+[00:20:52] causes mass of everything else to
+[00:20:53] increase as well.
+[00:20:55] And um
+[00:20:56] uh uh Germany actually did a a ton of
+[00:20:58] clever things to try to improve the the
+[00:21:00] the
+[00:21:02] uh the octane rating of the fuel. Like
+[00:21:03] tons of additives and all sorts of
+[00:21:05] things cuz they would
+[00:21:06] they would just get random
+[00:21:08] fuel that was pretty bad, whereas the US
+[00:21:10] had awesome fuel.
+[00:21:13] And so they really took it took it to
+[00:21:14] the
+[00:21:15] you know, very high octane.
+[00:21:17] And um as Bo was saying,
+[00:21:20] the the Merlin engine and and really the
+[00:21:22] the the best Merlin engine was the one
+[00:21:23] made in the US.
+[00:21:25] That was
+[00:21:26] the
+[00:21:27] turbo supercharged Merlin made in the US
+[00:21:29] for the P-51 was such a kickass engine
+[00:21:31] that's insane. I mean,
+[00:21:33] quite frankly, that's kind of thing
+[00:21:34] where
+[00:21:36] uh I'm I'm I'm sure that the Germans
+[00:21:37] captured uh some aircraft that had um
+[00:21:41] this this sort of state-of-the-art, you
+[00:21:42] know, a P-51D uh
+[00:21:46] uh you know, uh
+[00:21:47] the
+[00:21:49] That would have been late war, though,
+[00:21:50] '44, '45. Yeah, yeah, but but like it
+[00:21:53] that's the case where you could you
+[00:21:54] could hand it to them and the blueprints
+[00:21:56] and it wouldn't matter cuz that engine
+[00:21:58] is it it is so is is actually so
+[00:22:01] difficult to make that it's irrelevant.
+[00:22:06] Isn't that a Briti- Is that a British
+[00:22:07] engine originally?
+[00:22:08] it's it's originally a British engine
+[00:22:11] which was then uh enhanced uh
+[00:22:13] uh in the US.
+[00:22:16] Okay, okay.
+[00:22:16] Um and so so the actual best one the
+[00:22:19] best one was the the the
+[00:22:21] the in in my opinion and maybe different
+[00:22:23] opinions out there, but
+[00:22:24] the best one was the the the British
+[00:22:26] Merlin engine design and but but then
+[00:22:28] further enhanced uh
+[00:22:30] uh with the US uh turbo supercharging
+[00:22:33] um
+[00:22:34] which which led to a the the Mustang
+[00:22:37] being this incredible long-range high
+[00:22:39] high altitude fighter.
+[00:22:41] And but but you you you couldn't if you
+[00:22:44] got low octane fuel in that engine,
+[00:22:45] you'd have real problem. So, Okay, well,
+[00:22:47] let me talk about it cuz this is
+[00:22:48] something most people, yours truly
+[00:22:50] included, don't understand and you might
+[00:22:52] have to use small words with me, Elon,
+[00:22:53] for a minute. So, but but but like if if
+[00:22:55] Dan Carlin looks at the aircraft
+[00:22:57] performance, I'm going to look at the
+[00:22:59] the the the firepower. I'm going to look
+[00:23:01] at the armor. I'm going to look at the
+[00:23:02] turn radius. I'm going to look at the
+[00:23:03] top speed. I'm going to look at the
+[00:23:04] climb rate. And I'm not going to look at
+[00:23:07] the octane level. But the Americans had
+[00:23:09] the extreme octane fuel which it I was
+[00:23:12] reading that as the war went on and the
+[00:23:13] and the and the Axis fuel got worse and
+[00:23:16] worse quality, that this advantage
+[00:23:18] became more and more pronounced. What
+[00:23:19] does it mean to have a higher octane
+[00:23:21] fuel if you're a pilot? What can you do
+[00:23:23] that the guy with a lower octane fuel
+[00:23:25] can't?
+[00:23:26] if you if if you have the lower octane
+[00:23:28] fuel, you you get pre-combustion. So,
+[00:23:30] basically you get knocking.
+[00:23:32] So,
+[00:23:35] Reminds me of the old gasoline
+[00:23:36] commercials, the knocking and the
+[00:23:37] pinging.
+[00:23:38] Yeah. Exactly. The the the
+[00:23:40] the air-fuel mixture ignites before
+[00:23:42] you're ready for it and then in a
+[00:23:43] non-optimal way that robs power and can
+[00:23:46] lead to mechanical failure essentially.
+[00:23:49] Okay, so so is your so if you're the if
+[00:23:51] you're the other pilot with the lower
+[00:23:53] octane fuel, besides the knocking and
+[00:23:55] the pinning pinging and the lower power,
+[00:23:57] does that mean you lose you know, so if
+[00:23:59] conceivably your plane should be able to
+[00:24:01] go 400 mph, but you're using inferior
+[00:24:03] fuel, does that lower your top speed?
+[00:24:05] I'm trying to figure out how it works
+[00:24:06] for the pilots involved when they're
+[00:24:08] trying to make their calculations.
+[00:24:09] Yeah, you would see it show up as power
+[00:24:11] and then your power as you go to
+[00:24:12] different altitudes.
+[00:24:14] Yeah. And then you're you can't
+[00:24:16] So, what's the role of the what's the
+[00:24:17] role of the supercharger then? Is that a
+[00:24:18] high altitude low oxygen thing?
+[00:24:21] Um yes.
+[00:24:22] The the the
+[00:24:24] turbochargers or superchargers are are
+[00:24:26] increasing the the the combustion
+[00:24:30] pressure. So,
+[00:24:32] uh like basically in in enabling
+[00:24:34] you you you're you're you're you're
+[00:24:35] basically
+[00:24:37] if you if you go up high, you're you're
+[00:24:38] you're you're the air's very thin. So,
+[00:24:40] if you're just taking air with a normal
+[00:24:41] carburetor, you're you're going to be
+[00:24:42] oxygen oxygen-starved, just as as a
+[00:24:44] human is oxygen-starved. So, you've got
+[00:24:46] to pressurize that air coming in and
+[00:24:48] feed the engine very high pressure air
+[00:24:51] so that it can it can uh continue to
+[00:24:53] produce high power at altitude.
+[00:24:55] And then you're also going to have a
+[00:24:56] major cooling problem.
+[00:24:58] That's the why
+[00:25:00] you know, the Mustang had that that
+[00:25:01] gigantic cooling thing on the um on the
+[00:25:03] fuselage,
+[00:25:05] which is then also made dual use of as
+[00:25:08] kind of like a jet. It has a slight jet
+[00:25:10] effect.
+[00:25:11] There's a name for it. I forget, but um
+[00:25:14] even though it looks like
+[00:25:15] effect. Meredith effect, exactly.
+[00:25:18] So, it it offset the drag of the
+[00:25:20] gigantic
+[00:25:22] radiator, basically.
+[00:25:24] That's um
+[00:25:25] that was on the fuselage of the P-51.
+[00:25:28] But but frankly, if if the octane is is
+[00:25:30] is not high enough, you you will
+[00:25:32] get mechanical damage to the engine and
+[00:25:35] the air- plane will break, you know. So,
+[00:25:39] the engine will fail. So, it's not just
+[00:25:40] a hey, it's not as good. It's like also
+[00:25:43] it might conk out on you while you're
+[00:25:45] over the Pacific or over, you know, uh
+[00:25:47] enemy territory and that will be not
+[00:25:50] great.
+[00:25:51] So,
+[00:25:53] octane is a super big deal.
+[00:25:55] This is this reminds me of another
+[00:25:57] conversation you and I had and it's made
+[00:25:59] me think ever since. And it had to do
+[00:26:01] with with I the plane I think is one of
+[00:26:03] your favorites, the P-38 Lightning. And
+[00:26:06] and and this is another this is another
+[00:26:08] problem that happens to you when you
+[00:26:09] study this like I do as opposed to
+[00:26:11] flying these planes like other people
+[00:26:13] do, which is you had said to me, having
+[00:26:16] the two engines would be really
+[00:26:17] important if you lost one of them. And I
+[00:26:20] remember thinking that in the
+[00:26:22] a big deal for sure. Yeah, but but but I
+[00:26:24] mean, that's not the kind of thing when
+[00:26:25] you're thinking about this in a
+[00:26:26] wargaming sense or an overall strategic
+[00:26:28] sense, you're not thinking about an
+[00:26:29] individual pilot or whatnot. But that
+[00:26:31] was that was a revelation for me. Um so
+[00:26:35] so for those who don't know, the P-38 is
+[00:26:36] the one that looks like it's two planes
+[00:26:38] sort of fused together. It's a classic
+[00:26:41] American design. We ended up making
+[00:26:42] what, the P-61s like that, too, I think.
+[00:26:44] Um tell me a little about that plane cuz
+[00:26:46] you you you waxed eloquently on that for
+[00:26:49] a while to me before. Um came out in
+[00:26:51] like what, '38, '39 the design?
+[00:26:54] Yeah. It it didn't really get good until
+[00:26:56] a couple years later.
+[00:26:58] And and I think they actually could have
+[00:27:00] taken the the P-38 Lightning much
+[00:27:03] further than they did.
+[00:27:04] Like if you put, for example,
+[00:27:07] state-of-the-art
+[00:27:08] uh Merlin engines uh like like the P-51
+[00:27:11] got, like the um Mustang got, man, that
+[00:27:14] would be an epic plane. Insane.
+[00:27:16] Uh but but yeah, the P-38 was it's worth
+[00:27:19] noting like I believe um
+[00:27:22] most of most of the top American aces,
+[00:27:24] if not all, were uh flew P-38s.
+[00:27:27] And um now the P-38 is is is not like
+[00:27:30] was as designed was not great in any
+[00:27:33] theater of war. It was but it was great
+[00:27:35] in the Pacific theater.
+[00:27:37] But it was ultimately superseded by the
+[00:27:40] uh F6F uh Hellcat. Which uh you know,
+[00:27:44] this is an interesting bit of trivia. If
+[00:27:46] you say, "What was the most effective
+[00:27:48] fighter plane in World War II?"
+[00:27:50] And the actual answer is the Hellcat.
+[00:27:53] Because
+[00:27:54] What was the criteria you used for that?
+[00:27:56] The the
+[00:27:57] the the kill ratio.
+[00:27:59] So,
+[00:28:00] Okay, okay. Well, that has a there's a
+[00:28:01] lot of other variables though that go
+[00:28:03] into that.
+[00:28:04] I mean,
+[00:28:05] if you're in a battle,
+[00:28:07] that's the what that's the thing that
+[00:28:08] matters.
+[00:28:09] So,
+[00:28:11] Yeah, but what about but you got pilot
+[00:28:12] skill? We just talked about octane fuel.
+[00:28:15] There's uh tactics. There's I mean, I
+[00:28:16] can think of a lot of things that might
+[00:28:17] go into what what accounts for a kill
+[00:28:20] ratio besides just the I mean, would you
+[00:28:22] rather have a a Hellcat than a a Corsair
+[00:28:25] or a Mustang? Uh well, you can't really
+[00:28:28] have a Mustang unless you got a Mustang
+[00:28:30] is a uh
+[00:28:31] not a carrier aircraft. It's a
+[00:28:32] land-based plane. No, it's a land-based
+[00:28:34] plane.
+[00:28:35] So, first of all, it's important to note
+[00:28:37] like if you're if on a carrier, you're
+[00:28:39] constrained
+[00:28:41] uh uh
+[00:28:42] in volume.
+[00:28:43] Um
+[00:28:45] Like you you you can't have like a giant
+[00:28:46] plane or your plane is there's some
+[00:28:48] limitations on plane size. You got to
+[00:28:49] fold the wing, so you're going to lose
+[00:28:51] you're going to have some Right. uh
+[00:28:52] weight added because you got a folding
+[00:28:54] wing.
+[00:28:55] The the
+[00:28:56] the stall speed has to be super low so
+[00:28:58] that you can land this thing on a on a
+[00:29:00] very tiny runway that's in the wind at
+[00:29:02] the carrier. Like that's not long.
+[00:29:05] So,
+[00:29:06] so as you say, you've got to have to
+[00:29:07] have a a a slow
+[00:29:08] stall speed or slow landing speed, that
+[00:29:10] also impedes the design of the vehicle.
+[00:29:13] But
+[00:29:17] really, I mean, for
+[00:29:19] for today, uh there was no better plane
+[00:29:22] in the Pacific theater than the F6F
+[00:29:24] the the Hellcat.
+[00:29:26] It was just crushingly good. Like it it
+[00:29:28] it was it did the best at the rock,
+[00:29:30] paper, scissors situation. And I believe
+[00:29:33] had uh something like a 13 to one kill
+[00:29:35] ratio.
+[00:29:37] So,
+[00:29:38] that's that's a nutty number. It's
+[00:29:40] nutty. And this is this is pilot skill
+[00:29:42] uh is is is not I would say it doesn't
+[00:29:44] was not a significant factor in this
+[00:29:47] because of the pilots of of those planes
+[00:29:49] had never been in combat.
+[00:29:52] Or had been combat to a very very
+[00:29:54] limited degree.
+[00:29:55] The Hellcat was actually intentionally
+[00:29:57] designed
+[00:29:58] so that someone who
+[00:30:00] had a small number of flight hours would
+[00:30:02] be able to fly it safely. Cuz um besides
+[00:30:05] being shot down by an enemy aircraft,
+[00:30:07] there's also landing on the carrier and
+[00:30:09] not crashing.
+[00:30:10] Which is really
+[00:30:12] It's a subtle point, yes.
+[00:30:15] Yeah.
+[00:30:15] These things don't land themselves.
+[00:30:17] Um
+[00:30:17] So so Elon, wait a minute. So you talked
+[00:30:19] now a couple of times about the rock,
+[00:30:20] paper, scissors dynamic when it comes to
+[00:30:22] aircraft. Now in naval development,
+[00:30:24] that's easy. We say speed, armor,
+[00:30:26] gunfire. What is the rock, paper,
+[00:30:28] scissors
+[00:30:29] apply to in air combat?
+[00:30:32] Or air development.
+[00:30:34] Sure. Um
+[00:30:35] I'm both of you please weigh in when
+[00:30:37] whenever you'd like. Um but you know,
+[00:30:38] it's if you take something to the
+[00:30:40] Pacific theater for a while, you have
+[00:30:42] the uh the Zero, which is and really an
+[00:30:44] awesome design, extremely agile,
+[00:30:47] and
+[00:30:48] uh
+[00:30:49] you know, really cool in a lot of ways.
+[00:30:51] Light light and
+[00:30:53] re- really really effective and like I
+[00:30:55] said in in the early air battles in the
+[00:30:57] Pacific, the the
+[00:30:59] the Zero would absolutely dominate.
+[00:31:02] It did to a ridiculous And they had they
+[00:31:04] had better pilots in the early war, too,
+[00:31:06] though. That does come into play,
+[00:31:07] doesn't it? Those are veteran pilots
+[00:31:09] flying those zeros.
+[00:31:10] Um
+[00:31:11] No, I well Flying in China, flying, you
+[00:31:13] know, all of that stuff. Yeah. Um
+[00:31:17] The the
+[00:31:18] I I I think the the the the
+[00:31:20] I mean, you guys started off with the
+[00:31:22] kind of the the worst planes, the worst
+[00:31:24] tactics, and the worst training.
+[00:31:27] That's true. I'm not going to argue with
+[00:31:29] that. No, I'm not going to argue with
+[00:31:30] that.
+[00:31:30] pretty pretty bad, really. I mean, it's
+[00:31:32] it's rough seeing some of those early
+[00:31:34] battles where man, those kids never
+[00:31:35] stood a chance. No. So
+[00:31:38] the you know, the
+[00:31:40] the Zero was for sure the
+[00:31:42] superior thing in the beginning to the
+[00:31:45] uh US fighters.
+[00:31:47] Uh
+[00:31:48] so
+[00:31:49] but very very quickly uh US evolved the
+[00:31:54] training, uh the tactics, like and the
+[00:31:58] technology.
+[00:31:59] And then the the thing is like, okay, so
+[00:32:02] if the US starts off with paper and the
+[00:32:05] and say Japan has scissors,
+[00:32:07] what what's the rock in this case?
+[00:32:11] So
+[00:32:12] the rock in this case really was the the
+[00:32:14] the best rock. Uh
+[00:32:16] and this is just, you know, looking at
+[00:32:17] actual battle stats.
+[00:32:20] Uh was the carrier-based F6F Hellcat.
+[00:32:23] Now, this is not a pretty plane. And the
+[00:32:26] reason there
+[00:32:27] they're not there are very few of these
+[00:32:29] around is because
+[00:32:31] it's it's not the best-looking aircraft,
+[00:32:33] frankly. They're bulky, aren't they?
+[00:32:34] They're kind of bulky. Like P-47s are
+[00:32:36] bulky, the Brewster Buffalo was bulky.
+[00:32:38] It's bulky and and frankly
+[00:32:40] not not a handsome plane.
+[00:32:43] So A lot of armor. Bulky and and kind of
+[00:32:46] cool, but this is bulky and they not
+[00:32:47] like they not like good. But it it's a
+[00:32:50] kick-ass fighter. It's the it's it is
+[00:32:52] then the rock to the the scissors that
+[00:32:54] is the
+[00:32:56] Zero.
+[00:32:57] And so with with F6F it's really great
+[00:33:00] design. It's literally designed like
+[00:33:02] with intent of we're going to have a
+[00:33:04] whole bunch of new pilots who've never
+[00:33:06] been in combat, never been in combat,
+[00:33:08] have had have landed very few times on a
+[00:33:11] carrier, and and you know,
+[00:33:14] some of them are just not that
+[00:33:16] there's not that good at
+[00:33:17] at flying, really. So
+[00:33:19] uh they just got conscripted and they
+[00:33:20] were like, you know, riding a tractor in
+[00:33:22] Kansas until not that long ago.
+[00:33:24] So it was designed with that in mind.
+[00:33:26] It's like it's like, let's make this
+[00:33:27] thing easy to fly, easy to land,
+[00:33:29] so non- non-combat casualty is low,
+[00:33:32] uh easy to maintain, uh make the the
+[00:33:34] wings easy to fold, so you can, you
+[00:33:36] know, store them really really fast and
+[00:33:39] and get them ready for flight real fast.
+[00:33:41] We're going to give them heavy guns.
+[00:33:43] They got 50 cows.
+[00:33:45] And we're going to give this thing a lot
+[00:33:46] of armor.
+[00:33:47] Okay, so it's got a lot it's it's got a
+[00:33:49] lot of armor. It's got a lot of power.
+[00:33:50] This is a big this is actually quite a
+[00:33:51] big plane. So you you see the size of
+[00:33:54] this thing, it's it's
+[00:33:55] looks like a bull.
+[00:33:57] Um
+[00:33:57] I think almost four times the power of
+[00:33:59] the Zero.
+[00:34:01] Right.
+[00:34:02] So
+[00:34:04] big big ass big ass engine
+[00:34:06] and and just really robust to fire,
+[00:34:09] especially to uh lower caliber bullets.
+[00:34:12] So if it's being shot with like .303s or
+[00:34:15] something like that, the lower caliber
+[00:34:16] bullets, it it it it's like basically
+[00:34:19] like taking a shower. It doesn't care,
+[00:34:21] you know?
+[00:34:22] Did they have self-sealing tanks and all
+[00:34:24] that kind of stuff, too? The Japanese
+[00:34:25] were not big on Yeah, okay. Totally. So
+[00:34:27] so you got you got fuel tanks that seal
+[00:34:29] themselves. This it was it was very
+[00:34:31] carefully armored.
+[00:34:33] So it had like heavy duty armor in in
+[00:34:35] the right places. And so what would
+[00:34:37] happen is a Zero would get on the back
+[00:34:39] on the tail of a
+[00:34:41] of a Hellcat and would just be peppering
+[00:34:43] the thing like guns blazing,
+[00:34:46] pressing the fire button going
+[00:34:48] and that's the thing is just not coming
+[00:34:50] down, okay?
+[00:34:52] So it didn't matter if the Hellcat was
+[00:34:53] not that maneuverable.
+[00:34:56] So
+[00:34:56] You know what though, you're mak- you're
+[00:34:57] making me think of a whole different
+[00:34:59] class of planes though, and I hope you
+[00:35:01] don't mind me shifting here cuz now
+[00:35:02] you've got me thinking about um for you
+[00:35:05] know, one of the planes I was always
+[00:35:06] kind of interested in was was something
+[00:35:07] like, you know, Henschel was making a
+[00:35:09] ground attack aircraft. They had a 126
+[00:35:12] and a 129, and they were a combination
+[00:35:14] of super heavily armored planes, really
+[00:35:17] not very maneuverable, not very fast cuz
+[00:35:18] they were they were flying tanks, and
+[00:35:21] then a gun that was more suited to a
+[00:35:22] tank, too, and trying to figure out, you
+[00:35:24] know, how you handle a massive recoil of
+[00:35:26] a heavy gun in an aircraft and whatnot.
+[00:35:29] Um any thoughts or any insights into
+[00:35:31] into something like the the ground
+[00:35:33] attack aircraft? Cuz these days we would
+[00:35:34] look at aircraft as being uh and and all
+[00:35:37] during the Cold War, the idea of how the
+[00:35:38] US was going to compensate for this
+[00:35:40] massive armored thrust through the Fulda
+[00:35:42] Gap in Central Europe or something was
+[00:35:44] going to be with aircraft that just took
+[00:35:46] out all these tanks, which of course is
+[00:35:48] really a Second World War development.
+[00:35:50] Any thoughts on the idea of ground
+[00:35:52] attack aircraft?
+[00:35:54] Yeah. Um
+[00:35:55] So if you it's it's like it's it's the
+[00:35:58] thing of these things is very much rock,
+[00:35:59] paper, scissors. And you know, it's it's
+[00:36:02] hard to be a master of all trades. So
+[00:36:04] so you really want to have like the
+[00:36:06] right aircraft for the right use. And
+[00:36:08] ground ground attack aircraft really
+[00:36:10] need to be heavily armored on the bottom
+[00:36:12] and around the engine cowling because
+[00:36:14] that's where the bullets are coming
+[00:36:15] from.
+[00:36:16] And and you want to be probably pretty
+[00:36:18] pretty fast. Uh you don't want to be
+[00:36:19] staying down on the deck for too long.
+[00:36:21] Uh
+[00:36:22] if if you're doing strafing runs.
+[00:36:24] But like for example, the the P-51 was
+[00:36:28] an amazing high-altitude fighter, but it
+[00:36:30] was not so great as a ground attack
+[00:36:32] aircraft because it was vulnerable from
+[00:36:34] the bottom.
+[00:36:35] The the armor on the bottom was was much
+[00:36:36] more limited, and it had the oil cooler
+[00:36:39] uh
+[00:36:40] that you know, that oil cooler I was
+[00:36:41] talking about that provided some thrust
+[00:36:44] using the Meredith effect uh was
+[00:36:46] vulnerable from the bottom. So it it was
+[00:36:49] it was the the
+[00:36:50] Mustang was geared towards, you know,
+[00:36:53] your combat with with fighter aircraft,
+[00:36:56] and so it was was quite good in that
+[00:36:57] respect, very good in that respect. But
+[00:37:00] they had a lot of planes down because of
+[00:37:02] ground attacks.
+[00:37:03] Where they're basically at some point,
+[00:37:05] there just weren't any more fighters to
+[00:37:07] deal with, so
+[00:37:08] the Mustangs would go down and and do
+[00:37:10] ground attack.
+[00:37:12] But but they they got shot down quite a
+[00:37:13] bit in ground attack because they were
+[00:37:15] just not they weren't well suited for
+[00:37:16] that.
+[00:37:17] You you want something that's got a lot
+[00:37:18] like I said, a lot of heavy armor from
+[00:37:19] the direction the bullets are coming,
+[00:37:20] which is the bottom.
+[00:37:22] And and not not you don't want to have
+[00:37:23] too much vulnerable stuff there. If
+[00:37:25] you're if you're doing strafing runs.
+[00:37:26] And if you're doing bombing, that's a
+[00:37:27] that's a whole different subject.
+[00:37:29] So You know, I'm trying to think about
+[00:37:30] the most the most impactful fighter war
+[00:37:34] of all time, right? Cuz you know, like
+[00:37:35] you said, bombing's a different thing.
+[00:37:37] But to me, I'm thinking of like when
+[00:37:38] fighters and fighter development, not
+[00:37:41] just in terms of the development of the
+[00:37:43] planes themselves, but the tactics, the
+[00:37:44] strategies, and all this stuff. Can you
+[00:37:46] think I think the Battle of Britain's
+[00:37:48] got to be the most impactful, mostly
+[00:37:50] concerned with a fighter technology sort
+[00:37:53] of thing, and you have Spitfires and
+[00:37:55] Hurricanes on one side, you have
+[00:37:57] Focke-Wulfs and Messerschmitts on the
+[00:37:59] other. Any thoughts on the Battle of
+[00:38:00] Britain and the whole ebb and flow of
+[00:38:03] the technological rock, paper, scissors
+[00:38:05] game going on in that one?
+[00:38:07] Uh sure. Uh so
+[00:38:10] yeah, the Britain mostly had like
+[00:38:12] Spitfires and Hurricanes, and and now
+[00:38:15] the Spitfires and Hurricanes also went
+[00:38:17] through very rapid evolution. So if you
+[00:38:18] say Spitfire, you say which one?
+[00:38:20] Literally you can take apart Right,
+[00:38:21] which vary A, B, C, D, they all sound
+[00:38:23] like that, right?
+[00:38:24] rapidly iterating versions of the
+[00:38:27] Spitfire and Hurricane so freaking fast
+[00:38:29] that you you have to like say which
+[00:38:31] month or maybe even which which week and
+[00:38:34] which month uh was that fighter built?
+[00:38:36] So that that you know,
+[00:38:37] Britain did actually an incredible job
+[00:38:39] of rapidly evolving fighter and
+[00:38:41] Hurricane. And and actually Germany did
+[00:38:44] a great job, too. Uh
+[00:38:46] the the Focke-Wulf Focke-Wulf and
+[00:38:48] Messerschmitt were were amazing.
+[00:38:50] Uh
+[00:38:50] but but they were they were really
+[00:38:51] operating at a significant disadvantage
+[00:38:54] uh from a range standpoint. So
+[00:38:58] uh you know, if you're doing these sort
+[00:39:00] of like these
+[00:39:01] maneuvers all over the place where at
+[00:39:03] you know, just cranking full throttle,
+[00:39:05] climbing and diving, you using a a lot
+[00:39:07] of fuel when you do that.
+[00:39:08] So they're climbing constantly. And
+[00:39:11] the German fighters were coming over
+[00:39:13] from
+[00:39:14] uh airfields from in in France uh or
+[00:39:16] Netherlands or basically not close.
+[00:39:20] And so they they would
+[00:39:22] they would reach uh London or something
+[00:39:24] like that and only have
+[00:39:26] maybe 20 minutes of of combat time.
+[00:39:29] Whereas the
+[00:39:30] British planes might have an hour of
+[00:39:32] combat time and very quick to refuel and
+[00:39:34] be back up in the air.
+[00:39:36] So you can
+[00:39:36] And if you get shot down, you're shot
+[00:39:38] down over friendly territory. Yeah,
+[00:39:40] you're shot down over friendly
+[00:39:41] territory.
+[00:39:42] But but you can think of like the if you
+[00:39:45] have X number of fighters
+[00:39:46] but then like here's an additional
+[00:39:48] nuance is
+[00:39:49] what percentage of the time can they be
+[00:39:51] useful? And
+[00:39:53] so even if you if you if you're
+[00:39:55] attacking from far away
+[00:39:57] and you have 20 minutes for argument's
+[00:39:59] sake, 20 minutes of of
+[00:40:01] flight time of of a fighter time of
+[00:40:04] combat time.
+[00:40:05] And you're the opposition has an hour of
+[00:40:07] combat time.
+[00:40:09] That's that's it's almost like having
+[00:40:11] three times as many planes.
+[00:40:12] Oh, interesting way to look at it. Yeah.
+[00:40:16] So
+[00:40:17] and very easy for them to bring up
+[00:40:18] reinforcements dynamically. So it's sort
+[00:40:21] of like oh uh
+[00:40:22] let's let's cuz you know if if if if
+[00:40:25] being outnumbered is a a
+[00:40:27] not a great way to win. Like if you you
+[00:40:29] know if it's like six planes against you
+[00:40:32] know 20 planes, the six planes are in
+[00:40:35] trouble. They should run away.
+[00:40:38] That would be very difficult. Just run
+[00:40:40] away.
+[00:40:41] So
+[00:40:42] it's obviously pretty easy to see that
+[00:40:44] okay these how many planes are coming
+[00:40:45] where are they headed and you have radar
+[00:40:47] systems and everything and say okay
+[00:40:49] let's let's have a let's concentrate the
+[00:40:51] defense fighters in this you know right
+[00:40:54] right here and just very very quickly
+[00:40:56] fly up reinforcements. So
+[00:41:00] I think the the
+[00:41:02] obviously Battle of Britain was was was
+[00:41:05] was not a smart move
+[00:41:07] in in any way
+[00:41:09] on for
+[00:41:11] you know for Germany to do that. That
+[00:41:11] was it's just
+[00:41:14] it's just it was not going to work. So
+[00:41:16] German strategic decision-making leaves
+[00:41:18] something to be desired. Yes, for sure.
+[00:41:20] Yes.
+[00:41:21] I think that I think I think their
+[00:41:23] tactical abilities and their abilities
+[00:41:25] in in scientific design and whatever
+[00:41:28] sort of shielded them from the the the
+[00:41:31] mistakes that they made strategically to
+[00:41:32] some degree. Speaking of that, I want to
+[00:41:35] ask you cuz one of the my favorite
+[00:41:36] sections in any book on the development
+[00:41:38] of military aircraft is the interwar
+[00:41:41] years because you get a chance to see a
+[00:41:43] whole bunch of designs that eventually
+[00:41:46] turned into like dead end designs and
+[00:41:48] I'm fascinated by some of these
+[00:41:50] experiments. You see it in the Soviet
+[00:41:52] Union a ton but even we were just
+[00:41:54] mentioning the Battle of Britain where
+[00:41:56] they unleashed the the supposedly you
+[00:41:58] know game-changing Messerschmitt 110s
+[00:42:01] and it proves to be those those for
+[00:42:03] those who don't know this is a larger
+[00:42:04] fighter and the idea was it was going to
+[00:42:06] use use firepower and size but it turned
+[00:42:09] out to just be total meat to the smaller
+[00:42:12] more nimble fighters that could get on
+[00:42:13] their tail. Um do you have any favorite
+[00:42:15] of these dead end designs or something
+[00:42:17] that you wish you know that had been
+[00:42:19] stuck to a little bit longer and would
+[00:42:20] have maybe in your mind made more of a
+[00:42:22] difference? Um
+[00:42:26] Maybe there is no dead end designs you
+[00:42:28] like. Let's leave the Let's leave the
+[00:42:30] door open to that possibility.
+[00:42:33] Well
+[00:42:34] I mean there's there's an argument that
+[00:42:36] on the German side they should have
+[00:42:38] perhaps focused on the Focke-Wulf 190.
+[00:42:41] It was a great plane. Yeah, great
+[00:42:43] Focke-Wulf 190 was really great plane
+[00:42:46] and just double down on that and and
+[00:42:47] made that primary plane. That was that
+[00:42:49] was an excellent plane.
+[00:42:50] They built a ton more
+[00:42:52] of the Messerschmitt 109 versions though
+[00:42:54] than that. Ton more.
+[00:42:56] Yeah, it didn't make total sense cuz the
+[00:42:58] 190 was in my
+[00:43:01] in my opinion a the better way to go.
+[00:43:04] But I mean apart from the fact that the
+[00:43:06] Battle of Britain was just a not not a
+[00:43:07] wise strategic decision uh
+[00:43:11] if you are going to do that you should
+[00:43:13] you definitely
+[00:43:14] have long long range fighters that have
+[00:43:16] good dwell dwell capability and with
+[00:43:18] drop tanks and that kind of thing. But
+[00:43:20] it was just it was just a pointless
+[00:43:22] I don't
+[00:43:24] it's just like such a such an odd thing
+[00:43:26] to do cuz it strategically Battle of
+[00:43:28] Britain just I think had had uh
+[00:43:31] you know not quite 0% chance of success
+[00:43:33] but pretty close.
+[00:43:34] That's why strategy trumps tactics for
+[00:43:36] sure.
+[00:43:36] Yeah. Um so so I have a Star Trek
+[00:43:38] episode in mind that I want to involve
+[00:43:40] you in. Um if I take you back to one of
+[00:43:43] these engineering rooms whether it's in
+[00:43:45] London or in Washington it wouldn't be
+[00:43:47] in Washington probably be in Southern
+[00:43:48] California someplace like that. But take
+[00:43:50] you to one of the Allied aircraft
+[00:43:52] engineering rooms and just say okay Elon
+[00:43:54] you're working with whatever those
+[00:43:56] people have to work with. What's the
+[00:43:58] what's the easiest quickest thing that
+[00:44:00] you can suggest to them that they can do
+[00:44:02] that will make a difference? In other
+[00:44:04] words you can't do anything too
+[00:44:05] sophisticated. They can't get from here
+[00:44:06] to there but you could say something
+[00:44:08] like you know you guys are missing
+[00:44:09] something really obvious here that
+[00:44:10] you'll discover five years from now. I
+[00:44:11] mean is there anything right away that
+[00:44:13] you look and you just go if they'd only
+[00:44:14] done this sooner or something like that?
+[00:44:16] Uh well nuclear bombs.
+[00:44:19] Well well but but but a perfect but
+[00:44:21] that's a perfect example of what
+[00:44:22] wouldn't work in this question because
+[00:44:23] nobody would have known but there might
+[00:44:25] have been some I didn't know if there
+[00:44:26] was some little thing that they weren't
+[00:44:27] doing with aircraft that they would do
+[00:44:29] later that would have made a huge
+[00:44:30] difference bang for the buck wise. But
+[00:44:32] now you get into nuclear weapons so
+[00:44:34] let's talk a little about that cuz I
+[00:44:35] Well we could we could try to we could
+[00:44:37] try to answer the
+[00:44:38] well I appreciate you Was there
+[00:44:40] something simple? Yeah, something they
+[00:44:41] were missing? You know I never
+[00:44:44] understood why they didn't replace the
+[00:44:46] Sherman. It seemed like there was time
+[00:44:47] to iterate on that and come up with
+[00:44:50] something better.
+[00:44:52] Well they did with the Pershing but it
+[00:44:53] was just really really like last couple
+[00:44:55] of months of the war.
+[00:44:56] I don't know it I never I never delved
+[00:44:59] into this but it seemed like the the
+[00:45:00] Shermans just had a terrible time and
+[00:45:03] and iterating on that faster where you
+[00:45:05] maybe they had all the energy going to
+[00:45:07] the fighters. I don't I don't know it
+[00:45:08] just always seemed odd to me.
+[00:45:11] Well we were talking about this earlier.
+[00:45:12] It was a little bit about the is it
+[00:45:14] worth retooling the production lines for
+[00:45:16] a new a new version or would it be just
+[00:45:19] better to just keep cranking out the old
+[00:45:21] versions? And I was I remember somebody
+[00:45:22] telling me he says yes yes yes yes yes
+[00:45:24] you'd rather have a Tiger II tank for
+[00:45:26] sure but if you've got 25 times as many
+[00:45:29] Shermans wouldn't you rather just have a
+[00:45:31] tank sometimes versus no tank? And so I
+[00:45:35] absolutely I mean as you know as a guy
+[00:45:36] who wargamed with the Americans forever
+[00:45:39] nothing makes you angrier than to sit
+[00:45:40] there with a bunch of Sherman tanks and
+[00:45:42] be picked off by by German gunnery
+[00:45:44] before you can even see them.
+[00:45:47] But what but what one guy always said to
+[00:45:48] me he goes well but you got to give
+[00:45:50] yourself then 20 tanks for every one of
+[00:45:52] theirs if you want to replicate what was
+[00:45:54] going on in the war and then you've got
+[00:45:55] to have what Elon was talking about
+[00:45:56] earlier the ground attack aircraft and
+[00:45:58] everything else. But you know what's
+[00:45:59] crazy is that we ended up exporting
+[00:46:02] those Sherman tanks as you both probably
+[00:46:04] know well for many years they upgraded
+[00:46:07] them for example in Israel with a with a
+[00:46:09] better gun and these things were still
+[00:46:11] being used in the early in the wars in
+[00:46:13] Israel. I don't know how many they were
+[00:46:15] called super Shermans. I don't know how
+[00:46:16] many they were using in the 60 in the
+[00:46:18] late 60s but they these things were
+[00:46:20] still rolling around you know come off
+[00:46:22] the assembly lines in 43 and they're
+[00:46:24] still using them 20 years later in some
+[00:46:26] theaters.
+[00:46:26] Okay, that's
+[00:46:27] I I wouldn't say that's my
+[00:46:28] recommendation. I you have to be I think
+[00:46:31] pretty desperate to be using a Sherman
+[00:46:33] 20 years later but yeah I I mean
+[00:46:36] if if I if I was strategically against
+[00:46:39] um
+[00:46:39] you know a Tiger tank or something like
+[00:46:41] that in in in World War and I had
+[00:46:43] Shermans my strategy would be to just
+[00:46:46] run around in a circle drive around in a
+[00:46:47] circle until the Sherman until until the
+[00:46:50] Tiger breaks down or runs out of fuel.
+[00:46:53] Usually they just and usually Elon they
+[00:46:55] just parked them in some wonderful zone
+[00:46:58] and let them but you know what that's
+[00:46:59] what as as my old friend used to say
+[00:47:00] that's what artillery's for. Yeah, no
+[00:47:04] they're big I mean it was an incredible
+[00:47:06] tank Tiger but it used a lot of
+[00:47:09] a lot of fuel and the reliability was
+[00:47:11] not great. It was heavy it was heavy
+[00:47:13] heavy heavy.
+[00:47:14] heavy and reliability was not great.
+[00:47:16] that that that does show the yeah the
+[00:47:18] complexity and the the like the lack of
+[00:47:20] parts and interchangeability and the
+[00:47:22] like they had so many different flavors
+[00:47:24] that they couldn't service them and keep
+[00:47:26] them running. So clearly the the single
+[00:47:29] lots of the single tank has lots of
+[00:47:30] advantages. Yeah, I would just honestly
+[00:47:33] that this one move just like
+[00:47:35] just retreat and
+[00:47:37] eventually that the Tiger's going to run
+[00:47:39] out of fuel or break down
+[00:47:41] and then it's a sitting duck. I had a
+[00:47:42] professor who said you can compare these
+[00:47:44] things to the car manufacturers for the
+[00:47:46] various countries involved and they said
+[00:47:49] that the the Germans built fantastic
+[00:47:51] tanks and a lot of them were the same
+[00:47:52] companies that build fantastic German
+[00:47:54] cars but they're really precision
+[00:47:56] instruments and they require a lot of
+[00:47:59] maintenance and you got to take care of
+[00:48:00] them and
+[00:48:01] and you know the the combat situations
+[00:48:03] just don't allow for that. So while
+[00:48:04] you'd much rather have a German tank
+[00:48:05] than a Russian tank until they break
+[00:48:07] down and then you got to have the right
+[00:48:09] spare parts and the right the
+[00:48:10] technicians and then you'd rather have
+[00:48:12] something that's just more of a tin can
+[00:48:13] that works on a couple of strings you
+[00:48:15] know.
+[00:48:15] Well I think you could have like
+[00:48:16] arguably the best of both worlds is
+[00:48:19] most of the best of both worlds is is
+[00:48:20] possible.
+[00:48:22] But it it it certainly is not a good
+[00:48:23] idea to have you know 27 different or
+[00:48:26] for argument's sake like different
+[00:48:28] designs of a tank especially if if
+[00:48:31] you're on the on the Eastern Front and a
+[00:48:32] zillion miles from where the spare parts
+[00:48:34] are.
+[00:48:35] This is this is really unwise um cuz you
+[00:48:38] know
+[00:48:39] you can get stuck because of one you
+[00:48:41] know
+[00:48:42] you blew a little valve in the engine
+[00:48:44] and now okay now you're stuck
+[00:48:46] 5,000 miles from where the spare part
+[00:48:49] is.
+[00:48:50] Like wait a second.
+[00:48:50] And the Allies are bombing your ball
+[00:48:52] bearing plants and all that sort of
+[00:48:54] stuff.
+[00:48:54] Absolutely.
+[00:48:56] So
+[00:48:57] you you definitely want like field
+[00:48:59] replaceable field repairable situations.
+[00:49:02] Uh but it it isn't you know in terms of
+[00:49:04] like excellence in operation it it is
+[00:49:08] if you look at World War II fighter
+[00:49:11] races on on Wikipedia and see how long
+[00:49:14] you have to scroll before you find
+[00:49:16] someone that isn't German.
+[00:49:18] Have you Have you done that? Yes but I
+[00:49:20] would argue that there's other things
+[00:49:22] going into it. So tell me what you think
+[00:49:24] is going into that number.
+[00:49:26] Um okay. What accounts for that in your
+[00:49:29] mind?
+[00:49:30] Um well okay so part part of it is that
+[00:49:33] the
+[00:49:34] in the beginning the the Russian planes
+[00:49:37] were were not very good. And so, uh Or
+[00:49:40] the Polish planes, or the French planes,
+[00:49:43] or you know, keep going, right? The
+[00:49:44] Czech planes.
+[00:49:46] Yeah. So,
+[00:49:47] I mean, there's a there's a few cases
+[00:49:49] where, um,
+[00:49:50] uh, German pilots were fighting Battle
+[00:49:53] of Britain,
+[00:49:54] um, and would have like, you know, um,
+[00:49:57] like one of them actually had had zero
+[00:49:59] zero kills in the Battle of Britain, and
+[00:50:01] and he was one of the top three or top
+[00:50:03] five German aces, uh, and had 200
+[00:50:06] some some crazy number of kills, um, uh,
+[00:50:09] outside of Battle Britain, mostly on the
+[00:50:10] Eastern Front.
+[00:50:12] Um,
+[00:50:13] so,
+[00:50:14] you know, I think yeah, it it's the the
+[00:50:16] early planes, uh,
+[00:50:18] uh, that Russia had were or Soviet had
+[00:50:20] were were not very good. And so, you
+[00:50:22] could really take them out,
+[00:50:24] um, very easily. Uh, as as the war
+[00:50:26] progressed, the Soviet planes obviously
+[00:50:28] did get much much better. And and, uh,
+[00:50:30] and and the Soviets had air superiority
+[00:50:33] at the end.
+[00:50:34] I I'll tell you that one of the theories
+[00:50:36] I like, and I can't prove it, and I'm
+[00:50:37] not smart enough to to delve into it too
+[00:50:39] deeply, but I love the concept. It's
+[00:50:42] called it's the the idea of the
+[00:50:43] non-firer, and the idea that there are
+[00:50:46] most most of the people in war don't
+[00:50:47] even fire their weapons, and the the
+[00:50:49] damage is done inordinately by the
+[00:50:51] people who do. And the specific examples
+[00:50:54] that the author that I was reading gave,
+[00:50:56] where he said it was most pronounced,
+[00:50:58] was in the air war among fighter pilots.
+[00:51:00] And he was talking about aces. And he
+[00:51:02] said that the aces he said most people
+[00:51:05] would get up in the air and fly around
+[00:51:06] and never shoot at anybody. But he
+[00:51:08] almost just he almost described the
+[00:51:10] people who were aces as as true killers,
+[00:51:13] and they went out there and caused the
+[00:51:15] majority of the damage on both sides.
+[00:51:17] Um, does that does that ring I was
+[00:51:19] trying to figure out cuz, you know,
+[00:51:20] we're talking so much about engineering
+[00:51:22] and designs and those kinds of things,
+[00:51:23] which seems to take out the human
+[00:51:25] element. I grew up next door to a
+[00:51:27] fighter pilot, and and he design he was
+[00:51:30] trying to design an aircraft anyway his
+[00:51:32] whole life in the 1970s after he retired
+[00:51:34] uh, from Lockheed. But he would talk to
+[00:51:36] me so much about pilot pilot pilot skill
+[00:51:39] skill skill training training training.
+[00:51:41] How how does one I mean, would you
+[00:51:43] rather be the better pilot in the worst
+[00:51:45] plane or the worst pilot in the better
+[00:51:46] plane?
+[00:51:47] Um, I mean, to be totally frank, the I
+[00:51:49] would say the worst pilot in the better
+[00:51:50] plane.
+[00:51:51] But
+[00:51:51] cuz bear in mind also worst plane means
+[00:51:53] this thing might fall out of the sky for
+[00:51:55] quick reason.
+[00:51:55] Yes, how much worse? How much worse?
+[00:51:57] Yes.
+[00:51:58] Biplane versus, uh,
+[00:52:01] versus jet fighter, yes.
+[00:52:02] Especially in the Pacific. I mean,
+[00:52:05] you're I mean, the Pacific is very big,
+[00:52:07] and you're flying long-range mission in
+[00:52:08] the Pacific, and you your plane is
+[00:52:10] actually in trouble,
+[00:52:12] so, I mean, they're probably never going
+[00:52:13] to see you again. So,
+[00:52:15] No, this was your P-38 extra engine
+[00:52:17] argument right there. I was in the
+[00:52:19] Pacific, I'm definitely pleased with the
+[00:52:20] P-38. That would be my favorite favorite
+[00:52:22] by far,
+[00:52:24] um, just cuz it least does the
+[00:52:25] probability of coming back alive from
+[00:52:27] engine trouble is super is is way
+[00:52:28] better. Um,
+[00:52:30] uh, the P-38 I I I would have, you know,
+[00:52:32] I I think, um,
+[00:52:35] you know, obviously this is like some
+[00:52:36] serious arm chair arm chair
+[00:52:37] quarterbacking here, but the
+[00:52:39] I would have taken a P-38 and I and
+[00:52:42] actually
+[00:52:43] double down on that one, like I said,
+[00:52:45] given it the turbo supercharged Merlins,
+[00:52:48] but double the power that plane, double
+[00:52:50] it. And improve the fuel the the fuel
+[00:52:52] efficiency and allow it to fly super
+[00:52:54] high. There was certain improvements
+[00:52:55] needed to the airframe as well, to make
+[00:52:57] it more maneuverable. It had some some
+[00:52:59] issues,
+[00:53:00] um, I think in in dives and rolls. But
+[00:53:02] you it's easy to you to upgrade the
+[00:53:05] the, uh, control surfaces. Not not that
+[00:53:07] hard.
+[00:53:08] And and Didn't they do some of that with
+[00:53:10] the P-61, though? I mean, didn't they do
+[00:53:12] some of that?
+[00:53:14] Didn't they do some of that with the the
+[00:53:16] P-61 Black Widow? I mean, wasn't that
+[00:53:18] sort of a a a super P-38? Yeah, I think
+[00:53:22] that didn't get There was late.
+[00:53:24] But yeah, that's that's the kind of that
+[00:53:26] that that
+[00:53:27] basically just, uh,
+[00:53:29] major uprev of the the P-38, I think,
+[00:53:31] would have been the the
+[00:53:33] Yeah, the Black Widow is basically
+[00:53:35] basically like that.
+[00:53:36] I uh yeah.
+[00:53:37] it was wasn't it I think it might have
+[00:53:39] had a radial air-cooled, so kind of a
+[00:53:42] different
+[00:53:44] kind of a different thing, but yeah, the
+[00:53:45] double boom with the double engine. And
+[00:53:47] I don't know anything about the
+[00:53:48] supercharger or any of its power or any
+[00:53:50] of those kind of things. I know they
+[00:53:51] used it for a night fighter, I think.
+[00:53:53] Yeah.
+[00:53:53] I think there's another element here
+[00:53:54] which might be interesting, which is
+[00:53:57] uh, it's the pilots obviously have a lot
+[00:53:59] of respect for the pilots. My great
+[00:54:01] Uncle Bill Overstreet was a with the
+[00:54:03] 357th Fighter Group flying Mustangs and
+[00:54:05] had a lot of great stories. But it's
+[00:54:08] also interesting to look at the
+[00:54:09] engineers and like the you know, the
+[00:54:11] Mustang was designed by a a German
+[00:54:13] immigrant to the US. Imagine if he'd
+[00:54:15] been over there working on German
+[00:54:17] designs. And so, you like the P-38 was
+[00:54:21] I think Kelly Johnson had a role in it
+[00:54:23] who went on to do the SR, you know, But
+[00:54:25] the Skunk Works. Skunk Works.
+[00:54:27] So, it's also interesting to look at the
+[00:54:29] folks driving the engineering design and
+[00:54:30] the the in the rate of innovation, like
+[00:54:32] you were talking about. And like the the
+[00:54:34] higher the higher innovation rates, are
+[00:54:36] those driven by a few key folks? To I I
+[00:54:39] don't know, but it's an interesting
+[00:54:40] thing to
+[00:54:41] look at.
+[00:54:43] You know what? But Billy, you bring up
+[00:54:44] something now and and maybe it's the
+[00:54:46] obvious jumping off point from what we
+[00:54:47] were just talking about, where you and I
+[00:54:49] are admiring the skill of the pilots so
+[00:54:51] much. I feel like we're entering the era
+[00:54:53] of the pilotless plane. I mean, I was I
+[00:54:56] was doing some heavy-duty research
+[00:54:57] trying to understand the impact of the
+[00:54:59] drone warfare happening over the
+[00:55:01] Nagorno-Karabakh area of the
+[00:55:03] Armenian-Azerbaijani
+[00:55:05] conflict that happened recently, and it
+[00:55:07] seems it seems the logical next step.
+[00:55:09] And you know, Elon, you and I have
+[00:55:10] talked about how the First World War was
+[00:55:12] so so particularly deadly because you
+[00:55:14] had all those years of development, but
+[00:55:16] without practical testing to see how
+[00:55:18] major powers' new equipment would all
+[00:55:20] work. And then you you know, you want to
+[00:55:21] at least them on each other. I feel like
+[00:55:23] the drones over Armenia are the same
+[00:55:25] kind of thing, where we haven't had a
+[00:55:27] major war between major powers where
+[00:55:29] both sides are using cutting-edge drone
+[00:55:31] technology. And then we get into that
+[00:55:32] dynamic we've talked about, right? The
+[00:55:34] continually upgrading, you know, the
+[00:55:36] variant G, variant H, variant um, what
+[00:55:39] do you think about the future of the
+[00:55:40] whole drone warfare um, when it comes to
+[00:55:43] and maybe not just aircraft, but I mean,
+[00:55:45] one could make a case that they're
+[00:55:46] working on it for armored vehicles on
+[00:55:48] land, too. And ships.
+[00:55:50] Yeah, I mean, the
+[00:55:51] I mean, it's interesting future,
+[00:55:52] um,
+[00:55:53] there's no question like if if you
+[00:55:55] wanted to have a more effective
+[00:55:58] fighter, bomber, tank, whatever the case
+[00:56:00] may be,
+[00:56:01] the best thing to do is take the pilot
+[00:56:02] out of it at this point. Um,
+[00:56:05] We're already there, you think?
+[00:56:08] Yeah, um,
+[00:56:10] You'd you'd rather have a computer doing
+[00:56:12] it than a human being in there.
+[00:56:14] At this point already. So, Bobby
+[00:56:15] Fischer's losing to the computer already
+[00:56:18] in the chess game. We're losing, you
+[00:56:20] know, you Okay, that's it. But see, to
+[00:56:21] me right there, that's fascinating. Uh,
+[00:56:23] yeah, I mean, it's not like I just want
+[00:56:24] to separate this out. It's not like I
+[00:56:26] want the computers to drones to take
+[00:56:28] over. But if you say like,
+[00:56:29] if if you have a well-designed
+[00:56:32] unmanned fighter or something like that,
+[00:56:34] and uh,
+[00:56:36] with with you know,
+[00:56:38] basic AI, we're talking primitive AI,
+[00:56:40] it's it's really going to crush the best
+[00:56:42] human. It can go through super high-G
+[00:56:44] turns. It can do things a human can't
+[00:56:46] do,
+[00:56:47] um, and not black out, you know, could
+[00:56:48] do a 10-G like whatever the fuselage can
+[00:56:50] handle, it can handle.
+[00:56:52] And it would it has simultaneous
+[00:56:54] awareness and processing of all the
+[00:56:55] sensors.
+[00:56:57] You know, like a guided missile is in
+[00:56:58] some ways like like that, you know, what
+[00:57:00] what is a guided missile sort of the
+[00:57:01] computer it's computer-controlled,
+[00:57:04] basically come a fuzzy plane.
+[00:57:06] So,
+[00:57:07] You're saying if you take the meat
+[00:57:08] computer out of the cockpit, the
+[00:57:10] performance of the mechanical systems
+[00:57:12] left over are so superior.
+[00:57:14] Yeah. But so much
+[00:57:17] of the plane is oriented towards
+[00:57:20] keeping the pilot alive and allowing the
+[00:57:22] plane pilot to interact with the the
+[00:57:24] plane's computer systems. And modern
+[00:57:25] fighter jets, it's fly-by-wire, so it's
+[00:57:28] it's really you're you're just
+[00:57:30] telling the computer what to do.
+[00:57:32] But the that plane would get
+[00:57:33] dramatically lighter, cheaper, faster,
+[00:57:37] pretty much better in every way if it
+[00:57:39] did not have a pilot in it. I I I want
+[00:57:41] to emphasize I like flying planes, and I
+[00:57:43] I'm a I'm a pilot personally.
+[00:57:46] So, this is not like,
+[00:57:47] you know, it's not some anti-pilot
+[00:57:48] thing. It's just that This isn't the M-5
+[00:57:51] computer on Star Trek, and you're you're
+[00:57:53] replacing Captain Kirk and everything.
+[00:57:56] No, I mean, there's no question you want
+[00:57:57] to have these you you want to have like
+[00:57:59] the, you know,
+[00:58:01] fire control, you know, so-called kill
+[00:58:03] decisions still require human, I think.
+[00:58:06] You know, we don't want we don't want
+[00:58:07] computers to just we don't want
+[00:58:08] Terminator here, you know.
+[00:58:10] So,
+[00:58:11] but but I think the reality is like if
+[00:58:13] you if you've got
+[00:58:15] a tank without humans or fighter without
+[00:58:17] humans,
+[00:58:19] it's going to win
+[00:58:20] cuz it's going to have
+[00:58:22] it doesn't have to go all the trouble of
+[00:58:24] trying to keep the the humans, who are
+[00:58:25] quite delicate and and and, uh, easily
+[00:58:28] killed, alive.
+[00:58:30] It's very difficult to do that. Um,
+[00:58:32] yeah.
+[00:58:34] I'm curious what you might think, you
+[00:58:36] know, you and I have talked about this
+[00:58:37] also, the idea of, um, of of people
+[00:58:40] trying to deal with technology or
+[00:58:41] integrate or come up with systems and
+[00:58:43] approaches for technology in
+[00:58:45] circumstances where there's no way to
+[00:58:47] train for it before the circumstance
+[00:58:49] breaks out. So, uh, I had a conversation
+[00:58:51] with a guy who's a First World War
+[00:58:52] historian, and he's a big fan of General
+[00:58:55] Douglas Haig, who gets called, uh, a
+[00:58:57] butcher by some people. But the but the
+[00:59:00] argument for the anti-butcher crowd is
+[00:59:02] that he was in a situation where there's
+[00:59:05] there he's he's in the learning curve,
+[00:59:06] right? He's a cavalry commander from the
+[00:59:08] late 19th century trying to figure out
+[00:59:10] how to integrate aircraft with armored
+[00:59:13] battleships with tanks on the field and
+[00:59:15] all these kinds of things that are that
+[00:59:16] are far beyond the world he grew up in.
+[00:59:19] And this goes back to what we were
+[00:59:20] talking about about how quickly the pace
+[00:59:22] of change began to speed up. How do you
+[00:59:24] think the generals and and by the way,
+[00:59:26] they're they're a very interesting
+[00:59:27] group, our modern-day generals in terms
+[00:59:29] of continual learning and all that sort
+[00:59:31] of stuff. How do you think they're going
+[00:59:32] to do with all the new crap that's been
+[00:59:35] developed since the Second World War
+[00:59:37] when the last time major superpowers
+[00:59:39] faced off? How do you think they're
+[00:59:40] going to do integrating all these new
+[00:59:42] systems against another power that also
+[00:59:45] possesses all these new symptoms uh
+[00:59:47] systems?
+[00:59:49] When both sides have drones, when both
+[00:59:51] sides have computers, when both sides
+[00:59:53] have uh the Gulf War technology that we
+[00:59:56] were using. Yeah, so so the is
+[00:59:58] interesting thing that happening. You
+[01:00:00] know, so when when we I was like once we
+[01:00:02] developed nukes, like wars between
+[01:00:04] superpowers became a decision to destroy
+[01:00:06] humanity or not. Or destroy
+[01:00:08] civilization.
+[01:00:09] You'd get some pushback on that from
+[01:00:10] some military leaders, you would. No,
+[01:00:12] but I mean it's it's just like the
+[01:00:13] stakes are very high. Like you can't
+[01:00:15] just go around using nukes uh without
+[01:00:17] getting getting nuked yourself,
+[01:00:19] basically.
+[01:00:20] So so like in wars between super
+[01:00:22] superpowers, like serious wars are were
+[01:00:24] not going to happen because the it's it
+[01:00:26] would just be mutually assured
+[01:00:27] destruction.
+[01:00:29] Uh at least there was a very there's a
+[01:00:31] too much risk of of such a thing to
+[01:00:33] have a superpower war. However,
+[01:00:36] drones now move that completely in the
+[01:00:38] other direction. Now you can have a
+[01:00:39] drone war
+[01:00:41] where
+[01:00:42] very few people die or maybe no one dies
+[01:00:44] in in a drone war and whoever's drones
+[01:00:47] are successful,
+[01:00:48] they they won the battle.
+[01:00:50] And and this may actually reduce the
+[01:00:52] the risk of of a war.
+[01:00:55] Or or sorry, reduce reduce the risk of
+[01:00:57] reduce the penalty of a war and increase
+[01:00:59] the risk of having any war.
+[01:01:01] Cuz it it's it's you know, it's
+[01:01:04] it ends up being battle bots, you know,
+[01:01:06] and and so
+[01:01:08] that could be one of the things that
+[01:01:09] happens is that it's just it's it's it's
+[01:01:11] now it's now now the stakes are going
+[01:01:13] from super high with nukes to actually
+[01:01:17] not even having
+[01:01:19] human casualties
+[01:01:21] could result in potentially more wars
+[01:01:23] down the road.
+[01:01:24] But wars
+[01:01:26] Yeah, I do I think it opens up the door.
+[01:01:27] Yes.
+[01:01:29] So let me ask you then cuz something
+[01:01:30] happened this last couple of weeks uh in
+[01:01:32] space. You uh
+[01:01:34] um and it had and you could have to
+[01:01:36] correct me on this but had to do with a
+[01:01:38] uh the the the the Russians. I always
+[01:01:40] want to call them the Soviets. This is
+[01:01:41] how old I am now. Uh it's the it's the
+[01:01:43] Russians shooting I believe a missile
+[01:01:44] into space and blowing up something and
+[01:01:46] affecting satellites. And all I could
+[01:01:47] think about when I was reading it was
+[01:01:49] this is the this is going to be looked
+[01:01:51] back in the history books as the very
+[01:01:53] early stages of the first um I don't
+[01:01:56] even know what you would call it. Uh we
+[01:01:58] called it the the peaceful version of
+[01:02:00] the the space race. I don't know what
+[01:02:01] you call this but but I'd be interested
+[01:02:03] in your take on uh what this means and I
+[01:02:07] mean um and what a space war would look
+[01:02:09] like and if something like that is a
+[01:02:10] near future or long future thing. I
+[01:02:12] mean, can you give us a little insight
+[01:02:14] from come you're dealing with this every
+[01:02:15] day. What was your reaction to that um
+[01:02:17] that incident? Well, we're somewhat
+[01:02:19] surprised to see that happen. I think a
+[01:02:21] lot of people in Russia were surprised
+[01:02:22] to see it happen. But it sounds a bit it
+[01:02:24] was it was something that was
+[01:02:26] just on the military side and Russian
+[01:02:29] civil space wasn't even aware of it.
+[01:02:31] So
+[01:02:32] um I I I do you know, think that is uh
+[01:02:36] that was that was not not not great
+[01:02:39] for Russia to do that. Not great.
+[01:02:41] Not great.
+[01:02:44] Suboptimal.
+[01:02:45] Suboptimal.
+[01:02:46] Cuz there's now a bunch of debris that's
+[01:02:48] going to take a a while to deal with.
+[01:02:50] And some of that debris potentially puts
+[01:02:52] the space station in trouble which has
+[01:02:55] Russians on it. So
+[01:02:57] I think that's uh that was a regrettable
+[01:02:59] incident. But
+[01:03:01] you know,
+[01:03:02] it's clearly
+[01:03:03] you know, at least
+[01:03:05] uh Russia, China, and the US
+[01:03:08] have
+[01:03:09] demonstrated anti-satellite weapons.
+[01:03:12] The the US actually has extremely good
+[01:03:14] anti-satellite weapons. A demonstration
+[01:03:16] that was done
+[01:03:17] a few years ago actually was a a US the
+[01:03:20] US
+[01:03:22] deorbited a satellite and while the
+[01:03:24] satellite was deorbiting
+[01:03:27] as it's coming back into the atmosphere,
+[01:03:29] fired anti-satellite missile at the
+[01:03:31] satellite and and went and hit the fuel
+[01:03:33] tank of the satellite while it was
+[01:03:35] deorbiting.
+[01:03:36] You know, this is sort of like the you
+[01:03:38] know, Western equivalent of like
+[01:03:40] flipping the the silver dollar in the
+[01:03:41] air, taking out the six gun and going
+[01:03:43] bam, shooting the the dollar a hole
+[01:03:45] through the dollar.
+[01:03:47] So that was cool. Um but but that was
+[01:03:49] like the satellite was that was
+[01:03:50] deorbiting so it didn't it caused over a
+[01:03:52] debris.
+[01:03:53] Um
+[01:03:55] yeah, and this this is all public
+[01:03:56] information so
+[01:03:57] look it up on on the internet.
+[01:03:59] There's also direct directed energy
+[01:04:01] weapons which is basically lasers and
+[01:04:04] microwave lasers, masers.
+[01:04:06] Yeah. Um
+[01:04:09] so it basically
+[01:04:09] So is that the first thing that happens
+[01:04:11] Elon in the next war? Is the first thing
+[01:04:13] that the satellites get blinded and
+[01:04:14] knocked out? I mean, is that if if if
+[01:04:16] you're if you're war gaming the next
+[01:04:18] major superpower war and this goes back
+[01:04:20] to what you and I were saying earlier in
+[01:04:22] this conversation about how you how you
+[01:04:24] compensate for an opponent that's
+[01:04:26] technologically superior to you. I mean,
+[01:04:29] if if if we're the superior higher
+[01:04:31] ground satellite country and someone
+[01:04:34] else can knock out our satellites, isn't
+[01:04:35] that a great equalizer? Um is that the
+[01:04:37] first step in the next in World War III
+[01:04:39] is the knocking out of the satellites?
+[01:04:42] Man, true World War III I sure hope we
+[01:04:43] never have one of those.
+[01:04:45] Uh I'm a you know, I'm a pessimist on
+[01:04:47] human nature and I just think that I
+[01:04:48] think that that it's just What was the
+[01:04:50] old line that Bertrand Russell said,
+[01:04:52] right? Expecting a man to walk a
+[01:04:53] tightrope forever. I mean, uh the odds
+[01:04:56] seem against it to me.
+[01:04:57] I agree that
+[01:04:58] given enough time, the probability of
+[01:05:00] that there
+[01:05:02] probability of a third World War is is
+[01:05:03] high if you just give it enough time.
+[01:05:06] Cuz
+[01:05:07] yeah, it's just like the like how
+[01:05:10] how far could you walk on that tightrope
+[01:05:11] before falling off? Not forever.
+[01:05:14] No, but I think the logical thing would
+[01:05:16] be to push it, too. I think you'd have a
+[01:05:17] miscalculation where it's the old line
+[01:05:19] about where during the early phases of
+[01:05:21] the nuclear era where they were talking
+[01:05:23] about what if some country pushes pushes
+[01:05:25] pushes in little teeny chunks so that
+[01:05:28] it's never enough so that you'd want to
+[01:05:29] risk a nuclear exchange over but it's
+[01:05:32] enough to change the map. Um I mean, I
+[01:05:35] feel like something like that's a a
+[01:05:36] classic human first World War type
+[01:05:39] miscalculation
+[01:05:40] rather than people sitting down
+[01:05:42] calculating the odds of winning a third
+[01:05:44] World War. Does that make sense?
+[01:05:46] Yeah, I guess that's
+[01:05:48] that that is how these things tend to
+[01:05:49] happen. That's a very unsatisfying
+[01:05:51] answer to be right on that. I just want
+[01:05:53] you to know. It's very unsatisfying for
+[01:05:55] the pessimist view to work.
+[01:05:58] Yes, thank you. That's it. I hope I'm
+[01:05:59] wrong.
+[01:06:00] Exactly.
+[01:06:01] The
+[01:06:02] certainly one of the things that would
+[01:06:04] occur in
+[01:06:06] uh any kind of significant third World
+[01:06:08] War even
+[01:06:09] non-nuclear would be to uh take out the
+[01:06:12] space assets of the of the others.
+[01:06:16] And this can be done with either kinetic
+[01:06:18] weapons like a you know, missile of some
+[01:06:20] kind or an EMP.
+[01:06:23] An EMP's uh
+[01:06:25] man, uh you you can lob a nuke into the
+[01:06:28] uh
+[01:06:29] upper atmosphere or above the atmos
+[01:06:31] in in the space and basically
+[01:06:33] fire it and it actually would cause
+[01:06:36] no or no
+[01:06:38] it wouldn't it would not cause uh
+[01:06:41] anyone to die on the ground from the
+[01:06:42] from the explosion itself but it would
+[01:06:44] it would uh
+[01:06:45] the electromagnetic pulse
+[01:06:48] would probably take out any satellites
+[01:06:50] in the vicinity and it possibly uh
+[01:06:53] power grids on the ground.
+[01:06:55] So
+[01:06:57] that that's uh
+[01:06:59] but that's also that man, that is a big
+[01:07:00] move to do that stuff. It also EMPs do
+[01:07:03] not discriminate so uh
+[01:07:05] you know, it's going to take out the
+[01:07:07] all the satellites in that area, not
+[01:07:09] just you know, the enemy satellites.
+[01:07:12] So I don't know if they'd be going for
+[01:07:13] the EMP but I think the more likely
+[01:07:15] situation would be
+[01:07:16] anti-satellite missiles uh or
+[01:07:19] ground-based directed energy
+[01:07:22] uh
+[01:07:23] you know, lasers light amplification
+[01:07:24] through stimulated emission of radiation
+[01:07:26] but so it's typically in the
+[01:07:28] you know, uh maybe
+[01:07:30] 400 to
+[01:07:32] 1500 nanometer range with a
+[01:07:36] that the 1500 nanometer being an
+[01:07:37] infrared laser uh which is just so heat
+[01:07:40] it up essentially. Although those don't
+[01:07:42] work too well if there's a if the things
+[01:07:44] are cloudy. You know, you're heating the
+[01:07:45] cloud instead of the you know, what
+[01:07:47] you're aiming at.
+[01:07:48] You know, when I hear you talk about
+[01:07:50] that though Elon, I think about cuz I
+[01:07:52] think you're probably right in terms of
+[01:07:54] of EMPs don't discriminate and all those
+[01:07:56] kinds of stuff which would seem to
+[01:07:57] indicate that it would not be a smart
+[01:07:59] move for a for a a nation state. Uh how
+[01:08:02] far cuz I realize there's capabilities
+[01:08:04] involved here. How far away are we from
+[01:08:06] having terrorists have a capability like
+[01:08:08] that?
+[01:08:09] Well, a terrorist can launch a nuke into
+[01:08:11] the upper atmosphere
+[01:08:13] but they they can also nuke whatever
+[01:08:14] else they they you know, cities or
+[01:08:16] whatever, you know. So
+[01:08:18] But would one nuke hitting I I don't get
+[01:08:20] me wrong. I love I love these
+[01:08:21] conversations where we give terrorists
+[01:08:23] ideas but I feel like we've got a lot of
+[01:08:24] ideas. But I mean but I mean, would you
+[01:08:26] rather would you rather have a nuclear
+[01:08:28] weapon, if you're a terrorist, hit an
+[01:08:30] American city or would you do more
+[01:08:32] damage to knock out the satellites? And
+[01:08:34] I don't know which is the right answer
+[01:08:35] but maybe you could I mean, would we be
+[01:08:37] more discomforted by the satellites
+[01:08:39] going out than than the US I mean, cuz
+[01:08:42] if you're in New Orleans, you don't I
+[01:08:43] mean, Los Angeles being hit's a disaster
+[01:08:45] but it doesn't affect New Orleans that
+[01:08:47] much. Whereas you take out the
+[01:08:48] satellites and we're all in trouble. I
+[01:08:49] mean, have I got that wrong?
+[01:08:51] I think we'd much rather they took out
+[01:08:52] the satellites than than a than a city.
+[01:08:54] And they
+[01:08:55] I think that makes sense. Yes.
+[01:08:57] I'm going to go that makes sense.
+[01:08:59] For sure. Um
+[01:09:01] Bill, have we left you out of this
+[01:09:02] discussion? Has there been anything
+[01:09:04] we've talked about that that prompts any
+[01:09:06] thinking from you where where either
+[01:09:08] where I'm totally way off base or we're
+[01:09:10] missing something really intriguing here
+[01:09:12] in the last bit of conversation?
+[01:09:15] I think I just like to look at it back
+[01:09:16] through the lens of the rock, paper,
+[01:09:18] scissors and there's a lot of new rocks,
+[01:09:20] papers, and scissors out there and
+[01:09:23] it's just like
+[01:09:25] it's just a trend
+[01:09:27] development. The
+[01:09:29] The Rock Paper Scissors treadmill.
+[01:09:31] Yep. The Rock Paper Scissors treadmill.
+[01:09:35] Um what So so maybe maybe let's let's
+[01:09:38] take it a little farther back, Elon, cuz
+[01:09:39] you know, you and I were talking about
+[01:09:41] engineers a while back. And you were you
+[01:09:43] were you were you were teaching me about
+[01:09:45] what an engineer does and all these
+[01:09:46] kinds of things. And I started to go
+[01:09:48] back to you know, we were talking about
+[01:09:50] the importance of engineering as the
+[01:09:51] pace of change speeds up. But then I
+[01:09:53] keep thinking about guys like Archimedes
+[01:09:56] or even earlier. I mean, the stuff in
+[01:09:59] prehistory. Once upon a time, somebody
+[01:10:01] invented a bow and arrow. Or somebody
+[01:10:03] took a bow and turned it into a compound
+[01:10:05] bow or composite bow. These people lost
+[01:10:07] it. So talk to me a little about
+[01:10:09] engineering and warfare. Is this just a
+[01:10:11] facet of what engineers do to our whole
+[01:10:12] life? Or is there something very
+[01:10:14] specific to warfare and and the
+[01:10:16] development of engineering in your mind?
+[01:10:18] Yeah. And and To be clear, I I don't
+[01:10:20] mean to um
+[01:10:22] uh in any way downplay the value of
+[01:10:26] generalship, you know, tactics,
+[01:10:27] strategy, uh and like No, they're all
+[01:10:30] integrated. Absolutely.
+[01:10:32] Or or anything like that. I just think
+[01:10:33] that um engineering in general is
+[01:10:36] underrated in its impact on the outcome
+[01:10:39] of wars.
+[01:10:40] So it's it's it's uh you know, to be
+[01:10:42] clear
+[01:10:43] I It's it's just I'm just trying to
+[01:10:45] adjust for the importance of technology
+[01:10:49] uh in in in warfare that that is often
+[01:10:51] overlooked uh as as an important factor.
+[01:10:54] Uh for example, Sun Tzu, Art of War,
+[01:10:56] there is no chapter on technology.
+[01:10:59] I mean, that's that's an interesting
+[01:11:00] book. I read that I've read that many
+[01:11:02] times. And um but there and there's lots
+[01:11:05] of interesting elements to it. There's a
+[01:11:07] lot of wisdom there, but I don't think
+[01:11:09] Clausewitz deals with it, either, now
+[01:11:11] that I think about it.
+[01:11:12] It typically in it it's on Clausewitz on
+[01:11:14] war really isn't
+[01:11:16] It alludes to it, but does not really uh
+[01:11:20] it's uh There should be a chapter
+[01:11:22] saying, "If you have a decisive
+[01:11:23] technology advantage, you you can you
+[01:11:26] can you can actually win with minimal
+[01:11:28] casualties
+[01:11:29] to your side, at least."
+[01:11:31] And And you mentioned uh earlier in the
+[01:11:33] conversation I think there's the the the
+[01:11:35] the the the the war with Prussia against
+[01:11:37] Austria.
+[01:11:38] They had fast-loading guns.
+[01:11:40] And And Austria did not.
+[01:11:42] That was a made a big big difference in
+[01:11:45] the in the
+[01:11:47] Was that the needle gun? It was a I
+[01:11:49] forget now. This is like now 30 years
+[01:11:52] to the needle gun. It's It's something I
+[01:11:54] It was It was like 30 years ago.
+[01:11:55] Essentially, the the the the firing rate
+[01:11:57] uh for that that Prussia had against the
+[01:12:00] the war with Austria was dramatically
+[01:12:01] higher.
+[01:12:02] Right. And so the effectiveness of
+[01:12:06] uh of the troops is really it it's like
+[01:12:08] in one video game you you'd say, "For
+[01:12:10] any given weapon, what is the damage per
+[01:12:12] second? DPS."
+[01:12:14] Just boil it down to DPS.
+[01:12:16] And um
+[01:12:17] and in the uh
+[01:12:19] Napoleonic Wars, uh for example, the uh
+[01:12:22] British had rifles. You know, a rifle is
+[01:12:25] just basically scoring the inside of the
+[01:12:27] barrel to to to rotate the um the bullet
+[01:12:30] Yeah, that's what the rifling is, right?
+[01:12:32] Yeah, that's what Right. Rifling is is
+[01:12:34] basically just You you you put a a
+[01:12:38] You score the inside of the barrel with
+[01:12:39] with a rotation to to put spin
+[01:12:42] uh into the bullet. It's very got little
+[01:12:44] X here. Um
+[01:12:45] so they might have like little baby
+[01:12:46] sounds.
+[01:12:48] Um That's okay. That's I like that.
+[01:12:50] For comedic relief.
+[01:12:51] So
+[01:12:53] Uh anyway, so so the British had rifles
+[01:12:56] in the Napoleonic Wars, especially
+[01:12:58] towards the end. They had
+[01:13:00] I I I think it You know,
+[01:13:02] and and it's it's a situation where it
+[01:13:03] sounds like the rifles weren't enough to
+[01:13:06] really make a difference, but actually
+[01:13:08] they they did uh because they I think
+[01:13:11] they had uh
+[01:13:12] maybe a couple hundred meters extra
+[01:13:14] range. And the the British would would
+[01:13:16] snipe the the the the French officers.
+[01:13:20] And the artillery pieces.
+[01:13:22] And the artillery pieces, exactly. So So
+[01:13:24] you don't actually need a lot of They're
+[01:13:26] basically early day sniper rifles.
+[01:13:28] Right. And And they were they were given
+[01:13:30] to units that were like sniper units,
+[01:13:32] cuz your average soldier carried the
+[01:13:34] unrifled musket. But you're right, the
+[01:13:35] specialist units carried the And we did
+[01:13:37] that in this country, too. But if I
+[01:13:39] recall, correct me if I'm wrong, you
+[01:13:41] almost had to like hammer the bullet
+[01:13:43] down the barrel. I mean, it was a long
+[01:13:45] reload process in a day when it was
+[01:13:47] already a long reload process.
+[01:13:50] the rifle had
+[01:13:51] I think um
+[01:13:52] it was a while before the rifle reload
+[01:13:54] time was was was faster than the than
+[01:13:56] the the the basic musket ball reload
+[01:13:58] time. I think that's the war you just
+[01:14:01] talked about, the Austrian-Prussian one,
+[01:14:02] right? I mean, that's that's I think
+[01:14:04] that's what part of it was it bolt
+[01:14:05] action? Something was going on there
+[01:14:06] that allowed the um the rate of the the
+[01:14:09] rate of reloading to go faster.
+[01:14:10] Yeah, exactly. This is This is only 30
+[01:14:11] years ago that I read about it.
+[01:14:13] Um
+[01:14:14] but but it was it was it was a decisive
+[01:14:15] element because it just had the damage
+[01:14:17] per second or damage per minute of the
+[01:14:19] the Prussian forces was much higher than
+[01:14:21] the damage per minute of the Austrian
+[01:14:22] forces. You could also lie down where
+[01:14:25] cuz then you didn't have to stand
+[01:14:26] straight up for reloading, which meant
+[01:14:27] you got away from the the linear warfare
+[01:14:29] of the Napoleonic Revolutionary War era
+[01:14:31] and all that.
+[01:14:32] Yeah, I mean, the whole idea of The
+[01:14:33] whole idea of just just firing musket
+[01:14:36] balls at each other seems insane to me.
+[01:14:38] It is
+[01:14:39] like like the death lottery.
+[01:14:41] And And with a high chance of winning.
+[01:14:44] Yeah. Yes. Yeah. The Don't fire till you
+[01:14:46] see the whites of their eyes, right?
+[01:14:49] But But anyway, I just say like this is
+[01:14:50] examples of like the the British use of
+[01:14:52] rifles in towards the end of Napoleonic
+[01:14:54] Wars was much more decisive than it
+[01:14:56] would seem based on the sheer number of
+[01:14:58] rifles because they
+[01:15:00] um
+[01:15:01] they they specifically aimed at the
+[01:15:03] French officers and at the artillery.
+[01:15:06] And so that's like that's like giving,
+[01:15:08] you know, you lose your officer, you
+[01:15:10] don't know what to do.
+[01:15:12] But I think And correct me if I'm wrong,
+[01:15:13] I think that rifles It's It's equivalent
+[01:15:15] of a head shot, you know.
+[01:15:16] I don't think anyone had a a monopoly on
+[01:15:19] rifles. I mean, I think that's how Lord
+[01:15:21] Nelson, the famous admiral, was shot.
+[01:15:23] Wasn't he? He was shot by a Well, that
+[01:15:24] might not have been a rifle. He was shot
+[01:15:25] by a French guy in the in the rigging of
+[01:15:28] a of an enemy ship. But But you're
+[01:15:29] right, that's the taking out of the
+[01:15:31] officers. If you could kill one Lord
+[01:15:33] Horatio Nelson, how many average sailors
+[01:15:35] is that worth? Yeah.
+[01:15:37] Yeah.
+[01:15:39] Um
+[01:15:40] By the way, I think Wellington's
+[01:15:42] underrated. Um Well,
+[01:15:46] Well, as an as an Irish guy, I'm going
+[01:15:47] to agree with you.
+[01:15:50] Um Okay. Well, well, listen, is is there
+[01:15:52] anything cuz you know, you and I've been
+[01:15:53] talking about doing this for a long
+[01:15:55] time. Is there anything we didn't talk
+[01:15:56] about that was part of what you wanted
+[01:15:58] to get into here? And this includes you,
+[01:16:00] too, Bill. I don't know what what you
+[01:16:01] wanted to get into, but I want to make
+[01:16:03] sure that during the course of the
+[01:16:04] conversation, we touch upon these
+[01:16:06] things. I mean, there's so much I could
+[01:16:07] still ask you about. I mean, I wrote
+[01:16:09] down chemical warheads on V2 rockets.
+[01:16:16] Did I lose you guys? You still there?
+[01:16:17] are you there? I'm here. I'm here.
+[01:16:20] Okay. No There was no Are you guys
+[01:16:22] objecting to the fact that there was no
+[01:16:23] actual question in that question?
+[01:16:26] I was You guys thought you were going to
+[01:16:27] get questions?
+[01:16:30] I didn't know if we actually addressed
+[01:16:31] the last topic change, Dan, or if we
+[01:16:33] kind of hopped around, but
+[01:16:36] Well, hop back.
+[01:16:38] Well, I don't I don't know exactly where
+[01:16:39] we were headed on it, but it was kind of
+[01:16:40] interesting. Like the idea I mean, I
+[01:16:42] think Elon was basically saying it's
+[01:16:44] it's not it's all these different
+[01:16:46] aspects and the
+[01:16:48] It's It's the
+[01:16:49] and the generals and the bravery, but
+[01:16:51] the engineering
+[01:16:52] it's an interesting lens to look at it
+[01:16:54] through and talk about it. That That's
+[01:16:55] kind of
+[01:16:58] what I was thinking back to.
+[01:17:00] Well, I mean, so so maybe one could make
+[01:17:02] the case that we've seen the the ratio
+[01:17:05] of importance of all those various
+[01:17:07] elements, generalship, heroism,
+[01:17:09] engineering. So We've seen the ratio and
+[01:17:11] the importance in the terms of a triage
+[01:17:13] level maybe changing over time. Maybe
+[01:17:15] this gets us into a nice bow tie with
+[01:17:17] the beginning of the conversation about
+[01:17:19] the importance of science and
+[01:17:21] engineering once you reach the late
+[01:17:23] 19th, early 20th century.
+[01:17:25] Mhm.
+[01:17:28] It
+[01:17:29] It is just
+[01:17:30] when the rate of change of technology is
+[01:17:31] high such that there is
+[01:17:34] a big technology difference between one
+[01:17:35] side and the other
+[01:17:37] that then then technology dominates. Uh
+[01:17:41] and and you you get a lopsided victory.
+[01:17:44] So
+[01:17:46] But then what happens in Afghanistan?
+[01:17:48] You see what I'm saying? I mean, I I
+[01:17:50] think that that what what what you're
+[01:17:51] saying makes sense most of the time, but
+[01:17:54] there are enough examples we can use
+[01:17:56] that just say otherwise, it would be why
+[01:17:58] even fight the war, right? It's a
+[01:17:59] foregone conclusion. How come it didn't
+[01:18:01] win in Vietnam? There's other elements,
+[01:18:03] right? Well,
+[01:18:05] the the US um
+[01:18:08] uh is just does not engage in in in uh
+[01:18:11] unrestricted warfare.
+[01:18:13] So you know, I I by no means do I mean
+[01:18:16] suggest that the
+[01:18:17] that that everything America does is
+[01:18:20] is is good. But um and I'll I'll
+[01:18:23] probably get a lot of flak for saying
+[01:18:24] this, but uh probably a lot. But I I
+[01:18:27] actually think America is the
+[01:18:29] the the greatest sort of force for
+[01:18:32] benevolent outcome of any country in
+[01:18:34] history.
+[01:18:35] On balance. That doesn't mean everything
+[01:18:37] America does is good.
+[01:18:39] You know, so you could always say like
+[01:18:40] America went to the moon. Why can't they
+[01:18:41] do Why can't America do everything that
+[01:18:45] It's like look,
+[01:18:46] you know, America's like a person. A
+[01:18:48] person, you know, might do something
+[01:18:50] brilliant, but it doesn't mean
+[01:18:51] everything they do is brilliant.
+[01:18:52] So
+[01:18:54] but because you know,
+[01:18:56] Yeah, you know, here in America we we
+[01:18:58] aspire to be the good guys. And may that
+[01:19:00] ever continue.
+[01:19:01] And uh
+[01:19:03] uh it's if if if the if it if the
+[01:19:06] warfare is truly allowed to be
+[01:19:07] unrestricted, you can just carpet bomb
+[01:19:10] the enemy until they're not there
+[01:19:11] anymore.
+[01:19:12] I mean, we could use nukes. But let's
+[01:19:14] not But let's not pretend that that's a
+[01:19:16] moral question always. I mean, the
+[01:19:17] reason you don't nuke North Vietnam is
+[01:19:20] because then you're going to risk the
+[01:19:22] full on nuclear exchange with the Soviet
+[01:19:25] you I mean in other words you might have
+[01:19:26] wanted to turn North Vietnamese
+[01:19:29] territory into glass but it might not
+[01:19:31] have been an option on the table right
+[01:19:33] there's multiple there's multiple
+[01:19:34] factors going into all these decisions
+[01:19:36] that that that constrain your options
+[01:19:38] right? Yeah but
+[01:19:40] nukes would not have been required to
+[01:19:41] defeat uh
+[01:19:43] the Viet Cong.
+[01:19:45] That could have been done with
+[01:19:46] conventional weapons but it would have
+[01:19:48] resulted in a lot of
+[01:19:50] civilians dying.
+[01:19:53] So it's then the question is like are
+[01:19:56] you willing to kill a large numbers of
+[01:19:57] civilians? United States is not willing
+[01:19:59] to do that.
+[01:20:00] So therefore loss.
+[01:20:02] I'm thinking of Korea and I think we
+[01:20:04] destroyed almost all those villages
+[01:20:07] and ended up in a stalemate. I just I
+[01:20:09] think I think there's an interaction
+[01:20:11] going on here and I think that the
+[01:20:12] technology is just one aspect of this
+[01:20:15] but I do believe and I think this is
+[01:20:17] something you've alluded to that as the
+[01:20:20] as the technological sophistication
+[01:20:22] becomes so overwhelming and so dominant
+[01:20:26] that it starts to shrink the importance
+[01:20:28] of all those other factors that we
+[01:20:29] talked about that play into the overall
+[01:20:31] equation right? Like you said if it's
+[01:20:33] laser beams versus caveman that's pretty
+[01:20:36] that's a pretty that's a pretty decisive
+[01:20:38] situation.
+[01:20:40] Yeah or even yeah if you simply have air
+[01:20:42] superiority and you don't you're not
+[01:20:45] don't have the advantage of
+[01:20:46] extreme ground cover in a in a sort of a
+[01:20:49] heavily jungle situation
+[01:20:51] just having air superiority will will
+[01:20:54] you're going to win you know so
+[01:20:56] It depends on what win means too right?
+[01:20:59] Depends on what what win means.
+[01:21:01] But
+[01:21:02] I mean certainly no question the United
+[01:21:03] States States could have won the war in
+[01:21:05] Viet Vietnam
+[01:21:06] if if if it had the will to do so and
+[01:21:09] and was willing to be
+[01:21:11] do a lot more civilian casualties but I
+[01:21:13] mean I think that that would not be a
+[01:21:14] good thing but
+[01:21:16] you know the United States just just
+[01:21:19] doesn't believe in
+[01:21:21] you know the United States cares about
+[01:21:22] if
+[01:21:23] lots of civilians die.
+[01:21:26] The you know and
+[01:21:27] this is actually relatively unusual
+[01:21:29] in in
+[01:21:31] and you know
+[01:21:33] it
+[01:21:33] there there
+[01:21:35] in all in all the wars in all the
+[01:21:36] history and all the protagonists
+[01:21:38] most of them did not care about killing
+[01:21:39] civilians. The United States does and
+[01:21:42] may it ever be that way.
+[01:21:43] Now you've got my brain so you got this
+[01:21:45] is what I like about these conversations
+[01:21:47] is you've got the wheels turning now. So
+[01:21:49] now you've got me wondering about
+[01:21:50] technology in the Second World War if
+[01:21:52] the other side had developed it first.
+[01:21:54] So we all know the Germans were working
+[01:21:56] hard on jet aircraft. I would say jet
+[01:21:58] fighters or jet bombers but apparently
+[01:22:00] they couldn't make up their minds.
+[01:22:02] So let's talk about the nuclear weapons.
+[01:22:04] We know that they
+[01:22:06] you know there's some rumors of the
+[01:22:07] Japanese working on them but we know
+[01:22:08] that the Germans would have liked to
+[01:22:10] have gotten them.
+[01:22:11] So if they had gotten them first
+[01:22:14] realizing that you know there were not
+[01:22:15] many bombs even when we had them
+[01:22:17] how much of a difference does that make
+[01:22:19] if if in 44? I don't want to say 45
+[01:22:22] because I think the war is over already
+[01:22:23] but but let's imagine during a time
+[01:22:24] period where there's still something
+[01:22:26] going on
+[01:22:27] how decisive is something like that if
+[01:22:29] the Germans get the nuclear the atomic
+[01:22:31] weapons first? In your mind.
+[01:22:33] They win of course.
+[01:22:34] Do you think so? Yes.
+[01:22:37] I wonder because they got the V2 rockets
+[01:22:39] right? I mean No no but
+[01:22:41] damage potential I mean put it this way
+[01:22:43] if they have both
+[01:22:46] long range rockets The V2s and the and
+[01:22:48] the yeah. It's game
+[01:22:50] instant
+[01:22:51] the other side just lost.
+[01:22:55] 100%. Interesting. I
+[01:22:57] I still wonder why they didn't I mean
+[01:22:59] look when you realize that that regime
+[01:23:01] was was so terrible that that nothing is
+[01:23:03] beyond the pale of what they might do. I
+[01:23:05] don't know why in 44 they didn't just
+[01:23:07] say we have all this territory we're
+[01:23:09] occupying if if you don't want something
+[01:23:11] really bad to happen to all these
+[01:23:13] occupied people you know you'll come to
+[01:23:15] the negotiating table right now. I mean
+[01:23:17] I always wonder why things didn't if if
+[01:23:19] a science fiction writer were having
+[01:23:20] some fun with that they'd be holding you
+[01:23:23] know whole countries hostage for a good
+[01:23:25] deal and maybe maybe that
+[01:23:27] dovetails into something you said
+[01:23:28] earlier but you really think it's game
+[01:23:29] over if the Germans get new is there a
+[01:23:31] time period where they could get nuclear
+[01:23:33] weapons where it's too late? I mean if
+[01:23:36] they get them in in January 45 is it too
+[01:23:39] late or is it such a game changer it
+[01:23:40] doesn't matter when they get them?
+[01:23:42] Well if they've lost air superiority
+[01:23:45] then I think it would be tough.
+[01:23:47] Um
+[01:23:47] They lost that in 43 probably don't you
+[01:23:50] think?
+[01:23:50] Not
+[01:23:51] fully no they still uh
+[01:23:54] you know they they they didn't have it
+[01:23:55] over over Britain or whatever but they
+[01:23:57] I don't think they lost air superiority
+[01:23:59] in 43 over Germany or in that area.
+[01:24:01] Basically it's like you you need it
+[01:24:03] delivered
+[01:24:04] and that's either going to be a long
+[01:24:06] range bomber or
+[01:24:08] a long range missile.
+[01:24:10] So
+[01:24:11] but you know it's
+[01:24:13] you know
+[01:24:14] it clearly they wouldn't have bothered
+[01:24:16] using troops on Stalingrad if they had a
+[01:24:18] nuke. They'd be like oh
+[01:24:20] that used to be a city not anymore.
+[01:24:22] So
+[01:24:23] Okay well now I want to now I want to
+[01:24:25] ask a question that might be a good time
+[01:24:26] to wrap this up because it might be a
+[01:24:28] good good so I've always it's always
+[01:24:30] been my contention that the Germans
+[01:24:33] of the First World War were a stronger
+[01:24:35] power and a more formidable foe than the
+[01:24:37] Germans of the Second World War and one
+[01:24:39] of the reasons I always used was that
+[01:24:41] the Germans in the Second World War
+[01:24:43] deliberately got rid of a lot of the
+[01:24:45] things that would have helped them in
+[01:24:46] the Second World War for reasons that
+[01:24:48] had nothing to do with military
+[01:24:50] superiority also for example
+[01:24:52] a lot of Jewish people fought
+[01:24:54] patriotically for Germany in the First
+[01:24:56] World War
+[01:24:57] a lot of those same Jewish people that
+[01:24:59] would have done it in the Second World
+[01:25:00] War were in other countries by the time
+[01:25:02] the Second World War was fought because
+[01:25:04] of they weren't welcome at home and
+[01:25:05] that's saying it mildly but you take a
+[01:25:07] guy like Einstein and we know there were
+[01:25:09] there were several besides Einstein who
+[01:25:11] would have been involved in um
+[01:25:13] assuming that they were patriotic
+[01:25:15] Germans fighting for the German cause as
+[01:25:16] they would have in the First World War
+[01:25:18] a guy like Einstein and and his
+[01:25:20] compatriots might have been helping the
+[01:25:22] Germans develop atomic weapons. How much
+[01:25:24] of a difference do you think it might
+[01:25:25] have made had the had the people that
+[01:25:27] were in the US atomic weapons program or
+[01:25:29] the US space program or anything like
+[01:25:31] that if they'd stayed in Germany and had
+[01:25:33] fought and and and used their scientific
+[01:25:36] skills for that side as opposed to our
+[01:25:38] side. How much of a difference does that
+[01:25:40] make in your mind? No I think that would
+[01:25:42] have made a tremendous difference and
+[01:25:43] the person you'd want is not Einstein
+[01:25:45] but Leo Szilard. Okay yeah yeah yeah.
+[01:25:48] So
+[01:25:49] Szilard is the one who really uh
+[01:25:52] was was pushing the nukes and and
+[01:25:53] frankly I think there were others that
+[01:25:55] kind of knew
+[01:25:56] they probably have a fair number that
+[01:25:58] knew it if this would probably work but
+[01:26:00] they did not want
+[01:26:02] to to send their mind in that direction.
+[01:26:05] But Szilard Szilard and I believe
+[01:26:07] Szilard was Hungarian.
+[01:26:09] So so if if you know they literally had
+[01:26:12] them right there.
+[01:26:13] Yeah guys like Fuchs though Klaus Fuchs
+[01:26:14] was there I mean there people like that
+[01:26:16] too right?
+[01:26:16] exactly.
+[01:26:18] So you know if if if
+[01:26:20] they'd gotten um
+[01:26:24] if if if if they had in fact not
+[01:26:27] been been anti-Semitic and just
+[01:26:30] generally
+[01:26:32] alienated a lot of people and pushed
+[01:26:34] apart Alienated.
+[01:26:36] the least.
+[01:26:38] Then then they there's a good chance
+[01:26:40] Germany I would say Germany probably
+[01:26:41] would have had the nuke before anyone
+[01:26:43] else.
+[01:26:44] Yeah. Is there anything Elon and this
+[01:26:47] applies to you too Bill is there
+[01:26:48] anything I didn't get into and that's
+[01:26:51] that's that's an interesting piece of of
+[01:26:52] of information on the subject we've been
+[01:26:54] dealing with that I just either didn't
+[01:26:55] ask you about or was not intelligent
+[01:26:57] enough to even know it was sitting out
+[01:26:58] there in plain sight.
+[01:27:00] I always hate to just leave anything on
+[01:27:01] the table so so what haven't we dealt
+[01:27:03] with that would have been intriguing?
+[01:27:05] Well I mean we could certainly talk for
+[01:27:06] for a long time and and I'd be open to
+[01:27:08] talking again in the future if you'd
+[01:27:10] like. Um
+[01:27:11] but man there's so much we could talk
+[01:27:13] about uh
+[01:27:14] Well you know what you can save it for
+[01:27:15] next time then. This this gives us a
+[01:27:17] wonderful jumping off point next time
+[01:27:18] and I hope Bill would be nice enough to
+[01:27:20] join us as well. But uh yeah
+[01:27:21] we we could we could go maybe more into
+[01:27:23] you know more specifics about particular
+[01:27:25] battles and that kind of thing.
+[01:27:26] Well we could we could maybe get into
+[01:27:28] some of the things you guys wanted to
+[01:27:29] talk about instead of my pet issues
+[01:27:31] also.
+[01:27:32] Uh yeah no I mean we're we're just
+[01:27:33] basically trying to emphasize that um
+[01:27:36] you know in
+[01:27:38] in some conflicts
+[01:27:39] technology and and engineering these
+[01:27:41] were were kind of engineering wars.
+[01:27:43] And and that that is often overlooked as
+[01:27:46] I mentioned not in Sun Tzu not in
+[01:27:49] Clausewitz on war.
+[01:27:50] And
+[01:27:51] but but obviously extremely decisive if
+[01:27:54] you
+[01:27:55] have um
+[01:27:56] you know
+[01:27:57] a big technology advantage.
+[01:28:00] Maybe that's the fun part to jump off
+[01:28:02] next time. I'll do some research and try
+[01:28:03] to find out when you first start seeing
+[01:28:05] discussions of technology advantages and
+[01:28:08] whatnot in the in the written historical
+[01:28:10] record. That might be fascinating. Well
+[01:28:12] there's that isn't that poem um
+[01:28:14] what what
+[01:28:15] I forget the exact terminology what what
+[01:28:18] whatever else matters
+[01:28:20] we have the Maxim gun and they have not.
+[01:28:21] Maxim gun and they have not.
+[01:28:24] Well you know it's funny cuz there's
+[01:28:25] there was some stuff written and I'd
+[01:28:27] have to look it up. I remember reading
+[01:28:28] it in Arthur Ferrill's book
+[01:28:30] on warfare where he was talking about as
+[01:28:33] the Roman Empire is starting to decline
+[01:28:35] they were starting to push some ideas or
+[01:28:37] some people their versions of Elon Musk
+[01:28:40] were starting to push ideas of secret
+[01:28:41] weapons and super weapons and ways that
+[01:28:44] they could somehow compensate for the
+[01:28:46] other areas in warfare that they were
+[01:28:48] losing whether it's territory where they
+[01:28:49] could recruit soldiers from or or what
+[01:28:52] have you and it was stuff like you know
+[01:28:54] scythe chariots and all kinds of
+[01:28:56] interesting we all know that they had
+[01:28:58] Greek fire and a bunch of other
+[01:28:59] interesting things. Be fun to look at
+[01:29:01] the impact of technology in earlier
+[01:29:03] warfare before we could even really
+[01:29:05] recognize it as technology.
+[01:29:07] Totally in my opinion the Romans won
+[01:29:10] their wars for
+[01:29:11] for many reasons but one of the
+[01:29:13] decisive elements was the Romans
+[01:29:16] were the best engineers. Absolutely.
+[01:29:19] It's like Assyrians were great
+[01:29:20] engineers, too.
+[01:29:21] Yeah, um
+[01:29:23] And the Chinese always
+[01:29:24] less about that, but but the the Romans
+[01:29:26] really were great engineers and uh
+[01:29:28] I mean, they'd lay down roads. And if
+[01:29:30] like you're trying to march somewhere,
+[01:29:31] man, roads are roads beat the heck out
+[01:29:33] of some, you know,
+[01:29:34] little windy path through the forest.
+[01:29:36] Um
+[01:29:38] And uh you know, It's totally the
+[01:29:40] non-sexy side of war, too, but it's so
+[01:29:42] important.
+[01:29:43] need roads. Um
+[01:29:45] And then it It was kind of a theme that
+[01:29:46] the supply chain, like the
+[01:29:48] the octane high-octane fuel, the roads
+[01:29:51] gets the legions where you need them to
+[01:29:53] fight the Celts.
+[01:29:54] The supply you know, like
+[01:29:56] Didn't Napoleon say an army marches on
+[01:29:58] its stomach? Right, right. Which I think
+[01:30:00] may maybe actually falsely attributed to
+[01:30:02] Napoleon, but Oh, okay. Sorry. But it
+[01:30:05] but it but it's nonetheless true.
+[01:30:07] I have found that it I I it's dangerous
+[01:30:09] for me to quote anybody anymore because
+[01:30:12] everybody I've ever quoted and every
+[01:30:13] quote I've ever I've ever repeated seems
+[01:30:16] to be wrong when people double-check it.
+[01:30:17] So, apparently nobody ever said anything
+[01:30:20] that's attributed to them in history.
+[01:30:21] That's all I can figure.
+[01:30:22] It's it's it's true.
+[01:30:25] I
+[01:30:25] I ended up digging deep into the
+[01:30:27] etymology of things for whatever reason.
+[01:30:29] As as as Clara knows, I
+[01:30:31] You own etymology.com.
+[01:30:32] I I literally bought etymology.com. Um
+[01:30:35] You did not.
+[01:30:36] Yeah. Yeah.
+[01:30:38] I actually know a lot about it. I used
+[01:30:40] to judge you for buying that, but then I
+[01:30:42] realized you actually really do care
+[01:30:43] about etymology. I really do
+[01:30:46] That's hilarious.
+[01:30:48] Um
+[01:30:50] Well, listen, I guess this means we have
+[01:30:51] another show coming eventually.
+[01:30:53] Whenever, you know, with your spare time
+[01:30:55] and your schedule, it'll be in about 25
+[01:30:57] years, but we'll be right on it.
+[01:30:58] great. We can go to the etymology of
+[01:30:59] things like balls to the wall because
+[01:31:01] that that's a perfect
+[01:31:02] actually so interesting. Just say No,
+[01:31:04] but just say that one. Just say that
+[01:31:05] one.
+[01:31:05] It's so interesting. The balls to the
+[01:31:07] wall Okay.
+[01:31:09] It's It is cool.
+[01:31:11] Okay, good. That's a perfect thing to
+[01:31:13] end on. What is the etymology of balls
+[01:31:15] to the
+[01:31:15] Okay, well, um th- these days it may be
+[01:31:17] confusing when you hear balls to the
+[01:31:18] wall because presumably you're not
+[01:31:20] suggesting that someone if they're if
+[01:31:22] they're, you know, have balls uh put
+[01:31:23] them on the wall because why would you
+[01:31:25] ever want to put your balls on a wall?
+[01:31:29] Um
+[01:31:30] But but uh and and so the etymology of
+[01:31:33] this goes back
+[01:31:34] to to to many different things.
+[01:31:36] Certainly, um in uh World War II, for
+[01:31:39] example, balls to the wall would be if
+[01:31:40] it would be max throttle. So, the the
+[01:31:43] the tips of the um
+[01:31:45] of the the throttle lever would be
+[01:31:47] balls.
+[01:31:48] And so, balls to the wall would be max
+[01:31:50] throttle.
+[01:31:51] Um however, there's something that ugly
+[01:31:53] predates that, uh
+[01:31:55] which is
+[01:31:57] um it is um The the way you would
+[01:31:59] control a steam engine was by having uh
+[01:32:03] two balls spinning um on a cable or a
+[01:32:06] rod or or
+[01:32:08] I think cable. And and then depending
+[01:32:09] upon um how um much throttle you you
+[01:32:13] wanted, you would you would uh either
+[01:32:15] crank the the balls in or crank them or
+[01:32:17] crank them out. Um and so, if you crank
+[01:32:20] them out, balls to the wall would mean
+[01:32:21] again mean uh full throttle for the
+[01:32:24] steam engine.
+[01:32:25] Um
+[01:32:30] I don't know how we didn't start with
+[01:32:32] that, man. the the whole balls to the
+[01:32:34] wall situation. He I can't believe we
+[01:32:36] went even like deeper into balls to the
+[01:32:38] wall. I said
+[01:32:39] Yeah. Anyway. I I sense an entirely new
+[01:32:42] topic taking over. Okay.
+[01:32:45] Well, listen. Listen, man, I I've really
+[01:32:47] enjoyed this. I've enjoyed having all
+[01:32:49] three of you on and let's do this again
+[01:32:51] soon, okay? Yeah, actually one final
+[01:32:52] etymology. Uh when you when you say to
+[01:32:55] someone give it the whole nine yards, do
+[01:32:57] you know what that means?
+[01:32:59] I don't.
+[01:33:01] Okay, well,
+[01:33:02] th- this is again a
+[01:33:03] debatable etymology, but the
+[01:33:06] the one of the possible
+[01:33:07] uh origins is the length of an ammo belt
+[01:33:10] in in in World War II was
+[01:33:12] on the order of nine yards. So, giving
+[01:33:14] it the whole nine yards means just
+[01:33:16] emptying the entire ammo belt on it.
+[01:33:20] Oh my god. You know what you you know
+[01:33:21] what you made me You know what you made
+[01:33:23] me think of.
+[01:33:24] Um
+[01:33:25] I'll tell you what you made me think of
+[01:33:27] and it's the craziest thing to have have
+[01:33:28] have come from what you just said, but I
+[01:33:30] got a tour once of the Westminster
+[01:33:31] School, which is attached to Westminster
+[01:33:33] Abbey uh in London. And it's been around
+[01:33:36] since forever. I mean, like the Middle
+[01:33:37] Ages practically. So, they're giving me
+[01:33:39] the tour. The students are giving me the
+[01:33:40] tour. And between classes, they have
+[01:33:43] It's not a handball court, but it's a
+[01:33:44] place where they kind of play something
+[01:33:46] like handball. And it's in a in a
+[01:33:47] specific area that just is, you know,
+[01:33:49] where there's walls to bounce stuff off
+[01:33:51] of and everything. And the guy says to
+[01:33:52] me, "We have all these house rules. Like
+[01:33:54] if the ball goes over there, it's two
+[01:33:56] points. If the ball goes over there,
+[01:33:57] it's out of bounds." And I said, "Oh, I
+[01:33:58] said, well, when did they make these
+[01:34:00] rules?" He said, "In the Middle Ages."
+[01:34:02] He said, "So So, all of the little house
+[01:34:04] rules that they still played with and
+[01:34:05] you said balls to the wall, that's what
+[01:34:07] it was. It was a ball on the wall." And
+[01:34:09] all I could think of was here are a
+[01:34:10] bunch of students today who have no idea
+[01:34:12] really of history or anything like that.
+[01:34:14] And yet they're playing a game where the
+[01:34:16] house rules that they still play under
+[01:34:18] were invented centuries ago. I just
+[01:34:19] thought that was hilarious. Yeah, I
+[01:34:21] could go on and on about
+[01:34:22] word the etymology. Que sera sera is Oh,
+[01:34:26] no, no, no, we're not
+[01:34:28] literally no. No que sera sera? Que sera
+[01:34:30] sera is not Spanish.
+[01:34:33] It's it's English.
+[01:34:35] It's English stolen from Latin.
+[01:34:38] About 500 years ago. There's There's
+[01:34:40] like a Wikipedia hole for like and it
+[01:34:42] means nothing like the Latin Latin
+[01:34:44] phrase. Do we want to know what it means
+[01:34:46] or is this something you'd better leave
+[01:34:48] the audience hanging with?
+[01:34:49] sera sera is like whatever will be will
+[01:34:51] be um
+[01:34:52] is uh
+[01:34:53] but it's it's actually it's technically
+[01:34:55] an English phrase because it's it it was
+[01:34:58] bastardized from Latin. Uh but the
+[01:34:59] phrase in Latin doesn't mean the same
+[01:35:01] thing. And um
+[01:35:03] a lot of people think it's it's Spanish
+[01:35:04] or Italian or something like that, but
+[01:35:05] it's it's actually an English English
+[01:35:07] phrase. Uh
+[01:35:10] and and it's been been used for like 500
+[01:35:11] years. Um and it actually it it means it
+[01:35:14] basically implies
+[01:35:16] uh
+[01:35:18] a a cheery fatalism.
+[01:35:27] My thanks to Elon Musk and Bill Riley
+[01:35:29] from SpaceX for coming on the program
+[01:35:31] today.
+[01:35:32] And you know what was funny is I was
+[01:35:33] listening to that during editing,
+[01:35:35] it reminded me of my concept of Hardcore
+[01:35:38] History when it first appeared in my
+[01:35:40] brain before we'd done any work and it
+[01:35:41] had evolved in any way, shape, or form.
+[01:35:43] I thought about it as a continuation of
+[01:35:45] the sorts of conversations that we used
+[01:35:47] to have as history geeks when I was a
+[01:35:49] history major in college.
+[01:35:51] And questions like would you would you
+[01:35:53] rather be the better pilot in the
+[01:35:57] inferior aircraft or the inferior pilot
+[01:36:01] in the superior aircraft? I mean, that
+[01:36:03] kind of thing
+[01:36:04] in my head I thought, "Okay, this is
+[01:36:06] what we'll do with this Hardcore History
+[01:36:07] thing." Now, it didn't obviously go in
+[01:36:09] that direction. Um but this is the kind
+[01:36:11] of thing where I could talk about this
+[01:36:12] all day. This is the the light
+[01:36:14] conversation I like to have.
+[01:36:17] Which is my my sister always says,
+[01:36:18] "You're so weird." But, you know,
+[01:36:21] there are worse things, right? Um
+[01:36:24] speaking of, you know, the
+[01:36:26] strange and perhaps hard to purchase for
+[01:36:30] for the holidays. Uh you know, you may
+[01:36:32] have a loved one or family member that
+[01:36:34] you're having a hard time finding a good
+[01:36:36] gift for them cuz they're interested in
+[01:36:37] the extremes of the human experience and
+[01:36:39] you just can't get that at the local big
+[01:36:41] box store always. Uh you can get it off
+[01:36:45] of our website though. Um the old shows
+[01:36:47] that are no longer on the free feed are
+[01:36:49] available from the website. You can We
+[01:36:51] have a new system to purchase them, too,
+[01:36:53] if you want to use it called the Glow
+[01:36:55] system. Should make it easier for people
+[01:36:56] with certain kinds of podcast players.
+[01:36:58] We have gift certificates for loved
+[01:36:59] ones. We have some new merch with new
+[01:37:01] designs that is just, you know, dropped
+[01:37:04] uh t-shirts, hats, that kind of thing.
+[01:37:05] So, if you're interested in all that
+[01:37:07] stuff, it's out there.
+[01:37:09] dancarlin.com
+[01:37:10] Uh I won't go into it too deeply just to
+[01:37:12] say that there are some, you know, some
+[01:37:14] uh illnesses and infirmities in the
+[01:37:16] family right now that are are preventing
+[01:37:17] me from getting to the big Hardcore
+[01:37:19] History recording, which never goes as
+[01:37:21] quickly as we'd like anyway. So, I
+[01:37:23] apologize for the lateness of it all.
+[01:37:25] Not just that, but it's one of those
+[01:37:26] topics that we're trying to be very
+[01:37:28] careful with. A little incendiary in our
+[01:37:30] current um zeitgeist, for lack of a
+[01:37:33] better word. So, um apologies. Patience,
+[01:37:36] please. We'll get to it and hopefully
+[01:37:37] you think it's worth it when we do.
+[01:37:40] Finally, um
+[01:37:42] I do want you all to know, and I mean
+[01:37:44] this. I mean, people say things all the
+[01:37:45] time that are just sort of platitudes.
+[01:37:47] Uh it's been, historically speaking, a
+[01:37:49] hard last 2 years for us all. I mean, on
+[01:37:51] a global level.
+[01:37:54] I don't know what the next year holds.
+[01:37:56] But, um
+[01:37:58] you know, I hope it's better for all of
+[01:38:00] us. And I think here's the thing. You
+[01:38:01] know, history can obviously break any
+[01:38:02] number of different ways. And I'm a
+[01:38:04] little pessimistic usually. So, I always
+[01:38:06] assume the worst. But, let's not forget
+[01:38:09] that things can turn on a dime in
+[01:38:11] strange directions. And that means
+[01:38:12] directions that are improvements for all
+[01:38:14] of us as well, whatever you might
+[01:38:16] consider improvements to be.
+[01:38:19] Regardless, um let's remember, whatever
+[01:38:23] your beliefs,
+[01:38:25] your thoughts, wherever you may live,
+[01:38:27] and whatever your circumstances, believe
+[01:38:29] it or not, as strange as this sounds, as
+[01:38:31] much of a platitude as this sounds,
+[01:38:34] we're all in this together.
+[01:38:36] And I always um like to think that if
+[01:38:39] you and I,
+[01:38:40] whomever you may be,
+[01:38:42] simply sat down over a cup of coffee or
+[01:38:44] tea or something, um
+[01:38:47] we could have a good conversation, find
+[01:38:48] commonalities,
+[01:38:50] and ways to get along and enjoy each
+[01:38:52] other.
+[01:38:53] And that's my story and I'm sticking to
+[01:38:55] it. And that's coming from a person
+[01:38:56] who's basically pessimistic. So,
+[01:38:59] if you're optimistic, the sky's the
+[01:39:00] limit. Stay safe, everybody. Have a
+[01:39:02] wonderful 2022.
+[01:39:04] And I hope I'm talking to you a lot over
+[01:39:06] the next year.
+[01:39:13] Support us with Patreon by going to
+[01:39:15] patreon.com/dancarlin
+[01:39:19] or go to our donate page at
+[01:39:20] dancarlin.com/dc-donate.
+[01:39:25] You may have heard me talk about Battle
+[01:39:27] Guide Virtual Tours recently.
+[01:39:30] Um, it's a it's a group of folk in um
+[01:39:33] in Europe who were doing live tours when
+[01:39:36] COVID hit
+[01:39:38] and had to try to figure out like so
+[01:39:40] many other people how you reimagine a
+[01:39:42] business for
+[01:39:43] you know, during a time of of a pandemic
+[01:39:45] and they came up with something
+[01:39:47] that it's one of those things that you
+[01:39:49] never would have thought about it if you
+[01:39:50] hadn't been forced to because of
+[01:39:51] something like the pandemic, but because
+[01:39:53] you came up with the idea, it's a
+[01:39:55] brilliant idea and it brings battlefield
+[01:39:58] tours to all sorts of people who
+[01:40:00] couldn't be expected to make it out to
+[01:40:02] all those battlefields in person.
+[01:40:04] And even if you're lucky enough to make
+[01:40:05] it to one or two,
+[01:40:07] um wouldn't it be nice to be able to go
+[01:40:08] to 20 or 30? Well, maybe you could do
+[01:40:10] that virtually and now with Battle Guide
+[01:40:12] Virtual Tours you can. It's one of those
+[01:40:15] things you kind of have to see to get a
+[01:40:17] sense of, but basically they combine
+[01:40:20] satellite and drone imagery, a live
+[01:40:23] historian,
+[01:40:24] um
+[01:40:25] eyewitness accounts, period footage. I
+[01:40:27] mean, it's all blended blended together
+[01:40:29] to give you a real sense of a given
+[01:40:31] battle and what's going on and what the
+[01:40:33] challenges are and what it was like on
+[01:40:34] the ground and visually give you a real
+[01:40:36] sense of of what you're seeing. Battles
+[01:40:38] are notoriously difficult sometimes to
+[01:40:41] get a real sense of. This is probably
+[01:40:44] the best way to do it.
+[01:40:46] And if you want to get a sense of what
+[01:40:47] that's like, um
+[01:40:49] you know, throwing my name around can
+[01:40:50] get you a 50% discount right now if you
+[01:40:52] go to battleguide.co.uk
+[01:40:55] /dan-carlin
+[01:40:58] and uh and get a look at it and just see
+[01:40:59] what we're talking about here. Uh there
+[01:41:01] are two kinds of tours basically. Uh the
+[01:41:03] live ones where if you catch it when
+[01:41:05] it's going on, you can participate. It's
+[01:41:07] a Q&A kind of thing. Um and it's
+[01:41:09] happening you know, while you're
+[01:41:10] watching, but then those things are
+[01:41:12] saved to be accessed later and you can
+[01:41:14] go watch all the the previous tours and
+[01:41:16] and and access it that way at your
+[01:41:18] convenience also. Lots of different
+[01:41:20] options including gift certificates for
+[01:41:22] people you know, that might be a little
+[01:41:23] bit difficult to buy gifts for. Find
+[01:41:25] something unusual. Maybe they'd like,
+[01:41:27] you know, a gift certificate giving them
+[01:41:29] several battlefield tours. But as I
+[01:41:31] said, why don't you take the 50% offer
+[01:41:33] here and check it out for yourself at
+[01:41:34] battleguide.co.uk/dan-carlin
+[01:41:38] and uh and get a virtual battlefield
+[01:41:41] tour yourself at Battle Guide Virtual
+[01:41:44] Tours.

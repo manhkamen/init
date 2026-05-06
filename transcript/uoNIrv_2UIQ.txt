@@ -1,0 +1,217 @@
+[00:00:03] The optimization in the case of Falcon 1
+[00:00:05] was really in terms of a cost per flight
+[00:00:07] to orbit. So it wasn't a cost per unit
+[00:00:09] mass optimization. It was uh what is the
+[00:00:13] smallest useful vehicle that we can
+[00:00:15] build and deliver satellites on and we
+[00:00:18] concluded that was yet to be at least
+[00:00:20] sort of a,000 to LEO and uh we ended up
+[00:00:23] exceeding that going to about 1,500.
+[00:00:27] Um total cost per launch is about $6.5
+[00:00:30] million all in
+[00:00:33] both stages locks kerosene. Uh one one
+[00:00:36] noteworthy element uh is that the first
+[00:00:39] stage is intended to be reusable. It
+[00:00:40] comes back by a parachute to a water
+[00:00:42] landing. The pricing does not include uh
+[00:00:45] any assumptions for reusability. Um I'm
+[00:00:48] actually fairly confident that
+[00:00:49] reusability will work um provided the
+[00:00:52] parachute opens. I mean, I think
+[00:00:55] if the parachute opens and I I I don't
+[00:00:58] think the seawater is going to hurt the
+[00:01:00] rocket. Um, if you see what it goes
+[00:01:02] through on on the test stand and on the
+[00:01:05] launch pad, uh, where it gets delued
+[00:01:07] with water, um, high pressure water and
+[00:01:11] you know, in in our test stand in Texas,
+[00:01:14] I we've had sleet, snow, uh, rain that's
+[00:01:18] hitting you sideways at 35 miles an
+[00:01:20] hour. um extremely high winds. So I I
+[00:01:25] don't I think if it's provided we get
+[00:01:27] get it back I think it'll actually be
+[00:01:30] require very little refurbishment in
+[00:01:32] order to launch a game.
+[00:01:35] Uh the uh first stage engine which we
+[00:01:39] call Merlin is of of modest performance.
+[00:01:41] I mean one of the things that we haven't
+[00:01:43] tried to do is is try to achieve the
+[00:01:46] highest possible performance. Our goal
+[00:01:48] has been to create something which is a
+[00:01:50] reliable truck essentially rather than a
+[00:01:54] Ferrari. Um so we we haven't produced
+[00:01:58] for instance a you know stage combustion
+[00:02:00] super high ISP engine. This is you need
+[00:02:03] to be pretty good but to to get to orbit
+[00:02:05] at all. Um but you don't have to be you
+[00:02:08] don't really have to push the envelope
+[00:02:10] um any further than we've pushed it
+[00:02:11] here. Um, our upper stage engine also uh
+[00:02:14] locks kerosene and uh similar in
+[00:02:18] architecture to the first stage engine
+[00:02:20] except that it doesn't have a turbo pump
+[00:02:22] and it's a low pressure. The Falcon 1
+[00:02:25] development is really um been winding
+[00:02:27] down now for the past several months and
+[00:02:31] essentially it's almost complete at this
+[00:02:33] point. So the the development focus for
+[00:02:36] about the past year has been more on the
+[00:02:38] the Falcon 5 which is our medium lift
+[00:02:40] vehicle. It has engine out capability.
+[00:02:43] So you can lose any one of the the main
+[00:02:45] engines and still make it to orbit. I
+[00:02:47] think that's actually a very important
+[00:02:48] principle. Uh given that uh airline
+[00:02:52] transportation almost all airliners have
+[00:02:54] multiple engines. So if you lose an
+[00:02:55] engine you don't go down. Um and uh jet
+[00:03:00] turbines are far more reliable than
+[00:03:03] rocket engines. So if that principle
+[00:03:05] makes sense for jet turbines, it really
+[00:03:06] makes sense for rocket engines.
+[00:03:09] Um, and we expect to be able to
+[00:03:12] accommodate up to a 5 meter fairing as
+[00:03:14] well. So it'll have, you know, really
+[00:03:16] put some pretty big stuff up there.
+[00:03:19] What what is the throw weight of Falcon
+[00:03:21] 5 to Mars? Um,
+[00:03:24] well, it depends on which trajectory. I
+[00:03:26] mean the 03 the the 0 C3 number as I
+[00:03:29] recall is about
+[00:03:32] uh 1,200
+[00:03:34] 1 1200 kg something like that. Uh yeah
+[00:03:38] it's like about a ton a little over a
+[00:03:39] ton. I mean basically it's about as
+[00:03:42] capable as the Delta 2 heavy is that
+[00:03:44] sent the Mars exploration rovers there.
+[00:03:47] Um so anything that Delta I could throw
+[00:03:49] to Mars Falcon 5 could throw to Mars.
+[00:03:53] um could you know couldn't really send
+[00:03:56] people if they're alive. Um
+[00:04:00] need something much bigger than that. Um
+[00:04:02] but you could certainly do robotic
+[00:04:04] missions. We don't like to disclose too
+[00:04:06] much ahead of time because well frankly
+[00:04:08] we'd like to it's more a question of
+[00:04:11] sound incredible than anything else
+[00:04:12] because uh we'd like to get some things
+[00:04:14] accomplished before we claim we're going
+[00:04:16] to do other things. Um but uh the plan
+[00:04:20] is um to do a vehicle which is in the
+[00:04:23] class of Delta IV uh after Falcon 5. Um
+[00:04:28] and uh you could you could apply sort of
+[00:04:30] a common booster core approach to that
+[00:04:32] and uh you know encompass the entire
+[00:04:34] range of the the ELV capabilities. So up
+[00:04:37] to about 60,000 to to orbit maybe a
+[00:04:40] little beyond that. Um,
+[00:04:43] I I can say that we'll we'll be
+[00:04:45] announcing something fairly significant
+[00:04:47] later this year as far as much more lift
+[00:04:50] capability than than is currently
+[00:04:52] represented. But we'd like to I' ideally
+[00:04:54] I'd like to have Falcon 1 launch before
+[00:04:56] we make any big announcement in that
+[00:04:59] direction. Um, but you can expect that
+[00:05:01] from a strategy standpoint, we're, you
+[00:05:03] know, call it the 7-Eleven strategy. You
+[00:05:05] know, we're going small, medium, large,
+[00:05:07] and extra large. um or big gulp or
+[00:05:10] whatever it is, super big gulp. Um so,
+[00:05:13] you know, Falcon 1's obviously small,
+[00:05:15] Falcon 5 is medium. We'll have a large
+[00:05:17] and an extra large. Range related stuff
+[00:05:19] is probably I mean, all regulatory stuff
+[00:05:22] combined,
+[00:05:24] I'd say at most 25% of the cost. I mean,
+[00:05:27] it's still it's, you know, material and
+[00:05:30] significant um but it's probably 20 to
+[00:05:32] 25% of the of the total cost associated
+[00:05:35] with both development and launch. the
+[00:05:38] the ablative portion is actually really
+[00:05:39] cheap. I mean, it's it's uh it costs
+[00:05:41] less than one of our main valves on the
+[00:05:43] engine. Um so, uh I want to give away
+[00:05:46] sort of really detailed proprietary
+[00:05:48] numbers, but I can say it's really
+[00:05:49] dimminimous. I mean, it it costs us more
+[00:05:52] to hire the tugboat to go out there than
+[00:05:55] it does to replace the ablative. Then uh
+[00:05:58] as far as uh uh the actual launch date
+[00:06:02] um we think we'll be ready to go as soon
+[00:06:05] as uh the Titan 4 departs which is
+[00:06:08] currently scheduled to be around mid
+[00:06:09] July. So and and that's there's a
+[00:06:12] contingency there both on the on the
+[00:06:14] Titan 4 rocket as well as the payload
+[00:06:15] which is a classified payload. They
+[00:06:17] won't give you specifics when there's
+[00:06:19] classified stuff involved. We expect
+[00:06:21] assuming that they launch in mid July,
+[00:06:23] we we expect the range would give us um
+[00:06:26] a launch because the L the range has to
+[00:06:28] assign a launch day to us. We assume the
+[00:06:30] range would assign a launch day that is
+[00:06:32] within within two or three weeks of the
+[00:06:35] of the Titan 4 departure. So therefore,
+[00:06:38] if Titan 4 left, you know, I'd say
+[00:06:41] basically August would be a good bet. Um
+[00:06:44] and then um as far as Quadrilin, that's
+[00:06:48] actually going very well. We have our
+[00:06:50] own little island there called Amalecch.
+[00:06:52] Uh we expect to have that launch site
+[00:06:54] active and and ready to do something
+[00:06:56] with in the in the late August time
+[00:06:58] frame. So if Titan 4 gets significantly
+[00:07:02] delayed, uh then we'll go out of
+[00:07:03] Quadrulin. And we we expect to actually
+[00:07:05] have two rockets, one one at Bandenberg,
+[00:07:08] one at Quadrulin possibly on the pad at
+[00:07:10] the same time. Actually, we try not to
+[00:07:12] tell anyone outside the space business
+[00:07:14] that it's for a rocket because they
+[00:07:15] assume rockets are made of magic. So,
+[00:07:19] so you know, if you tell them it's for a
+[00:07:21] rocket, they go like, "Well, you know, I
+[00:07:23] don't think I'm quite good enough to do
+[00:07:24] something for a rocket." They're like,
+[00:07:25] "No, it'll be fine." Um,
+[00:07:29] um, so we we generally uh I mean, there
+[00:07:32] are some uh suppliers that or aerospace
+[00:07:35] suppliers that do do a good job. I'd say
+[00:07:38] like Marada Valves does a good job, for
+[00:07:41] example. Um, Spincraft does a good job
+[00:07:44] of spinning domes. you know, there's
+[00:07:46] there's a few. So, I don't want to sort
+[00:07:48] of paint all aerospace supplies with
+[00:07:49] with with the same sort of negative
+[00:07:51] brush. Um, I think there are definitely
+[00:07:53] some good ones out there. Um, but
+[00:07:55] generally we find if if you want
+[00:07:58] something cheap, fast, and it's probably
+[00:08:00] going to work, then you should use a
+[00:08:02] regular commercial supplier. If you want
+[00:08:04] something that's expensive, takes a long
+[00:08:06] time, might work, uh, use an aerospace
+[00:08:09] supplier.
+[00:08:12] you know, we don't want to be the ones
+[00:08:13] begging to use facilities. So, if if if
+[00:08:17] uh if we're going to use a NAS facility,
+[00:08:18] then that NASA facility has to behave
+[00:08:21] like we're the customer. If they don't
+[00:08:23] behave like we're the customer, we're
+[00:08:24] not going to we're not going to work
+[00:08:26] work there. Um and uh you know, if we
+[00:08:29] have to sort of justify why we want to
+[00:08:31] work there, we're definitely not going
+[00:08:33] to work there. Um
+[00:08:35] so uh you know I think just for for pace
+[00:08:39] of execution reasons um because there's
+[00:08:43] also a lot of paperwork involved using
+[00:08:44] NASA facilities uh we've chosen to use
+[00:08:46] our own facilities. Um
+[00:08:49] but I I think like I said for for big
+[00:08:52] stuff or or where you know where that's
+[00:08:54] you know it's one of a kind of test
+[00:08:56] facilities that's uh that's probably
+[00:08:59] where sense to work work with NASA's
