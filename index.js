@@ -42,9 +42,10 @@ app.get('/api/videos/:id/transcript', (req, res) => {
   if (!video) {
     return res.status(404).json({ error: 'Video not found' });
   }
-  const transcriptPath = path.join(TRANSCRIPT_DIR, video.transcript);
+  const transcriptFile = video.transcript ? path.basename(video.transcript) : `${video.id}.txt`;
+  const transcriptPath = path.join(TRANSCRIPT_DIR, transcriptFile);
   if (!fs.existsSync(transcriptPath)) {
-    return res.status(404).json({ error: 'Transcript file not found' });
+    return res.status(404).json({ error: 'Transcript file not found ' + id });
   }
   const content = fs.readFileSync(transcriptPath, 'utf-8');
   res.type('text/plain').send(content);
@@ -69,7 +70,8 @@ app.get('/api/search', (req, res) => {
     let score = 0;
     if (v.title && v.title.toLowerCase().includes(q)) score += 3;
     if (v.description && v.description.toLowerCase().includes(q)) score += 2;
-    const transcriptPath = path.join(TRANSCRIPT_DIR, v.transcript);
+    const transcriptFile = v.transcript ? path.basename(v.transcript) : `${v.id}.txt`;
+    const transcriptPath = path.join(TRANSCRIPT_DIR, transcriptFile);
     let transcriptMatch = false;
     if (fs.existsSync(transcriptPath)) {
       const transcript = fs.readFileSync(transcriptPath, 'utf-8').toLowerCase();
@@ -84,7 +86,8 @@ app.get('/api/search', (req, res) => {
     .sort((a, b) => b.score - a.score)
     .map(r => {
       // Return snippet of transcript if available
-      const transcriptPath = path.join(TRANSCRIPT_DIR, r.video.transcript);
+      const transcriptFile = r.video.transcript ? path.basename(r.video.transcript) : `${r.video.id}.txt`;
+      const transcriptPath = path.join(TRANSCRIPT_DIR, transcriptFile);
       let snippet = '';
       if (fs.existsSync(transcriptPath)) {
         const transcript = fs.readFileSync(transcriptPath, 'utf-8');
