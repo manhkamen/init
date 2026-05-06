@@ -1,0 +1,316 @@
+[00:00:00] welcome big hand to Elon
+[00:00:03] Musk thank you thanks oh how are you
+[00:00:07] good
+[00:00:10] fantastic we have we have had two we
+[00:00:13] have two days of AI and geni and
+[00:00:16] whatsoever but you look real my head is
+[00:00:18] very big in the screen added reality too
+[00:00:20] I suppose we haven't had so much talk
+[00:00:22] about AI in these two days so we need
+[00:00:25] your opinion what do you think about the
+[00:00:27] next 5 to 10 years on AI please give us
+[00:00:29] a you artificial insemination elligence
+[00:00:32] what do you think about
+[00:00:35] that but try try audience I say um yes
+[00:00:40] artificial intelligence is is is
+[00:00:43] certainly going to profoundly change the
+[00:00:44] world one of the most significant ways
+[00:00:46] is self-driving so we've been putting a
+[00:00:49] lot of effort into self-driving
+[00:00:51] technology for cars you you don't see it
+[00:00:53] quite as much in Europe because we we
+[00:00:55] first have to make it work in the US
+[00:00:57] before we increase the complexity of
+[00:00:59] trying to make it elsewhere in the world
+[00:01:01] but I think we're quite close to having
+[00:01:03] the car be fully autonomous so for
+[00:01:05] example like right now I could I'm in
+[00:01:07] Austin and if I went to drive say to the
+[00:01:10] airport the car could take me to the
+[00:01:11] airport with no interventions using and
+[00:01:14] all it's using are digital Neal Nets
+[00:01:17] other words artificial intelligence and
+[00:01:19] ceras so there's no liar radar nothing
+[00:01:21] and in fact if you think about how
+[00:01:23] humans drive cars humans are biological
+[00:01:25] neural Nets and we use eyes so it's eyes
+[00:01:28] and biological neur neets the analog is
+[00:01:31] digital the analog for digital is
+[00:01:34] cameras and digital neuron Nets this is
+[00:01:36] working remarkably well the it has been
+[00:01:38] quite difficult to do this because turns
+[00:01:40] out that in order to use in order for
+[00:01:42] this to work the car has to really be
+[00:01:45] quite fully intelligent really as as a
+[00:01:47] subset for example has to learn how to
+[00:01:48] read everything and and and how to
+[00:01:51] assess intention among drivers and
+[00:01:53] pedestrians so it's it's you're end up
+[00:01:56] creating sort of a baby artificial
+[00:01:58] general intelligence to solve this but
+[00:02:01] this will obviously be extremely
+[00:02:02] profound and obvious I'm talking about
+[00:02:04] Automotive here I'll get into the
+[00:02:05] broader question in a minute but the the
+[00:02:08] average use of a passenger vehicle is
+[00:02:10] only about 10 hours per week out of
+[00:02:13] hours the point at which it is
+[00:02:15] autonomous I think You' see probably a
+[00:02:17] third of the hours being used because it
+[00:02:19] would be like a taxi maybe my guess is
+[00:02:21] like 50 to 60 hours which means that the
+[00:02:24] utility of a passenger vehicle would
+[00:02:26] increase by uh a factor of five and this
+[00:02:29] is this is gigantic but we'll see so
+[00:02:32] that that's the one motive then there's
+[00:02:33] what people have think have certainly
+[00:02:35] experienced online where you can ask it
+[00:02:37] a question and ask for an essay or a
+[00:02:39] picture or to understand a picture and
+[00:02:41] that is progressing rapidly what what
+[00:02:43] I'm seeing in terms of AI compute is
+[00:02:47] I've never seen any technology Advance
+[00:02:48] faster than this the the artificial
+[00:02:50] intelligence compute coming online
+[00:02:52] appears to be increasing by a factor of
+[00:02:54] 10 every 6 months like obviously that
+[00:02:57] cannot continue at at such a high rate
+[00:02:59] for forever or will exceed the mass of
+[00:03:01] the universe but I've never seen
+[00:03:02] anything like it and this is why you see
+[00:03:04] nvidia's market cap being so gigantic CU
+[00:03:08] they currently have the best neural net
+[00:03:10] chips I mean I think the didn't nvidia's
+[00:03:12] market cap exceed the GDP of Canada or
+[00:03:14] something increasingly anyway it was
+[00:03:16] quite high so yeah you know it may go
+[00:03:18] higher who knows chip Rush is bigger
+[00:03:21] than any Gold Rush that has ever existed
+[00:03:25] so and then there will also be robots
+[00:03:27] like humanoid humanoid robots not not
+[00:03:29] just sort industrial industrial robots
+[00:03:31] are of course familiar with you use
+[00:03:32] industrial robots we use industrial
+[00:03:34] robots everyone does but they're
+[00:03:36] programmed explicitly and they they
+[00:03:38] don't walk around but Tesla with for
+[00:03:40] example the Optimus program is making a
+[00:03:43] humanoid robot that is capable of doing
+[00:03:47] almost anything a human can do um I mean
+[00:03:51] I hope I just hope the the robots are
+[00:03:52] nice to us you know we hope so we hope
+[00:03:55] so too youon that the robots will be
+[00:03:57] nice to us and maybe let's say in this
+[00:03:59] regard because you are working on what
+[00:04:02] can we expect of let's say support which
+[00:04:06] is going to come maybe also a little bit
+[00:04:09] with regard to production because in the
+[00:04:12] BOS connected world we were also
+[00:04:13] discussing application of AI gen AI into
+[00:04:18] production in order to Bo productivity
+[00:04:21] maybe a couple of thoughts on this one
+[00:04:25] too well the plus side of AI is that I
+[00:04:28] think productivity will increase
+[00:04:30] dramatically so across every field
+[00:04:33] whether it be manual labor to supply
+[00:04:35] chain Logistics there's already a lot of
+[00:04:38] movement to use chatbots like
+[00:04:39] sophisticated chatbots for customer
+[00:04:42] service for example where they can
+[00:04:43] answer quite quite complex questions
+[00:04:46] already but I mean I think we really are
+[00:04:48] on the edge of probably the biggest
+[00:04:50] technology Revolution that has ever
+[00:04:51] existed you know there's supposedly sort
+[00:04:53] of a Chinese curse may you live in
+[00:04:55] interesting times Well we live in the
+[00:04:57] most interesting of times the most most
+[00:04:59] interesting and for for a while I was a
+[00:05:01] little bit it was making me bit a bit
+[00:05:03] depressed frankly cuz I was like well
+[00:05:05] will we be will they take over will we
+[00:05:07] be useless but then the way that I
+[00:05:08] reconciled myself to this question was
+[00:05:10] would I rather be alive to see AI
+[00:05:13] apocalypse or not I'm like I guess I'd
+[00:05:15] like to see this
+[00:05:20] uh you know that's a good thought going
+[00:05:23] to be boring that's a good thought
+[00:05:25] because you mentioned every six months
+[00:05:26] that's an exponential curve right
+[00:05:28] exponential curves are beautiful but
+[00:05:29] there's kind of a question where does it
+[00:05:31] ever end right do you see any end yet or
+[00:05:34] will it go on for 3 four five years like
+[00:05:36] this because then we talk 100 folds
+[00:05:37] right thousand folds of time yeah that's
+[00:05:40] why I said obviously yeah I mean you you
+[00:05:43] can't you can't grow at that rate
+[00:05:45] without quickly exceeding the mass of
+[00:05:46] the universe so clearly it's going to
+[00:05:49] hit some constraints the constraints
+[00:05:51] that AI compute and very predictable
+[00:05:53] I've actually predicted this over a year
+[00:05:54] ago so over a year ago the shortage was
+[00:05:56] chips neural net chips then I it was
+[00:05:59] very easy for predict that the next
+[00:06:00] shortage will be voltage step down
+[00:06:02] Transformers so it's you you've got to
+[00:06:04] feed the power to these things so if
+[00:06:06] you've got 100 to 300 Kilts coming out
+[00:06:09] of a utility and it's got to step all
+[00:06:11] the way down to you know6 volts that's a
+[00:06:13] lot of stepping down so now we're in
+[00:06:16] step down and this is my not that funny
+[00:06:18] joke which is that they need
+[00:06:20] Transformers to run Transformers cuz you
+[00:06:22] know the AI is like there's this thing
+[00:06:23] called a transformer in AI it's a it's a
+[00:06:25] neur a neural I don't know it's a
+[00:06:27] combination of sort of neural Nets and
+[00:06:29] they're running out of Transformers to
+[00:06:30] run Transformers then the next shortage
+[00:06:32] will be electricity so I think next year
+[00:06:34] you'll see the electricity that they
+[00:06:36] just can't find enough electricity run
+[00:06:37] all the chips I mean during the chip
+[00:06:39] crisis we certainly all did have many
+[00:06:41] contacts fortunately we were able to
+[00:06:44] master it together of course we all
+[00:06:46] would like uh to avoid a second chip
+[00:06:49] crisis but with regard to your to your
+[00:06:51] comment on on power demand we all know
+[00:06:54] today vehicles have 3 to 4 kilowatt
+[00:06:58] power Dem demand for the peripherals but
+[00:07:01] this is continuously going up and teslam
+[00:07:04] has recently launched the Cyber truck
+[00:07:06] which I believe is mostly coming with 48
+[00:07:09] volt do you see this as a let's say
+[00:07:11] further disruption of automotive
+[00:07:14] industry another technology change
+[00:07:17] within Automotive yeah I I think you
+[00:07:19] know the automotive industry has been
+[00:07:21] living with 12 volts for a very long
+[00:07:23] time a century roughly I think it
+[00:07:25] started off as six bolts and then they
+[00:07:28] needed a a more powerful starter motor
+[00:07:31] and then they doubled it to 12 volts
+[00:07:32] although it's it's actually more like
+[00:07:35] 13.7 volts you're right absolutely yeah
+[00:07:38] and and the bus voltage actually varies
+[00:07:40] a lot for those since probably some
+[00:07:42] electrical engineers in the audience
+[00:07:44] like 12 volts is a very rough
+[00:07:45] approximation but it's it's it's really
+[00:07:47] it's really kind of a arbitrary low
+[00:07:50] voltage and if you look at say power
+[00:07:52] ethernet it's running at 50 volts or
+[00:07:54] roughly 48 volts and we set it at 4 48
+[00:07:57] volts because anything really above that
+[00:07:58] you start to run into regulatory
+[00:08:00] concerns and power ethernet is like I
+[00:08:02] said roughly at that level but the
+[00:08:04] advantage of obviously quadrupling the
+[00:08:06] voltage is that you can substantially
+[00:08:08] reduce how much copper or conductor is
+[00:08:10] used in the car so you can use very
+[00:08:12] small copper wires for you know it's
+[00:08:15] rough roughly a roughly a quarter not
+[00:08:17] exactly a quarter but roughly a quarter
+[00:08:19] as much as as much copper is needed for
+[00:08:22] 48 volts as 412 so I think it's it's a
+[00:08:25] logical move that's that's really the
+[00:08:27] next step for the low voltage
+[00:08:28] architecture for the car I think
+[00:08:30] ultimately long-term War cars will be 48
+[00:08:32] it's it's interesting that many people
+[00:08:34] love electric vehicles and want to have
+[00:08:36] them but some are harmed by a missing
+[00:08:38] infrastructure that would be the same
+[00:08:40] actually as the other thing we will have
+[00:08:42] lots of chips ready but we will have had
+[00:08:44] the power to to operate them there's a
+[00:08:46] race between infrastructure and
+[00:08:48] Technology right now and uh you're also
+[00:08:50] certain technology may win which is a
+[00:08:52] problem because actually infrastructure
+[00:08:54] should win we should have all the
+[00:08:55] infrastructure we need is that correct
+[00:08:57] yeah are you talking about like sort of
+[00:08:58] charg infrastructure for cars and that
+[00:09:00] kind of thing well the the reason Tesa
+[00:09:03] developed the sort of global supercharge
+[00:09:05] network was specifically to address that
+[00:09:07] point and the point you're making which
+[00:09:09] is people need to be comfortable that
+[00:09:10] they can travel long distances and
+[00:09:12] charge their car wherever they go
+[00:09:14] unfortunately electricity is almost
+[00:09:16] everywhere and so it you know it's not
+[00:09:19] not all that rare unless you're really
+[00:09:20] far out in the countryside or something
+[00:09:22] so yeah you need the super need you need
+[00:09:24] the charging infrastructure and the
+[00:09:26] electricity to charge electric cars in
+[00:09:28] fact the the the simultaneous growth of
+[00:09:30] electric cars and AI both of which need
+[00:09:33] electricity both of which need voltage
+[00:09:35] Transformers actually I think is
+[00:09:37] creating a tremendous demand for
+[00:09:39] electrical equipment and for electrical
+[00:09:41] power generation maybe one more question
+[00:09:44] Elon with regard to new vehicle designs
+[00:09:47] coming to the market of course you
+[00:09:49] cannot share with us confidential
+[00:09:51] Secrets but but anyways what are the
+[00:09:54] things you believe let's say we will see
+[00:09:56] over the next years in the market and
+[00:09:59] maybe just a small comment in Europe we
+[00:10:02] see a shortage of affordable battery
+[00:10:05] electric vehicles in the offerings uh
+[00:10:07] because many people in Europe are only
+[00:10:10] able to spend like 20,000 25,000 for
+[00:10:14] their vehicles so so what are the new
+[00:10:17] vehicle types vehicle designs you you
+[00:10:19] are thinking about at Tesla well our
+[00:10:22] next Generation vehicle will be a a low
+[00:10:26] a lower cost vehicle also that is very
+[00:10:28] focused on a
+[00:10:29] like I said the we really are getting to
+[00:10:32] the point where the car can drive itself
+[00:10:34] well when you're in the in the US I
+[00:10:36] would recommend perhaps giving you know
+[00:10:38] trying out our car and see seeing how it
+[00:10:40] works it's remarkable you know as the AI
+[00:10:42] gets better and better it actually feels
+[00:10:44] quite humanlike in the way that it
+[00:10:46] drives it does things that you wouldn't
+[00:10:48] expect a computer to do it's it's not
+[00:10:50] like a robot dancing you know it's like
+[00:10:52] it feels smooth and and intuitive so our
+[00:10:55] next Generation vehicle which're quite
+[00:10:57] far along on is is very much
+[00:10:59] anticipating autonomy and then of course
+[00:11:02] we've got some fun things as well like
+[00:11:03] on our the new Tesla roads which will be
+[00:11:07] able to do 0 to 100 kilm in under 1
+[00:11:10] second great thank you very much you
+[00:11:12] know that's good we need that's good
+[00:11:14] news that's do some fun stuff too you
+[00:11:17] know that's the that's the that's the
+[00:11:18] dessert that's the cherry on the cake
+[00:11:20] but it's it's fun you're going to have
+[00:11:21] fun stuff too yeah right no that's very
+[00:11:24] good news because in the end there's a
+[00:11:25] lot of people here in the room that
+[00:11:27] still on the list to buy an electric
+[00:11:29] vehicle and you just announced something
+[00:11:30] which they probably want to buy so thank
+[00:11:32] you very much thank you very much and
+[00:11:36] thank you extremely for 15 years of
+[00:11:38] partnership and work together we're
+[00:11:40] inspired Always by your speed attitude
+[00:11:42] or graphicness and things come out thank
+[00:11:44] you very much T must all right and thank
+[00:11:46] you for your support very very much
+[00:11:47] appreciated

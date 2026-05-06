@@ -1,0 +1,1383 @@
+[00:00:00] so all of a sudden AI is everywhere
+[00:00:01] people who weren't quite sure what it
+[00:00:03] was or playing with it on their phones
+[00:00:04] is that good or bad yeah so I've been
+[00:00:07] um thinking about AI for a long time
+[00:00:09] since I was in college really
+[00:00:11] um it was one of the things that the
+[00:00:13] sort of four or five things I thought
+[00:00:14] would really uh affect future
+[00:00:15] dramatically it is fundamentally
+[00:00:18] profound in that the
+[00:00:20] the smartest creatures as far as you
+[00:00:22] know on this Earth are humans is uh
+[00:00:25] defining characteristic yes we're
+[00:00:27] obviously uh weaker than say chimpanzees
+[00:00:30] and less agile
+[00:00:32] um but real smarter
+[00:00:34] so
+[00:00:36] now what happens when something
+[00:00:39] vastly smarter than the smartest person
+[00:00:42] comes along in Silicon foam it's very
+[00:00:45] difficult to predict what will happen in
+[00:00:46] that circumstance it's called The
+[00:00:48] Singularity it's a singularity like a
+[00:00:50] black hole because you don't know what
+[00:00:53] happens after that it's hard to predict
+[00:00:55] so I think we should be cautious with AI
+[00:00:59] and we should
+[00:01:01] I think there should be some
+[00:01:03] government oversight because it affects
+[00:01:06] the it's a danger to the public and so
+[00:01:09] when you when you have things that are
+[00:01:10] endangered to the public uh
+[00:01:13] you know like let's say
+[00:01:15] um
+[00:01:15] so Food Food and Drugs That's why we
+[00:01:18] have the Food and Drug Administration
+[00:01:19] right and the Federal Aviation
+[00:01:21] Administration uh the FCC
+[00:01:24] uh we have we have these agencies to
+[00:01:27] oversee things that uh affect the public
+[00:01:30] where they could be public harm
+[00:01:33] um and you don't want companies cutting
+[00:01:35] Corners uh on safety
+[00:01:39] um and then having people suffer as a
+[00:01:42] result so that's why I've actually for a
+[00:01:45] long time been a strong advocate of AI
+[00:01:48] regulation
+[00:01:50] um so that I think regulation is
+[00:01:53] uh you know it's not fun to be regulated
+[00:01:56] it's a sort of some sort of a
+[00:01:59] I saw an arduous to be able to be
+[00:02:01] regulated
+[00:02:02] um I have a lot of experience with
+[00:02:03] regular regulated Industries because
+[00:02:05] obviously uh Automotive is highly
+[00:02:07] regulated you could fill this room with
+[00:02:09] all the regulations that are required
+[00:02:11] for a production car just in the United
+[00:02:13] States and then there's a whole
+[00:02:15] different set of regulations in Europe
+[00:02:16] and China and the rest of the world so
+[00:02:20] very familiar with being overseen by a
+[00:02:22] lot of regulators
+[00:02:23] um and the same thing is true with
+[00:02:25] rockets you can't just willy-nilly you
+[00:02:27] know shoot rockets off or not big ones
+[00:02:29] anyway because the FAA is oversees that
+[00:02:34] um and then even to get a launch license
+[00:02:36] you there are
+[00:02:37] probably half a dozen or more federal
+[00:02:40] agencies that need to approve it uh plus
+[00:02:42] state agencies so it's I've been through
+[00:02:45] so many regulatory
+[00:02:47] uh situations it's insane and and but
+[00:02:49] you know sometimes I I people think I'm
+[00:02:52] some sort of like
+[00:02:53] regulatory Maverick that sort of defies
+[00:02:55] Regulators on a regular basis but this
+[00:02:58] is actually not the case uh so uh in you
+[00:03:03] know once in a blue moon rarely I will
+[00:03:05] disagree with Regulators but the vast
+[00:03:07] majority of the time my companies agree
+[00:03:10] with the regulations and comply
+[00:03:12] yes anyway so I think I think we should
+[00:03:15] take this seriously and and we should
+[00:03:17] have
+[00:03:18] um a regulatory agency I think it needs
+[00:03:21] to start with
+[00:03:22] um a group that initially seeks insight
+[00:03:25] into AI uh then solicits opinion from
+[00:03:30] industry and then has proposed rule
+[00:03:33] making and then those rules
+[00:03:35] you know uh we'll probably hopefully
+[00:03:37] gradually be accepted by
+[00:03:40] the major players in Ai and um
+[00:03:45] and I think we'll have a better chance
+[00:03:48] of
+[00:03:50] um Advanced AI being beneficial to
+[00:03:52] humanity in that circumstance but all
+[00:03:54] regulations start with a perceived
+[00:03:56] danger and planes fall out of the sky or
+[00:03:58] food causes botulism yes I don't think
+[00:04:00] the average person playing with AI on
+[00:04:02] his iPhone perceives any danger can you
+[00:04:04] just roughly explain what you think the
+[00:04:06] dangers might be
+[00:04:08] yeah so the the the the danger really AI
+[00:04:12] is
+[00:04:13] um
+[00:04:14] perhaps uh
+[00:04:17] more dangerous than say mismanaged uh
+[00:04:21] aircraft design or production
+[00:04:23] maintenance or or bad car production in
+[00:04:26] the sense that it is
+[00:04:28] it has the potential however small one
+[00:04:30] make regard that probability but it is
+[00:04:32] non-trivial it has the potential of
+[00:04:35] civilizational Destruction
+[00:04:37] there's movies like Terminator but it
+[00:04:38] wouldn't quite happen like Terminator
+[00:04:40] um because the the intelligence would be
+[00:04:42] in the data centers right the robot's
+[00:04:44] just the end effector
+[00:04:46] but I think perhaps what you may be
+[00:04:48] alluding to here is that
+[00:04:50] um
+[00:04:51] regulations are really only put into
+[00:04:52] effect after something terrible has
+[00:04:54] happened that's correct if that's the
+[00:04:56] case for AI and we only putting
+[00:04:57] regulations after something terrible has
+[00:04:59] happened it may be too late to actually
+[00:05:01] put the regulations in place the AI may
+[00:05:03] be in control at that point you think
+[00:05:06] that's real it is it is conceivable that
+[00:05:09] AI could take control and reach a point
+[00:05:11] where you couldn't turn it off and it
+[00:05:12] would be making
+[00:05:13] the decisions for people yeah absolutely
+[00:05:17] absolutely no it's that's that's
+[00:05:19] definitely the way things are headed
+[00:05:21] uh for sure uh
+[00:05:24] I mean um
+[00:05:26] things like like say uh chat EVT which
+[00:05:28] is uh based on jpd4 from openai which is
+[00:05:31] the company that I
+[00:05:33] played a a critical role in in creating
+[00:05:36] unfortunately back when it was a
+[00:05:38] non-profit
+[00:05:39] yes
+[00:05:40] um
+[00:05:41] I mean the the reason uh opening eye
+[00:05:45] exists at all is that
+[00:05:46] um
+[00:05:47] Larry Page and I used to be close
+[00:05:49] friends and I would stay at his house in
+[00:05:50] Palo Alto and I would talk to him later
+[00:05:53] tonight about uh AI safety and at least
+[00:05:57] my perception was that Larry was not
+[00:05:59] taking uh AI safety uh seriously enough
+[00:06:02] um and um what did he say about it he
+[00:06:05] really seemed to be
+[00:06:07] um
+[00:06:08] sort of digital super intelligence
+[00:06:11] basically digital God if you will uh as
+[00:06:14] soon as possible um he wanted that
+[00:06:17] yes he's made many public statements
+[00:06:19] over the years uh that that the whole
+[00:06:21] goal of Google is uh what's called AGI
+[00:06:24] artificial general intelligence or
+[00:06:25] artificial super intelligence you know
+[00:06:27] and I agree with him that the there's
+[00:06:29] great potential for good
+[00:06:31] um but there's also potential for bad
+[00:06:33] and so if if you've got some
+[00:06:36] um radical new technology you want to
+[00:06:37] try to take a set of actions that
+[00:06:39] maximize probably it will do good a
+[00:06:42] minimize probably will do bad things yes
+[00:06:44] it can't just be Health leather let's
+[00:06:46] just go you know barreling forward and
+[00:06:49] you know hope for the best and then at
+[00:06:51] one point uh I said well what about you
+[00:06:54] know we're going to make sure humanity
+[00:06:55] is okay here um
+[00:06:58] and and
+[00:07:00] um
+[00:07:01] uh and they called me a speciesist
+[00:07:03] [Laughter]
+[00:07:06] that term yes
+[00:07:08] and there were Witnesses the other I
+[00:07:10] wasn't the only one there when you
+[00:07:11] called me a specialist and so I was like
+[00:07:13] okay that's it uh I've yes I'm a
+[00:07:16] speciesist okay you got me
+[00:07:19] what are you
+[00:07:21] yeah I'm fully specious um
+[00:07:24] busted
+[00:07:26] um
+[00:07:27] so
+[00:07:28] um that was the last rule at the time uh
+[00:07:31] Google uh had a quite Deep Mind and so
+[00:07:34] Google deepmind together had about three
+[00:07:35] quarters of all the AI talents in the
+[00:07:37] world they obviously had a trans amount
+[00:07:39] of money and more computers than anyone
+[00:07:41] else so I'm like okay we're about
+[00:07:43] unipolar world here where there's just
+[00:07:46] one one company that it has
+[00:07:49] close to Monopoly on AI talent and uh
+[00:07:52] and computers like so scaled Computing
+[00:07:56] and a person who's in charge doesn't
+[00:07:58] seem to care about safety this is not
+[00:08:00] good so uh so then I thought what's the
+[00:08:04] the furthest thing from Google would be
+[00:08:06] like a non-profit that is fully open
+[00:08:08] because Google was closed for profit so
+[00:08:11] that's why the open and open AI refers
+[00:08:13] to open source uh you know transparency
+[00:08:16] so people know what's going on yes and
+[00:08:18] that it we don't want to have like a uh
+[00:08:21] I mean well I'm normally in favor of for
+[00:08:23] profit we don't want this to be sort of
+[00:08:24] a profit maximizing a demon from hell
+[00:08:27] that's right that just never stops right
+[00:08:30] so that's how I open air was so you want
+[00:08:33] specious incentives here incentives that
+[00:08:36] yes I think we want to pro-human yeah
+[00:08:38] this makes the future good for the
+[00:08:40] humans yes yes because we're humans so
+[00:08:43] can you just put it I keep pressing it
+[00:08:45] but just just for people who haven't
+[00:08:46] thought this through and aren't familiar
+[00:08:47] with it
+[00:08:48] and the cool parts of of artificial
+[00:08:51] intelligence are so obvious you know
+[00:08:54] write your college paper for you write a
+[00:08:55] limerick about yourself like there's a
+[00:08:57] lot there that's fun
+[00:08:59] and useful
+[00:09:01] can you be more precise about what's
+[00:09:02] potentially dangerous and scary like
+[00:09:05] what could it do what specifically are
+[00:09:07] you worried about
+[00:09:09] going with old sayings the pen is
+[00:09:11] mightier than the sword
+[00:09:12] um so the if you have a super
+[00:09:15] intelligent AI that is capable of
+[00:09:18] writing uh incredibly well and in a way
+[00:09:21] that is very influential
+[00:09:24] um you know convincing
+[00:09:26] and then and as and is constantly
+[00:09:29] figuring out what is more what is more
+[00:09:31] and what is more convincing to people
+[00:09:32] over time and then enter social media
+[00:09:35] for example Twitter uh but also Facebook
+[00:09:38] and others you know um
+[00:09:40] and and potentially manipulates public
+[00:09:42] opinion in a way that is very bad
+[00:09:45] um
+[00:09:46] how would we even know
+[00:09:47] what's happening is they're training the
+[00:09:48] AI to lie yes it's bad to lie that's
+[00:09:52] exactly right and to withhold
+[00:09:53] information July and and yes and um
+[00:09:58] yeah exactly to to either you know
+[00:10:00] comment on some things not comments on
+[00:10:02] other things but but not to say what it
+[00:10:05] what what the data uh actually uh
+[00:10:08] demands that I'd say exactly um so
+[00:10:12] um how did it get this way you funded it
+[00:10:14] at the beginning what happened yeah well
+[00:10:17] that would be ironic but Faith the most
+[00:10:18] ironic outcome is most likely it seems
+[00:10:22] um
+[00:10:24] that's good that's actually a friend of
+[00:10:26] mine Jonah came up with that one I
+[00:10:28] actually have a slight variant on that
+[00:10:29] which is the most entertaining outcome
+[00:10:30] is the most likely but that's
+[00:10:32] entertaining as viewed from a third
+[00:10:33] party viewer right like uh so if we're
+[00:10:36] like an alien for my show yes
+[00:10:39] um like you could go see a movie about
+[00:10:40] World War one and they're being blown to
+[00:10:42] bits and the gas and everything and the
+[00:10:43] trenches and it's like you're eating
+[00:10:45] popcorn and having a soda you know it's
+[00:10:47] fine not so great for the people in the
+[00:10:49] movie True this little Occam's razor the
+[00:10:51] simplest explanation is most likely
+[00:10:52] donors variant uh which is um irony in
+[00:10:56] and my variant which is uh
+[00:10:58] the most entertaining as seen by a
+[00:11:01] third-party audience which seems to be
+[00:11:04] mostly true
+[00:11:05] um but it seems true in this case so you
+[00:11:07] gave them did you give them a lot I hear
+[00:11:09] it with the name and uh the concept and
+[00:11:11] pushed uh it had a number of dinners
+[00:11:13] around the the Bay Area uh with uh you
+[00:11:17] know with some of the people the leading
+[00:11:19] figures in AI
+[00:11:21] um and I helped recruit the initial team
+[00:11:25] in fact the the Elia suits guy who who
+[00:11:29] was uh really quite fundamental to the
+[00:11:32] success of uh open AI uh it was
+[00:11:37] I I I put a trans amount of effort into
+[00:11:40] recruiting Ilia and he changed his mind
+[00:11:42] a few times ultimately decided to go
+[00:11:44] with the opening high but if he had not
+[00:11:45] gone without any open air would not have
+[00:11:47] succeeded I really put a lot a lot of
+[00:11:51] effort into creating this this
+[00:11:52] organization to serve as a counterweight
+[00:11:53] to Google
+[00:11:54] and then I kind of took mine off the
+[00:11:55] ball I guess and uh
+[00:11:58] they are now closed source
+[00:12:02] and
+[00:12:04] they are obviously for-profit and
+[00:12:06] they're
+[00:12:07] um
+[00:12:07] closely allied with Microsoft uh you
+[00:12:10] know in effect Microsoft uh
+[00:12:13] has a very strong say if not
+[00:12:16] um
+[00:12:17] directly controls uh openai at this
+[00:12:19] point so you really have an open air
+[00:12:21] Microsoft situation and then at Google
+[00:12:23] deepmind uh the other two sort of
+[00:12:26] heavyweights in this Arena
+[00:12:28] so it seems like the world needs a third
+[00:12:31] option yes
+[00:12:34] so I I I think I will
+[00:12:38] create a third option
+[00:12:40] um although it's starting very late in
+[00:12:41] the game of course
+[00:12:42] can it be done I don't know I think it's
+[00:12:44] we'll see it's uh
+[00:12:46] it's definitely starting late
+[00:12:48] um
+[00:12:50] but I will I will I'll try to create a
+[00:12:52] third option
+[00:12:54] um and that third option
+[00:12:56] hopefully does more more good than harm
+[00:12:58] uh like the intention with opening eye
+[00:13:00] was obviously to do it good but it's not
+[00:13:03] clear whether it's actually doing good
+[00:13:05] or whether it's
+[00:13:06] I can't tell at this point um except
+[00:13:09] that I'm worried about the fact that uh
+[00:13:12] it's been it's being trained to be
+[00:13:14] politically correct which is simply
+[00:13:15] another way of of being on Truth saying
+[00:13:17] untruthful things yes so that's that's a
+[00:13:20] bad sign
+[00:13:21] there's certainly a path to AI dystopia
+[00:13:23] is to train an AI to be deceptive so
+[00:13:25] yeah I'm going to start something which
+[00:13:27] I know you're called Truth gbt or uh a
+[00:13:31] maximum truth seeking AI
+[00:13:33] that tries to understand the nature of
+[00:13:35] the universe and I think this this might
+[00:13:37] be the best path to Safety in the sense
+[00:13:38] that uh an AI that cares about
+[00:13:42] understanding the universe uh it is
+[00:13:45] unlikely to annihilate humans because we
+[00:13:47] are an interesting part of the universe
+[00:13:49] uh hopefully they would think that I I
+[00:13:52] think you know because yeah like like we
+[00:13:55] like Humanity could
+[00:13:58] um decide to hunt down all the
+[00:13:59] chimpanzees and kill them but we don't
+[00:14:01] because we're we're actually glad that
+[00:14:03] they exist yes and um and we aspire to
+[00:14:06] protect their habitats but we feel that
+[00:14:08] way because we have souls and that makes
+[00:14:10] us sentimental and reflective it gives
+[00:14:13] us a moral sense
+[00:14:15] longings can a machine ever have those
+[00:14:18] things can a machine be sentimental
+[00:14:20] can appreciate Beauty
+[00:14:24] well I mean we're getting into some
+[00:14:27] you know philosophical areas that are
+[00:14:29] hard to resolve
+[00:14:31] um
+[00:14:33] you know I I take somewhat of a
+[00:14:35] scientific view of things which is that
+[00:14:37] we might have a soul or we might not
+[00:14:39] have a soul I don't know
+[00:14:40] um it feels like a we have I feel like
+[00:14:42] I've got some sort of
+[00:14:44] Consciousness that exists on a plane
+[00:14:47] um that is not the one we observe yes
+[00:14:49] that is certainly how I feel but it
+[00:14:51] could be an illusion I don't know
+[00:14:53] um but for
+[00:14:55] um
+[00:14:56] for AI uh
+[00:14:58] in terms of of uh understanding beauty
+[00:15:01] is it some sort of appreciated Beauty
+[00:15:03] and being able to
+[00:15:04] um
+[00:15:06] create incredibly beautiful art yes will
+[00:15:09] AI be able to create incredibly
+[00:15:10] beautiful art it already does yes and if
+[00:15:13] you see some of the majority uh I have
+[00:15:15] this stuff it's incredible it is
+[00:15:17] um so
+[00:15:19] um no no question that it can create art
+[00:15:22] that we that we perceive as uh
+[00:15:26] stunning really
+[00:15:28] um and
+[00:15:30] um it's doing so it's still images now
+[00:15:32] but it won't be long before it's doing
+[00:15:34] uh movies and
+[00:15:36] shorts and you know like movies just a
+[00:15:39] series of frames with audio but at that
+[00:15:41] point because it can mimic people and
+[00:15:44] voices any image it can mimic reality
+[00:15:46] itself so effectively
+[00:15:50] I mean how could you have a criminal
+[00:15:51] trial
+[00:15:53] I mean how could you ever believe that
+[00:15:55] evidence was authentic for example
+[00:15:57] and I don't mean like in 30 years I mean
+[00:15:59] like next year I mean that seems totally
+[00:16:02] disruptive to the way to all of our
+[00:16:04] institutions but I'm not sure I I think
+[00:16:07] it's more like
+[00:16:09] um our you know will Humanity
+[00:16:13] um control its Destiny or not will we
+[00:16:16] have a future that is better than the
+[00:16:19] past or not
+[00:16:21] [Music]
+[00:16:22] you bought Twitter famously you've got a
+[00:16:25] lot of other businesses and a lot going
+[00:16:27] on yes you said you bought it because
+[00:16:29] you believe in speech Free Speech you've
+[00:16:32] had a lot of hassle since you bought it
+[00:16:34] and retrospect was it worth buying it
+[00:16:37] I mean it remains to be seen as to
+[00:16:39] whether this was uh financially smart uh
+[00:16:42] currently it is it is not uh you know we
+[00:16:45] just revalued the company at less than
+[00:16:46] half of the acquisition price yes
+[00:16:50] um
+[00:16:53] um no my timing was terrible for for
+[00:16:56] when the uh offer was made because it
+[00:16:59] was uh you know right before advertising
+[00:17:02] plummeted and um you cut the high water
+[00:17:04] mark I noticed yeah
+[00:17:06] yeah so I must be a real genius here
+[00:17:09] um my my timing is amazing
+[00:17:13] um since I played a porter for at least
+[00:17:14] twice as much as it should have been
+[00:17:16] bought for
+[00:17:17] um but some things are Priceless and um
+[00:17:20] so the the whether I lose money or not
+[00:17:23] that is a secondary issue compared to uh
+[00:17:25] ensuring the uh strength of democracy
+[00:17:29] and free speech is the Bedrock of a
+[00:17:31] functioning democracy yes um and any the
+[00:17:34] speech needs to be as
+[00:17:36] transparent and truthful as possible
+[00:17:39] um so we've got a huge push uh on
+[00:17:42] Twitter to be as truthful as possible
+[00:17:44] we've got this community notes feature
+[00:17:45] which is great it is great it is awesome
+[00:17:48] yeah and it's like I saw it this morning
+[00:17:50] yeah it was far more honest than the New
+[00:17:52] York Times it's great yeah we put a lot
+[00:17:54] of effort to ensuring that Community
+[00:17:56] notes does not get gamed or or have
+[00:17:58] biases it is simply cares about what is
+[00:18:01] the most accurate thing
+[00:18:03] um and you know sometimes truth can be a
+[00:18:05] little bit elusive but but you can still
+[00:18:07] aspire to get closer to it yes you know
+[00:18:09] and so
+[00:18:11] um
+[00:18:12] and I think the the effect of uh
+[00:18:14] Community notes uh is more powerful than
+[00:18:17] people may realize because once people
+[00:18:18] know that they could get noted
+[00:18:21] um you know Community noted on Twitter
+[00:18:22] then uh they'll think that more
+[00:18:25] carefully about what they say uh they're
+[00:18:27] likely it's basically it's an
+[00:18:29] encouragement to be more truthful and
+[00:18:30] less deceptive when you jumped into this
+[00:18:32] though when you bought it did you
+[00:18:34] understand well clearly you understood
+[00:18:36] its importance you wouldn't have bought
+[00:18:37] it
+[00:18:38] uh Twitter yes right but it's not the
+[00:18:40] biggest but it's the most important in
+[00:18:42] the social media companies but did you
+[00:18:44] understand the kind of ferocity you'd be
+[00:18:47] facing the attacks you'd be facing from
+[00:18:49] Power centers in the country
+[00:18:52] um I thought there'd probably be some um
+[00:18:54] negative reactions yes
+[00:18:56] [Laughter]
+[00:18:58] so I'm sure everyone would not be
+[00:19:00] pleased with the uh with with it um
+[00:19:03] but um
+[00:19:04] at the other day you know if if the
+[00:19:08] public is happy with it that's what
+[00:19:09] matters
+[00:19:10] um and the public will speak with their
+[00:19:12] actions oh though I mean though if if
+[00:19:15] they find truth Pruder to be useful they
+[00:19:17] will use it more and if they find it to
+[00:19:19] be not useful I will use it less if they
+[00:19:21] find it to be the best source of truth I
+[00:19:23] think they will use it more
+[00:19:25] you know no there's obviously a lot of
+[00:19:28] um organizations that are used to having
+[00:19:30] sort of unfettered influence uh on
+[00:19:33] Twitter
+[00:19:35] um that no longer have that New York
+[00:19:37] Times of their of their badge this
+[00:19:39] morning and then you called them
+[00:19:40] diarrhea okay you did you did I'm just
+[00:19:43] I'm just quoting you you you described
+[00:19:45] their Twitter feed as a diarrhea I said
+[00:19:48] it was a Twitter code Twitter equivalent
+[00:19:49] of diarrhea okay it's not literally
+[00:19:51] diarrhea but no it's uh you know it's a
+[00:19:54] metaphor um
+[00:19:55] but an accurate one
+[00:19:57] um so I mean if you look at the uh at NY
+[00:20:00] Times Twitter feed is uh unreadable uh
+[00:20:03] it's like because what they do is they
+[00:20:04] tweet every single article even the ones
+[00:20:07] that are uh boring even ones that don't
+[00:20:09] make it into the paper so uh so it's
+[00:20:12] just non-stop
+[00:20:13] zillion tweets a day with no
+[00:20:16] uh you know they really should just be
+[00:20:19] saying like what are the top tweets yeah
+[00:20:20] like what what are the what are the what
+[00:20:22] are the big stories of the day uh I
+[00:20:24] don't know put out like
+[00:20:26] 10 or something you know so it's a
+[00:20:28] number that's manageable as opposed to
+[00:20:30] right now if you if you were to follow
+[00:20:31] NY at nytimes on Twitter you're going to
+[00:20:34] get barraged with like hundreds of
+[00:20:36] tweets a day yeah um and your whole feed
+[00:20:38] will be filled with NY Times so
+[00:20:41] um that's that's this is something I
+[00:20:43] would recommend actually for oral
+[00:20:44] Publications uh which is uh for your
+[00:20:46] primary feed
+[00:20:48] um only put out your best stuff like I
+[00:20:50] think I know a thing or two about how to
+[00:20:51] use Twitter because uh you know it was
+[00:20:53] the most interacted with account on the
+[00:20:55] whole system uh before the acquisition
+[00:20:57] before the acquisition closed I didn't
+[00:20:59] have the most number of followers so I
+[00:21:00] had the most number of interactions and
+[00:21:03] so I clearly know something about how to
+[00:21:05] use Twitter you know people's attention
+[00:21:06] is limited so just make sure you put the
+[00:21:08] stuff that's most important there so
+[00:21:10] because you know you and people like you
+[00:21:12] do interact on Twitter it's obviously
+[00:21:16] enormously powerful in shaping public
+[00:21:18] opinion it's where a lot of ideas and
+[00:21:20] Trends are incubated yeah you know what
+[00:21:22] that's right absolutely
+[00:21:23] it's also a magnet for Intel agencies
+[00:21:26] from around the world and yes one of the
+[00:21:28] things we learned after you started
+[00:21:29] opening the books is that they were
+[00:21:31] exerting influence from within Twitter
+[00:21:33] I mean it was absurd
+[00:21:36] um
+[00:21:37] did you know that going in no
+[00:21:40] since I've been a heavy Twitter user
+[00:21:42] since 2009
+[00:21:44] um
+[00:21:45] my it's it's sort of like I'm in The
+[00:21:47] Matrix I mean I can see
+[00:21:48] like things do things feel right do they
+[00:21:51] not feel right what what tweets am I
+[00:21:54] being shown as recommended uh
+[00:21:57] like I get a feel like what accounts are
+[00:21:59] making comments uh where are the
+[00:22:02] comments uh eerily similar yeah
+[00:22:05] um and and then you look at the account
+[00:22:07] and it's just obviously a fake photo and
+[00:22:09] uh you know uh that it's just obviously
+[00:22:12] a bot cluster uh over and over again so
+[00:22:15] I started to get like just more and more
+[00:22:16] uneasy about the the Twitter situation I
+[00:22:19] started starting to feel like
+[00:22:20] something's about in the state of
+[00:22:21] Denmark here this is so much feels wrong
+[00:22:24] about the platform it seemed to be just
+[00:22:26] drifting in a
+[00:22:28] I I couldn't place it exactly just ahead
+[00:22:30] of it it felt like it was drifting in a
+[00:22:32] bad Direction so then I was like and and
+[00:22:35] my conversations with the board and
+[00:22:37] management seem to confirm my intuition
+[00:22:41] about that but basically I was convinced
+[00:22:43] these guys do not care about fixing
+[00:22:45] Twitter uh and and uh
+[00:22:48] and I had a bad feeling about where I
+[00:22:50] was headed based in the conversations
+[00:22:51] conversations I had with him so then I
+[00:22:52] was like
+[00:22:53] you know what I
+[00:22:56] I'll try acquiring it and see if that's
+[00:22:58] see if acquiring it is is possible
+[00:23:01] um
+[00:23:02] no I didn't have enough cash to acquire
+[00:23:03] it so I would need you know support from
+[00:23:05] others um from some of the existing
+[00:23:07] investors I would also need like a lot
+[00:23:09] of debt and um
+[00:23:11] so it wasn't clear to me with a an
+[00:23:13] acquisition would succeed but I thought
+[00:23:14] I would try and uh
+[00:23:17] ultimately it did succeed anyway here we
+[00:23:19] are
+[00:23:20] um but when you got there and all of a
+[00:23:22] sudden you own it and all the data on
+[00:23:23] the service belongs to you and what
+[00:23:25] belongs to the people in my view but yes
+[00:23:27] but but you can see what it is and you
+[00:23:29] can see what they've been doing and you
+[00:23:30] can see who's been working there you you
+[00:23:32] were shocked to find out that various
+[00:23:35] Intel agencies were affecting its
+[00:23:37] operations uh the the degree to which uh
+[00:23:41] various government agencies had
+[00:23:43] effectively had full access to
+[00:23:45] everything that was going on on Twitter
+[00:23:46] uh blew my mind I was not aware of that
+[00:23:49] would that include people's DMs
+[00:23:52] uh yes
+[00:23:55] yes because the dams are not encrypted
+[00:23:57] so one of the first you know one of the
+[00:23:59] things that we're about to release uh is
+[00:24:01] ability to encrypt your DM that's pretty
+[00:24:03] heavy duty though because a lot of
+[00:24:04] well-known people reporters talking to
+[00:24:07] their sources government officials the
+[00:24:08] richest people in the world they're
+[00:24:10] dming each other
+[00:24:12] and the Assumption obviously was
+[00:24:14] incorrect but was that that's private
+[00:24:16] but that was being read by various
+[00:24:18] governments uh yeah that seems yes
+[00:24:22] scary uh yes it is uh so uh like I said
+[00:24:26] we're moving to
+[00:24:28] um have the DMS be optionally encrypted
+[00:24:31] I mean you know there's like a lot of DM
+[00:24:32] conversations which are you know just
+[00:24:34] chatting with friends it's not not
+[00:24:35] important
+[00:24:36] um that's hopefully coming out later
+[00:24:38] this month but no later the next month
+[00:24:40] uh is the ability to toggle encryption
+[00:24:42] on or off so if you if you are in a
+[00:24:45] conversation you think is sensitive you
+[00:24:47] can just toggle encryption on and then
+[00:24:49] no one on Twitter can see what you're
+[00:24:50] talking about they could put a gun to my
+[00:24:52] head and I couldn't I couldn't tell I
+[00:24:54] couldn't
+[00:24:56] if somebody puts a gun to my head and I
+[00:24:59] can I still not uh see your DMs that
+[00:25:02] should be that's the acid test yes
+[00:25:04] um
+[00:25:06] and that's how that's that's how it
+[00:25:07] should be if you want if you had
+[00:25:09] complaints from various governments
+[00:25:10] about doing this
+[00:25:11] I haven't had Direct complaints to me
+[00:25:13] I've had sort of like some indirect
+[00:25:15] complaints I think people are a little
+[00:25:17] concerned about
+[00:25:18] complaining to me directly in case I
+[00:25:19] tweet about it
+[00:25:20] [Laughter]
+[00:25:25] they're like oh uh so they're sort of
+[00:25:28] trying to be more roundabout than that
+[00:25:29] you know I mean if if I got something
+[00:25:32] that was uh unconstitutional from the US
+[00:25:34] government I would say my reply would be
+[00:25:35] to send them a copy of the you know
+[00:25:37] First Amendment and just say like what
+[00:25:39] part of this are we getting wrong
+[00:25:42] you have a lot of government you have a
+[00:25:44] lot of government what part of this are
+[00:25:45] we getting wrong please tell me I mean
+[00:25:47] it's a pretty no I'm just saying but
+[00:25:48] you're kind of exposed in your other
+[00:25:49] businesses so this is just in case our
+[00:25:51] viewers aren't following this
+[00:25:53] this is not you're not just like a
+[00:25:54] journalist taking a stand on behalf of
+[00:25:56] the First Amendment you're a guy with
+[00:25:57] big government contracts giving the
+[00:25:59] finger to the government do you think
+[00:26:02] um
+[00:26:02] Twitter will be as Central to this
+[00:26:05] presidential campaign as it was in the
+[00:26:08] last several I think it will play a
+[00:26:10] significant role in elections not just
+[00:26:13] domestically but internationally the
+[00:26:15] goal of new Twitter is to be
+[00:26:18] um as fair and even-handed as possible
+[00:26:20] so not favoring any political
+[00:26:24] uh ideology uh but uh just um
+[00:26:29] yeah being being fair at all why doesn't
+[00:26:31] Facebook do this I know that Zuckerberg
+[00:26:33] has said and I take him at face value
+[00:26:35] that he I well I
+[00:26:38] way that he is a kind of old-fashioned
+[00:26:41] liberal who doesn't like to censor he
+[00:26:43] has but he you know like why wouldn't a
+[00:26:46] company like that take the stand that
+[00:26:48] you have taken it was pretty rooted in
+[00:26:51] American traditional political custom
+[00:26:54] you know for free speech
+[00:26:57] my understanding is that
+[00:26:59] um Zuckerberg spent a 400 million
+[00:27:02] dollars in the last election normally in
+[00:27:04] a get out the vote campaign but really
+[00:27:06] fundamentally in support of Democrats is
+[00:27:08] that accurate or not accurate that is
+[00:27:10] accurate
+[00:27:11] does that sound unbiased to you no it
+[00:27:13] doesn't yes so you don't see hope that
+[00:27:16] Facebook will approach this as
+[00:27:18] a a non-aligned Orbiter you've allowed
+[00:27:22] Donald Trump back on Twitter he hasn't
+[00:27:24] taken you up on your offer because he's
+[00:27:25] got his own thing right do you think he
+[00:27:27] will go back on Twitter
+[00:27:29] well that's that's obviously up to him
+[00:27:32] um you know my job is to uh I you know I
+[00:27:36] take
+[00:27:37] the freedom of speech
+[00:27:40] just very seriously so it's
+[00:27:44] um you know I didn't I didn't vote for
+[00:27:46] Donald Trump I actually voted for Biden
+[00:27:47] not saying I'm a huge fan of Biden
+[00:27:49] because I I would think that would
+[00:27:51] probably be inaccurate uh if it's um
+[00:27:53] you know we have difficult choices to
+[00:27:55] make in these residential elections it's
+[00:27:58] not I I would prefer
+[00:28:01] frankly that we we put someone just a
+[00:28:04] normal person as president yeah a normal
+[00:28:07] person with common sense uh and whose
+[00:28:11] values are smack in the middle of the
+[00:28:13] country you know just
+[00:28:14] you know Center the normal distribution
+[00:28:16] and uh I think they'll be that that
+[00:28:18] would be great you know I think we have
+[00:28:20] made maybe being president
+[00:28:22] not that much fun you know it should be
+[00:28:26] jolly Frank
+[00:28:28] met a shrinking pie obviously for uh
+[00:28:32] most of the traditional media companies
+[00:28:36] um and made them more desperate to
+[00:28:38] get clicks to get to get you know get
+[00:28:42] attention
+[00:28:44] um
+[00:28:45] and
+[00:28:47] it's made them when you know when they
+[00:28:50] were when they were in a sort of a
+[00:28:51] desperate State they will then tend to
+[00:28:53] really push uh headlines that get the
+[00:28:57] most clicks whether those headlines are
+[00:28:58] accurate or not
+[00:29:00] um so it's resulted in my view I think
+[00:29:03] probably I think most people would agree
+[00:29:05] a less
+[00:29:07] truthful less accurate in use
+[00:29:10] um so
+[00:29:12] uh because they just got to get a rise
+[00:29:14] out of people and
+[00:29:17] I think it's also increased the
+[00:29:18] negativity of the news because uh I
+[00:29:21] think we humans instinctually respond
+[00:29:24] more to make I think we have
+[00:29:26] an instinctual negative bias which
+[00:29:30] which kind of makes sense in that like
+[00:29:32] uh
+[00:29:34] if
+[00:29:35] um like let's say you're uh like it's
+[00:29:39] more important to remember where where
+[00:29:41] was the lion or where was the tribe that
+[00:29:43] wants to kill my tribe then where is the
+[00:29:46] bush with berries yes like one's like a
+[00:29:48] permanent negative outcome and the other
+[00:29:51] is like well I might go hungry so
+[00:29:54] meaning that there's an asymmetry in
+[00:29:57] um
+[00:29:58] it sort of involved asymmetry in
+[00:30:00] negative versus positive stuff
+[00:30:02] um and and also historically the
+[00:30:05] negative stuff would have been quite
+[00:30:07] proximate like it would have been near
+[00:30:09] represented a real danger to you as a
+[00:30:12] person
+[00:30:14] um if you heard negative news because
+[00:30:16] historically you know like a few hundred
+[00:30:18] years ago we're not hearing about what
+[00:30:20] negative things are happening on the
+[00:30:21] other side of the world or on the other
+[00:30:23] side of the country we're only we're
+[00:30:24] hearing about negative things in our
+[00:30:25] village
+[00:30:27] um things that could actually have a a
+[00:30:29] bad effect on you whereas now we're
+[00:30:31] hearing about we mean the news very
+[00:30:32] often seems to attempt to uh answer the
+[00:30:35] question what is the worst thing that
+[00:30:36] happened on Earth today
+[00:30:38] and they wonder why you said after
+[00:30:40] reading that you know do you read any
+[00:30:42] Legacy Media Outlets I mean I really get
+[00:30:45] most of my news from Twitter at this
+[00:30:47] point and it is the number one music
+[00:30:49] news source I think uh in the world at
+[00:30:51] this point what percentage of your staff
+[00:30:53] did you fire at Twitter
+[00:30:55] one of the great business stories of the
+[00:30:56] year I think we're about we're about uh
+[00:30:59] 20 of the original size so 80 left uh
+[00:31:03] yes so I mean a lot of people
+[00:31:06] voluntarily sure sure but but it's 80
+[00:31:09] are gone from the data correct yes so
+[00:31:12] how do you run the company with only 20
+[00:31:13] of the staff
+[00:31:15] uh it turns out uh you don't need uh
+[00:31:17] well that many people to run Twitter but
+[00:31:19] 80 that's a lot
+[00:31:22] um yes uh over I mean if you're not
+[00:31:25] trying to run some sort of uh
+[00:31:27] glorified activist organization uh with
+[00:31:30] both and you're not care that much about
+[00:31:33] censorship then you can really let go of
+[00:31:35] a lot of people turns out
+[00:31:42] okay so now how many I had dinner with
+[00:31:44] somebody who runs a big company recently
+[00:31:45] said I'm really inspired by Elon and I
+[00:31:48] said you the Free Speech stuff he goes
+[00:31:49] no the firing the staff stuff
+[00:31:52] um how many other CEOs have come to you
+[00:31:56] um
+[00:31:57] to talk about this I I spent a lot of
+[00:32:00] time at work uh so it's not like I'm
+[00:32:02] meeting with lots of people basically
+[00:32:04] what I what actions I've taken
+[00:32:06] um
+[00:32:07] and um
+[00:32:08] but I think we just had a situation at
+[00:32:11] Twitter where it was absurdly
+[00:32:13] overstaffed you know so it wasn't uh you
+[00:32:16] know like you could say like what does
+[00:32:17] really take to operate Twitter
+[00:32:19] um
+[00:32:20] you know most of what we're talking
+[00:32:22] about here is a group text service at
+[00:32:24] scale
+[00:32:25] um like
+[00:32:28] how many people are really needed for
+[00:32:29] that you know
+[00:32:30] um and if you look at the you say like
+[00:32:33] uh what has been the product development
+[00:32:36] uh over time with Twitter and you're
+[00:32:39] like so like you know years versus
+[00:32:40] product improvements and it's like a
+[00:32:42] pretty flat line
+[00:32:44] so what are they doing
+[00:32:45] you know uh it took a year to add an
+[00:32:48] edit button that doesn't work most of
+[00:32:50] the time
+[00:32:51] I mean this is I feel like if it was a
+[00:32:53] comedy situation here you know
+[00:32:55] um
+[00:32:56] you're not making cars you know uh it
+[00:32:59] was very difficult to make cars
+[00:33:01] um or should get Rockets to orbridge so
+[00:33:04] um you know the real question is like
+[00:33:07] how did it get so absurdly overstaffed
+[00:33:09] this is insane um
+[00:33:11] so anyway that's and it's clearly
+[00:33:14] working
+[00:33:15] um in fact I think it's working better
+[00:33:16] than ever it's about we've increased the
+[00:33:19] uh responsiveness of the system by in
+[00:33:22] some cases over 80 percent we're trying
+[00:33:24] to make make Twitter the most trusted
+[00:33:25] place on the internet the least
+[00:33:27] untrustworthy place on the internet I
+[00:33:29] don't think anyone should trust the
+[00:33:30] internet but but maybe we can make
+[00:33:32] Twitter the least untrustworthy like I
+[00:33:34] said try to
+[00:33:35] get uh the truth to the people
+[00:33:40] um as as best we can
+[00:33:42] [Music]
+[00:33:43] you've heard people say we should just
+[00:33:45] blow up the server Farms because there's
+[00:33:47] no way that once if this gets rolling
+[00:33:48] there's no way to slow it down
+[00:33:50] what do you think of that
+[00:33:52] well the the really heavy duty
+[00:33:55] intelligence is not going to be uh
+[00:33:57] distributed all over the place it'll be
+[00:33:58] in a limited number of server centers if
+[00:34:02] you say like very like very sort of deep
+[00:34:04] AI heavy duty AI it's not um
+[00:34:07] it's not going to be in your laptop or
+[00:34:09] your phone it's it's going to be in you
+[00:34:11] know a situation where there's like a
+[00:34:13] hundred thousand uh really powerful
+[00:34:15] computers working together in a service
+[00:34:17] center so it's not
+[00:34:21] there are a limited number of places
+[00:34:22] where that can happen in fact you could
+[00:34:25] if you just you can just look at the
+[00:34:26] heat signature from space yeah and it'll
+[00:34:29] be very obvious I'm not suggesting we go
+[00:34:32] and blow up to service centers right now
+[00:34:33] but
+[00:34:34] there may be some it may be wise to have
+[00:34:37] some sort of contingency plan
+[00:34:39] where the government's got an ability to
+[00:34:42] shut down shut down power to these uh
+[00:34:45] service centers like uh
+[00:34:47] you don't have to blow it up you can
+[00:34:48] just cut the power
+[00:34:50] um
+[00:34:51] and what would triple cut connectivity
+[00:34:53] as well that's another way right yeah
+[00:34:55] but what would trip that switch do you
+[00:34:57] think in your mind what would be the
+[00:34:58] threshold
+[00:34:59] that you'd have to pass to
+[00:35:02] warrant the government cutting off your
+[00:35:04] power or cutting off your signal
+[00:35:12] well I mean I guess if we lost control
+[00:35:14] of some super AI
+[00:35:17] um like for some reason like the things
+[00:35:19] that would normally work to do a pass or
+[00:35:21] shut down like the administrator
+[00:35:23] passwords if they somehow stop working
+[00:35:26] um where we can't uh
+[00:35:30] slow down or or
+[00:35:33] get out
+[00:35:34] I don't have a precise answer but if if
+[00:35:37] there's something that we're concerned
+[00:35:38] about
+[00:35:40] um
+[00:35:40] and and uh and are unable to stop it
+[00:35:44] with with the software commands then
+[00:35:47] uh we probably want to have some kind of
+[00:35:49] Hardware both switch yes I think you
+[00:35:52] know can't hurt
+[00:35:53] have you talked to since you know Larry
+[00:35:55] Page and you obviously you know the open
+[00:35:57] air guys because you started definitely
+[00:35:59] have one have you talk to the
+[00:36:03] the people who run these two the biggest
+[00:36:05] AI companies about this recently
+[00:36:08] I haven't talked to Larry Page in a few
+[00:36:11] years because he got very upset with me
+[00:36:12] about openai
+[00:36:14] uh so when when opening AI was created
+[00:36:16] uh
+[00:36:18] it did it did shift things into it from
+[00:36:21] unipolar world where Google Google do
+[00:36:24] you mind controlled uh
+[00:36:26] you know like I said three quarters of
+[00:36:27] all AI Talent two where there's now a
+[00:36:30] sort of uh
+[00:36:31] bipolar world or open Ai and Google
+[00:36:34] deepmind and their
+[00:36:36] uh and now we're at least it seems
+[00:36:38] opening eyes maybe a head
+[00:36:40] um
+[00:36:42] so uh so I have had conversations with
+[00:36:46] um
+[00:36:47] the open AI team Tim Altman I haven't
+[00:36:50] talked to Larry Page because he doesn't
+[00:36:51] want to talk to me anymore for a few
+[00:36:53] years
+[00:36:54] can I ask you this about since you've
+[00:36:56] been around a lot of this the thinking
+[00:36:58] so why would anyone not be a specist be
+[00:37:02] human-centered in his thinking about
+[00:37:04] technology like what's the thinking
+[00:37:06] there
+[00:37:07] um I think what he's trying to say is
+[00:37:09] that
+[00:37:10] um
+[00:37:11] if I were to guess I that he that all
+[00:37:15] Consciousness should be treated equally
+[00:37:17] and whether that is digital or
+[00:37:20] biological
+[00:37:22] hmm
+[00:37:24] and you disagree
+[00:37:26] I disagree yeah
+[00:37:30] especially if the digital uh
+[00:37:34] Consciousness or whatever you want to
+[00:37:35] call digital intelligence decides to
+[00:37:38] curtail the biological intelligence
+[00:37:39] right so you're just building your own
+[00:37:41] slave master and why would you do that
+[00:37:42] doesn't sound great
+[00:37:44] [Laughter]
+[00:37:47] yeah I mean
+[00:37:49] we shouldn't we we should at least no
+[00:37:52] need to rush you know like what's the
+[00:37:54] hurry
+[00:37:55] where's the fire
+[00:37:58] how well what I mean tell us about the
+[00:38:00] hurry so this for I know you've been
+[00:38:02] talking about this for years and on the
+[00:38:03] sort of the periphery of our attention
+[00:38:05] we've heard Elon Musk talking about AI
+[00:38:07] but for most people it's been like three
+[00:38:09] months since they've had any interaction
+[00:38:12] with this at all
+[00:38:14] um so what's the timeline here at what
+[00:38:15] point does it start to really change our
+[00:38:17] society do you think
+[00:38:21] I think it's supposed to have a probably
+[00:38:24] an impact this year a gpd4 now it's like
+[00:38:28] writing poetry
+[00:38:29] um and pretty decent poetry actually
+[00:38:31] pretty decent yeah
+[00:38:33] Skillet rhyming is incredible yes yes
+[00:38:36] and it's coherent yes it is uh it's
+[00:38:39] you've got a narrative like yeah that's
+[00:38:41] right yeah
+[00:38:42] so you could say it's hard to do
+[00:38:44] like most humans can't do that that's
+[00:38:46] true so it's already past the point of
+[00:38:49] what most humans can do most humans
+[00:38:50] cannot write as well as uh chat gbt
+[00:38:54] um
+[00:38:55] and they certainly and no human can
+[00:38:57] write that well that fast as the best
+[00:38:59] way knowledge so maybe Shakespeare how
+[00:39:01] can you have a democracy with technology
+[00:39:03] like that
+[00:39:05] if democracy is you know government by
+[00:39:07] the people each person's vote is equal
+[00:39:08] to every other person's vote I mean and
+[00:39:10] people are choosing their votes freely
+[00:39:12] can you have a democracy with this
+[00:39:15] well that's why I raised the concern of
+[00:39:18] um AI being a significant influence in
+[00:39:20] elections
+[00:39:21] um and and even if you say that AI
+[00:39:23] doesn't have agency well it's very
+[00:39:25] likely that people will use the AIA
+[00:39:27] um as a tool in elections
+[00:39:31] um and then
+[00:39:34] you know if AI is smart enough
+[00:39:36] are they using the tool or is the tool
+[00:39:38] using them
+[00:39:39] so I think things are getting weird and
+[00:39:42] they're getting weird fast
+[00:39:45] so you've seen a couple Regional Bank
+[00:39:46] collapses yeah and we've been told
+[00:39:49] that's not a big deal that these are
+[00:39:51] isolated and each one collapsed for
+[00:39:53] Unique reasons they're not it's not
+[00:39:54] systemic in any sense what's your sense
+[00:39:57] your sense of the stability of the
+[00:40:00] American banking system well it's
+[00:40:02] actually at this point a global banking
+[00:40:03] system problems
+[00:40:05] um so
+[00:40:06] the uh
+[00:40:11] you know we have a situation here where
+[00:40:13] it's not merely it's not that the canary
+[00:40:14] in the coal mine has died but the miners
+[00:40:16] are starting to die too the you know the
+[00:40:20] so and you know Silicon Valley Bank uh
+[00:40:24] collapsing uh overnight
+[00:40:27] um is one hell of a big Canary yeah it's
+[00:40:29] more like a turkey I mean it's
+[00:40:30] not just it's not like some small fry
+[00:40:33] thing I think that there is a serious
+[00:40:35] danger with the uh global banking system
+[00:40:39] um
+[00:40:41] there's
+[00:40:43] there's a strong argument that
+[00:40:45] the uh
+[00:40:47] if you were to actually uh mock to mock
+[00:40:51] at the portfolios of the banks the loans
+[00:40:53] and whatnot uh that the entire banking
+[00:40:57] industry would have negative equity
+[00:40:59] it feels that way
+[00:41:01] yes
+[00:41:02] um
+[00:41:03] so if you look at say uh commercial real
+[00:41:07] estate like offices and whatnot the
+[00:41:08] whole work from home thing has
+[00:41:11] substantially reduced office usage in
+[00:41:15] cities around the world
+[00:41:18] and um
+[00:41:20] you know I think I think San Francisco
+[00:41:21] is a 40 percent uh off in San Francisco
+[00:41:24] is like an extreme example but I think
+[00:41:26] it's a 40 vacancy
+[00:41:28] um
+[00:41:29] uh even even New York has uh almost all
+[00:41:32] cities at this point have have record
+[00:41:34] vacancies and Commercial Real Estate so
+[00:41:37] um now the commercial real estate used
+[00:41:39] to be something that was a grade A asset
+[00:41:41] that if a bank had commercial real
+[00:41:43] estate holdings those would be
+[00:41:45] considered the highest uh security the
+[00:41:47] same some of the safest uh uh you know
+[00:41:51] uh assets you could have now that is not
+[00:41:54] the case anymore uh you one company
+[00:41:56] after another is canceling their leases
+[00:41:59] or not renewing their leases or if they
+[00:42:02] go bankrupt you the the there's nothing
+[00:42:04] for the the bank who owns that real
+[00:42:07] estate to go after because they're you
+[00:42:09] know previously strong company now dead
+[00:42:11] what do you what do you what do you go
+[00:42:12] after that point
+[00:42:14] um so
+[00:42:15] we really haven't seen the commercial
+[00:42:17] realistic shoe drop that's more like a
+[00:42:20] Anvil not a shoe
+[00:42:22] um
+[00:42:22] so the stuff we've seen thus far
+[00:42:25] actually hasn't even
+[00:42:27] it it is it's only slightly uh
+[00:42:32] um
+[00:42:33] real estate portfolio degradation
+[00:42:36] but that will become a very serious
+[00:42:38] thing later this year in my in my view
+[00:42:42] um
+[00:42:42] I think if we see what you're likely to
+[00:42:45] see a drop in house prices because the
+[00:42:48] interest rates are too high and
+[00:42:52] for most people when buying a house they
+[00:42:54] look at the monthly payment of course if
+[00:42:55] you're a third year mortgages of the
+[00:42:57] vast majority of his interest so if the
+[00:42:58] Fed rate is high you have a a high base
+[00:43:02] interest rate effectively the price you
+[00:43:04] can pay for the house drops
+[00:43:07] because you now have to pay more
+[00:43:08] interest which means that if you've got
+[00:43:11] a fixed monthly payments you can now
+[00:43:13] afford to buy a house for less less
+[00:43:15] money it effectively drops the the
+[00:43:17] prices of houses yes this is the kind of
+[00:43:20] thing that tends to accelerate uh so
+[00:43:21] that so then you can get negative equity
+[00:43:23] in the Home Market as well
+[00:43:25] and so so if if banks end up having loan
+[00:43:30] losses in both their commercial and
+[00:43:32] they're definitely going to have a loan
+[00:43:33] license in the commercial portfolio but
+[00:43:35] also in their mortgage portfolio this is
+[00:43:38] um
+[00:43:39] a dire situation
+[00:43:42] um
+[00:43:43] the there is there is a solution to
+[00:43:47] mitigate the magnitude of the damage
+[00:43:50] here which is for the FED to lower the
+[00:43:51] rate
+[00:43:52] but they raised the rate again
+[00:43:56] um
+[00:43:58] now uh if I recall correctly which I you
+[00:44:01] know important caveat I think the last
+[00:44:03] time the FED raised rates going into a
+[00:44:05] recession was 1929.
+[00:44:07] what happened next
+[00:44:09] yeah a Great Depression
+[00:44:15] that concern I'm going to tell you
+[00:44:17] nothing you don't know but the concern
+[00:44:19] is If the Fed drops rates again then
+[00:44:21] inflation will accelerate and you can't
+[00:44:23] do that in an election
+[00:44:25] so inflation is going to happen no
+[00:44:28] matter what
+[00:44:30] if you increase the money supply
+[00:44:33] you get inflation right so
+[00:44:36] there's no there's not some magical cure
+[00:44:39] for getting rid of inflation
+[00:44:41] um except to increase the productivity
+[00:44:43] the output output of goods and services
+[00:44:46] so
+[00:44:48] if you say like like what is money
+[00:44:51] um you've got you've got you've got
+[00:44:52] these sort of
+[00:44:53] um it's basically numbers in a database
+[00:44:56] that's that that sum up to some account
+[00:44:59] of some total then you've got the output
+[00:45:01] of goods and services of the economy and
+[00:45:04] the as long as the ratio of money to
+[00:45:07] ratio of a business services stays if
+[00:45:09] that stays constant you have no no
+[00:45:11] inflation if uh if you add more money if
+[00:45:15] you add money to the system faster than
+[00:45:16] you increase goods and services then you
+[00:45:19] have inflation so all of these covert
+[00:45:22] sort of stimulus bills uh were not paid
+[00:45:24] for they were they're just generated
+[00:45:27] more uh currency more
+[00:45:30] you know uh more money was was created
+[00:45:33] because the the federal government uh
+[00:45:37] the checks never let's just the checks
+[00:45:39] always pass you know until unless you
+[00:45:40] had a debt limit which there's probably
+[00:45:42] going to be some debt limit crisis later
+[00:45:43] this year but uh provided you haven't
+[00:45:45] hit the dead limit the
+[00:45:47] the federal government unlike state
+[00:45:49] governments or city governments or
+[00:45:50] individuals can simply issue more money
+[00:45:53] and that's what they did
+[00:45:56] I mean as old saying goes there's no
+[00:45:58] there's no free lunch so uh if you could
+[00:46:02] just issue massive amounts of money
+[00:46:03] without negative consequences why don't
+[00:46:05] we just take that to the loan and make
+[00:46:06] everyone a trillionaire
+[00:46:09] well I mean they tried that in Venezuela
+[00:46:10] how'd that work out well they had to eat
+[00:46:13] zoo animals right it's not good you know
+[00:46:16] there's no free lunch if there's not
+[00:46:17] some ability to issue money
+[00:46:19] and not have inflation
+[00:46:21] [Music]
+[00:46:23] people sometimes take the fact that like
+[00:46:25] we're here on Earth for granted you know
+[00:46:27] and that there's the Consciousness is
+[00:46:29] just a normal thing that happens but to
+[00:46:32] the best of our knowledge we see no
+[00:46:33] evidence of
+[00:46:35] uh
+[00:46:36] conscious uh life anywhere uh anywhere
+[00:46:40] in the universe so it might be there
+[00:46:43] um you know physics equals sort of the
+[00:46:45] Fermi Paradox after Enrico film music
+[00:46:48] amazing physicist I asked the
+[00:46:50] fundamental question where are the
+[00:46:51] aliens yeah
+[00:46:53] um a lot of people ask me you know
+[00:46:56] um
+[00:46:57] where are the aliens and I I think if if
+[00:46:59] anyone would know about aliens on Earth
+[00:47:01] it would probably be me yeah I'm like
+[00:47:04] you know very familiar with space stuff
+[00:47:08] um
+[00:47:08] and I've seen no evidence of aliens so I
+[00:47:12] would I would immediately tweet you know
+[00:47:14] tweet it out that says Split Second
+[00:47:15] they'll be like that'll be like well all
+[00:47:17] time
+[00:47:18] probably a tough tweet of all time that
+[00:47:20] one guys
+[00:47:21] this is a jackpot these are some eight
+[00:47:24] billion likes you know
+[00:47:27] um Next Level jackpot if you finally hit
+[00:47:30] that aliens like I don't think they're
+[00:47:31] keeping this under you know and it was
+[00:47:35] like some um uh General I think in the
+[00:47:37] 60s who where they said like show us the
+[00:47:40] aliens like error 51 Etc and he said
+[00:47:43] like listen we're constantly trying to
+[00:47:45] get the defense budget to uh expand and
+[00:47:48] uh look you know what would really get
+[00:47:50] uh no arguments for anyone uh if we pull
+[00:47:52] out an alien
+[00:47:54] and said we need money to protect
+[00:47:55] ourselves from these guys
+[00:47:57] I know how much money do you want you
+[00:47:59] got it
+[00:48:00] they look dangerous
+[00:48:02] [Laughter]
+[00:48:04] the fastest way to get a defense budget
+[00:48:07] increase for me to pull out an alien you
+[00:48:09] know
+[00:48:10] we're like yeah I mean that could be the
+[00:48:12] invasion Fleet we could be arriving any
+[00:48:13] minute who knows
+[00:48:14] so
+[00:48:16] um
+[00:48:18] I digress but but you were saying that
+[00:48:21] our Consciousness makes us unique in the
+[00:48:23] universe so far as we know I'm not
+[00:48:25] saying that we are unique I'm simply
+[00:48:27] stating to the best of my knowledge that
+[00:48:28] there was no evidence for other uh
+[00:48:30] conscious life I I I I hope that there
+[00:48:34] is and I hope they're peaceful uh
+[00:48:36] obviously the two important
+[00:48:37] characteristics um but um I'm just
+[00:48:41] saying we haven't seen anything yet so
+[00:48:44] um but you think that we take our
+[00:48:46] existence here for granted yeah I think
+[00:48:48] there are threats to it yeah yeah yeah
+[00:48:50] exactly so
+[00:48:52] um
+[00:48:55] I I just think we should not assume that
+[00:48:58] Civilization is robust
+[00:49:00] um and if you if you look at the history
+[00:49:03] of civilizations the rise and fall of
+[00:49:06] the ancient Egyptians the ancient
+[00:49:08] Sumerians
+[00:49:10] um Rome you know this uh
+[00:49:13] throughout the world they've been rise
+[00:49:14] and fall of many civilizations
+[00:49:16] um so there's an arc there's sort of a
+[00:49:19] live a sort of a life cycle Arc to to
+[00:49:22] civilizations just as there is to to
+[00:49:24] individual humans yes and
+[00:49:27] um
+[00:49:28] and I think we just want to make sure
+[00:49:30] that that you know we have civilization
+[00:49:34] go onward and upward
+[00:49:35] um and uh that's for example why I'm
+[00:49:37] concerned about decreasing both rates
+[00:49:40] and and um the fact that for example
+[00:49:42] Japan uh had twice as many deaths last
+[00:49:44] year as births
+[00:49:46] so the the that's it and they're they're
+[00:49:48] a leading indicators this is can I say
+[00:49:51] and you've you've written and talked a
+[00:49:52] lot about this but can I just ask you to
+[00:49:53] pause just for a parenthetical note why
+[00:49:56] is that I mean the urge to have sex and
+[00:49:59] to procreate is after breathing and
+[00:50:01] eating the most basic urge how has it
+[00:50:03] been subverted
+[00:50:04] well it's just that in the past we could
+[00:50:07] rely upon
+[00:50:09] um you know simple uh limbic system
+[00:50:12] rewards uh in order to procreate um but
+[00:50:15] once you have birth control
+[00:50:17] um and you know uh abortions and whatnot
+[00:50:20] now now you now you can still satisfy
+[00:50:23] Olympic Instinct but not appropriate
+[00:50:26] um so we didn't we haven't yet evolved
+[00:50:28] to
+[00:50:29] deal with that because this is all
+[00:50:31] fairly recent in the last 50 years or so
+[00:50:33] um for birth control you know I'm sort
+[00:50:36] of worried that hey civilization you
+[00:50:38] know don't if we don't make enough
+[00:50:39] people to at least sustain our numbers
+[00:50:41] perhaps increase a little bit then
+[00:50:42] civilization is going to crumble just
+[00:50:44] the old question of like uh will
+[00:50:46] civilization end with a bang or a
+[00:50:49] whimper well it's currently trying to
+[00:50:51] end with a whimper in adult diapers yes
+[00:50:53] uh which is depressing as hell
+[00:50:56] the most depressing I mean seriously
+[00:50:58] yeah war is less depressing yeah I'd
+[00:51:00] rather go out with a bang yeah your
+[00:51:03] shoes on yeah not with your exciting
+[00:51:04] yeah
+[00:51:06] [Music]

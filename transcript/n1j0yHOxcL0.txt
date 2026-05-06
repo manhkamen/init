@@ -1,0 +1,2773 @@
+[00:00:05] hello everyone welcome
+[00:00:07] my name is karen tucker i'm ceo and
+[00:00:09] board member of the churchill club
+[00:00:11] and tonight we present an evening with
+[00:00:13] elon musk in conversation with
+[00:00:15] michael malone elon and mike thank you
+[00:00:17] very much for being
+[00:00:18] here with us tonight and i would also
+[00:00:21] like to thank microsoft for hosting this
+[00:00:23] program this evening
+[00:00:25] before we get started let me mention
+[00:00:27] some of our upcoming events
+[00:00:29] first on tuesday april 21st it's
+[00:00:32] virtualization
+[00:00:33] what's next six leading experts will
+[00:00:36] talk about trends and the next
+[00:00:37] generation of this
+[00:00:38] hot technology area and then next on
+[00:00:42] thursday april 23rd
+[00:00:43] we present a woman a women tech
+[00:00:46] executive roundtable
+[00:00:47] what's top of mind in 2009 with an
+[00:00:50] all-star cast including cheryl sandberg
+[00:00:52] from facebook
+[00:00:53] from facebook and on april 27th
+[00:00:56] we have a program about executive
+[00:00:58] leadership style and its effect
+[00:00:59] on business performance the panel will
+[00:01:02] include
+[00:01:03] bill campbell chairman of intuit and
+[00:01:05] others you can look for that
+[00:01:07] on churchill club.org this week
+[00:01:10] and on may 7 it's our 2009 cio agenda
+[00:01:13] including the cios of home depot
+[00:01:16] baxter among others of an incredible
+[00:01:18] group should be an interesting program
+[00:01:20] this too will post on the website this
+[00:01:22] week
+[00:01:24] and last but not least it is our uh
+[00:01:27] most anticipated program of the year the
+[00:01:29] top 10
+[00:01:30] tech trends event on wednesday may 20
+[00:01:34] and this year we have vinod khosla
+[00:01:36] rahm shahram steve jervidson and
+[00:01:39] joe schoendorff will be making their
+[00:01:40] predictions with high audience
+[00:01:42] participation and so if you haven't yet
+[00:01:44] made your reservation
+[00:01:46] please be sure to do that just a note
+[00:01:49] about the club
+[00:01:50] for over 23 years the churchill club has
+[00:01:53] been the leading forum for the bay area
+[00:01:55] business and
+[00:01:55] technology community presenting what's
+[00:01:58] new what's next what matters most
+[00:02:00] we are a non-profit member supported
+[00:02:03] group
+[00:02:03] and so if you are not a member and you
+[00:02:05] enjoy tonight's program
+[00:02:07] we hope that you will consider joining
+[00:02:09] us and we make it easy for you to do so
+[00:02:11] simply just visit churchillclub.org and
+[00:02:14] go through the steps
+[00:02:16] now i'm pleased to introduce our
+[00:02:17] moderator michael malone
+[00:02:19] mike has had a most impressive career
+[00:02:22] having covered
+[00:02:23] silicon valley and high tech for more
+[00:02:25] than 25 years
+[00:02:27] he has written for the wall street
+[00:02:28] journal the economist fortune the new
+[00:02:31] york times
+[00:02:32] forbes asap and earlier the san jose
+[00:02:35] mercury news
+[00:02:36] he wrote or co-wrote a dozen books he
+[00:02:39] hosted three public television interview
+[00:02:42] programs a series and most recently he
+[00:02:44] co-pro
+[00:02:45] he co-produced a pbs mini series called
+[00:02:48] the new
+[00:02:48] heroes about social entrepreneurs
+[00:02:52] when i asked mike for something about
+[00:02:53] him that doesn't appear in his
+[00:02:55] bio he admitted that he was nearly
+[00:02:57] expelled
+[00:02:58] from santa clara university because he
+[00:03:01] he used a certain obscenity i believe he
+[00:03:03] said it contained
+[00:03:04] 12 letters in his school paper column
+[00:03:08] i'm sure that wasn't the the first time
+[00:03:11] that
+[00:03:11] mike stirred things up and i trust that
+[00:03:13] it will not be the last either
+[00:03:15] so let's give a warm welcome to
+[00:03:16] respected journalist and author mike
+[00:03:18] malone
+[00:03:25] good evening everybody looks like we
+[00:03:26] have a pretty full house i recognize a
+[00:03:28] lot of faces
+[00:03:29] and i promise not to try not to use that
+[00:03:31] uh that 12-letter word tonight
+[00:03:34] elon might but i'll try not to i hope
+[00:03:38] all of you had a chance to take a look
+[00:03:40] at the the tesla roadster sitting out
+[00:03:41] there in the parking lot
+[00:03:43] it was the one behind the orange cones
+[00:03:45] that look very different from all the
+[00:03:46] rest of the cars out there if you didn't
+[00:03:48] get a chance try to beat elon out of
+[00:03:49] here tonight
+[00:03:50] and go take a look at or at least watch
+[00:03:52] them tear out of the parking lot
+[00:03:53] silently
+[00:03:54] so allow me to do an introduction sir
+[00:03:57] we've known each other a long time yeah
+[00:03:59] you know churchill club has 12 letters
+[00:04:02] oh yes it is oh my goodness
+[00:04:04] i was just thinking it was 20 it's hard
+[00:04:06] to leave it was 28 years ago that rich
+[00:04:08] carl garden tony perkins
+[00:04:10] showed me a plan for this and it was
+[00:04:12] about this
+[00:04:13] just a few years before i was shown the
+[00:04:15] plan for ebay and in both cases i said i
+[00:04:17] just don't think it's going to work it's
+[00:04:18] crazy no it's just crazy
+[00:04:21] so let me introduce you 37 year old elon
+[00:04:23] musk was born and raised in south africa
+[00:04:26] but left home at age 17 to make his way
+[00:04:28] in the world
+[00:04:29] living on as little as one dollar per
+[00:04:31] day he eventually made his way to the
+[00:04:32] wharton school at the university of
+[00:04:34] pennsylvania
+[00:04:35] where he earned bachelor's degrees in
+[00:04:37] economics and physics
+[00:04:39] musk then attended stanford's graduate
+[00:04:41] program in high energy physics
+[00:04:43] where he lasted exactly two days before
+[00:04:46] dropping out to form a company
+[00:04:48] with his brother that company zip2 was
+[00:04:50] sold for 300 million dollars
+[00:04:54] musk then founded x.com an online
+[00:04:56] financial services company
+[00:04:58] it eventually became paypal of which
+[00:05:01] elon was the largest
+[00:05:02] shareholder paypal as we all know was
+[00:05:05] purchased by ebay for 1.5 billion
+[00:05:07] dollars in 2002.
+[00:05:10] when he graduated from wharton elon
+[00:05:12] determined the three important areas
+[00:05:13] where he wanted to make a contribution
+[00:05:16] was the internet clean energy and space
+[00:05:20] and with paypal tesla motors spacex
+[00:05:23] and solar city he has done just that and
+[00:05:26] in the process made himself one of the
+[00:05:28] most celebrated entrepreneurs on the
+[00:05:30] planet
+[00:05:31] ladies and gentlemen elon musk thanks
+[00:05:38] so let's begin with the topic of
+[00:05:39] greatest interest to the audience here
+[00:05:41] tonight i assume
+[00:05:43] uh tesla motors okay where's the company
+[00:05:46] at right now
+[00:05:47] where do orders stand oh mike i don't
+[00:05:49] know what to tell you it's
+[00:05:51] it's been rough uh no i'm just kidding
+[00:05:53] it's it's actually
+[00:05:56] um it's actually been it's been pretty
+[00:05:59] good um
+[00:06:00] in fact it really quite a contrast to
+[00:06:02] the rest of the water business
+[00:06:04] we're sold out first of all for the
+[00:06:05] tesla roads to the sports car we're sold
+[00:06:07] out through
+[00:06:07] the end of october um and within it i
+[00:06:11] think probably within
+[00:06:12] two or three months will be actually
+[00:06:13] sold out of all 2009 production for the
+[00:06:15] roadster
+[00:06:16] um so is this for the standard roadster
+[00:06:19] or the or the
+[00:06:20] advanced version well we are we do have
+[00:06:22] a roadster sport coming out which is a
+[00:06:24] you know for those for whom the road
+[00:06:25] says the roast isn't fast enough
+[00:06:27] right um there's the roadster sport yeah
+[00:06:29] how fast is that one now
+[00:06:30] uh that that'll do zero to 16 3.7
+[00:06:33] seconds
+[00:06:34] so it's faster than almost any any it's
+[00:06:35] like an icbm laid over on its side
+[00:06:38] uh yeah it's it's it's ridiculously fast
+[00:06:41] now how are the orders for that
+[00:06:42] uh good actually i you know i haven't
+[00:06:44] looked at the latest orders for roadster
+[00:06:45] sport
+[00:06:46] and people actually have an opportunity
+[00:06:47] to upgrade their car through it's the
+[00:06:49] sport that are getting their car
+[00:06:50] after i think uh late june or july and
+[00:06:53] what we're finding is a lot of people
+[00:06:54] are choosing to upgrade their car to the
+[00:06:55] sport uh package
+[00:06:57] um so i actually don't have an exact
+[00:06:58] number for you but anecdotally it seems
+[00:07:00] to be doing very well now the roaster is
+[00:07:02] 109 000.
+[00:07:03] is that right yeah and then there's
+[00:07:04] actually sports 139 000.
+[00:07:07] yeah right um well the the price to to
+[00:07:10] customers is actually
+[00:07:11] uh in terms of a comparison price that
+[00:07:14] that's relevant for comparing it to
+[00:07:16] a porsche or something like that is
+[00:07:17] actually about 98 000 and
+[00:07:19] and the reason for that is if you buy an
+[00:07:21] electric car you get a 7500 federal tax
+[00:07:24] rebate even if you're even if you're an
+[00:07:26] amt it applies to everyone
+[00:07:27] okay and then uh you don't pay the gas
+[00:07:30] guzzler uh
+[00:07:31] tax which is somewhere in the order of
+[00:07:32] three thousand dollars um so effectively
+[00:07:35] you know your thousand dollar discount
+[00:07:36] yeah you're roughly 10
+[00:07:38] and depends on which car you compare it
+[00:07:40] against because the guest cause of text
+[00:07:41] does vary
+[00:07:42] uh but it's somewhere between a a nine
+[00:07:44] to twelve thousand dollar discount and
+[00:07:46] uh
+[00:07:47] relative to a gasoline sports car so in
+[00:07:49] effect you're talking about a car that's
+[00:07:51] just under a hundred thousand dollars as
+[00:07:52] a base price
+[00:07:53] and then um the sport package is another
+[00:07:55] twenty thousand dollars on top of that
+[00:07:57] um and that's equivalent to like going
+[00:07:58] from like a you know a 911 to a 911
+[00:08:01] turbo or something you know that that
+[00:08:02] kind of thing
+[00:08:03] now if i were to order one right now if
+[00:08:05] anybody in the audience
+[00:08:06] wants to order one right now raise your
+[00:08:08] hands i will take orders
+[00:08:10] if somebody out here were to order one
+[00:08:12] right now what would it take what's the
+[00:08:13] deposit
+[00:08:14] and what's the delivery date um so we're
+[00:08:17] actually
+[00:08:17] reducing our uh our deposit requirements
+[00:08:20] on the roadster and previously
+[00:08:22] uh we'd use the the deposits to provide
+[00:08:24] funding for
+[00:08:25] for the company and that was an
+[00:08:26] acknowledged thing we said look we
+[00:08:28] car companies are very capital intensive
+[00:08:29] so in order to
+[00:08:31] make this uh you know doable or more
+[00:08:34] doable
+[00:08:35] we're we're gonna take deposits they'll
+[00:08:37] be at risk people should recognize that
+[00:08:39] and then
+[00:08:40] the the advantages that they get one of
+[00:08:41] the postcards uh and we actually got a
+[00:08:43] lot of people who signed up to that
+[00:08:45] um but we don't really need that anymore
+[00:08:48] um so we're actually gonna reduce the
+[00:08:51] the deposit down to
+[00:08:53] make ninety nine hundred dollars and
+[00:08:54] then you pay the balance uh just
+[00:08:56] at start of production which is a couple
+[00:08:58] months prior to delivery
+[00:09:00] now did you find any impact on the
+[00:09:01] orders because with the falling gas
+[00:09:03] prices
+[00:09:05] and we saw what happened with the prius
+[00:09:06] i mean you can go to slimevale and
+[00:09:07] entire supermarket parking lots are
+[00:09:09] filled with unsold priuses
+[00:09:10] did that affect you guys at all you know
+[00:09:14] i don't think that was a huge impact
+[00:09:15] um because most people aren't buying
+[00:09:19] the 100 000 sports car because of right
+[00:09:21] you know to save money on gas
+[00:09:23] um it's it's more geek love than it is
+[00:09:27] uh cheap gas yeah i was more worried
+[00:09:29] about what how that would affect
+[00:09:30] sales for our sedan um you know which we
+[00:09:33] just unveiled a few weeks ago
+[00:09:35] we'll talk about that in a moment but
+[00:09:35] yeah yeah um and uh
+[00:09:38] but it i don't think that's been a key
+[00:09:41] impact on on roadster sales i think
+[00:09:42] certainly
+[00:09:43] the economy as a whole and the um the
+[00:09:46] implosion of people's net worth
+[00:09:47] has had an effect on on new roads to
+[00:09:50] sales
+[00:09:51] and we're fortunate that we do have a
+[00:09:53] significant backlog you know going out
+[00:09:54] six months
+[00:09:57] but um i wouldn't say gas prices have
+[00:10:00] had a big effect on the roadster
+[00:10:02] now being in the car business you have
+[00:10:03] to be asked are you taking any federal
+[00:10:05] money
+[00:10:06] you know um and are you worried about
+[00:10:09] your job security if you are
+[00:10:12] uh well you know i i don't have to worry
+[00:10:15] about my compensation my compensation
+[00:10:17] currently is a dollar
+[00:10:18] so i'd be happy to cut that in half for
+[00:10:20] the federal government uh if they do
+[00:10:23] uh give us a loan but actually we've
+[00:10:26] taken no
+[00:10:26] no government money at all thus far um
+[00:10:28] if some people out there think we we
+[00:10:30] have and
+[00:10:31] we haven't now we do aspire to get a a
+[00:10:34] government loan
+[00:10:35] for under the what's called the atvm
+[00:10:37] program it's the advanced technology
+[00:10:38] vehicle manufacturing program
+[00:10:40] that's from the doa that's from the voe
+[00:10:42] it's not bailout money and
+[00:10:44] and it was this was this program was
+[00:10:46] done before there was
+[00:10:47] uh in the need for valve money that the
+[00:10:50] legislation was written
+[00:10:52] about about 18 started started writing
+[00:10:54] it about 18 months ago
+[00:10:55] and it got it finally got approved by
+[00:10:56] congress um
+[00:10:58] last year sometime i think like late
+[00:11:00] last year so
+[00:11:02] uh and this is before a vomit so this
+[00:11:04] isn't stimulus money
+[00:11:05] this isn't bailout money this is
+[00:11:07] actually um something that originated in
+[00:11:09] the
+[00:11:09] senate uh energy uh committee because
+[00:11:12] they
+[00:11:12] they felt was a matter of national
+[00:11:14] security for uh and environmental
+[00:11:16] obviously environmentally important
+[00:11:17] for the united states to to accelerate
+[00:11:20] its transition away from from from oil
+[00:11:22] uh for all the obvious reasons that uh
+[00:11:25] the you know
+[00:11:26] it's it's damaging yeah it's obviously
+[00:11:28] very damaging to the environment
+[00:11:29] um and uh as gas prices
+[00:11:33] rise if you know because as they will
+[00:11:35] dramatically uh when we come back to
+[00:11:37] another boom
+[00:11:38] there's going to be a massive wealth
+[00:11:39] transfer out of the united states right
+[00:11:41] uh to to other countries and it's just
+[00:11:43] it's just it's just kind of silly you
+[00:11:44] know for that why
+[00:11:46] why it's cheaper for us to just
+[00:11:48] accelerate the move with oil
+[00:11:49] now i'm not going to ask you how much
+[00:11:51] you plan to get from the government or
+[00:11:52] when because i think you
+[00:11:54] said that publicly once and got in
+[00:11:55] trouble didn't you i did get in trouble
+[00:11:57] um i just said what they told me and
+[00:12:00] they didn't say keep it quiet
+[00:12:01] so um but
+[00:12:05] i suffice to say we are highly
+[00:12:08] optimistic
+[00:12:09] that we will receive um approval
+[00:12:12] loan approval um in in the near term
+[00:12:16] okay let's talk about the factory that
+[00:12:18] was uh there was an awful lot of news
+[00:12:20] a few months ago groundbreaking
+[00:12:22] ceremonies a big assembly plant going to
+[00:12:24] be out there on 237 in san jose
+[00:12:27] yeah now it seems to be on hold and
+[00:12:29] something about financing delayed or you
+[00:12:31] couldn't
+[00:12:32] you didn't qualify for it or what
+[00:12:34] happened yeah so
+[00:12:36] the san jose um uh
+[00:12:39] the idea of using the sort of the the
+[00:12:41] undeveloped land of the 237 in san jose
+[00:12:44] uh occurred before the the section 136
+[00:12:46] or the atvm
+[00:12:47] loan program was approved by congress
+[00:12:50] so um and one of the clauses in that
+[00:12:55] atvm loan program is that you have to
+[00:12:58] uh it gives preference to um
+[00:13:00] manufacturing facilities older than 20
+[00:13:02] years
+[00:13:03] which was actually so it's sort of a
+[00:13:05] quasi buy american clause
+[00:13:06] because the the the foreign car
+[00:13:09] companies
+[00:13:10] that are factories here almost all their
+[00:13:12] factories are younger than 20 years
+[00:13:14] um so it's it's it's essentially to buy
+[00:13:17] us the cash
+[00:13:18] towards american companies that that
+[00:13:20] that clause has put in
+[00:13:21] but nonetheless it's there which means
+[00:13:23] we can't do green field
+[00:13:26] so um well i assume there's going to be
+[00:13:28] a lot of empty buildings in dearborn
+[00:13:30] soon does that where you plan on going
+[00:13:32] um no we'll most likely be in southern
+[00:13:34] california we actually have term sheets
+[00:13:36] from two locations in southern
+[00:13:37] california
+[00:13:38] um we looked first in the bay area um
+[00:13:40] i'd love to take over newmie that'd be
+[00:13:42] awesome
+[00:13:42] yeah um uh i don't know if there's
+[00:13:46] maybe at some point we'll we'll have an
+[00:13:47] opportunity to acquire nume um
+[00:13:49] uh that would be that'd be great um i'll
+[00:13:51] take that in a second
+[00:13:52] um but but that isn't available right
+[00:13:55] now and i don't think we
+[00:13:56] we can't afford it really unless they
+[00:13:57] give it to us um
+[00:14:00] which maybe they will i don't know so
+[00:14:03] where are the cars being manufactured
+[00:14:04] right now uk and lotus
+[00:14:06] uh actually the roadsters uh it's
+[00:14:08] considered a
+[00:14:09] us manufactured car the final assembly
+[00:14:11] occurs in in the bay area and menlo park
+[00:14:13] of all places
+[00:14:16] well-known auto center right uh well
+[00:14:18] bear in mind we're talking low
+[00:14:19] production for the roadster so this is
+[00:14:21] a production rate of around about 25 a
+[00:14:24] week
+[00:14:25] um that might rise to 30 a week in the
+[00:14:27] summer
+[00:14:29] so it's not it's not i mean when you
+[00:14:31] sort of add that up that's five cars a
+[00:14:32] day i mean that's
+[00:14:33] like your average service center can do
+[00:14:35] a lot more than that uh
+[00:14:36] and and uh so we install the powertrain
+[00:14:39] in
+[00:14:39] in menlo park we do final vehicle
+[00:14:41] verification we do the high
+[00:14:43] tests uh out at moffett airfield um and
+[00:14:46] um
+[00:14:46] yeah and that's and then we may picture
+[00:14:49] the power that the battery pack
+[00:14:50] in st carlos so
+[00:14:53] it's by value talking about something
+[00:14:56] mostly done here
+[00:14:57] where do you do the tests at moffitt on
+[00:14:59] the airfield
+[00:15:00] on the runway yeah has any have you ever
+[00:15:03] seen a
+[00:15:05] a tesla racing down the runway in
+[00:15:06] moffett field
+[00:15:08] do you guys like to do it three o'clock
+[00:15:09] in the morning no there's hardly any
+[00:15:11] traffic on market
+[00:15:12] nowadays true um let's talk about the
+[00:15:15] new car
+[00:15:16] the the s tell me about it all right
+[00:15:19] um this is this is a this really is a
+[00:15:21] great car i mean
+[00:15:23] the roadster is a good car i think the s
+[00:15:24] is a great car um and and i think it's
+[00:15:26] something that will
+[00:15:28] um it's really quite historic or at
+[00:15:30] least it aspires to be
+[00:15:31] um in that this will be the first
+[00:15:33] mass-produced
+[00:15:35] highway cable uh electric car and that's
+[00:15:38] nev
+[00:15:38] there's never this may sound strange but
+[00:15:40] there's actually
+[00:15:41] never been a mass-produced electric car
+[00:15:44] outside of golf carts
+[00:15:45] um and uh is it the first non-internal
+[00:15:49] combustion
+[00:15:51] mass-produced car since the stanley
+[00:15:52] steemer yeah it might be
+[00:15:55] wow okay um so yeah
+[00:15:59] i mean there's been hand built things
+[00:16:00] and conversions of gasoline cars and
+[00:16:02] stuff like that but but
+[00:16:03] not an actual mass-produced electric car
+[00:16:07] so you know of course we have to mass
+[00:16:09] produce it for that to be
+[00:16:10] true um uh so that's why i say
+[00:16:13] it aspires to be this is this aspiration
+[00:16:17] is that
+[00:16:17] um and but if we fulfill that aspiration
+[00:16:20] then it will be very historic
+[00:16:22] and this is a car really designed
+[00:16:25] to take full advantage of an electric
+[00:16:27] powertrain so the packaging is very
+[00:16:29] optimized for that
+[00:16:30] the battery pack is in the floor pan
+[00:16:31] between the two axles so it's this big
+[00:16:33] sort of flat battery pack
+[00:16:34] looks a lot like a giant laptop battery
+[00:16:36] pack um in fact user's laptop sells
+[00:16:39] i was going to say is it is is it still
+[00:16:41] a just a ton
+[00:16:43] of laptop batteries well it's half a ton
+[00:16:45] of leftovers half a ton of laptop
+[00:16:46] batteries
+[00:16:48] strapped together yeah now that's tricky
+[00:16:50] by the way so really so
+[00:16:51] advanced strapping is tricky yeah i bet
+[00:16:54] yeah so so you need a lot of micro you
+[00:16:55] need a lot of processors right to manage
+[00:16:57] all that yeah
+[00:16:58] uh i think they're like 30 or 32
+[00:17:01] processors or something on board
+[00:17:02] a lot of them are like little tiny ones
+[00:17:03] so you must go to every night praying
+[00:17:05] for breakthroughs and battery technology
+[00:17:06] so you don't have to deal with this
+[00:17:08] um no you know it's not too bad actually
+[00:17:11] having
+[00:17:12] a lot lots of little cells i mean we
+[00:17:13] keep believing what that that is the the
+[00:17:15] highest energy density pack that you can
+[00:17:17] make
+[00:17:18] is to use a large number of laptop cells
+[00:17:21] and we
+[00:17:22] we keep um pushing on the cell
+[00:17:24] manufacturers and technically
+[00:17:26] by the way a battery is a collection of
+[00:17:27] cells and and the cell
+[00:17:29] if it's just one it's a cell and if it's
+[00:17:32] two it's a battery
+[00:17:34] um so uh so so the cell produ
+[00:17:37] and the cell is a chemical engineering
+[00:17:39] problem the battery the pack
+[00:17:41] the battery is uh is actually a
+[00:17:43] mechanical engineering electrical
+[00:17:44] engineering and software engineering
+[00:17:45] problem
+[00:17:46] um so there are different types of you
+[00:17:49] know
+[00:17:50] expertise needed to do to do that and in
+[00:17:52] fact there are many makers of cells
+[00:17:54] but there's only one maker of large
+[00:17:56] lithium ion battery packs and that's
+[00:17:58] tesla um so uh
+[00:18:01] of course there will be others in the
+[00:18:02] future and that's why daimler came to us
+[00:18:04] uh to make the the battery pack for the
+[00:18:07] new electric smart
+[00:18:08] right now you know something i've never
+[00:18:10] asked you
+[00:18:12] my laptop just about sets my pants on
+[00:18:14] fire
+[00:18:15] how do you keep all of those from just
+[00:18:18] cooking that car
+[00:18:19] are you are you sitting on your laptop
+[00:18:22] i don't even watch but that's part of
+[00:18:24] the problem i think about a half a ton
+[00:18:26] of laptop batteries um
+[00:18:30] yeah um well look what's the worst that
+[00:18:34] could happen i mean
+[00:18:39] we do extensive safety testing um i mean
+[00:18:45] i shouldn't laugh this is a serious
+[00:18:46] subject um
+[00:18:48] the uh so i'll break it down
+[00:18:52] okay so we start off at the cell level
+[00:18:54] we use only
+[00:18:55] the finest cells
+[00:18:59] corinthians currently finest cells
+[00:19:05] each one gently observed and carefully
+[00:19:08] prepared
+[00:19:09] um we use we we do actually use the ice
+[00:19:12] quality cells
+[00:19:13] which which come from japan um they're
+[00:19:15] um they're they're carefully verified by
+[00:19:17] the manufacturer then
+[00:19:18] when we receive them we we check each
+[00:19:21] cell
+[00:19:22] um we uh in addition to the fuse that's
+[00:19:25] that's built into the cell from the
+[00:19:26] manufacturer we we double fuse the cell
+[00:19:29] so it's triple fused in total at the
+[00:19:31] cell level um
+[00:19:32] then the cells incorporate into modules
+[00:19:34] the modules um
+[00:19:36] are designed to ensure that there's
+[00:19:38] passive propagation resistance between
+[00:19:40] the cells so that what that means is um
+[00:19:42] even if
+[00:19:43] uh all active safety systems fail and a
+[00:19:46] cell goes into what's called thermal
+[00:19:47] thermal runaway it
+[00:19:48] it that energy is contained and it does
+[00:19:51] not
+[00:19:52] spread to any neighboring cells so this
+[00:19:55] involves
+[00:19:55] insulating the cells making sure you've
+[00:19:57] got a thermal conduction path to get rid
+[00:19:59] of the heat
+[00:20:00] so it you so you don't essentially have
+[00:20:02] a chain reaction
+[00:20:04] so that that's quite tricky um and
+[00:20:08] and then uh but but we also never want
+[00:20:09] to get that to to even losing a single
+[00:20:12] cell
+[00:20:12] right so we have an active cooling
+[00:20:14] system uh which is so the battery pack
+[00:20:16] is liquid cooled
+[00:20:17] um and and that that also is a tricky
+[00:20:20] problem because you need to be
+[00:20:21] thermally conductive but electrically
+[00:20:23] isolated yeah um and moreover you need
+[00:20:25] that needs to be true over
+[00:20:27] a hundred thousand plus miles of bumpy
+[00:20:29] bumpy problems in real life cars
+[00:20:31] yeah real life cars real life cars are
+[00:20:33] it is a hard it's hard to make things
+[00:20:35] last for a hundred thousand miles and
+[00:20:37] you know ten years and that kind of
+[00:20:39] thing so you
+[00:20:40] you if you hit potholes and you get so
+[00:20:42] you got you know it's getting
+[00:20:44] sharp you know road shocks from the road
+[00:20:46] uh it's getting vibrations going through
+[00:20:48] extremes of temperature
+[00:20:50] it gets into an accident and all these
+[00:20:52] circumstances
+[00:20:53] you cannot have uh the pack uh catch on
+[00:20:56] fire
+[00:20:56] right um very hard problem and and then
+[00:21:00] also it it must be you must be able to
+[00:21:03] make the pack inexpensively uh it's got
+[00:21:06] to be
+[00:21:07] password regulatory uh requirements um
+[00:21:11] you've got to preserve the pack uh so
+[00:21:14] that you maximize the calendar and cycle
+[00:21:15] life of the
+[00:21:17] the chemistry within the cells um
+[00:21:19] charging
+[00:21:20] to deal with the dot and the doe
+[00:21:23] yeah any branches a lot of departments
+[00:21:25] yeah tell me more
+[00:21:27] i don't want to go into too much my new
+[00:21:28] shape tell me more about the car
+[00:21:30] yeah sorry you know i shouldn't
+[00:21:33] i should i should have said talk yeah
+[00:21:35] i'll give you a sales pitch on the model
+[00:21:37] s okay so
+[00:21:38] um this is a car that has a range of up
+[00:21:41] to 300 miles
+[00:21:42] um it seats uh up to seven people that's
+[00:21:46] five adults plus two kids
+[00:21:48] and the way we get the two kids is it's
+[00:21:50] kind of like the old station wagons we
+[00:21:51] have two rear-facing kit seats in the
+[00:21:52] back
+[00:21:53] um that's an option that you can you can
+[00:21:55] order i remember those days
+[00:21:56] yeah i mean you know it's not great
+[00:21:58] being in the back being in the back but
+[00:22:00] i guess it could be kind of fun if
+[00:22:01] you're a kid and you can sort of watch
+[00:22:03] all the other cars and stuff
+[00:22:04] um and and most people you know when you
+[00:22:06] put seven people in a car
+[00:22:07] it's almost never seven adults and it's
+[00:22:10] only occasionally
+[00:22:11] rarely is it seven people um so we're
+[00:22:13] trying to make something that could
+[00:22:15] substitute for your suv uh so you don't
+[00:22:16] have to have cart this gigantic
+[00:22:18] seven passenger suv all over the place
+[00:22:20] it will be five star crash rated
+[00:22:22] and that that's a very hard thing to
+[00:22:24] achieve in fact
+[00:22:25] today's five star will will reduce to a
+[00:22:28] three star in two years
+[00:22:30] right they keep moving the bar yeah they
+[00:22:32] keep raising the bar on on to what's
+[00:22:34] necessary to achieve a five star
+[00:22:36] some people might think oh i've got a
+[00:22:37] five star day it'll be like a five star
+[00:22:38] in two years no
+[00:22:39] that's like a three star in two years i
+[00:22:40] mean you basically have to be
+[00:22:42] you know a sherman tank uh level safety
+[00:22:45] to get to five stars
+[00:22:46] we will be at five stars i'll have my
+[00:22:48] own kids in the car
+[00:22:49] we're not going to make something that's
+[00:22:50] legitimate yeah we fully occupied in the
+[00:22:53] car
+[00:22:54] um and um and and so the the challenge
+[00:22:57] then is to make it
+[00:22:58] make it super safe but not super heavy
+[00:23:01] um so it is quite a difficult mechanical
+[00:23:02] engineering problem and mass
+[00:23:03] optimization problem
+[00:23:05] um and uh
+[00:23:08] and actually arguably it will be safer
+[00:23:10] than an suv because
+[00:23:11] it'll have such a low center of gravity
+[00:23:13] uh because the battery pack is in the
+[00:23:14] floor pan
+[00:23:15] um that you're not going to have the tip
+[00:23:17] over risk it's going to stay on the
+[00:23:18] ground
+[00:23:18] yeah so i mean if you because if you're
+[00:23:20] going on like some mountain path or
+[00:23:21] something and
+[00:23:22] you go off the side i mean it doesn't
+[00:23:23] matter how many airbags you got you know
+[00:23:25] right um
+[00:23:26] your your toast so you want to make sure
+[00:23:28] you don't have tip over risk
+[00:23:29] and then that that certain on tip overs
+[00:23:31] you'd actually win against an suv
+[00:23:34] and uh tell me about the ergonomics i
+[00:23:36] hear you have some innovations on the
+[00:23:37] dashboard absolutely
+[00:23:39] so for the interior uh approach
+[00:23:42] um you can think of it like like a giant
+[00:23:44] iphone
+[00:23:45] okay that's the center console imagine a
+[00:23:47] 17 inch diameter iphone
+[00:23:48] um and that's the basic thought there
+[00:23:51] and 3g wireless connected
+[00:23:52] uh yeah absolutely in fact so it'll have
+[00:23:55] your controls
+[00:23:56] your standard controls for uh stereo
+[00:23:58] hvac but it's also going to be able to
+[00:24:00] do connect to the internet so you want
+[00:24:02] to do pandora radio if you want to do
+[00:24:03] youtube
+[00:24:04] whatever you want to do it'll have a
+[00:24:06] browser this is just
+[00:24:08] linux linux running up running running a
+[00:24:10] browser
+[00:24:12] so if you want to look at your email not
+[00:24:13] while you're not driving
+[00:24:16] and in fact there's some sort of
+[00:24:18] interesting ideas who thought about well
+[00:24:19] like maybe
+[00:24:20] you could have it uh read out your email
+[00:24:22] to you while you're driving
+[00:24:23] um and um you know do voice commands on
+[00:24:27] on the computer and so and nice to allow
+[00:24:29] people to develop applications
+[00:24:31] uh that that could run on on the
+[00:24:32] computer because it's a full-fledged
+[00:24:33] computer it's not some sort of
+[00:24:35] dumbed-down car car thing um and um
+[00:24:39] and also you should be able to theme the
+[00:24:41] the display so it's a 17-inch display in
+[00:24:44] front and it's about
+[00:24:45] inch display in front of you so it's
+[00:24:46] user modified display yeah yeah so
+[00:24:48] there's a read-only display right in
+[00:24:49] front of you and then a big 17-inch
+[00:24:51] touchscreen
+[00:24:52] on in the center console and uh
+[00:24:56] you know you can theme your cell phone
+[00:24:58] you know and and
+[00:24:59] customize it to your interests and and
+[00:25:02] uh and needs
+[00:25:03] well why can't you do that with a car
+[00:25:04] you should be able to you know it seems
+[00:25:06] like a reasonable thing
+[00:25:07] so if you want to see different
+[00:25:08] instruments on the front like you care
+[00:25:10] about seeing this readout that readout
+[00:25:13] you want it to sort of look have a heavy
+[00:25:14] metal look you want to you know want it
+[00:25:16] to look like
+[00:25:17] country and western whatever you know
+[00:25:18] make it more feel like it's more your
+[00:25:20] car
+[00:25:20] not just something that rolled off an
+[00:25:22] assembly line so you could have the
+[00:25:23] dashboard of a 67 gto
+[00:25:25] yeah if you look like steam gauges if
+[00:25:28] you want yeah
+[00:25:29] yeah absolutely uh so this is your this
+[00:25:32] is your five series killer
+[00:25:35] you know we're not going to kill we're
+[00:25:37] 20 we're looking at 20 000 units a year
+[00:25:39] so we're not going to kill anything
+[00:25:40] right
+[00:25:40] and and we'll
+[00:25:43] we'll impinge on the market share on of
+[00:25:46] several cars
+[00:25:47] out there lexus mercedes bmw
+[00:25:50] uh you know audi um
+[00:25:55] but but really it'll be a small i mean a
+[00:25:57] highly noticeable impact on on total
+[00:25:59] i mean you know this well at least there
+[00:26:00] were 17 million dollars 17 million cars
+[00:26:03] sold in the u.s a year
+[00:26:04] i think it's not about you know not much
+[00:26:07] like 99 million cars a year kind of run
+[00:26:09] rate so
+[00:26:11] uh if we even even at nine even at my
+[00:26:14] nine million costs
+[00:26:15] yeah yeah and that twenty thousand is
+[00:26:17] ten thousand domestic ten thousand
+[00:26:18] international so
+[00:26:19] we're talking you know 0.01 percent of
+[00:26:22] the
+[00:26:23] car market okay so give me some
+[00:26:24] performance give me some performance
+[00:26:26] specs on this thing
+[00:26:27] price starting price forty nine thousand
+[00:26:29] nine hundred
+[00:26:30] forty nine thousand nine hundred um well
+[00:26:33] yeah okay and
+[00:26:35] uh gosh that's less than 50. yes that's
+[00:26:38] right it is
+[00:26:39] that's right only 50 grand that that's
+[00:26:41] half the price
+[00:26:42] it is it is selling the price yes that's
+[00:26:46] quite impressive thanks and now that is
+[00:26:48] after there's a 7500
+[00:26:50] we have that federal tax debate that's
+[00:26:52] after the 7500 although i haven't taken
+[00:26:53] into account the gas guzzle attack so
+[00:26:55] in effect for an apples to apples
+[00:26:56] comparison would be a little bit less
+[00:26:58] than that maybe
+[00:26:59] 47 000 or something like that and you
+[00:27:01] said distance was
+[00:27:02] on a charge um it can go up to 300 miles
+[00:27:05] but now
+[00:27:05] the the the 49 901 will do
+[00:27:08] 160 miles okay um it's but that there
+[00:27:11] will be a 300 mile range pack available
+[00:27:13] um and uh one of the things you're
+[00:27:16] thinking of doing is
+[00:27:17] is perhaps making that's something you
+[00:27:18] can rent so if you can
+[00:27:20] if you can't afford the more expensive
+[00:27:22] 300 mile range pack or don't want it
+[00:27:24] then that's fine get the 160 ml pack
+[00:27:26] rent the bigger one
+[00:27:27] when you need it some other ways we've
+[00:27:29] addressed the range issue
+[00:27:31] is a 45 minute fast charge capability
+[00:27:33] which is about the limit of the battery
+[00:27:35] chemistry
+[00:27:36] and then designing the battery pack such
+[00:27:38] that it can be switched out faster than
+[00:27:39] you can fill a gas tank
+[00:27:40] um which in principle you think about it
+[00:27:42] i mean this is
+[00:27:43] this is basically a big laptop on wheels
+[00:27:46] and
+[00:27:47] if you can switch out your your laptop
+[00:27:49] battery you know in 30 seconds
+[00:27:51] well why can't you do that with a big
+[00:27:52] one you just need something that can
+[00:27:53] simulate a head
+[00:27:54] scale two little clips and that 500
+[00:27:56] pound battery pack falls out
+[00:27:58] yes that's something you can do by hand
+[00:28:00] right but you so you need you do need
+[00:28:02] special equipment at
+[00:28:03] sort of a battery pack swap station um
+[00:28:06] uh and there's you know companies out
+[00:28:08] there that are looking to to to
+[00:28:09] to do swap stations and i want you to
+[00:28:11] talk about
+[00:28:12] one of your your solar company weren't
+[00:28:14] you talking about having solar panels
+[00:28:15] that people could put on like the roof
+[00:28:16] of their house
+[00:28:17] yeah and do home charging for a quick 75
+[00:28:20] miles or whatever it was
+[00:28:22] well um the the most efficient thing to
+[00:28:25] do is to actually put
+[00:28:26] solar panels on the roof your house and
+[00:28:28] and just have them
+[00:28:29] try basically power your house uh
+[00:28:32] particularly during the day because
+[00:28:33] during the day is when you you encounter
+[00:28:35] peak load
+[00:28:36] right and they have to put the least
+[00:28:37] efficient power stations online
+[00:28:39] uh during the day um and uh and then at
+[00:28:43] night
+[00:28:43] that at night it's actually better to
+[00:28:45] charge your car at night
+[00:28:47] um so it's better to like decouple it
+[00:28:49] effectively so if you wanna if you wanna
+[00:28:51] be
+[00:28:51] um truly green then you just need to say
+[00:28:54] okay well i'm gonna generate more uh
+[00:28:55] energy
+[00:28:56] by a solar that i consume in my car
+[00:29:00] um although the model s will have so as
+[00:29:02] a solar panel option so you can put
+[00:29:04] solar panels on the on the roof of the
+[00:29:05] car itself on the car itself okay
+[00:29:07] um yeah and and there's some interesting
+[00:29:09] ideas to potentially have
+[00:29:11] solar solar car ports um and um
+[00:29:15] if you want to get some some really sort
+[00:29:16] of crazier ideas are like try to coat
+[00:29:18] the whole car
+[00:29:19] uh with some sort of amorphous uh
+[00:29:22] photovoltaic coating and and you know
+[00:29:25] have the whole thing be
+[00:29:26] a big solar panel yeah yeah now there
+[00:29:29] was talk for a while
+[00:29:30] and i guess you've abandoned it of even
+[00:29:31] putting a gasoline engine in
+[00:29:33] yes is that is that gone it is gone
+[00:29:36] we looked closely at the whole plug-in
+[00:29:38] hybrid thing and
+[00:29:40] um you know i guess about a
+[00:29:44] a week ago or so there was a guy who who
+[00:29:47] um asked me some asked me send me an
+[00:29:50] email he's like he
+[00:29:51] he runs like a bolt side or gm bolt side
+[00:29:53] or something
+[00:29:54] he's not he's not working for jim but um
+[00:29:57] he just said you know so why didn't why
+[00:29:59] isn't tesla doing doing the range
+[00:30:01] extended electric vehicle
+[00:30:02] approach the plug-in hybrid thing um and
+[00:30:05] i just sort of
+[00:30:05] gave him kind of a matter of fact this
+[00:30:07] is why we chose the strategy of one
+[00:30:08] another and then
+[00:30:09] you know it's all over the place like
+[00:30:11] i'm trashing the vault
+[00:30:12] i'm not trashing the ball i hope the
+[00:30:14] vault is successful
+[00:30:15] um and i've said so many times but i
+[00:30:18] have to
+[00:30:19] i'm just explaining why why did we not
+[00:30:21] do that so i'll explain
+[00:30:22] here i mean basically um uh what it
+[00:30:25] comes down to
+[00:30:26] is uh it's a technical point
+[00:30:30] um because we had to sort of drill into
+[00:30:33] it to
+[00:30:34] quite deeply to appreciate why why it
+[00:30:37] wouldn't
+[00:30:37] be ideal in our opinion to have a
+[00:30:39] plug-in hybrid
+[00:30:41] if you go from say if you consider a
+[00:30:43] 200-mile range pack
+[00:30:45] versus say a 40-mile range pack
+[00:30:48] it sounds like you've got you you have a
+[00:30:51] pack that is one-fifth the size
+[00:30:53] right for the 40-mile pack but that's
+[00:30:56] actually not true
+[00:30:57] so because what happens is the 40-mile
+[00:30:59] pack
+[00:31:00] has to generate particularly if it's a
+[00:31:02] range extended electric so you're not
+[00:31:04] you know it's a the 40 mile pack has to
+[00:31:06] generate
+[00:31:08] five times the power right um well
+[00:31:11] technically you could have the
+[00:31:12] the motor running and so it might maybe
+[00:31:14] it only has to generate
+[00:31:15] two and a half times the power but then
+[00:31:17] you're you're running both
+[00:31:18] simultaneously and that
+[00:31:19] you're not really being electric if
+[00:31:21] you're doing that so if you just
+[00:31:22] consider the pure electric case
+[00:31:23] you've got to generate five times the
+[00:31:25] power but the way it works in battery
+[00:31:27] chemistry
+[00:31:28] is that power and energy work work at
+[00:31:31] work at opposites you can either have a
+[00:31:32] high power pack or a high energy pack
+[00:31:35] energy is total mileage power is the
+[00:31:36] rate of which you can take uh
+[00:31:38] you know the rate which you can consume
+[00:31:40] that energy
+[00:31:42] and uh so in effect you then push to a
+[00:31:45] low
+[00:31:46] energy density chemistry in a plug-in
+[00:31:48] hybrid case
+[00:31:49] um and because you're hitting the pack
+[00:31:51] so hard
+[00:31:52] so it's doing it's working so much
+[00:31:54] harder than the bigger
+[00:31:55] the bigger pack um that you have to
+[00:31:58] de-rate the pack
+[00:31:59] derate the energy content so so you end
+[00:32:01] up with something
+[00:32:02] which is close to half the size maybe
+[00:32:05] eight
+[00:32:05] maybe 40 40 to 50 percent of the size of
+[00:32:08] the 200 mile pack
+[00:32:09] so so yeah so and then you've got to add
+[00:32:12] in the cost the
+[00:32:13] cost and weight of the uh the engine
+[00:32:16] the generator all the cross connects
+[00:32:18] between the two
+[00:32:19] uh you've got a factory in the that
+[00:32:21] there's servicing of two
+[00:32:23] complete drivetrains you still have to
+[00:32:24] deal with all the epa stuff
+[00:32:26] for emissions um and
+[00:32:30] and then when you when you've consumed
+[00:32:31] your 40 miles
+[00:32:33] um which we'll do reasonably for not
+[00:32:35] every day but maybe every
+[00:32:37] set every may call every third day um
+[00:32:39] you you're then gonna have something
+[00:32:41] which is massive
+[00:32:42] an engine which is super really
+[00:32:44] underpowered right um
+[00:32:45] it's going to stop this heavy car down
+[00:32:47] yeah it's going like it's going to feel
+[00:32:48] like i've got a lawn mower engine trying
+[00:32:49] to power my sedan
+[00:32:50] um and it's so it's going to be running
+[00:32:53] at very high rpm
+[00:32:54] it's going to be working really really
+[00:32:55] hard uh it's not gonna make that hundred
+[00:32:57] thousand miles
+[00:32:59] it's gonna be tough yeah um and so
+[00:33:02] so you really it's gonna feel very
+[00:33:04] anemic um on the highway and uh
+[00:33:07] uh so it's just it's it's it's
+[00:33:10] problematic
+[00:33:11] um you're neither fish nor foul and a
+[00:33:13] sense reason that if you've got a given
+[00:33:15] mass and cost and you say to an engineer
+[00:33:18] make the best electric car for for a
+[00:33:20] fixed massive cost
+[00:33:22] or you say engineer make the best
+[00:33:23] gasoline car
+[00:33:25] big smashing cost it's going to be a
+[00:33:27] better gasoline car or a better electric
+[00:33:29] car than if you split the baby
+[00:33:31] so you're not trashing hybrids but you
+[00:33:33] just did a pretty good job of trashing
+[00:33:34] hybrids
+[00:33:36] well i i i could be wrong you know um
+[00:33:41] i'm just saying that's the reasoning
+[00:33:42] that that caused us to right
+[00:33:44] to focus uh on electrics and continue
+[00:33:47] the focus on electrics
+[00:33:48] um let me ask you a silicon valley
+[00:33:50] question yeah
+[00:33:52] uh you're vice chairman and for a long
+[00:33:54] time the ceo of the firm
+[00:33:56] is a name out of silicon the silicon
+[00:33:58] valley past
+[00:33:59] zev drury a guy that we haven't seen
+[00:34:01] around here for
+[00:34:03] 30 years who ran monolithic memories
+[00:34:06] right
+[00:34:06] way back when uh kind of a legendary
+[00:34:08] figure kind of a swashbuckling guy
+[00:34:11] i seem to remember he ran he was running
+[00:34:13] monolithic memories
+[00:34:14] and the yom kippur war broke out and he
+[00:34:17] literally called into the office and
+[00:34:18] said
+[00:34:19] i'll be in israel until the war is over
+[00:34:21] and
+[00:34:22] volunteered and went off to battle uh
+[00:34:25] unique guy but he's been missing from
+[00:34:28] action right here for a long long time
+[00:34:29] where did you find him
+[00:34:31] and why would you get a chip guy in a
+[00:34:34] battery business in a car business
+[00:34:36] sure um how do we find him
+[00:34:39] um actually it was through one of the
+[00:34:41] investors um
+[00:34:42] at tesla one zev is a car guy i mean he
+[00:34:46] went into sort of racing did a lot of
+[00:34:48] racing
+[00:34:49] um and he was very very competitive
+[00:34:53] obviously you know great entrepreneur
+[00:34:57] strong track record and
+[00:35:00] i think very importantly he was someone
+[00:35:02] who was he was not afraid of
+[00:35:04] of danger as evidenced by his running
+[00:35:06] off to the umpqua war
+[00:35:08] uh um so
+[00:35:12] you know towards the end of 2007 uh
+[00:35:15] we needed to find a ceo for tesla and we
+[00:35:18] didn't have a lot of takers
+[00:35:20] um because it was a it was a very
+[00:35:22] difficult situation
+[00:35:23] um and there weren't there weren't very
+[00:35:26] many people with the
+[00:35:27] the guts of of zev um
+[00:35:30] and anyway so
+[00:35:33] so you know i thought
+[00:35:38] was somebody who who could help get us
+[00:35:40] out of a pickle
+[00:35:41] and uh and who wasn't afraid to try to
+[00:35:44] do that
+[00:35:45] um and i mean i it's hard to describe
+[00:35:48] tesla was in a really dire situation at
+[00:35:51] the end of 2007.
+[00:35:52] um it had come to light that
+[00:35:56] uh the cars cost was a hundred and forty
+[00:35:58] thousand dollars we've been selling it
+[00:36:00] for ninety two thousand dollars
+[00:36:02] um you can make it up in volume right
+[00:36:04] yeah
+[00:36:06] um and and not only that
+[00:36:09] we we couldn't i mean there were several
+[00:36:12] things broken about the car technically
+[00:36:14] uh transmission being the most
+[00:36:16] notable item but there were a lot of
+[00:36:17] other issues um
+[00:36:20] and uh you know so so we it really
+[00:36:22] wasn't a car that could even
+[00:36:24] even even if we said okay we'll
+[00:36:27] we'll we'll accept the 480 000 this
+[00:36:29] isn't a car that would have passed
+[00:36:30] safety and reliability and endurance
+[00:36:34] tests um and so it was just
+[00:36:37] wow and we're sort of out of money or
+[00:36:40] close to being out of money
+[00:36:41] um so this is eight you know
+[00:36:44] yeah like 18 months ago um
+[00:36:48] you know in your situation like that you
+[00:36:49] got to be pretty bold if you want to
+[00:36:50] come in and run
+[00:36:51] you know help run the company so
+[00:36:54] um and he he was willing to do that and
+[00:36:57] and he'd sort of like said he'd taken
+[00:37:00] taken things from very tough situations
+[00:37:01] uh before and so he yeah you joined as
+[00:37:04] ceo and i in fact he and i were kind of
+[00:37:07] the co-ceos of the company
+[00:37:08] um because he he was coming in cold and
+[00:37:10] didn't know any of the any other
+[00:37:12] background
+[00:37:14] and although i'd been at sort of a
+[00:37:15] fairly high level up to that point
+[00:37:17] um and not in the nitty-gritty at least
+[00:37:20] i had the contextual background so he
+[00:37:22] and i basically ran the company together
+[00:37:24] for about 18 months
+[00:37:25] um and then when the financial crisis
+[00:37:27] hit uh
+[00:37:29] i guess it was about well when the
+[00:37:31] peninsula crisis hit and i was like oh
+[00:37:32] man okay
+[00:37:34] so i got to up my time and the company
+[00:37:36] and
+[00:37:37] and go from being kind of the the half
+[00:37:38] ceo to the full ceo
+[00:37:40] um because i also had to up up the ante
+[00:37:43] in terms of my investment in the company
+[00:37:45] financially um so it's like
+[00:37:47] all right i'm gonna do that then i i
+[00:37:49] gotta um
+[00:37:51] you know be the full the full ceo not
+[00:37:54] the half ceo
+[00:37:55] well now bold is you know the ultimate
+[00:37:57] entrepreneurial trait and you obviously
+[00:37:59] have it i
+[00:37:59] want to go back let's talk about your
+[00:38:01] upbringing but before we do that
+[00:38:03] real quick uh 40
+[00:38:07] how much for the for the yes 49 44
+[00:38:11] 900 okay how fast uh it's
+[00:38:14] zero to 60 in about five and a half
+[00:38:16] seconds and uh top speed
+[00:38:18] uh 130 miles per hour electronically
+[00:38:21] limited
+[00:38:22] we will have sport versions of the s
+[00:38:24] that will go have a zero sixty of under
+[00:38:26] five seconds
+[00:38:27] um so but five five and a half seconds
+[00:38:29] in the sedan is plenty far
+[00:38:30] plenty fast oh yeah i'll think about
+[00:38:32] those kids in the back seat facing
+[00:38:33] backwards
+[00:38:34] yes it's not 3.9 seconds like the
+[00:38:37] roadster but it's pretty fast
+[00:38:38] yeah real fast all right let's talk
+[00:38:40] about your upbringing
+[00:38:41] you leave home at 17 and you want to get
+[00:38:44] to the states right
+[00:38:46] was that your dream yeah first of all
+[00:38:48] you want to be in the army
+[00:38:49] that didn't seem like a good use of time
+[00:38:51] being in the city yeah being
+[00:38:53] serving as a yeah being constructed in
+[00:38:55] south african army
+[00:38:56] just didn't seem like a great way to
+[00:38:58] spend time so without your parents
+[00:38:59] approval you take off and you end up in
+[00:39:01] canada first
+[00:39:02] well so i'm trying to figure out how to
+[00:39:04] get to the u.s so try to convince my
+[00:39:06] parents to move there
+[00:39:07] or my parents were divorced at least one
+[00:39:08] of them could move there and i could
+[00:39:09] move there with them
+[00:39:11] and uh but i wasn't successful in
+[00:39:13] convincing them
+[00:39:14] and um but but then i found out my
+[00:39:17] mother had been born in canada
+[00:39:19] so i kind of walked it through the
+[00:39:20] process of getting a canadian
+[00:39:22] getting her canadian citizenship which
+[00:39:23] allowed me to get my canadian
+[00:39:25] citizenship which meant i could go to
+[00:39:26] canada
+[00:39:28] and my grandfather was american actually
+[00:39:31] but because my mother hadn't gotten her
+[00:39:33] american citizenship
+[00:39:34] before he died and before certain age
+[00:39:36] restrictions i wasn't able to get
+[00:39:37] american citizenship unfortunately
+[00:39:39] directly
+[00:39:41] so i went to canada initially canada's a
+[00:39:43] great country
+[00:39:44] uh i was there for for about three years
+[00:39:47] and um and then uh came down to to the
+[00:39:50] states to go to
+[00:39:51] to continue going to school at upan uh
+[00:39:53] with wharton
+[00:39:54] and you live on a book a day how did you
+[00:39:56] live yeah but how do you do that
+[00:39:58] i mean there's several times in your
+[00:40:00] life when you're basically well below
+[00:40:02] the poverty line
+[00:40:03] right and this is one of them but it was
+[00:40:05] that was 20 years ago
+[00:40:07] yeah so that's like two bucks two bucks
+[00:40:09] a day well there's
+[00:40:10] there's all the difference that does
+[00:40:12] make a big difference
+[00:40:13] um yeah well i i wasn't quite sure how
+[00:40:16] much money
+[00:40:17] you know uh how uh
+[00:40:20] how hard it would be to get a job or
+[00:40:21] anything like that so i hadn't really
+[00:40:23] had a real job
+[00:40:25] um because i was only 17 so i've done
+[00:40:27] like paper routes and stuff like that
+[00:40:30] so i thought well just in case it takes
+[00:40:33] me a long time to get a job
+[00:40:34] i better make sure that my tiny stash of
+[00:40:37] money lasts a long time so
+[00:40:39] uh i only had a few thousand dollars uh
+[00:40:42] so um so i thought well wait let me see
+[00:40:45] if i can
+[00:40:46] live for under a buck a day and you can
+[00:40:48] do it i mean just buy
+[00:40:49] like hot dogs in bulk and oranges and
+[00:40:52] bulk and
+[00:40:53] you know scurvy is bad so you could have
+[00:40:54] an orange throw an orange in there
+[00:40:56] that's right when the blisters start
+[00:40:58] forming on your tongue it's right here
+[00:41:00] an orange every couple of days will you
+[00:41:02] know keep scoby away
+[00:41:05] and uh hot dogs are you know like it's
+[00:41:07] just sort of
+[00:41:08] like pasta and pasta sauce you know just
+[00:41:10] buy the stuff in bulk and
+[00:41:12] and uh you can get at least the time you
+[00:41:14] can get to under a bucket a day
+[00:41:16] so now you pick up two different stick a
+[00:41:17] little monotonous after a while yeah i
+[00:41:19] can imagine the 14th day in a row of
+[00:41:20] spaghetti
+[00:41:21] right a lot of people pick up
+[00:41:25] econ degrees a lot of people pick up
+[00:41:26] physics degrees but not many people pick
+[00:41:28] up
+[00:41:29] both of those those are two different
+[00:41:30] worlds
+[00:41:32] i thought it was relatively unique and
+[00:41:33] then i found it actually somebody else
+[00:41:34] did it but
+[00:41:36] uh uh but yeah i was it was um
+[00:41:39] yeah just i i i um
+[00:41:43] i mean i'm more an engineer than
+[00:41:44] anything else you know
+[00:41:46] uh engineering and design is my interest
+[00:41:49] um
+[00:41:50] but i figured if i don't learn the
+[00:41:52] business stuff then somebody else is
+[00:41:53] gonna make me do things i don't wanna do
+[00:41:55] um so i better learn you know the
+[00:41:58] secrets of business
+[00:41:59] uh and so that's why i did the uh
+[00:42:02] the physics degree as well as the fight
+[00:42:04] of the foreign finance degree
+[00:42:06] now now this is the most fine stuff was
+[00:42:08] easy by the way that was really like
+[00:42:09] and i say all my business courses like
+[00:42:12] in the final year
+[00:42:13] all my business courses together were
+[00:42:15] not as hard as quantum mechanics
+[00:42:18] okay i'll buy that
+[00:42:22] so now this is the mythical moment in
+[00:42:24] your career
+[00:42:25] you get accepted to grad school at
+[00:42:27] stanford
+[00:42:28] that alone is a pretty big deal you're
+[00:42:30] in
+[00:42:32] physics well to be precise um
+[00:42:35] actually my initial department was the
+[00:42:37] material science department
+[00:42:39] um and and you use the word high energy
+[00:42:41] physics and and that's actually defined
+[00:42:43] term in physics
+[00:42:44] technically um i would have actually
+[00:42:46] been in in kind of
+[00:42:47] uh the quant quantum mechanics more than
+[00:42:51] high energy physics uh because
+[00:42:53] the area i was going to be researching
+[00:42:54] was a sort of intersection of applied
+[00:42:57] physics and material science
+[00:42:59] and basically trying to figure out can
+[00:43:01] you
+[00:43:02] create a a capacitor
+[00:43:05] with enough that enough energy density
+[00:43:08] to replace
+[00:43:08] battery now capacitor is are very common
+[00:43:11] components in
+[00:43:12] circuit boards um and and they're
+[00:43:15] occasionally used to store
+[00:43:17] limited amounts of energy but the
+[00:43:18] problem is that they that the energy
+[00:43:19] density does not compare to what a
+[00:43:21] battery can do
+[00:43:22] but if you if you could get a capacitor
+[00:43:24] to approach
+[00:43:25] the interchangeable battery then things
+[00:43:27] like charging could be done
+[00:43:29] in minutes or seconds technically
+[00:43:33] so you wouldn't have a recharge time
+[00:43:35] issue and then also cycle life and
+[00:43:36] calendar life
+[00:43:37] are would be measured in decades but
+[00:43:39] elon you were there for two days
+[00:43:42] you're there for 48 hours i've been in
+[00:43:43] meetings that lasted longer than 48
+[00:43:45] hours
+[00:43:46] right i've been drunk longer than 48
+[00:43:48] hours
+[00:43:49] me too two days how do you do two days
+[00:43:53] i mean that's not even long enough to
+[00:43:55] like get the books well it was a it was
+[00:43:57] a tough decision actually
+[00:44:00] i was trying to figure out okay should i
+[00:44:01] do grad studies or
+[00:44:03] start a company uh doing some internet
+[00:44:05] stuff and this was in 95 it was before
+[00:44:08] um for the bubble just before an escape
+[00:44:11] you were in public
+[00:44:12] yeah um so in fact when i started zip2
+[00:44:15] it was not with the expectation that i
+[00:44:17] would make a large sum of money it was
+[00:44:18] like
+[00:44:19] okay can i make enough money to live um
+[00:44:22] and
+[00:44:22] uh buy food and stuff that's that was
+[00:44:24] really the threshold was very very low
+[00:44:26] threshold and netscape had not gone
+[00:44:27] public
+[00:44:28] um or somebody wrote something about me
+[00:44:30] that said oh i saw an etsy go public and
+[00:44:32] that's
+[00:44:33] why i decided to start zip2 i started
+[00:44:36] zip two
+[00:44:36] in the summer of 95 um and uh before
+[00:44:40] escape have gone public i try to get a
+[00:44:41] job at escape actually and
+[00:44:42] and my didn't hear back from them so
+[00:44:44] yeah now so you're really
+[00:44:46] reading your biography i would have
+[00:44:47] thought you were the wild man the black
+[00:44:49] sheep of the family
+[00:44:50] but now i've come to conclusion it has
+[00:44:52] to be your brother because you come
+[00:44:54] out planning to get a phd and 48 hours
+[00:44:57] later
+[00:44:58] your brother has convinced you to drop
+[00:44:59] out of school and join his new company
+[00:45:02] not quite no actually um i convinced my
+[00:45:04] brother to come from canada
+[00:45:05] oh yeah um my brother's convincing guy
+[00:45:09] or maybe it was well he was in canada at
+[00:45:12] the time
+[00:45:13] um and and uh uh
+[00:45:16] but you know i always wanted to do
+[00:45:17] something with my brother and he wanted
+[00:45:18] to do something with me
+[00:45:19] and um and so a 300 million dollar
+[00:45:23] shared gift is a pretty good gift for
+[00:45:24] you yeah but i mean i really
+[00:45:26] it at the time it was the expectations
+[00:45:28] were really tiny now is this when you
+[00:45:30] were sleeping on the floor in your
+[00:45:31] office
+[00:45:32] um actually i was sleeping on a futon uh
+[00:45:36] which turned into a couch during the day
+[00:45:38] that was like where you held your
+[00:45:39] meetings
+[00:45:39] yes right exactly that are true
+[00:45:43] so you were you were you hadn't you were
+[00:45:44] renting an office but you didn't have a
+[00:45:46] place to live
+[00:45:47] right so your apartment cost more than
+[00:45:50] the office so we
+[00:45:50] so then my brother and i just got two
+[00:45:52] few times um which turned into couches
+[00:45:55] you know and then
+[00:45:56] during the day and then we'd have our
+[00:45:57] meeting we'd have a table and have
+[00:45:59] meetings there and then it might
+[00:46:00] be unbeknownst to people that would have
+[00:46:02] meetings with that before we slipped
+[00:46:04] um and then we shouted the ymca on page
+[00:46:07] mill and el camino
+[00:46:08] uh so uh and then you could work out as
+[00:46:11] well so i was in great shape
+[00:46:14] and um yeah it was it was it was
+[00:46:16] actually fine
+[00:46:17] um so all you guys sitting in pete's
+[00:46:20] with your business plans you think you
+[00:46:21] guys think you have it tough
+[00:46:23] uh any questions from the audience right
+[00:46:25] now we're gonna get into space in a
+[00:46:27] minute here but i want to as long as
+[00:46:28] we're on cars let's take car
+[00:46:30] questions first yes sir congratulations
+[00:46:32] on your success
+[00:46:52] thank you i'm very interested in your
+[00:46:53] idea about
+[00:46:55] email being built into your next car
+[00:46:58] now the question i have for you is say
+[00:47:00] i'm sending you an email with this voice
+[00:47:02] is that what you're going to hear while
+[00:47:03] you're driving my voice reading my email
+[00:47:06] to you
+[00:47:07] and when you respond to me i'll hear
+[00:47:09] your voice
+[00:47:10] responding to me it's just an idea so
+[00:47:13] you got it from me
+[00:47:14] just keep it in mind you don't have to
+[00:47:15] respond right now yes or no thank you
+[00:47:17] okay everybody sign an nda on the way in
+[00:47:27] why did you name the car tesla uh
+[00:47:30] so well the the company is named after
+[00:47:32] nikola tesla
+[00:47:33] who's uh actually very well known in the
+[00:47:36] in physics because units of magnetism
+[00:47:39] are actually units of tesla
+[00:47:41] um and uh and we came up with a number
+[00:47:44] of innovations also went crazy
+[00:47:45] but uh so hopefully that that's no
+[00:47:48] indication of
+[00:47:48] the future of tesla but
+[00:47:52] but he was a great man and and and
+[00:47:53] didn't get i think the popular
+[00:47:56] uh side of things hasn't gotten quite
+[00:47:57] the recognition that he deserves
+[00:47:59] um so uh it was a choice between
+[00:48:03] tesla or maybe my faraday after michael
+[00:48:05] faraday so
+[00:48:07] um so capacitance is measured in
+[00:48:11] far rights by the way in paradise so
+[00:48:15] could you give us your perspective on
+[00:48:17] the future of detroit
+[00:48:20] uh future of detroit wow um
+[00:48:23] well they clearly the companies are
+[00:48:25] going to be smaller than they used to be
+[00:48:27] uh i mean i don't think i can actually
+[00:48:29] i'm not sure i could share any light
+[00:48:30] that people don't already know about
+[00:48:33] detroit and that it's going to be
+[00:48:35] a much smaller industry than before
+[00:48:40] there's i think there's a good chance it
+[00:48:41] will emerge uh healthier from this
+[00:48:44] this process than it then it's been in
+[00:48:47] recent years
+[00:48:48] um i mean gm and chrysler in particular
+[00:48:52] and to some degree ford
+[00:48:53] this was inevitable it was only a
+[00:48:55] question of when um and so this
+[00:48:58] the financial crisis kind of accelerated
+[00:49:00] the inevitable but it
+[00:49:01] it it didn't it would have happened
+[00:49:04] anyway
+[00:49:05] um so uh
+[00:49:09] you know there need to be substantial
+[00:49:10] reforms in the management side
+[00:49:12] and on the labor side and you know i
+[00:49:15] think really they need to get back to
+[00:49:17] they need to focus on producing great
+[00:49:18] products
+[00:49:19] um that's what it really comes down to
+[00:49:23] you know if you say who makes great cars
+[00:49:27] how many people in this room would say
+[00:49:29] gm
+[00:49:30] um like it's kind of unusual um
+[00:49:34] people say that if you said tell me who
+[00:49:36] makes the best cars in the world it
+[00:49:37] might be a toyota or a daimler or a bmw
+[00:49:40] or an audi or
+[00:49:42] something like that uh so i mean that's
+[00:49:45] really what
+[00:49:45] great companies are both great products
+[00:49:49] hopefully but now once you prove mass
+[00:49:51] production of electric car why wouldn't
+[00:49:53] the m
+[00:49:53] a guys from general motors and ford come
+[00:49:56] knocking on your door
+[00:49:57] well i should point out that if you
+[00:50:00] there needs to be some currency for that
+[00:50:01] acquisition um
+[00:50:05] you know and the stock isn't worth a lot
+[00:50:08] and right and they don't have any cash
+[00:50:10] give you you're not going to take equity
+[00:50:12] in general motors
+[00:50:13] well so
+[00:50:17] i mean i made this comment actually
+[00:50:19] several months ago
+[00:50:20] um i mean i was a little more a little
+[00:50:22] more flippant when i say well
+[00:50:24] what if general motors calls up and if
+[00:50:27] what if bob let's see along with the
+[00:50:28] board calls up and says he'd like to
+[00:50:30] acquire it
+[00:50:30] tesla what would your response be i said
+[00:50:32] well you can't afford it because
+[00:50:34] and that's just true i don't think they
+[00:50:36] can afford much of anything they just
+[00:50:37] don't have the cash and equity is not
+[00:50:38] worth anything
+[00:50:40] one more one more car question out there
+[00:50:42] and then we'll go to space uh yeah how
+[00:50:43] would you compare a tesla with fisker
+[00:50:45] automotive
+[00:50:46] uh so well
+[00:50:52] frisco is producing a plug-in hybrid um
+[00:50:57] so frisk is producing a plug-in hybrid
+[00:51:00] it's not as we're talking about earlier
+[00:51:02] it's we're pursuing a different strategy
+[00:51:05] for the reasons articulated um
+[00:51:09] and um you know if biscuits stay i think
+[00:51:12] they're producing a four-door sedan but
+[00:51:14] it's a sportier
+[00:51:15] uh sedan than ours um you know
+[00:51:19] our sedan is intended to to really be
+[00:51:21] very functional
+[00:51:22] and have a lot of cargo space carry
+[00:51:26] five adults in comfort plus potentially
+[00:51:28] two kids and still have room for luggage
+[00:51:30] um and we're we're sort of the roughly
+[00:51:33] 50 000 price point there i think at
+[00:51:34] around
+[00:51:35] 80 000 starting price after tax rebates
+[00:51:39] i think that's probably a fair
+[00:51:40] characterization of the differences
+[00:51:43] let's talk about space we literally
+[00:51:46] don't have enough time interviewing you
+[00:51:48] to cover everything you do uh we could
+[00:51:50] do three different events
+[00:51:52] on three different activities let's do a
+[00:51:53] space real quick
+[00:51:55] where does spacex stand right now what's
+[00:51:57] the status of things and where's
+[00:51:58] what's that's the x prize too let's get
+[00:52:00] into that okay um well spacex is doing
+[00:52:02] really well thankfully otherwise it
+[00:52:03] would be in real trouble
+[00:52:04] um i mean it does particularly in terms
+[00:52:07] of the time that
+[00:52:07] that it takes you know the time that i
+[00:52:10] have dedicated to
+[00:52:11] the companies i'm on average
+[00:52:15] sort of roughly 50 50 between spacex and
+[00:52:18] tesla
+[00:52:19] although as there are issues that crop
+[00:52:21] up that need to be addressed that may
+[00:52:23] that could
+[00:52:23] swing into as much as 80 spacex or 80
+[00:52:26] tesla
+[00:52:26] in a given week um
+[00:52:30] but spacex is profitable
+[00:52:33] it's been cash flow positive for the
+[00:52:35] cash flow positive and profitable for
+[00:52:37] the last two and a half years
+[00:52:38] um uh we got to orbit last year
+[00:52:43] uh we in december just before christmas
+[00:52:46] uh nasa awarded spacex a 1.6 billion
+[00:52:48] dollar contract
+[00:52:49] uh to um resupply the space station with
+[00:52:53] cargo
+[00:52:54] when does that begin that begins the end
+[00:52:56] of next year
+[00:52:57] okay it's the first mission first the
+[00:52:59] first operational mission after the
+[00:53:00] demonstration missions is december of
+[00:53:02] next year
+[00:53:02] and at what point do you take over
+[00:53:04] completely don't you have
+[00:53:06] exclusivity for a while as as the space
+[00:53:08] shuttle retires
+[00:53:09] well fashionable is supposed to retire
+[00:53:10] at the end of next year so then and then
+[00:53:12] we'd follow
+[00:53:13] our cargo missions immediately
+[00:53:14] thereafter although if the space shuttle
+[00:53:16] ends up running a little longer then
+[00:53:17] there may be some overlap
+[00:53:18] um are you gonna hit those milestones i
+[00:53:21] think
+[00:53:22] we have a decent chance of doing it it's
+[00:53:23] not entirely something there's gonna be
+[00:53:24] guys
+[00:53:25] you have guys waiting up there for
+[00:53:26] simple
+[00:53:28] well nasa isn't nasa isn't i don't think
+[00:53:31] nasa's counting on us being there
+[00:53:32] exactly on time
+[00:53:34] uh they do have some contingencies um
+[00:53:37] um we're still going to do our best to
+[00:53:39] meet those timelines
+[00:53:41] i think i think we can we don't have
+[00:53:43] it's not fully within our power because
+[00:53:46] you know there's there's nasa as well
+[00:53:47] we've got to meet all the nasa
+[00:53:49] uh safety requirements and if they levy
+[00:53:52] requirements on us that we don't yet
+[00:53:53] understand or appreciate all their new
+[00:53:56] requirements
+[00:53:57] uh then that could push out the the
+[00:53:59] effective date
+[00:54:00] of the first operational mission um but
+[00:54:03] i don't think it's going to be much much
+[00:54:04] beyond the end of next year
+[00:54:06] so i'm curious i've always wondered
+[00:54:08] about this about you
+[00:54:09] you know space exploration rockets are
+[00:54:13] the stuff of governments
+[00:54:14] large countries did you have an epiphany
+[00:54:17] one day where you just
+[00:54:18] said to hell with it i'm going to
+[00:54:19] actually do this myself i'm going to
+[00:54:21] have to create a commercial space
+[00:54:24] company
+[00:54:25] yeah i mean who sort of comes up with
+[00:54:27] that idea you know you're in the shower
+[00:54:28] yeah yeah um
+[00:54:32] well like you know you mentioned uh the
+[00:54:35] areas of interest that i had in college
+[00:54:37] you know one of them was
+[00:54:38] was uh space travel in in particular the
+[00:54:41] extension of life beyond earth
+[00:54:43] uh to like making life multi-planetary i
+[00:54:46] mean now
+[00:54:47] i actually when i was in college i
+[00:54:48] didn't think i would actually be a part
+[00:54:50] of
+[00:54:50] i was going to say you're the only guy
+[00:54:52] who had who thought of this stuff that
+[00:54:53] actually
+[00:54:54] did it i mean there are millions of
+[00:54:56] people that think oh i'm going to do
+[00:54:57] this i'm going to you know be an
+[00:54:58] astronaut when i grow up not many people
+[00:55:00] actually build rockets yeah they're 35
+[00:55:03] years old
+[00:55:04] right and actually when i was in college
+[00:55:05] um it wasn't it wasn't these are the
+[00:55:07] three areas i want to be involved in
+[00:55:08] it's
+[00:55:09] these are these are the three areas that
+[00:55:10] i think will most affect the future of
+[00:55:12] humanity
+[00:55:13] um i didn't if you'd ask me in college
+[00:55:16] do it
+[00:55:17] do you think i'd be involved in space
+[00:55:19] the answer would have been
+[00:55:21] almost certainly not um i thought it
+[00:55:24] would be highly unlikely because you
+[00:55:25] need billions of dollars
+[00:55:27] you know you need to be a government and
+[00:55:29] actually there's only like a handful of
+[00:55:31] governments that
+[00:55:31] can even do that so um
+[00:55:34] so it wasn't what the expectation that i
+[00:55:36] don't expect to be involved in space
+[00:55:38] um but but as a result of paypal the
+[00:55:42] capital i got from that
+[00:55:43] i could do something in space and um it
+[00:55:46] actually
+[00:55:47] uh the the the space stuff uh
+[00:55:50] well it actually came from a
+[00:55:52] conversation with deo and i
+[00:55:54] was there yeah there he is so i
+[00:55:58] we're coming back from rodeo's parents
+[00:55:59] place in long island
+[00:56:01] and they're asking me like what do i do
+[00:56:04] after paypal
+[00:56:06] and i said well you know i i thought
+[00:56:08] maybe there'd be something philanthropic
+[00:56:10] that could be done in space that would
+[00:56:11] get the public more excited about
+[00:56:14] space travel and in particular uh
+[00:56:17] sending people to mars
+[00:56:18] um and and i said but i'm sure nasa's
+[00:56:21] got that covered and
+[00:56:23] uh you know so um i'll go
+[00:56:26] look on the nasa website for for when
+[00:56:28] are we going to march because of course
+[00:56:30] it should be on the website like
+[00:56:31] we're going to mars in this year and
+[00:56:32] this is how we're going to do it um but
+[00:56:34] there was nothing
+[00:56:35] nothing at all um about about people
+[00:56:37] going to mars i was like this is
+[00:56:38] i just don't understand why there's
+[00:56:39] nothing about people going to mars
+[00:56:42] because if you look at the literature in
+[00:56:44] the 70s
+[00:56:45] um it was all about well we went to the
+[00:56:47] moon now we're going to go to mars right
+[00:56:48] um and so what happened and well there
+[00:56:51] was a space shuttle and space shuttles
+[00:56:52] turned out to be a really big mistake
+[00:56:54] um and um it could barely get to lower
+[00:56:57] orbit um
+[00:56:58] forget about moon or mars or anything
+[00:57:00] like that and
+[00:57:02] uh so well geez maybe i can do something
+[00:57:04] that's gonna
+[00:57:05] get the public excited about about mars
+[00:57:07] and
+[00:57:08] and and that will generate congressional
+[00:57:11] support which will turn
+[00:57:12] into funding for nasa to go do this um
+[00:57:16] and i looked looked at a few different
+[00:57:19] options
+[00:57:19] actually there and i did a couple of
+[00:57:22] trips to russia to look at
+[00:57:23] buying some russian refurbished russian
+[00:57:25] icvms
+[00:57:26] right um that's just change that's
+[00:57:30] exciting a little bit yeah yeah make
+[00:57:31] sure you you shift the payload like
+[00:57:33] which one
+[00:57:34] which button do we press
+[00:57:37] i mean while nasa lost the blueprints
+[00:57:39] for the saturn v rocket right
+[00:57:41] so you couldn't rebuild that right um
+[00:57:44] the saturn v was a great rocket it's
+[00:57:46] it's just too bad that
+[00:57:48] that we you know we should just rebuild
+[00:57:49] that rocket and make it better like just
+[00:57:51] improve on that rocket it was it was a
+[00:57:52] good it was a good design
+[00:57:54] um it's so much better than than the
+[00:57:56] space shuttle it's
+[00:57:57] so are you going to put them in your
+[00:57:58] comparable are you going to put a man on
+[00:58:00] mars
+[00:58:00] you and i have a bet i haven't forgotten
+[00:58:02] the bet right
+[00:58:03] we were in a plane flying over the north
+[00:58:06] pole under the aurora borealis right
+[00:58:08] as a matter of fact and we made a bet
+[00:58:11] you but you believe that man would walk
+[00:58:13] you would put a man on the moon
+[00:58:15] by 20 not on the moon i'm sorry on mars
+[00:58:18] yeah by 20
+[00:58:20] 20 20 maybe i think it was 20 20 at
+[00:58:22] 2025. okay
+[00:58:23] you gonna make it we'll try
+[00:58:27] what's the next milestone for spacex
+[00:58:29] well um
+[00:58:32] there's the next big milestone we'll be
+[00:58:33] launching falcon 9 our big rocket which
+[00:58:35] hopefully will occur towards the end
+[00:58:37] around the end of summer um and that's
+[00:58:40] the rocket that will be used to
+[00:58:42] carry our dragon spacecraft to orbit and
+[00:58:44] dragon spacecraft as well will serve as
+[00:58:45] the space station
+[00:58:47] so falcon 9's pretty good sized rocket
+[00:58:48] that's actually the most powerful single
+[00:58:50] core rocket in the us fleet
+[00:58:52] um more powerful than what boeing and
+[00:58:55] lockheed make
+[00:58:56] um before considering side boosters how
+[00:58:59] much each one of these cost
+[00:59:01] on a per flight to falcon 9 about 40
+[00:59:04] million dollars
+[00:59:06] those are big bets yeah although and
+[00:59:08] then if you add
+[00:59:09] a dragon spacecraft on top of that is
+[00:59:11] about the same and then there's
+[00:59:13] various nasa overhead so you're like 100
+[00:59:15] million dollar bet when you
+[00:59:16] yeah like the fuse on that thing yeah
+[00:59:20] that's a deal in the rocket world by the
+[00:59:21] way um for only a hundred million
+[00:59:24] dollars
+[00:59:24] um we will carry some cargo over um
+[00:59:28] so yeah um so that launching falcon i
+[00:59:32] will be
+[00:59:32] the next big one there's a sort of
+[00:59:34] smaller milestone which is an upcoming
+[00:59:36] falcon one flight
+[00:59:37] maybe as soon as the end of this month
+[00:59:39] uh that'll deliver our first operational
+[00:59:41] satellite orbit
+[00:59:42] uh which is the malaysian satellite um
+[00:59:45] it's intended to do earth observation
+[00:59:47] you know for like natural disasters and
+[00:59:48] stuff like that and um
+[00:59:50] yeah and and then let's see then at the
+[00:59:54] end of this year hopefully we'll do it
+[00:59:55] launch our first dragon spacecraft from
+[00:59:57] falcon 9.
+[00:59:58] um we'll go to the space station we'll
+[01:00:00] do some basic orbital maneuvering and
+[01:00:02] re-entry
+[01:00:03] uh and then uh next year we go to the
+[01:00:06] space station for the first time
+[01:00:08] okay how long is the contract for the
+[01:00:09] space station how long how large
+[01:00:12] how long or long um it runs through
+[01:00:14] approximately 2015
+[01:00:15] okay and although i think it'll be
+[01:00:17] extended beyond that because
+[01:00:19] right um it's just the operational plan
+[01:00:21] for the space station kind of only goes
+[01:00:22] to 2015 so
+[01:00:23] uh frankly in theory if you get this
+[01:00:26] right
+[01:00:27] do we need nasa anymore well absolutely
+[01:00:30] well nasa um we aren't a customer to
+[01:00:32] nasa
+[01:00:33] right or right nasa is our customer i
+[01:00:36] should say
+[01:00:37] um so they're our biggest customer and
+[01:00:40] and in fact um
+[01:00:41] when when nasa does developments
+[01:00:43] although in
+[01:00:45] in all circumstances prior to this nasa
+[01:00:47] has been
+[01:00:48] has had these sort of made the design
+[01:00:50] decisions the implementation of those
+[01:00:51] design decisions has been done by um
+[01:00:53] aerospace contractors so
+[01:00:57] so the the novel thing here is that for
+[01:01:00] the first time
+[01:01:01] nasa isn't isn't dictating the design
+[01:01:04] they're simply saying
+[01:01:05] we need cargo delivered we're willing to
+[01:01:08] pay given you a
+[01:01:09] performance contract and yeah the rest
+[01:01:11] right yeah right it's sort of more like
+[01:01:12] fedex you know
+[01:01:13] yeah for spacex we deliver
+[01:01:16] yeah yeah absolutely any questions about
+[01:01:19] space guys
+[01:01:22] there one down here
+[01:01:30] we have a homestead high school junior
+[01:01:32] asking a question uh
+[01:01:34] is this on okay uh so for your uh
+[01:01:38] falcon series you decided to use the
+[01:01:40] merlin engine right
+[01:01:42] um right we developed the middle of
+[01:01:43] engineering yes
+[01:01:45] my question for you is why did you go
+[01:01:47] for the single
+[01:01:48] or one type of engine and then using
+[01:01:51] nine of them on the falcon nine how many
+[01:01:53] yep because i've seen a lot of other
+[01:01:56] in history of space it's like but
+[01:01:57] everyone you know like above
+[01:01:59] five you're like oh my god the turbo
+[01:02:01] pumps are all going to blow up or
+[01:02:02] something and then
+[01:02:03] so why'd you choose that instead of
+[01:02:05] developing a larger engine
+[01:02:07] well i should put up like the saturn v
+[01:02:10] although it had five engines on the
+[01:02:11] first stage i also had five engines in
+[01:02:12] the second stage
+[01:02:13] and then one engine on the third stage
+[01:02:15] there was actually 11 engine rocket
+[01:02:17] falcon 9 is got nine engines in the
+[01:02:19] first stage one on the second stage so
+[01:02:20] it's actually one
+[01:02:21] total of ten so one less than a certain
+[01:02:23] five um
+[01:02:24] and the the advantage of the nine
+[01:02:27] engines
+[01:02:28] is that you can lose an engine at any
+[01:02:30] point including immediately after
+[01:02:32] liftoff and still complete your mission
+[01:02:33] which was not true of saturn v
+[01:02:35] the thrust away the saturn v was about
+[01:02:37] 1.15
+[01:02:38] so you actually had a very dangerous
+[01:02:40] point immediately after liftoff
+[01:02:41] uh where you could potentially subside
+[01:02:44] uh if you had an engine failure
+[01:02:46] within the first few seconds um
+[01:02:49] with with uh with rockets because you're
+[01:02:51] taking it vertically
+[01:02:52] um you it actually point
+[01:02:55] for the first stage it actually for the
+[01:02:58] initial blue stage
+[01:02:59] uh points you towards having more
+[01:03:01] engines um because if you want
+[01:03:04] true engine out uh capability um
+[01:03:07] because you always have to have a
+[01:03:08] thruster weight greater than one
+[01:03:09] otherwise you're coming back
+[01:03:12] whereas an aircraft you you can have a
+[01:03:14] thrust rate of much less than one and
+[01:03:16] still be okay
+[01:03:17] because you you can sort of glide and
+[01:03:19] reduce your
+[01:03:21] your climb rate and that kind of thing
+[01:03:22] and still be okay so
+[01:03:24] so it actually it does it does push you
+[01:03:26] to have more than than say like you know
+[01:03:28] 747's got four engines but
+[01:03:30] uh the equivalent for a rocket would be
+[01:03:32] some number greater than four and so
+[01:03:34] and maybe it's not as high as nine but
+[01:03:36] we kind of we needed nine to achieve the
+[01:03:38] pa
+[01:03:38] the payload requirements that our
+[01:03:40] customers wanted
+[01:03:43] and as long as you're very careful about
+[01:03:45] ensuring that the problem with one
+[01:03:47] engine cannot cascade into
+[01:03:49] problems with another engine more is
+[01:03:50] actually better um
+[01:03:53] and uh you know google operates with
+[01:03:56] tens of thousands of computers
+[01:03:58] rather than a few giant mainframes um
+[01:04:02] so it also fits with the tesla model of
+[01:04:04] having right you know eight thousand
+[01:04:05] little batteries i think nine engines is
+[01:04:06] bad uh
+[01:04:08] 6831 cells next question
+[01:04:12] so uh elon with the dragon spaceship
+[01:04:15] uh spacecraft is that going to also be a
+[01:04:17] man's craft and if so
+[01:04:18] are you going to be shuttling the
+[01:04:19] astronauts back and forth to the space
+[01:04:21] station
+[01:04:22] uh yeah a dragon is designed to meet the
+[01:04:25] nasa demand rating requirements
+[01:04:27] um there's a few key documents there
+[01:04:28] regarding structural safety margins and
+[01:04:30] redundancy
+[01:04:32] signed to meet those those requirements
+[01:04:34] there's uh
+[01:04:36] um you know g loading mxg loading and
+[01:04:40] dealing with worst-case abort conditions
+[01:04:42] and that kind of thing it says
+[01:04:43] all those things were designed to meet
+[01:04:45] there's one key development item that we
+[01:04:47] need to finish which is the escape
+[01:04:48] tower so that um we have a launch escape
+[01:04:52] system
+[01:04:53] um in case something goes wrong with the
+[01:04:54] core booster it can take it can
+[01:04:57] carry the the capsule to safety
+[01:05:00] um it's also something they had during
+[01:05:02] the apollo europe but didn't have that
+[01:05:04] they don't have that for this
+[01:05:05] the space shuttle um and if
+[01:05:08] so i mean in that really the two uh
+[01:05:11] weak areas of the space shuttle and then
+[01:05:14] the two most dangerous
+[01:05:15] uh periods for uh you know a manned
+[01:05:18] vehicle are
+[01:05:19] during this of the sand phase and the
+[01:05:21] descent phase
+[01:05:22] there are two there are there are
+[01:05:25] fundamental
+[01:05:26] architectural flaws with with the
+[01:05:28] shuttle approach
+[01:05:29] um one is on the ascent phase
+[01:05:33] there is no escape system they decided
+[01:05:36] they didn't need an escape system
+[01:05:37] because the shuttle would would never
+[01:05:38] would never fail
+[01:05:40] um really we're like wow okay
+[01:05:44] um so so there's no escape system
+[01:05:47] if anything goes wrong on the ascent
+[01:05:49] it's curtains
+[01:05:51] and then on reentry particularly the
+[01:05:54] initial part of re-entry which is the
+[01:05:56] high heating
+[01:05:57] point the
+[01:06:01] because it's a it's really it's not a
+[01:06:03] naturally stable vehicle you've got to
+[01:06:04] have control surfaces and wings
+[01:06:07] um you know or so it has
+[01:06:10] it has control surface and wings so if
+[01:06:12] anything happens with the control system
+[01:06:13] so any electronics that don't work
+[01:06:16] malfunction or
+[01:06:17] or there's a hinge that that you know
+[01:06:19] isn't working properly in one of the
+[01:06:20] control surfaces
+[01:06:21] that that's at your toes it's not
+[01:06:23] naturally stable
+[01:06:25] it has to be controlled and and then the
+[01:06:28] heating
+[01:06:29] rate goes with the square of the radius
+[01:06:32] of whatever you're doing so if you've
+[01:06:33] got a wing leading edge that's
+[01:06:34] got a very you know effectively a sharp
+[01:06:36] radius you have a very concentrated heat
+[01:06:39] which limits the material choice to some
+[01:06:42] very brittle
+[01:06:42] materials in fact it will only
+[01:06:46] work for for earth orbit re-entry if you
+[01:06:48] come in at a higher velocity than low
+[01:06:50] earth orbit
+[01:06:50] velocity there's no material known to
+[01:06:53] man that can withstand it
+[01:06:54] so actually for like the moon you could
+[01:06:56] you couldn't use a winged vehicle it
+[01:06:57] just
+[01:06:58] it's impossible um so
+[01:07:01] um i mean it's not like if you think of
+[01:07:03] polar era
+[01:07:04] okay they had airplanes back then it's
+[01:07:06] not like oh wow wings what are those
+[01:07:08] things
+[01:07:08] um you know the the designers of apollo
+[01:07:12] von braun and and the others were very
+[01:07:14] familiar with aircraft
+[01:07:16] um if they thought wings made sense they
+[01:07:18] would have said let's put wings in this
+[01:07:19] thing
+[01:07:20] they don't um when it comes to space
+[01:07:22] wings are dumb
+[01:07:23] just as you don't make an airplane look
+[01:07:25] like a boat um
+[01:07:27] so if so
+[01:07:31] so if when they retire the space shuttle
+[01:07:34] how are they going to bring the
+[01:07:35] astronauts back until you and get them
+[01:07:37] up until you're able to do that the
+[01:07:38] soyuz
+[01:07:39] okay the russians are good yeah so the
+[01:07:42] soyuz is a good i mean if
+[01:07:43] i would definitely prefer to ride on the
+[01:07:45] soyuz than the space shuttle
+[01:07:48] you have an escape system on the soyuz
+[01:07:49] oh and then of course on re-entry
+[01:07:52] um a capsule a blunt body or entry
+[01:07:54] capsule you can be designed to be
+[01:07:56] naturally stable
+[01:07:57] so that even if all the control systems
+[01:07:59] fail that it
+[01:08:00] you know you're just lights out dark
+[01:08:02] everything's you know
+[01:08:04] you're it's it's naturally it's like a
+[01:08:05] shuttle it's naturally stable
+[01:08:07] on reentry um and you don't have to
+[01:08:10] you know um do anything there and you
+[01:08:13] can just manually pull the shoots or
+[01:08:14] something like that so
+[01:08:16] in fact that's happened on a couple of
+[01:08:17] soyuz flights where they've had control
+[01:08:19] system failures
+[01:08:20] if that had been the shuttle it would
+[01:08:21] have been curtains um but because it's
+[01:08:23] because it's naturally stable you don't
+[01:08:24] have to worry about that and then
+[01:08:26] because you've got that blunt body
+[01:08:27] reentry
+[01:08:28] um the heat shield is much more robust
+[01:08:30] uh because you've got this
+[01:08:31] really big radius heat shield instead of
+[01:08:33] these sharp radius wings
+[01:08:35] so it's really much safer design
+[01:08:39] and i believe there's never been a
+[01:08:42] fatality on the soyuz which has been
+[01:08:43] going much longer than this than the
+[01:08:45] shuttle man many many more flights so
+[01:08:48] elon how do you keep these two different
+[01:08:51] things separate
+[01:08:52] in your mind i mean you're dealing with
+[01:08:55] two massive industries very distinct
+[01:08:57] worlds
+[01:08:58] i mean do you have to like literally say
+[01:09:00] oh wait a minute i'm doing rockets right
+[01:09:02] now
+[01:09:02] no i'm doing cars right now and how do
+[01:09:05] you man how do you
+[01:09:06] segregate those two things because
+[01:09:08] they're they're both
+[01:09:10] competing for your attention 24 hours a
+[01:09:12] day
+[01:09:13] right and i've kid my kids actually
+[01:09:14] spend a lot of time with my kids by the
+[01:09:15] way four kids five kids
+[01:09:17] five kids yeah right
+[01:09:20] how do you manage that yeah that is
+[01:09:22] tricky uh yeah
+[01:09:24] okay yeah uh well
+[01:09:27] actually it's okay most of the time but
+[01:09:29] you know if it's
+[01:09:30] when when a crisis flares up in
+[01:09:33] either kids or one of the businesses
+[01:09:36] then then it gets
+[01:09:37] can be quite a little bit overwhelming
+[01:09:38] so it's like triage all the time
+[01:09:40] it is it is kind of like triage um i
+[01:09:43] mean and i mean
+[01:09:44] the rocket business and the car business
+[01:09:46] are pretty hard in the best of times and
+[01:09:48] these are not the best of times
+[01:09:50] next question
+[01:09:55] you don't like wings i don't like wings
+[01:09:58] for
+[01:09:59] things that go to space where there is
+[01:10:00] no air i think i mean my understanding
+[01:10:02] of the reason the wings were on the
+[01:10:03] space shuttle was so they could land
+[01:10:05] where they wanted to
+[01:10:06] oh okay so let me let me correct the
+[01:10:09] misconception then
+[01:10:10] uh a a a blunt body sort of a capsule
+[01:10:13] you know gumdrop style thing uh is a
+[01:10:16] controlled
+[01:10:17] uh landing um in fact uh
+[01:10:20] because you have you still have a lift
+[01:10:21] vector so you you use
+[01:10:23] offset center of mass to to create a
+[01:10:26] sort of a tilt
+[01:10:28] in in the capsule and that actually
+[01:10:30] creates a lift vector
+[01:10:31] um and that lift vector you typically be
+[01:10:34] a
+[01:10:35] lift of a drag of 0.2 to 0.3 but that's
+[01:10:38] plenty
+[01:10:38] plenty enough just to steer you where
+[01:10:40] you want to go and in fact even in
+[01:10:42] apollo when they didn't have gps
+[01:10:44] and they uh you know they were really
+[01:10:46] dealing with fairly
+[01:10:47] very primitive electronics the their
+[01:10:50] landing accuracy was a one mile radius
+[01:10:54] and of course if you can get much better
+[01:10:56] than that with gps and all that other
+[01:10:57] stuff in fact the only error
+[01:10:59] is uh the wind drift um
+[01:11:03] that's the only that's really the only
+[01:11:04] meaningful error and if you
+[01:11:06] um if you have if you do a steerable
+[01:11:08] shoots
+[01:11:10] or put some like little like a little
+[01:11:13] propeller that popped out or something
+[01:11:14] like that
+[01:11:15] um you could you could drop the capsule
+[01:11:17] on the numbers on the runway
+[01:11:19] uh just like you could drop just like a
+[01:11:21] parachutist can can
+[01:11:23] steer their their flagged down to a very
+[01:11:26] accurate
+[01:11:27] uh location um and then you could
+[01:11:30] you know i think you sort of like flare
+[01:11:31] it uh just before you go to the bottom
+[01:11:33] just like a parachutist and
+[01:11:34] there you are
+[01:11:38] next question in the back i was there uh
+[01:11:41] i was there several years ago uh in the
+[01:11:44] mojave desert when space flight one took
+[01:11:46] off for the maiden voyage
+[01:11:47] i was wondering first of all what was
+[01:11:49] spacex's involvement in that program
+[01:11:52] and do you guys have any plans for
+[01:11:54] taking up civilians
+[01:11:55] into space um
+[01:11:59] we didn't have any involvement uh with
+[01:12:01] with the
+[01:12:02] um vertebrate 10 spaceship one
+[01:12:06] except that i'm a trustee of the x prize
+[01:12:08] foundation and
+[01:12:09] i i provided a little bit of the funding
+[01:12:12] to
+[01:12:12] um to that to the ansari x prize
+[01:12:16] that they won and i was there for um
+[01:12:20] one of the flights um so
+[01:12:24] and it's actually you know it's it's
+[01:12:26] great that it was one
+[01:12:27] um but it is worth pointing out that
+[01:12:29] there's a significant difference between
+[01:12:30] a sub-orbital flight and an orbital
+[01:12:32] flight because space kind of
+[01:12:34] seems like well space is all the same
+[01:12:36] thing but if you if you
+[01:12:38] look at the energy required to get to
+[01:12:39] space versus the energy required to get
+[01:12:41] to orbit
+[01:12:42] it's the very different orders of
+[01:12:43] magnitude um
+[01:12:45] you need a ideal velocity of roughly
+[01:12:47] mach 25
+[01:12:49] to get to orbit mach 3 to get to space
+[01:12:52] if you define spaces say 50 miles up
+[01:12:57] and so it's pretty that's pretty big
+[01:13:00] differential but but
+[01:13:01] it's bigger than that because the
+[01:13:02] kinetic energy goes with the square of
+[01:13:04] the velocity
+[01:13:05] so you need 625 units of energy to get
+[01:13:07] to orbit
+[01:13:08] nine units of energy to get to space um
+[01:13:12] so about one and a half percent of the
+[01:13:14] energy
+[01:13:16] one versus the other so the requirements
+[01:13:17] are really way way different
+[01:13:19] um the uh
+[01:13:22] yeah so you need in fact it's only just
+[01:13:25] barely possible to escape this gravity
+[01:13:27] well just just barely
+[01:13:29] um if you look at the size of saturn v
+[01:13:32] uh for example that that and that
+[01:13:34] ultimately took two people to surface
+[01:13:35] the moon one
+[01:13:36] plus one who was orbiting the moon um
+[01:13:39] that was a really gigantic vehicle
+[01:13:41] i mean it's like the size of an office
+[01:13:43] building and
+[01:13:44] it got two people to search the moon
+[01:13:49] next question um why do you think uh
+[01:13:51] multi-planetary existence is important
+[01:13:55] um excellent question um
+[01:13:59] so okay so you have to say
+[01:14:02] how do you decide that anything is
+[01:14:03] important um
+[01:14:06] so there's um
+[01:14:09] i think the lens of history is a helpful
+[01:14:11] way to distinguish
+[01:14:13] more from less important things and the
+[01:14:15] further out you
+[01:14:16] you zoom the more you can
+[01:14:19] distinguish the less important from the
+[01:14:21] more important and
+[01:14:22] if you take a look at the whole 4
+[01:14:25] billion year history of earth and
+[01:14:26] evolution of life itself and say well
+[01:14:28] what are the
+[01:14:28] what are the really big uh milestones in
+[01:14:31] the evolution of life itself and you can
+[01:14:32] point to obviously
+[01:14:33] you know single-celled life and
+[01:14:35] multicellular life differentiation
+[01:14:37] into plants and animals uh movement of
+[01:14:39] life from the oceans to land um
+[01:14:42] the uh mammals consciousness you know
+[01:14:45] sort of those the big the biggies
+[01:14:46] um and uh
+[01:14:49] and those stand above the i think the
+[01:14:51] parochial things uh
+[01:14:53] concerns of of humanity um
+[01:14:57] but i think on that scale would also fit
+[01:15:00] life becoming multi-planetary i think it
+[01:15:02] would be
+[01:15:02] at least comparable to life going from
+[01:15:05] the oceans to land
+[01:15:06] arguably more so uh because at least
+[01:15:09] ocean's land could be a gradual affair
+[01:15:11] um if we've got uncomfortable you hop
+[01:15:14] back in the ocean
+[01:15:15] um it's that's it's it's a lot harder to
+[01:15:18] go over
+[01:15:19] you know to travel a billion miles over
+[01:15:22] you know irradiated space
+[01:15:24] um and then land on a
+[01:15:27] hostile environment and create a
+[01:15:29] self-sustaining and growing
+[01:15:31] um you know life ecology
+[01:15:36] that's really really hard and in fact
+[01:15:37] this is the first time in the four
+[01:15:38] billion year history of life itself that
+[01:15:40] it is even within the realm of
+[01:15:41] possibility
+[01:15:42] so so i think therefore if something is
+[01:15:45] important to be
+[01:15:46] important enough to figure on the scale
+[01:15:49] of the evolution of life itself
+[01:15:51] it should be at least considered say
+[01:15:53] worth is about as much money as we spend
+[01:15:55] on lipstick
+[01:15:56] um you know maybe not as much money as
+[01:15:59] we spend on healthcare with that's a lot
+[01:16:01] um but but enough on you know maybe
+[01:16:04] north of cosmetics or something um and
+[01:16:07] uh yeah so
+[01:16:09] you know i think we should spend a
+[01:16:10] little bit of of our resources doing
+[01:16:12] that
+[01:16:12] and and that's just a a wise bet for
+[01:16:16] life as we know it um and um
+[01:16:20] yeah so just it just seems like that
+[01:16:21] that should make it important enough to
+[01:16:23] for a little bit of
+[01:16:24] a little bit of money like maybe a half
+[01:16:25] percent half a percent of our
+[01:16:27] gdp or something like that um and
+[01:16:29] that'll be enough to do it
+[01:16:32] anything you want to say on solar city
+[01:16:34] uh solar city is doing great uh thank
+[01:16:36] goodness
+[01:16:36] uh it is you tell the audience what it
+[01:16:38] is sure
+[01:16:40] uh solar city is the country's largest
+[01:16:42] provider of
+[01:16:44] solar power systems to homes and small
+[01:16:46] businesses
+[01:16:47] so outside of the utility scale solar
+[01:16:50] activity and it
+[01:16:54] was co-founded and run by
+[01:16:57] peter and lyndon rive who are my cousins
+[01:16:59] and you're so full disclosure
+[01:17:01] so i serve as the chairman there and i
+[01:17:03] provide some advice strategically and on
+[01:17:05] the product side
+[01:17:07] and um but thankfully it requires almost
+[01:17:10] none of my effort
+[01:17:10] and those guys are just awesome in terms
+[01:17:13] of
+[01:17:13] their execution of solar city um
+[01:17:17] having grown into a leadership position
+[01:17:18] in the course of three years
+[01:17:20] so um if anyone's thinking of getting
+[01:17:23] solar
+[01:17:24] call like 1-800 solar city something
+[01:17:27] like that well 88 i'm sure
+[01:17:29] any questions nice question
+[01:17:33] so here so
+[01:17:36] how does that work i mean you've
+[01:17:38] convinced the nasa to give you like a
+[01:17:40] huge contract um how can you imagine
+[01:17:43] that what story is behind that can you
+[01:17:44] tell us or can you share us that story a
+[01:17:46] little bit that's the one question that
+[01:17:48] i have and the other is
+[01:17:49] you've been working on solo you've been
+[01:17:50] working on cleantech or on cars you've
+[01:17:53] been working on
+[01:17:54] space so you're transforming society and
+[01:17:57] all those projects and then there's
+[01:17:58] paypal
+[01:17:59] um so how does that fit that's the two
+[01:18:02] questions
+[01:18:03] um well definitely paypal i mean i was
+[01:18:05] completely out of paypal
+[01:18:07] well almost completely out of paypal
+[01:18:08] when i started spacex
+[01:18:10] and uh and then you know with
+[01:18:13] i mean i from from a business standpoint
+[01:18:16] my time is really split between
+[01:18:18] spacex and tesla almost no time i spent
+[01:18:21] almost no time
+[01:18:21] on solar city because it's it's just
+[01:18:23] running so well by itself
+[01:18:25] um and the guys they're just doing a
+[01:18:27] great job and there's really
+[01:18:28] not much i can i can add to what they're
+[01:18:30] doing um
+[01:18:32] so um
+[01:18:36] so but going to the nasa question it
+[01:18:38] took us a long time to and
+[01:18:40] a lot of effort to convince nasa to to
+[01:18:42] rely on us
+[01:18:43] um and when we when we won that cargo
+[01:18:46] resupply services contract
+[01:18:48] um you know basically value ranging from
+[01:18:52] 1.6 to 3.1 billion dollars
+[01:18:55] we competed against uh
+[01:18:58] boeing lockheed and aligned tax systems
+[01:19:02] we're actually there all three of them
+[01:19:03] together against us
+[01:19:05] so um this is sort of a partnership
+[01:19:09] called planet space
+[01:19:10] which is basically was just a it was
+[01:19:13] flowing lockheed and
+[01:19:14] line tech systems against spacex
+[01:19:19] and we want so um and or at least nassau
+[01:19:23] felt
+[01:19:24] confident enough to give us that that
+[01:19:25] that deal so
+[01:19:27] and and um preceding that
+[01:19:31] it had been sort of six years of of
+[01:19:34] working to gain their confidence and
+[01:19:36] we'd want a preceding contract
+[01:19:38] which was a called the cots contract
+[01:19:40] commercial overall transportation
+[01:19:41] services
+[01:19:42] to demonstrate uh progress in that
+[01:19:45] direction
+[01:19:46] but i have to give nasa a lot of credit
+[01:19:48] here because without that cost contract
+[01:19:50] it would have been very difficult for us
+[01:19:51] to compete for the cargo resupply
+[01:19:53] services contract
+[01:19:54] they've been helpful in advisory
+[01:19:56] capacity and enter financial capacity
+[01:19:59] so i think we're very grateful to nasa
+[01:20:01] and appreciative of everything that
+[01:20:03] they've done because we we wouldn't be
+[01:20:04] in a position to one that that calgary
+[01:20:06] spy contract without their help
+[01:20:10] during that microsecond each day that
+[01:20:11] you actually have to contemplate
+[01:20:14] other activities what are you dreaming
+[01:20:16] of now
+[01:20:19] i i yeah i mean i really i'm
+[01:20:23] you know my mind is full um
+[01:20:26] just dealing with with spacex and tesla
+[01:20:29] and then family matters but
+[01:20:33] i mean there are a few areas i mean i
+[01:20:35] have some this
+[01:20:36] i think at some point in future if
+[01:20:38] you're interested take a look at fusion
+[01:20:40] um that's a tough problem and
+[01:20:44] it's something that i think we could
+[01:20:45] solve but it would you know i'd say me i
+[01:20:47] mean i think
+[01:20:47] so humanity could solve that problem but
+[01:20:51] it is a very tough one
+[01:20:52] um and maybe there's something i could
+[01:20:55] where i could be helpful there
+[01:20:57] um and uh that's just completely
+[01:21:00] speculative i'm not
+[01:21:02] i mean it could be totally wrong success
+[01:21:03] may not be one of the possible outcomes
+[01:21:05] hey if you can get me to sit on
+[01:21:06] 3 000 laptop batteries you can get me to
+[01:21:08] sit on a fusion reactor
+[01:21:11] uh yeah well fusion yeah fusion
+[01:21:15] this i think some scale is needed for
+[01:21:17] fusion pro probably
+[01:21:19] um although some ideas for having
+[01:21:21] smaller scale fusion
+[01:21:22] um i'm not talking about cold fusion but
+[01:21:25] sort of i kind of
+[01:21:26] fusion at sort of a nano scale
+[01:21:30] like basically very small amounts of
+[01:21:32] fusion in a little
+[01:21:33] container um but it is a very hard
+[01:21:37] problem and then
+[01:21:38] um i have an idea for
+[01:21:42] uh great double deckering highways um
+[01:21:46] which i think i thought i thought a lot
+[01:21:48] about on when i'm
+[01:21:49] driving to work in la um
+[01:21:52] uh the highways i mean it would just be
+[01:21:56] i think if you create prefabricated
+[01:21:57] sections of highway and did
+[01:21:59] a very efficient kind of a metallic
+[01:22:02] uh structure that could withstand the
+[01:22:04] worst earthquakes and
+[01:22:06] um the trick would be making it
+[01:22:09] light and it's very strong and um
+[01:22:12] and inexpensive but i think i know how
+[01:22:15] to do that
+[01:22:16] um and it's that sort of relatively
+[01:22:18] mundane but we have a big effect on
+[01:22:19] people's lives
+[01:22:23] and i have this some sort of idea for an
+[01:22:26] electric plane which i think could be
+[01:22:27] pretty cool
+[01:22:28] um yeah
+[01:22:32] yeah electric supersonic plane
+[01:22:36] that's a lot of batteries it is that's a
+[01:22:38] lot of batteries
+[01:22:39] it is it is a lot of batteries next
+[01:22:42] question
+[01:22:43] by the way i haven't heard any of this
+[01:22:44] stuff before this may be in print
+[01:22:46] tomorrow
+[01:22:48] yes so nobody says that's what i'm doing
+[01:22:51] you asked me what i'd what
+[01:22:53] nano say a split second of like i'm like
+[01:22:55] okay
+[01:22:56] i've been thinking a lot about the plain
+[01:22:57] one more than i should actually i try to
+[01:22:59] ban that from my mind
+[01:23:04] i'll talk to you about it um
+[01:23:07] yeah i i got to stop myself from
+[01:23:09] thinking about that one because i that
+[01:23:10] that's
+[01:23:10] sort of that's a very exciting one
+[01:23:14] um i don't think you covered the x prize
+[01:23:16] um the status of the x prize
+[01:23:18] and two-part question what do you think
+[01:23:20] about a bigger x prize for battery
+[01:23:22] technology in the us
+[01:23:24] sorry a bigger x price for what a
+[01:23:26] battery battery um
+[01:23:27] yeah i think x-rays for battery
+[01:23:29] technology would be great if there's you
+[01:23:30] know
+[01:23:31] a sponsor like the federal government or
+[01:23:33] anyone um i think it's it's great to
+[01:23:35] incent outcomes rather than
+[01:23:37] that um as you know it's it's great to
+[01:23:40] make beth
+[01:23:41] bets on approaches but it's also good to
+[01:23:43] incent outcomes
+[01:23:45] um and ultimately you care about the
+[01:23:46] outcome not the approach and that's the
+[01:23:48] good thing about prizes is they
+[01:23:50] they don't try to um rely on some panel
+[01:23:53] of experts to
+[01:23:54] figure out what the the approach is
+[01:23:56] that's going to work because often those
+[01:23:57] panels of experts are not the people who
+[01:23:59] are going to figure out the innovations
+[01:24:00] that
+[01:24:00] result in the outcome you want and
+[01:24:02] that's basically why you have
+[01:24:04] prizes um so
+[01:24:07] uh and as far as the expo is concerned
+[01:24:10] there's
+[01:24:11] um on automotive x price there's a
+[01:24:13] genomics x prize
+[01:24:15] for low-cost sequencing of genes there's
+[01:24:18] the google lunar x prize
+[01:24:20] um which spacex is trying to help with a
+[01:24:22] little bit by offering
+[01:24:23] the the only discounted launches we
+[01:24:25] offer are for the google lunar x prize
+[01:24:27] actually
+[01:24:29] and uh yeah so this is you know there's
+[01:24:32] a bunch of stuff happening there and
+[01:24:33] um i think i think it's a good model it
+[01:24:36] should be emulated more
+[01:24:37] uh darpa did a great you know did a
+[01:24:39] great example of
+[01:24:41] a prize thing with the dolphin grand
+[01:24:42] challenge um that was um
+[01:24:46] there's the grand challenge darpa urban
+[01:24:48] challenge for autonomous vehicles
+[01:24:51] that's got to be one of the highest bank
+[01:24:52] for buck items that darpa's ever done
+[01:24:55] because i guarantee if you made that
+[01:24:56] like a dod contractor and had like
+[01:24:59] you know lockheed and raytheon and all
+[01:25:00] the usual suspects put on it
+[01:25:02] it would have been like two billion
+[01:25:03] dollars and they'd still be working on
+[01:25:05] it
+[01:25:06] um you know
+[01:25:10] so so anyway i'm i think there's a lot
+[01:25:12] of room for prizes i should be more of
+[01:25:14] them
+[01:25:15] one more question then i have one
+[01:25:28] given the range of technologies and
+[01:25:30] areas you've touched
+[01:25:31] i'm curious what your take on robotics
+[01:25:33] is it almost seems like
+[01:25:35] on robotics exactly it seems close
+[01:25:37] enough to what you've done
+[01:25:38] but i haven't heard you talk about it
+[01:25:41] well um
+[01:25:43] you know tesla does use robotics to a
+[01:25:45] limited extent in
+[01:25:47] um in its production today particularly
+[01:25:50] on the battery pack side because you've
+[01:25:51] got
+[01:25:53] so many cells almost 7000 cells that um
+[01:25:56] so some robotic assistance is is
+[01:25:58] important making the
+[01:26:00] the battery pack um and we'll
+[01:26:03] certainly see a lot more of that as
+[01:26:05] tesla scales up
+[01:26:06] so robotics makes makes a big it's great
+[01:26:09] for mass manufacturing
+[01:26:10] for space exploration obviously we've
+[01:26:12] seen great dividends played by robotics
+[01:26:14] as well with the mars exploration rovers
+[01:26:17] um and uh there's a really big rover
+[01:26:20] uh going called um mars science
+[01:26:23] laboratory and
+[01:26:24] that was supposed to launch soon but
+[01:26:26] it's going to be a couple years
+[01:26:28] before that goes that's about the size
+[01:26:30] of like a volkswagen
+[01:26:32] um so so i think
+[01:26:35] there's a a lot of room for robotics in
+[01:26:39] a lot of fields
+[01:26:40] and um that'll increase and
+[01:26:44] continue in both automotive and space
+[01:26:46] and other areas
+[01:26:49] but at the end of the day you know i
+[01:26:52] think
+[01:26:52] we still need to make life
+[01:26:53] multi-planetary i can't just be sort of
+[01:26:55] saying droids out there
+[01:26:57] um yeah i'm pro-life
+[01:27:01] uh in that sense so um so i think
+[01:27:05] robotic aspiration robotic preparation
+[01:27:08] um
+[01:27:10] but but uh but we also need
+[01:27:13] life going beyond earth as well
+[01:27:26] i haven't really thought about robotics
+[01:27:28] uh personally
+[01:27:29] um but just not say that i don't think
+[01:27:31] there are there are lots of things
+[01:27:33] that could be automated and where there
+[01:27:34] could be robots that help people in
+[01:27:36] their daily lives
+[01:27:37] you know uh some i'm sure there'll be a
+[01:27:40] continued expansion of the whole irobot
+[01:27:42] type
+[01:27:43] type thing beyond vacuum cleaning um
+[01:27:47] so um yeah
+[01:27:51] yeah i think it's i think it's a great
+[01:27:52] area so
+[01:27:54] i have one last question for you i've
+[01:27:57] followed your career for a long time
+[01:27:58] known you for a long time yeah um
+[01:28:00] you know for many many years you were
+[01:28:02] very you were very successful but
+[01:28:04] largely
+[01:28:04] anonymous yeah you know i i've been here
+[01:28:07] for a long time
+[01:28:08] right i was underground
+[01:28:12] you could walk the streets of oxford and
+[01:28:13] nobody knew who you were i think i could
+[01:28:15] still do that by the way i don't know
+[01:28:16] but less and less
+[01:28:17] um in the last couple years you become
+[01:28:20] increasingly a public figure
+[01:28:22] a celebrity and your name starts popping
+[01:28:24] up now in gossip
+[01:28:26] pages and websites and that sort of
+[01:28:27] thing how are you dealing with that i
+[01:28:29] don't love it
+[01:28:31] is it is it interfering with your
+[01:28:33] ability to do what you do
+[01:28:36] um it
+[01:28:39] i think i i don't like i don't like it
+[01:28:41] when people think wrong things
+[01:28:43] i mean i i'm not far from flawless so
+[01:28:46] i'm like
+[01:28:47] but i don't like when people think wrong
+[01:28:48] things about me um and i guess
+[01:28:50] the the the um yeah i i must say i don't
+[01:28:55] i don't really like the the sort of
+[01:28:57] celebrity element
+[01:28:59] uh i or i i don't like when people sort
+[01:29:02] of try to
+[01:29:04] write things that are sort of
+[01:29:04] trivialities that don't actually
+[01:29:07] it's like why i write about that you
+[01:29:08] know obviously people find that kind of
+[01:29:10] interesting or some people do
+[01:29:11] hopefully not many um and um
+[01:29:15] i don't know sometimes people say like
+[01:29:16] wrong things that i get you know
+[01:29:18] concerned that well what if my kids read
+[01:29:20] that
+[01:29:21] you know because they're five and
+[01:29:22] they're starting to read um
+[01:29:24] and and that's that i mean that's
+[01:29:26] probably the most concerning thing
+[01:29:28] i'm not too worried about it from a
+[01:29:29] business standpoint because most people
+[01:29:31] that i interact with
+[01:29:32] particularly if they've known me for a
+[01:29:33] while they know what's true and what's
+[01:29:35] not true and and
+[01:29:36] um and in a lot of cases they don't care
+[01:29:39] anyway even if it was true they don't
+[01:29:40] care
+[01:29:41] um but but i do i do it does concern me
+[01:29:44] if my kids were to read something that
+[01:29:46] was just not true
+[01:29:47] i mean you understand if as tesla
+[01:29:50] continues to be successful
+[01:29:52] and as spacex begins to assume the role
+[01:29:55] of the space shuttle
+[01:29:57] you begin to become something like henry
+[01:29:59] ford and werner von braun combined
+[01:30:02] and that's a level of celebrity few
+[01:30:04] people ever know and are you ready for
+[01:30:06] that
+[01:30:07] i'm probably not ready for that i'm not
+[01:30:10] a naturally extroverted person
+[01:30:12] in fact i i would i used to be
+[01:30:13] horrendous at public i mean i'm not that
+[01:30:15] great
+[01:30:15] as it is but i used to be really
+[01:30:17] horrendous and just sort of shake and be
+[01:30:19] unable to speak
+[01:30:20] uh but um i kind of learned not to do
+[01:30:23] that
+[01:30:24] um so i mean i'd much rather
+[01:30:27] just be you know doing engineering and
+[01:30:30] stuff uh
+[01:30:30] and design so that's really what i like
+[01:30:32] to do um maybe
+[01:30:34] you know and i'm happy to and i like
+[01:30:35] doing things like this which are
+[01:30:37] which are fun fine and um
+[01:30:40] but uh and you you know if you're in the
+[01:30:42] car business you gotta sell cars and
+[01:30:44] stuff so
+[01:30:44] i gotta i gotta go out there and be
+[01:30:46] promotional
+[01:30:48] but there are other people at tesla that
+[01:30:49] actually are much better speakers and
+[01:30:51] sellers of the car
+[01:30:52] than i am i think so that's hard to
+[01:30:54] believe
+[01:30:55] anything else you want to tell these
+[01:30:56] folks out here
+[01:31:01] uh she's talked about a lot um
+[01:31:05] i thought there's some really good
+[01:31:06] questions from the audience actually
+[01:31:08] uh
+[01:31:27] i'm not superstitious but uh you never
+[01:31:29] know i mean there could be some
+[01:31:31] uh divine entity that sort of uh there
+[01:31:34] is uh
+[01:31:35] then i uh i hope uh hope
+[01:31:38] that that entity is favorable
+[01:31:41] and worst comes to worst you already
+[01:31:43] know how to live on a dollar a day yeah
+[01:31:45] yeah absolutely ladies and gentlemen the
+[01:31:47] uber entrepreneur elon musk
+[01:32:01] elon mike thank you so much for being
+[01:32:04] here we know that you have
+[01:32:05] very busy schedules both of you we very
+[01:32:07] much appreciate you taking time to
+[01:32:09] speak with us this evening it is a very
+[01:32:12] small gesture of thanks we have a
+[01:32:14] wonderful churchill club t-shirt for you
+[01:32:18] please wear it in very good health and
+[01:32:20] thank you all for coming look forward to
+[01:32:22] seeing you at the next churchill club
+[01:32:24] program and by the way there are 13
+[01:32:26] letters in churchill club
+[01:32:28] good night
+[01:32:54] all right thank you

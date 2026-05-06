@@ -1,0 +1,1836 @@
+[00:00:15] welcome ladies and gentlemen to the
+[00:00:16] Computer History Museum I'm John holler
+[00:00:18] the CEO and it's my pleasure to welcome
+[00:00:20] you tonight on behalf of our trustees
+[00:00:22] our staff our members our amazing
+[00:00:25] volunteers all the people involved in
+[00:00:27] making the museum a great place uh thank
+[00:00:29] you thank you for being here tonight for
+[00:00:31] the kickoff of our revolutionaries
+[00:00:33] speaker series for 2013 we have major
+[00:00:37] funding for the Revolutionary speaker
+[00:00:39] series from Intel we're delighted to
+[00:00:40] have Intel support for the fourth year
+[00:00:43] running now and it's just it's fantastic
+[00:00:45] because it enables everything that we do
+[00:00:47] to make these revolutionaries programs
+[00:00:49] possible we also also get additional
+[00:00:51] funding from the William K Bose
+[00:00:53] Foundation I want to say a special thank
+[00:00:54] you to Tesla for arranging to have a
+[00:00:56] Model S here this evening I hope you had
+[00:00:59] a chance to see the Model S downstairs
+[00:01:01] we've been looking forward for years to
+[00:01:03] an event when we could have the Motor
+[00:01:04] Trend Car of the Year at the
+[00:01:07] Museum and we have it here tonight so
+[00:01:10] thank you to Tesla we asked SpaceX for a
+[00:01:14] rocket that proved to be a little more
+[00:01:17] challenging but maybe
+[00:01:20] someday and now for tonight's
+[00:01:22] program Here's a thought
+[00:01:24] exercise if you compiled a list of the
+[00:01:27] 75 most influential people of the 20th
+[00:01:29] Cent Century who would be on your
+[00:01:32] list or if you compile perhaps a list of
+[00:01:35] the hundred people who most affected the
+[00:01:37] world in the 20th century who would be
+[00:01:40] on that list now think of the same list
+[00:01:43] that you might start compiling for the
+[00:01:44] 21st century so far and if all of that
+[00:01:48] proves to be a little too much I can
+[00:01:49] offer some help Elon Musk has been on
+[00:01:52] every single one of those lists that has
+[00:01:54] been compiled for the 20th century to
+[00:01:56] date no matter who seems to be drawing
+[00:01:59] the lists up few scientists
+[00:02:02] entrepreneurs or industrialists of the
+[00:02:04] last century could stake a claim to a
+[00:02:07] career as boldly ambitious as the one
+[00:02:09] Elon Musk is fashioning now transforming
+[00:02:13] a large measure of the world's Commerce
+[00:02:14] and payment systems as co-founder and
+[00:02:16] chairman of PayPal in
+[00:02:18] 1999 might be enough for anyone for one
+[00:02:21] lifetime but Elon Musk has gone on from
+[00:02:24] there to pursue his passion for solving
+[00:02:27] business environmental and scientific
+[00:02:29] problem problems on a global scale he
+[00:02:32] may be best known for his work at Tesla
+[00:02:34] where he serves as CEO and head of
+[00:02:35] product design the path breaking Tesla
+[00:02:38] Roadster and now the model S have
+[00:02:40] changed almost all of the assumptions
+[00:02:43] that the automotive world has made about
+[00:02:45] what the styling performance and future
+[00:02:47] of a new generation of electric cars
+[00:02:50] might be simultaneously he serves as
+[00:02:53] chairman and principal shareholder of
+[00:02:55] Solar City the nation's leading provider
+[00:02:57] of solar power systems but perhaps his
+[00:03:00] most ambitious and intriguing work is
+[00:03:02] taking place at SpaceX where he is CEO
+[00:03:05] and chief designer SpaceX is erasing the
+[00:03:09] boundaries between space flight and
+[00:03:11] private Enterprise it has a
+[00:03:12] multi-billion dollar multi-year
+[00:03:14] agreement with NASA to be a Workhorse
+[00:03:16] for cargo flights to and from the
+[00:03:18] International Space Station and in 2015
+[00:03:22] that is the company's stated goal it
+[00:03:25] will begin man space FL what is the
+[00:03:28] source of Elon musk's revolutionary
+[00:03:31] thinking how has he been able to do what
+[00:03:33] he's done with the investors he's
+[00:03:34] attracted and the teams that he's built
+[00:03:37] exploring these questions and more
+[00:03:39] tonight with Elon is Allison van digan
+[00:03:41] who is a very notable and noteworthy
+[00:03:44] journalist here in Silicon Valley a
+[00:03:45] contributor to KQED in The Huffington
+[00:03:47] Post and one of the best interviewers in
+[00:03:50] the field through her series fresh
+[00:03:52] dialogues we're delighted to have
+[00:03:54] Allison here tonight this is her first
+[00:03:56] time on stage she's going to be terrific
+[00:03:58] as will Elon please join me in welcoming
+[00:04:00] Elon Musk and Allison van
+[00:04:02] [Applause]
+[00:04:04] digan so I'd like to start uh you grew
+[00:04:07] up in South Africa right and I heard a
+[00:04:10] wonderful story of when you were six
+[00:04:12] years old and you started breaking the
+[00:04:15] rules even then so you were six years
+[00:04:18] old and you were invited by your cousin
+[00:04:20] to a birthday party but there was only
+[00:04:23] there were two problems with that one
+[00:04:25] you were grounded and two it was on the
+[00:04:28] other side of toone yeah so can you
+[00:04:30] explain tell tell the audience how you
+[00:04:32] got there uh all right well I mean this
+[00:04:35] was when I was six so the memories are a
+[00:04:36] little fuzzy at this point um but
+[00:04:40] um as I recall uh yeah I I I was
+[00:04:45] grounded for some reason I don't I don't
+[00:04:46] know why but I think I felt that was
+[00:04:48] unjust
+[00:04:51] um and and um and I really wanted to go
+[00:04:54] to this party my cousin's party uh who
+[00:04:57] was five you know so this like kids
+[00:05:00] party but um so
+[00:05:04] uh I I I
+[00:05:06] um I at first I was going to take my
+[00:05:09] bike um but then and I told my mom this
+[00:05:12] um which is a mistake um and and and she
+[00:05:16] she told me some story about how you
+[00:05:18] needed a license for a bike and and the
+[00:05:19] police would stop me so I wasn't 100%
+[00:05:21] sure if she was that was true or not but
+[00:05:23] I thought I'd better walk just in case
+[00:05:26] um so yeah just I I I sort of thought I
+[00:05:28] knew the way and uh but it was clear
+[00:05:30] across town so I don't know it was 10 or
+[00:05:33] 12 miles away it's really really quite
+[00:05:34] far um further than I realized actually
+[00:05:38] and uh so I just started walking to to
+[00:05:41] my cousin's house I think it took me
+[00:05:42] about 4
+[00:05:43] hours and um and just as my mom was
+[00:05:47] leaving that party with my brother and
+[00:05:49] sister she saw me walking down the road
+[00:05:52] um and freaked
+[00:05:53] out um and then I I saw I saw she saw me
+[00:05:57] so I I then sprinted to my cousin's
+[00:05:58] house and I was just just about two
+[00:06:00] blocks away and then climbed a tree and
+[00:06:01] refused to come
+[00:06:04] down oh so the first of many rule
+[00:06:07] breaking Adventures for Elon Musk so by
+[00:06:10] the by the time you were 12 you're
+[00:06:12] already an entrepreneur and making a
+[00:06:14] profit I understand you you you earn
+[00:06:17] $500 equivalent in Rand uh for creating
+[00:06:21] a video game can you tell us about that
+[00:06:23] and what the inspiration was uh yeah
+[00:06:25] sure um so I uh when when I was about 10
+[00:06:30] I walked into a computer store in in
+[00:06:32] South Africa and um saw an actual
+[00:06:35] computer um I previously had um some
+[00:06:38] some early sort of precursors to to the
+[00:06:40] the Atari uh system and then I got the
+[00:06:42] Atari system which I'm sure a lot of
+[00:06:44] people here have played um and uh and
+[00:06:48] and but then I saw you could actually
+[00:06:49] have a computer where you can make your
+[00:06:50] own games and it was a Commodore Vic 20
+[00:06:53] um so that was the first computer I
+[00:06:55] bought and um and then and then I got
+[00:06:58] some uh books on how to teach yourself
+[00:07:00] programming and um and this was like the
+[00:07:03] coolest thing um I'd ever seen so I was
+[00:07:06] just like this is super awesome um and
+[00:07:09] uh so started programming games uh and
+[00:07:12] uh and then selling games in order to
+[00:07:15] actually buy more games so bit of a
+[00:07:18] circular thing so and more games and
+[00:07:20] better computers and that kind of thing
+[00:07:22] so right so the money wasn't the the end
+[00:07:25] goal for you it was more a means to an
+[00:07:27] end uh yeah um basically I'd spend money
+[00:07:30] on um yeah better better computers and
+[00:07:34] uh Dungeons and Dragons modules and
+[00:07:37] things like
+[00:07:38] that we nerd Master 3000 basically uh
+[00:07:42] yeah so I understand at that time you
+[00:07:44] were heavily into Comics I'm curious to
+[00:07:47] know um did you love Iron Man the comic
+[00:07:52] Iron Man I did kind of like Iron Man
+[00:07:53] yeah you did did you ever did you ever
+[00:07:56] imagine that you would be the
+[00:07:57] inspiration for the movie version I did
+[00:07:59] not no that would that was that was
+[00:08:02] pretty that was pretty much I would say
+[00:08:04] 0% I would have said 0%
+[00:08:06] chance what kind of kid were you I mean
+[00:08:08] can you can you look back and see
+[00:08:10] yourself were you were you a bit of a
+[00:08:11] lunar kid bookish kid uh I certainly I
+[00:08:14] wasn't all that much of a loner um at
+[00:08:16] least not willingly um
+[00:08:20] so um but but I I certainly was uh quite
+[00:08:24] um I was very very bookish I was reading
+[00:08:27] all the time so I was either reading uh
+[00:08:29] working on my computer reading comics
+[00:08:32] playing dungeons dragons that kind of
+[00:08:34] thing and um I understand Hitchhiker's
+[00:08:37] Guide to the Galaxy that wonderful book
+[00:08:40] by Douglas Adams that was a that was a
+[00:08:42] key book for you what what was it about
+[00:08:44] that book that that fired your
+[00:08:46] imagination um yeah so uh I guess when I
+[00:08:49] was in the around 12 or 13 I had compan
+[00:08:53] existential crisis and I was reading
+[00:08:55] various books um on trying to figure out
+[00:08:58] the meaning of life and well like what
+[00:09:00] does it all mean because uh it starts
+[00:09:04] seeming quite meaningless and then
+[00:09:06] um uh my we happen to have like some
+[00:09:09] some books by n and schopenhauer in the
+[00:09:11] house which you should not read at age
+[00:09:13] 14 is
+[00:09:15] bad it's really negative
+[00:09:19] um so so uh but but then I then I read
+[00:09:22] hit is gu the Galaxy which like quite
+[00:09:24] positive I think and um and sort of
+[00:09:27] highlighted the the an important point
+[00:09:30] which is that a lot of times the
+[00:09:31] question is harder than the answer and
+[00:09:33] if you can properly phrase the question
+[00:09:35] then the answer is the easy
+[00:09:37] part um and so uh the if to the degree
+[00:09:42] that we can um better uh understand the
+[00:09:45] universe then we better know what
+[00:09:47] questions to ask and um then whatever
+[00:09:50] the question is that most appro
+[00:09:52] approximates what's the meaning of
+[00:09:54] life you know that that that's that's
+[00:09:56] the question we could ultimately get
+[00:09:57] closer to understanding
+[00:10:00] um and so I thought well to the degree
+[00:10:02] that we can expand the scope and scale
+[00:10:05] of Consciousness
+[00:10:07] and and knowledge um human knowledge
+[00:10:11] then that would be a good thing wow so
+[00:10:13] you're having these deep thoughts at
+[00:10:14] what age 10 14 yeah sort of in the
+[00:10:19] puberty I guess was 13 13 through 15
+[00:10:23] probably the most traumatic years right
+[00:10:25] and so by the time you were 17 you were
+[00:10:28] you were ready you were actually left
+[00:10:30] right I assume you hatched the plan
+[00:10:32] earlier when you were around 14 15 I did
+[00:10:36] hatch the plan earlier actually I I
+[00:10:37] tried to hatch several plans uh which
+[00:10:39] they did not hatch right um but by 17
+[00:10:43] you were on a plane from South Africa
+[00:10:45] you you had enough of South Africa you
+[00:10:47] were ready to seek new pastures now why
+[00:10:50] was it the United States was your
+[00:10:52] destination why not Europe or somewhere
+[00:10:54] else in the world well just whenever I'd
+[00:10:56] read about cool technology it would tend
+[00:10:58] to be in the United States
+[00:11:00] you know or more broadly North America
+[00:11:02] or including Canada so um uh so I kind
+[00:11:06] of wanted to be where The Cutting Edge
+[00:11:08] of Technology was um and of course
+[00:11:11] within the United States uh Silicon
+[00:11:13] Valley is is the is where the the heart
+[00:11:17] of things is so um although at the time
+[00:11:20] I didn't know where Sil Valley was it
+[00:11:22] sounded like a mythical Place really
+[00:11:26] great um so yeah so I I I wanted to come
+[00:11:28] to the to the US I try to convince my um
+[00:11:31] my mother or father who were divorced if
+[00:11:33] either one of them would move to the
+[00:11:34] United States then I could then I could
+[00:11:35] get there at one point I convinced my
+[00:11:37] father but then he renaged
+[00:11:39] unfortunately um so you had him
+[00:11:42] convinced and then he changed his mind
+[00:11:43] he did say yes and then and then he
+[00:11:45] changed his mind why I don't know I
+[00:11:48] guess um he was sort he was fairly
+[00:11:51] established he's an engineer he was sort
+[00:11:52] of established in South Africa and
+[00:11:54] didn't want to have to go through that
+[00:11:55] again in another country right so you
+[00:11:57] got on that plane all by yourself at 17
+[00:12:00] uh yeah so um I I actually got um my my
+[00:12:06] mother was born in Canada and actually
+[00:12:07] her her father was uh American U but
+[00:12:10] unfortunately she didn't get her
+[00:12:11] American citizenship so then that broke
+[00:12:13] the link and I couldn't get my American
+[00:12:14] citizenship but she was born in Canada
+[00:12:16] so I could get uh I actually filled up
+[00:12:19] the forms for her and got her a Canadian
+[00:12:21] passport and me too um and then as soon
+[00:12:24] as within 3 weeks of my getting my
+[00:12:26] Canadian passport I was in Canada right
+[00:12:29] and then you ended up at University of
+[00:12:30] Pennsylvania yeah you did degree in
+[00:12:33] physics and business yeah so I I I was
+[00:12:36] in Canada for a few years at Queens
+[00:12:40] University got a scholarship to go down
+[00:12:42] to uh University of Pennsylvania um
+[00:12:45] because one of the downsides of of
+[00:12:46] coming to University of North America
+[00:12:48] was that my my parents said they would
+[00:12:50] not would not pay for college if it was
+[00:12:53] well my father said he would not pay for
+[00:12:54] college unless it was in South Africa so
+[00:12:56] so it was either so I could have free
+[00:12:58] college in
+[00:12:59] or or find some way to pay it here and
+[00:13:02] uh fortunately I got a scholarship at at
+[00:13:04] upen and um and so did uh did he U
+[00:13:09] business under dual undergraduate uh
+[00:13:11] business and and physics at upan Wharton
+[00:13:13] and it was there that you came up with
+[00:13:15] this idea of three main areas that you
+[00:13:17] felt were most important to humanity can
+[00:13:20] you describe how You Came Upon them was
+[00:13:22] it just one day you had a flash of
+[00:13:24] inspiration these are the three areas
+[00:13:26] that are important and I want to
+[00:13:27] concentrate on or how did did that how
+[00:13:29] did that inspiration come to you now I
+[00:13:32] think I was thinking about it for a
+[00:13:33] couple years um and during sort of
+[00:13:36] freshman and sophore year at queens and
+[00:13:38] then also at upen um and I was trying to
+[00:13:43] think what would most influence the
+[00:13:46] future uh you know what the problems
+[00:13:48] that we that we have to solve um and um
+[00:13:52] and I I actually talked a lot to friends
+[00:13:55] and and my housemates and that kind of
+[00:13:57] thing and dates which is not maybe not
+[00:13:59] the best
+[00:14:02] thing so yeah um actually met uh met a
+[00:14:08] woman I dated briefly in in college um
+[00:14:11] who now works at Scientific American as
+[00:14:13] a writer and uh and and she she related
+[00:14:16] the anecdote that uh we went on a date I
+[00:14:19] was all I was talking about was electric
+[00:14:21] cars um that was not a big a winning
+[00:14:25] conversation so it was a bit of a
+[00:14:27] monologue was it yeah she said
+[00:14:29] she said the first question I asked her
+[00:14:31] was do you ever think about electric
+[00:14:34] cars no she never does so you learn from
+[00:14:38] that that wasn't the best shout out L
+[00:14:40] wasn't wasn't
+[00:14:41] great it has recently it's been more
+[00:14:45] effective there you go I know this
+[00:14:50] man that's wonderful we'll get on to
+[00:14:53] Tesla soon but I want
+[00:14:55] to I want to um go from from University
+[00:14:59] of Pennsylvania you ended up in Silicon
+[00:15:01] Valley and you've described Silicon
+[00:15:03] Valley as darwinian can you talk about
+[00:15:05] what it was the most positive sense
+[00:15:07] really and was
+[00:15:09] positive um can you elaborate on what
+[00:15:11] that means and why it had to be Silicon
+[00:15:13] Valley what what Drew you to Silicon
+[00:15:16] Valley
+[00:15:17] um well
+[00:15:20] uh well I was at I was at pen and um
+[00:15:24] there was a professor who um who was
+[00:15:27] chairman of a company in Sil Valley that
+[00:15:29] was working on Advanced capacitors for
+[00:15:31] use in electric cars or potentially for
+[00:15:33] use in electric cars uh as it turns out
+[00:15:35] they they're way too expensive but um
+[00:15:38] but I thought well this is this is
+[00:15:39] really awesome because then I asked if I
+[00:15:42] could get a summer job because it was in
+[00:15:44] Silicon Valley and working on technology
+[00:15:47] for electric cars I thought well that's
+[00:15:49] that's pretty much as good as it gets um
+[00:15:51] so I got a summer job here was in Las
+[00:15:54] Godus actually um at at Pinnacle
+[00:15:57] research uh doing
+[00:15:59] um uh electrolytic uh Ultra
+[00:16:03] capacitors which were um but they had a
+[00:16:06] the problem was that they they used the
+[00:16:07] ruthenium tantalum oxide um and there
+[00:16:10] was I think only a few tons of ruthenium
+[00:16:12] mined in the world um so not very
+[00:16:15] scalable um and they you know they'd
+[00:16:18] sell it to you by the sort of milligram
+[00:16:21] so you know that's you know there's a
+[00:16:23] problem um but but it had a pretty high
+[00:16:26] energy density it's sort of roughly
+[00:16:27] equivalent to a Le acid battery which
+[00:16:28] for capacitor is huge mhm but you ended
+[00:16:31] up then after that at at Stanford yeah
+[00:16:35] so then um I I thought well uh Stanford
+[00:16:39] is in Silicon Valley sort of epicenter
+[00:16:41] and so that's where I wanted to come um
+[00:16:44] you Stanford or Berkeley and Stanford
+[00:16:46] sort of Sunny air so I like to Sun air
+[00:16:49] that's great and you I understand you
+[00:16:51] were at Stanford University for a whole
+[00:16:52] two days before you decided no it's time
+[00:16:57] I'm going to do my first startup yeah I
+[00:16:59] figured well um so this is a summer of
+[00:17:02] '95 and
+[00:17:04] uh uh and I've been working on some
+[00:17:07] internet
+[00:17:08] software so because the three things I
+[00:17:11] thought were pick the world with
+[00:17:12] internet um sustainable energy and and
+[00:17:15] uh space exploration making life
+[00:17:17] multiplanetary so uh
+[00:17:20] the um but but on the internet thing I
+[00:17:22] just couldn't figure out how to make
+[00:17:24] enough money to to feed myself you know
+[00:17:26] cuz like uh if I didn't makes make make
+[00:17:30] money then I would like run out of food
+[00:17:31] and die so that was that was not good uh
+[00:17:34] so basic needs right yeah literally um
+[00:17:39] so whereas uh you know if I was a
+[00:17:41] student then I could be teaching
+[00:17:45] assistant and do you do various things
+[00:17:47] and and and do research on um electric
+[00:17:50] vehicle Tech technologies that that was
+[00:17:51] my default plan but but then I also
+[00:17:53] thought that if I if I did a PhD at
+[00:17:55] Stanford then um I could I would spent
+[00:17:59] several years watching the internet go
+[00:18:01] through this incredibly rapid growth
+[00:18:02] phase and that would be really difficult
+[00:18:04] to to handle like it's like it really
+[00:18:05] wanted to be doing something so you saw
+[00:18:07] the wave growing it sort of really
+[00:18:09] seemed like things were going to take
+[00:18:10] off um although nobody made any money on
+[00:18:13] the internet at the time in '95 there
+[00:18:14] was really nobody was making any money
+[00:18:16] on the internet and in fact even on Sand
+[00:18:18] Hill Road people were like what's the
+[00:18:19] internet they
+[00:18:21] amazingly
+[00:18:23] um when we tried to get funding for a
+[00:18:26] company in I think it was November or
+[00:18:28] something of9
+[00:18:29] there about October November um more
+[00:18:32] than half of the bench capitalists we
+[00:18:33] met with did not know what the internet
+[00:18:35] was and had not used it that's amazing
+[00:18:37] yeah literally I like it's like isn't
+[00:18:39] that they literally ask isn't that
+[00:18:41] something that the government and
+[00:18:41] universities use like uh for
+[00:18:45] now but you know yeah uh but then then
+[00:18:49] uh netgate went public in late 95 I
+[00:18:51] think it was and then after that even
+[00:18:53] though lot of vure capitalist still
+[00:18:55] didn't understand it and still hadn't
+[00:18:56] used it they they somebody had made on
+[00:18:59] it so now that was on the radar yeah so
+[00:19:02] when we went to get funding the second
+[00:19:04] time we tried to get funding um everyone
+[00:19:06] was interested right so this company was
+[00:19:08] zip 2 that's right and terrible name
+[00:19:12] yeah what what what was the reason for
+[00:19:14] that name um well we were just
+[00:19:17] incredibly stupid at the time I think
+[00:19:19] that was that's the the main reason for
+[00:19:21] that name um and uh because we got some
+[00:19:26] Ad Agency because we thought well we
+[00:19:27] don't know anything about names so we'll
+[00:19:29] get some add in to suggest a bunch of
+[00:19:31] options and
+[00:19:33] then zip two seemed kind of Speedy I
+[00:19:36] don't know what the hell why the hell we
+[00:19:37] chose that stupid
+[00:19:39] name um and it has a digit it's like why
+[00:19:41] would you pick it because it could be
+[00:19:43] zip to could be Zip T wo it could be zip
+[00:19:46] t oo so like people like literally
+[00:19:49] spelled the name every
+[00:19:51] variation um which is bad if you got a
+[00:19:53] URL and you don't have the other ones um
+[00:19:57] so so um so is up to started off um as
+[00:20:02] basically uh like said we're trying to
+[00:20:04] figure out how to how to make enough
+[00:20:06] money to exist as a company and the so
+[00:20:10] so since there wasn't really any
+[00:20:11] advertising money being made uh we
+[00:20:14] thought we could um help existing
+[00:20:17] companies get online bring their stuff
+[00:20:19] online so we developed software that
+[00:20:21] helped bring um lot of the newspapers
+[00:20:24] and media companies online CU a lot of
+[00:20:25] them just didn't they also didn't know
+[00:20:27] what the internet was big customers
+[00:20:29] didn't you yeah mhm um and and even the
+[00:20:32] ones that were aware of the internet
+[00:20:33] didn't have a software team so they they
+[00:20:35] weren't very good at developing
+[00:20:37] functionality um and uh so we had as um
+[00:20:41] investors and customers uh the New York
+[00:20:43] Times company night rder H and and so we
+[00:20:46] were able to get them to pay us to
+[00:20:48] develop software for them to bring them
+[00:20:50] online so online publishing stuff and we
+[00:20:51] did maps and directions and yellow pages
+[00:20:53] and white pages and uh various other
+[00:20:56] things um and uh
+[00:20:59] we developed quite sophisticated
+[00:21:00] technology actually but um I it wasn't
+[00:21:04] actually being employed super well by
+[00:21:07] the media companies like we we would
+[00:21:10] suggest ways to use it and then it would
+[00:21:12] not be used as effectively as it could
+[00:21:14] be it was very frustrating right but you
+[00:21:16] did sell that company successfully to
+[00:21:18] compact yeah right and that allowed you
+[00:21:21] to go on and uh create x.com that's
+[00:21:25] right yeah exactly so um the
+[00:21:29] yeah compac had uh had alter Vista so
+[00:21:32] their their thought was combine alista
+[00:21:34] and a bunch of other technology
+[00:21:35] companies and see if that would if that
+[00:21:37] would work which it did not um but but
+[00:21:40] nonetheless they they they were pretty
+[00:21:42] nice guys and bought the company and and
+[00:21:44] that gave me the capital to to do
+[00:21:46] another company and I want I want to do
+[00:21:48] another company in the internet because
+[00:21:49] I thought we haden't really reached the
+[00:21:52] potential that we could have with with
+[00:21:53] sub2 um because we had really
+[00:21:56] sophisticated softare our software was
+[00:21:58] sort of at least comparable to what
+[00:22:00] Yahoo or excite or others had in fact I
+[00:22:03] mean I thought in some ways it was
+[00:22:04] better so uh but it wasn't because it
+[00:22:08] was all filtered through these Partners
+[00:22:09] it wasn't getting properly used uh so I
+[00:22:12] thought we um I I want to do something
+[00:22:15] that could be more a more significant
+[00:22:17] contrib contribution to the internet and
+[00:22:20] um and so the initial thought was with
+[00:22:23] financial services because um money is
+[00:22:26] digital um it's low band with at the
+[00:22:28] time there was you know most people were
+[00:22:30] on modems still on modems and um because
+[00:22:34] this was uh late 98 early 99 so this was
+[00:22:38] x.com was a precursor to PayPal
+[00:22:40] basically you merged with confinity and
+[00:22:43] it became PayPal major success yeah so
+[00:22:46] it worked out better than we expected
+[00:22:49] um yeah um so yeah uh confinity so
+[00:22:56] initially confinity and EXO com started
+[00:22:58] out with from slightly different
+[00:23:00] directions and then converged to the
+[00:23:01] same point um with with x the thought
+[00:23:04] was to create integrated set of
+[00:23:05] financial services um so you could go to
+[00:23:08] one place and do all of your financial
+[00:23:10] anything um and and then as a feature we
+[00:23:13] had the ability to transfer money or
+[00:23:15] Securities or anything simply by enter
+[00:23:16] entering a unique identifier so like a
+[00:23:19] you know email address or phone number
+[00:23:21] or something like that um and uh but
+[00:23:25] when we demo the system the hard stuff
+[00:23:27] which was the integration of all the
+[00:23:30] financial services uh people would not
+[00:23:32] be interested in but they'd be really
+[00:23:33] interested in in being able to transfer
+[00:23:35] money using an email address even though
+[00:23:36] that was actually quite easy um and so
+[00:23:39] we focused our our energy on that um and
+[00:23:41] although it's easy in principle it uh
+[00:23:44] what gets really hard is is adding um
+[00:23:47] security while still keeping it easy to
+[00:23:50] use that so because you know it's like
+[00:23:53] the Willie lurman quote like why do
+[00:23:54] people why do you rub Banks because
+[00:23:56] that's where the money is so why do
+[00:23:57] people rub PayPal the same reason um and
+[00:24:01] and so you can e you can dial up the
+[00:24:03] security to a really high level but then
+[00:24:04] you're going to make it very hard to use
+[00:24:07] um and and so that that that was was one
+[00:24:10] of the toughest things we wrestled with
+[00:24:13] um and then confinity originally started
+[00:24:15] as kind of um software for Palm pilots
+[00:24:18] and and then they had a demonstration
+[00:24:20] application which was the ability to
+[00:24:21] beam money from one Palm Pilot to
+[00:24:23] another using the infrared Port yeah
+[00:24:25] people remember that one yes um that was
+[00:24:28] big at one point um and and then they
+[00:24:31] they had a website uh sort of parallel
+[00:24:35] to that where you because once you beam
+[00:24:37] the infrared tokens you had to still
+[00:24:40] then um synchronize your P pilot and do
+[00:24:45] the transfer via the website so but then
+[00:24:48] people weren't that interested in the PM
+[00:24:49] pilot stuff but they were interested in
+[00:24:50] the website so we kind of converge to
+[00:24:52] the same point um and we're quite close
+[00:24:54] together so we we decided to merge the
+[00:24:56] companies um
+[00:24:58] and uh in I think January or so of 2000
+[00:25:03] was very toing
+[00:25:04] period um and the the the growth in the
+[00:25:09] company was was pretty pretty crazy like
+[00:25:12] we had at at the end of the
+[00:25:15] first sort of four or five weeks we had
+[00:25:18] 100,000 customers it's incredible
+[00:25:20] incredible growth um did you anticipate
+[00:25:23] that when you started definitely did
+[00:25:26] not and and it wasn't all good because
+[00:25:29] uh we had some bugs in the software uh
+[00:25:32] and you know what even if the bug only
+[00:25:36] occurs one in a thousand times still
+[00:25:39] have, customers you have 100 very angry
+[00:25:41] customers like where's my money that
+[00:25:43] would
+[00:25:44] be you know reasonable a reasonable
+[00:25:47] concern that people would have and and
+[00:25:48] then we we we had customer service on
+[00:25:52] University and Avenue and paloalto uh
+[00:25:55] there were five
+[00:25:56] people um so when something went wrong
+[00:25:58] customer service phones were basically
+[00:26:00] explode oh my goodness um and uh so we
+[00:26:04] we had many challenges and then the
+[00:26:05] various Financial Regulatory Agencies
+[00:26:07] were trying to shut us down visa and
+[00:26:09] mascard were trying to shut us down eBay
+[00:26:10] was trying to shut us down uh FTC was
+[00:26:13] trying to shut us down um there were a
+[00:26:15] lot of battles there wow it's quite
+[00:26:18] incredible with all that adversity you
+[00:26:20] you conquered and you came out
+[00:26:23] with hundred million right yeah it was a
+[00:26:26] close call um we definitely I mean came
+[00:26:29] very close to dying there in 2000 and
+[00:26:31] 2001 um and what was the reason for that
+[00:26:34] success what would you put it down to in
+[00:26:35] that case how did you
+[00:26:40] overcome uh well you know I think we had
+[00:26:42] a really talented group of people at
+[00:26:44] PayPal um and a lot of those people have
+[00:26:47] actually gone on to start many other
+[00:26:49] companies yes um you know YouTube
+[00:26:51] LinkedIn Yelp uh Yammer um it's like
+[00:26:56] quite a long list actually um
+[00:26:59] and so for you personally there you were
+[00:27:01] with several hundred million were you
+[00:27:03] not tempted just to go on buy an
+[00:27:08] island um really what was it that drove
+[00:27:11] you what I'm getting at because I I know
+[00:27:12] you didn't but what I'm getting at is
+[00:27:14] why were you so driven to jump into the
+[00:27:17] next
+[00:27:18] thing well I was um did you take any
+[00:27:21] time off I I did take a bit of time off
+[00:27:25] uh because um after PayPal
+[00:27:28] um I did reasonbly well for PayPal I was
+[00:27:31] the largest shareholder in the company
+[00:27:32] so um and we required for about a
+[00:27:35] billion and a half in stock and then the
+[00:27:38] stock doubled so um so you know it did
+[00:27:42] did reasonably reason well but the the
+[00:27:44] idea of of like lying on a beach as my
+[00:27:47] main thing uh just sounds like the worst
+[00:27:50] that sounds horrible to me uh just
+[00:27:52] boredom factor I would go Bonkers I
+[00:27:55] would you know um
+[00:27:58] I would have to be on serious drugs I
+[00:27:59] mean
+[00:28:02] just or serious P coladas right exactly
+[00:28:06] I mean it's just I'd be super duper
+[00:28:08] bored um so that uh I mean I like I like
+[00:28:13] high intensity um I mean I like going to
+[00:28:16] beach for a short period of time uh but
+[00:28:18] but not much longer than like you know a
+[00:28:20] few days or something like that right so
+[00:28:21] let's talk about the seeds of SpaceX I
+[00:28:24] understand it started not as the idea of
+[00:28:27] let's let's start start a rocket ship
+[00:28:29] company uh you had a philanthropic idea
+[00:28:32] you were really surprised when you found
+[00:28:34] out that NASA didn't have any plans to
+[00:28:36] go to Mars and you came up with this
+[00:28:38] idea of let's put a greenhouse on Mars
+[00:28:41] so can you explain how that
+[00:28:44] whole idea came into being for for
+[00:28:49] SpaceX sure well um so so when I was
+[00:28:52] thinking of like what I thought would
+[00:28:54] would affect the world uh as a student
+[00:28:57] it wasn't really from the standpoint of
+[00:28:59] those are the things I'll get involved
+[00:29:00] in it was kind of more in the abstract
+[00:29:01] these are the things I think will happen
+[00:29:03] that will affect the world um but but
+[00:29:05] not that I will be involved in them as
+[00:29:07] it turns out I have but uh I I always
+[00:29:10] thought that we would make much more
+[00:29:12] progress in
+[00:29:13] space
+[00:29:15] um and it just it just didn't happen it
+[00:29:18] was it was really disappointing so
+[00:29:21] um uh yeah I was I was was really quite
+[00:29:24] bothered by it MH um so you know when we
+[00:29:29] went to the moon um we were supposed to
+[00:29:32] have a base on the moon we're supposed
+[00:29:33] to send people to Mars and that stuff
+[00:29:36] just it just didn't happen it we went
+[00:29:38] backwards um you we got the space
+[00:29:41] shuttle but the space shuttle could only
+[00:29:42] go to lowth orbit where a Saturn 5 could
+[00:29:44] go to the moon now the space shuttle is
+[00:29:46] gone and so that just seemed like a a
+[00:29:49] really bad thing so uh I thought um well
+[00:29:56] maybe it was a question of of um there
+[00:29:59] not being enough attention or will to to
+[00:30:02] do this um but this I this was was this
+[00:30:05] was a wrong assumption so I um so but
+[00:30:11] that that's the reason for the
+[00:30:12] greenhouse idea was to the thought was
+[00:30:15] if if um if there could be sort of a
+[00:30:18] small philanthropic Mission to Mars you
+[00:30:20] know so I wasn't I was expecting to lose
+[00:30:22] all all the money that I invested in in
+[00:30:25] that um but if we could send a small
+[00:30:28] Greenhouse to the surface of Mars with
+[00:30:30] with seeds in in dehydrated nutrient
+[00:30:33] Deale and hydrated Point Landing and
+[00:30:34] you'd have this great shot of you know
+[00:30:37] little Greenhouse with with little green
+[00:30:38] plants with on on a red background um I
+[00:30:42] thought that would get people excited so
+[00:30:44] you literally imagined a photograph
+[00:30:46] inspiring a new generation yeah you got
+[00:30:48] to sort of imagine the money shot if you
+[00:30:50] will
+[00:30:51] um so so yeah I think I think you know
+[00:30:55] green plants in red background would be
+[00:30:56] that um
+[00:30:58] and and people tend to get interested
+[00:31:00] and excited about precedents and
+[00:31:02] superlatives so this would be the
+[00:31:03] furthest that life's ever traveled the F
+[00:31:05] the first life on Mars um as far as we
+[00:31:08] know um and uh and I thought well maybe
+[00:31:11] that would result in in a in a bigger
+[00:31:14] budget for NASA and and um and then we
+[00:31:18] could sort of resume the journey that
+[00:31:20] was the basic idea and and I I spent
+[00:31:23] several months on this actually and uh
+[00:31:25] went to Russia three times um
+[00:31:28] because I was able to to figure out how
+[00:31:30] to get the cost of the spacecraft low
+[00:31:32] and the communications and the the the
+[00:31:35] greenhouse and all that to a reasonable
+[00:31:37] number reasonable
+[00:31:39] meaning several million dollars um and
+[00:31:42] did you have did you actually physically
+[00:31:44] draw out a greenhouse of how you imagine
+[00:31:46] yeah yeah actually I hope we got that
+[00:31:48] somewhere um that would be amazing to
+[00:31:50] see yeah um I mean I'm sure it looks
+[00:31:53] pretty goofy in retrospect but but
+[00:31:56] that's the that's the idea that we had
+[00:31:58] and it's um so and I I spent several
+[00:32:01] hundred, just kind of getting the design
+[00:32:04] worked out and
+[00:32:06] engaging some companies to um come up
+[00:32:10] with the design specifications for the
+[00:32:12] subsystems um and uh and then but then
+[00:32:16] it came to buying the rocket and the
+[00:32:18] problem was that the the cost of rockets
+[00:32:20] is really high uh and the lowest cost
+[00:32:24] rocket in the us at the time was the uh
+[00:32:28] the Delta 2 Boeing Delta 2 and and that
+[00:32:33] would have been about $50 million
+[00:32:37] um yeah and then you need still need to
+[00:32:39] have like an upper stage from so
+[00:32:40] probably 60 million all in and that was
+[00:32:43] uh and I wanted to do two of these
+[00:32:44] missions because I thought if if it did
+[00:32:48] just one and and it didn't work then
+[00:32:50] that could have like the the opposite of
+[00:32:52] effect like look how dumb it is to do to
+[00:32:55] to try a same all this money down the
+[00:32:56] drain right what an idiot
+[00:32:59] so so I wanted to do two and I just
+[00:33:01] didn't have enough money to to do two
+[00:33:04] complete missions so you had a budget of
+[00:33:06] about 100 million something like that
+[00:33:09] well I was hoping it would be less than
+[00:33:10] that but uh but not more than I mean not
+[00:33:13] more than that
+[00:33:16] um but but then yeah I guess roughly on
+[00:33:19] that order is about most I'd
+[00:33:22] be I mean I couldn't I couldn't spend
+[00:33:24] much more than that uh so
+[00:33:28] um so the Russians didn't help you out
+[00:33:31] yeah had three three quite interesting
+[00:33:33] trips to Russia to try to uh negotiate
+[00:33:36] purchase of two Russian
+[00:33:41] icbms yeah and did they think you had
+[00:33:43] evil inent no they just thought I was
+[00:33:46] crazy uh but I mean that's not good
+[00:33:48] either U if you're buying
+[00:33:51] icbms um but minus the nuke I mean I
+[00:33:54] think that would have been a lot more so
+[00:33:57] so you didn't talk nukon no I I mean I
+[00:34:00] didn't I I got slightly got the feeling
+[00:34:02] that that was on the table if
+[00:34:07] I which which was very alarming
+[00:34:10] um but but yeah that that was uh those
+[00:34:14] are very weird meetings um with with the
+[00:34:18] the Russian military and whatnot um I
+[00:34:21] mean I think they they thought I was bit
+[00:34:22] crazy but then they thought they read
+[00:34:24] about PayPal and okay it was crazy he's
+[00:34:26] got money uh he did something right yeah
+[00:34:29] well and more importantly I could pay
+[00:34:31] him um right yes so so that's that's
+[00:34:34] really I mean there yeah it was
+[00:34:36] remarkably capitalist was was my
+[00:34:38] impression of the Russians yeah right
+[00:34:41] right i' I have heard that before yep um
+[00:34:43] so tell me how what was the turning
+[00:34:45] point from you know talking with the
+[00:34:46] Russians and then deciding okay I'm
+[00:34:48] going to do this I'm going to set up a
+[00:34:50] company what was that turning point for
+[00:34:52] you well um I I I guess I I I had I came
+[00:34:57] conclusion that um my initial premise
+[00:34:59] was was wrong uh that in fact the
+[00:35:04] um there's there's a great deal of will
+[00:35:07] uh you know that there there's there was
+[00:35:09] not such a shortage um but people don't
+[00:35:12] think there's a way um and and that if
+[00:35:15] people thought there was there was a way
+[00:35:17] or at least something that wouldn't you
+[00:35:19] know break the federal budget um then
+[00:35:22] then people would support it um which in
+[00:35:25] retrospect I think is actually kind of
+[00:35:27] obvious because um the the United States
+[00:35:30] is a distillation of the human Spirit of
+[00:35:32] exploration um people came here from
+[00:35:35] other places um I mean
+[00:35:37] it's you know there's no n there's no I
+[00:35:40] mean there's no nation that that's more
+[00:35:41] a nation of explorers than un United
+[00:35:43] States but but people need to believe
+[00:35:45] that it's possible and it's that it's
+[00:35:47] not you know it's they don't have to
+[00:35:48] give up like healthcare or something
+[00:35:50] important you know it's just it's got to
+[00:35:52] be that that that's that's important so
+[00:35:55] so I thought okay well then it's not a
+[00:35:57] question of will it's it's a question of
+[00:35:59] showing that there's a way um and and
+[00:36:02] the and I started reading quite a bit
+[00:36:04] about Rockets to try to understand why
+[00:36:06] they're so so freaking expensive um um
+[00:36:10] you know is there something you know
+[00:36:13] where does this the $60 million go for
+[00:36:15] the Delta 2 um and that's subsequently
+[00:36:18] Now Delta 2 I think is1 $100 million
+[00:36:21] even some crazy number um and Delta 2 is
+[00:36:26] I mean that's a relatively smaller
+[00:36:27] rocket um so if you go to like a really
+[00:36:30] you know one of the bigger Rockets it's
+[00:36:31] anywhere from $200 to $400 million
+[00:36:35] um anyway so so I came conclusion that
+[00:36:38] there there wasn't really a good reason
+[00:36:39] for Rockets to be so expensive um and
+[00:36:43] and and that there could be a lot less
+[00:36:45] and even in in Expendable format uh
+[00:36:48] there could be less and uh and and that
+[00:36:51] in if one could make them reusable like
+[00:36:54] airplanes then the cost of rocketry
+[00:36:58] would go would drop dramatically cost of
+[00:37:00] space travel would drop dramatically
+[00:37:02] because the the cost of the fuel was
+[00:37:04] maybe anywhere from 0.2 to .5% of the
+[00:37:09] cost of the rocket right um you know
+[00:37:11] it's kind of like a plane I mean how
+[00:37:13] much is the cost of the fuel in the
+[00:37:14] plane versus the plane itself it's a at
+[00:37:17] least a two of magnitude difference um
+[00:37:20] but nobody had really been able to make
+[00:37:22] a reusable rocket work so that that but
+[00:37:27] I thought okay that if we can do that
+[00:37:28] then that would that would really be the
+[00:37:30] the key breakthrough for space travel
+[00:37:33] right but you also said that so far we
+[00:37:35] have not succeeded I should point out um
+[00:37:37] you've also said that failure was the
+[00:37:39] most likely outcome can you talk about
+[00:37:41] failure in that sense and in a broader
+[00:37:44] sense of being an entrepreneur and an
+[00:37:46] innovator why is failure so
+[00:37:49] important uh well I I mean I I think I
+[00:37:52] think failure is bad um I don't think
+[00:37:54] it's good um but if if if is important
+[00:37:58] enough then you you do it even though
+[00:38:00] the risk of failure is high MH um and
+[00:38:03] and so I think my advice if somebody is
+[00:38:06] wants to start a company is they should
+[00:38:08] bear in mind that the most likely
+[00:38:09] outcome is is that it's not going to
+[00:38:11] work and they should reconcile
+[00:38:13] themselves to that POS strong
+[00:38:16] possibility um and they should only do
+[00:38:18] it if they feel that they they they are
+[00:38:21] really compelled to do it you know right
+[00:38:24] um because it's it's it's going to the
+[00:38:27] way starting company works is like
+[00:38:29] usually in the beginning it's the very
+[00:38:30] beginning it's kind of fun um and then
+[00:38:33] it's really hellish for for a number of
+[00:38:36] years you talked about chewing glass
+[00:38:39] yeah there's there's a a friend of mine
+[00:38:41] who's uh successful entrepreneur um and
+[00:38:46] uh started actually his career around
+[00:38:48] the same time as I did and he he has a
+[00:38:50] good good good phrase his name's bully
+[00:38:52] uh um he said yeah your starting a
+[00:38:54] company is like eating glass and staring
+[00:38:56] into the abyss
+[00:38:58] um and and you agree with that generally
+[00:39:01] true um yeah and and and and if you
+[00:39:05] don't eat the glass you're not going to
+[00:39:06] be
+[00:39:08] successful that's that's yeah tough
+[00:39:10] medicine tough medicine so let's move
+[00:39:13] along and we're going to get down into
+[00:39:15] Innovation and motivation shortly but I
+[00:39:17] want to just go through your whole
+[00:39:20] business career first so shortly after
+[00:39:23] founding SpaceX you then got interested
+[00:39:26] in electric vehicles
+[00:39:28] and I understand you watched the visuals
+[00:39:30] for the death of the
+[00:39:31] ev1 when they were all smashed talk
+[00:39:34] about that and and why you felt even
+[00:39:37] after founding SpaceX I have to get
+[00:39:40] involved with
+[00:39:43] Tesla yeah um well um as I said like my
+[00:39:48] interest in electric vehicles goes back
+[00:39:49] a long time to you know goes back 20
+[00:39:52] plus years scene yeah EXC exactly um and
+[00:39:55] and in fact the the original reason I
+[00:39:57] came silen Valley was to work on
+[00:39:59] electric vehicle energy storage
+[00:40:01] technology right um and and I I thought
+[00:40:05] that um that the big car companies would
+[00:40:08] develop electric cars because obviously
+[00:40:10] the right move um and and and and I
+[00:40:14] thought that was Vindicated when General
+[00:40:17] Motors and uh Toyota announced their
+[00:40:20] General Motors was doing the ev1
+[00:40:23] Electric Vehicle One Toyota did the
+[00:40:25] electric R 4 the original one um and
+[00:40:29] they made those announcements and then
+[00:40:30] and they brought those to Market and I
+[00:40:32] thought okay well this is this is great
+[00:40:34] um you we're going to have electric cars
+[00:40:36] GM's going to obviously do the ev2 and
+[00:40:38] three and then you know they just get
+[00:40:40] keep getting better and everything would
+[00:40:41] be cool um and uh and then uh when when
+[00:40:46] California relaxed its regulations on
+[00:40:48] electric
+[00:40:49] cars GM recalled all of the ev1s uh and
+[00:40:55] crushed them into little cubes you know
+[00:40:57] which is seems kind of nutty um so in
+[00:41:01] fact
+[00:41:03] uh the people didn't want their EV ones
+[00:41:06] recalled yeah and in fact they they
+[00:41:09] tried they tried court orders to stop
+[00:41:11] the cars from being recalled they they
+[00:41:13] held a candle it vigil okay at the yard
+[00:41:17] where the cars were crushed did you
+[00:41:19] attend that vigil no I I did I did not
+[00:41:22] you moved by it well certainly I mean
+[00:41:25] it's it's crazy if if I mean when is the
+[00:41:28] last time you heard about any company
+[00:41:31] customers holding a candle it viil for
+[00:41:33] the demise of that that product um
+[00:41:36] particularly AGM
+[00:41:38] product okay I
+[00:41:41] mean I mean what bigger wake up call do
+[00:41:44] you need it's like it's like hello the
+[00:41:46] customers are really upset about this
+[00:41:49] they would really prer it if it didn't
+[00:41:51] get
+[00:41:51] recalled um so that that that kind of
+[00:41:54] blew my mind so I was like wow okay
+[00:41:58] um and then uh and we had the Advent of
+[00:42:01] lithium ion batteries which really helps
+[00:42:04] helps the it makes you know that that's
+[00:42:07] one of the key things for making
+[00:42:08] electric cars work it's still nothing
+[00:42:10] and so um in 2003 uh actually had lunch
+[00:42:15] with one of the other co-founders of the
+[00:42:16] company JB strael who um was actually
+[00:42:19] working I think on like a hydrogen
+[00:42:22] airplane or something um and um he
+[00:42:26] mentioned to me
+[00:42:27] uh the um t0 car that was done by AC
+[00:42:33] propulsion um AC propulsion I think
+[00:42:35] consist of guys some of who had actually
+[00:42:37] been on the ev1 program and they uh they
+[00:42:40] took an a
+[00:42:42] gasoline sports car kind of a kit car
+[00:42:45] and outfitted it with uh with lithiumion
+[00:42:49] batteries sort of consumer great cells
+[00:42:52] and they
+[00:42:55] um uh created a car which was which is
+[00:42:58] essentially the preaster of the
+[00:43:00] Roadster um
+[00:43:02] and uh and in fact it had very similar
+[00:43:05] specifications um so subz sub4 second 0
+[00:43:09] to 60 milph um 250 mile range and um
+[00:43:14] also two-seater sort of sports car but
+[00:43:16] but it had but it was quite primitive um
+[00:43:18] it didn't have a roof one thing at all
+[00:43:21] um and in fact I don't know if it had
+[00:43:24] doors uh but it didn't have any Safety
+[00:43:27] Systems no airbags it wasn't homologated
+[00:43:29] so you couldn't sell it um so in order
+[00:43:33] to sell that car in order to create a
+[00:43:35] commercial version of the car something
+[00:43:36] that a manufacturer could produce and
+[00:43:38] sell to people there was a fabit of work
+[00:43:41] that was required and uh but anyway I
+[00:43:43] kept trying to get AC propulsion to
+[00:43:46] commercialize the the t0 and I said look
+[00:43:48] I'm going to I'll fund the whole effort
+[00:43:51] can you know you really need to do this
+[00:43:54] um and they they just they just sort of
+[00:43:56] refused to do it
+[00:43:57] um they didn't want to do it they they
+[00:43:59] wanted to make uh I think the what's
+[00:44:03] that uh oh they want to make like an
+[00:44:05] electric
+[00:44:06] Scion um which in principle sounds good
+[00:44:08] except that it would have cost
+[00:44:10] $75,000 and nobody wants to buy $75,000
+[00:44:14] iion um and and uh the technology just
+[00:44:18] was not ready there was just no way to
+[00:44:21] to make um a good value for money
+[00:44:25] proposition um and what was what was it
+[00:44:28] that compelled you to say I have to be
+[00:44:31] CEO here and Lead this company why not
+[00:44:33] say you know I'll help you JB get this
+[00:44:36] get this
+[00:44:36] ruling well I really didn't want to be
+[00:44:39] CEO of two companies uh if I tried super
+[00:44:43] really hard not to be actually uh and um
+[00:44:47] yeah so anyway so AC repulsion finally
+[00:44:50] said Okay I I actually told AC repulsion
+[00:44:53] look if you're not going to do this I'm
+[00:44:55] going to create a company to to do do
+[00:44:57] this um and they said well there's some
+[00:44:59] other guys who are also interested in
+[00:45:00] doing that um and you guys should
+[00:45:03] combine efforts and and and create a
+[00:45:06] company um and that's basically how
+[00:45:09] Tesla uh came together um and uh and
+[00:45:15] then we had like a lot of drama
+[00:45:19] um and uh but but I mean I I had um
+[00:45:23] since I was the you I provided like 95%
+[00:45:26] of the money so I could have been the
+[00:45:28] CEO from day one but I
+[00:45:31] really you know the idea of being CEO of
+[00:45:34] two startups at the same time was
+[00:45:36] not uh appealing and shouldn't be
+[00:45:39] appealing by the way if anyone's
+[00:45:40] thinking that's a good idea it's really
+[00:45:42] terrible idea but then again you know
+[00:45:44] going back to your um trajectory here
+[00:45:47] not only did you take on two you took on
+[00:45:49] three you had a an epiphany at Burning
+[00:45:52] Man I understand and decided you have to
+[00:45:55] watch those epiph burning
+[00:45:57] not necessarily what you should pursue
+[00:46:02] um and you came up with the idea um yeah
+[00:46:06] it's it's uh well um you know solar is
+[00:46:10] kind of part of the whole sustainable
+[00:46:11] energy thing so sustainable energy you
+[00:46:14] have to have sustainable means of of
+[00:46:16] producing and
+[00:46:18] consuming uh energy and so even if you
+[00:46:21] have electric cars you have to have the
+[00:46:23] other side of the equation say how do
+[00:46:25] you produce energy in a sustainable way
+[00:46:27] way um and I think solar is the obvious
+[00:46:31] primary means of sustainable energy
+[00:46:33] generation u in fact the Earth is almost
+[00:46:35] entirely solar power today um the the
+[00:46:38] uh the only reason we're not a frozen
+[00:46:41] ice ball at sort of 3° Calvin is because
+[00:46:44] of the
+[00:46:45] Sun and and the Sun is responsible for
+[00:46:48] all precipitation it's it's responsible
+[00:46:50] for the vast majority of the ecosystem
+[00:46:52] apart from sort of chatres the bottom of
+[00:46:54] the ocean so
+[00:46:58] uh the the there's just a tiny amount of
+[00:47:00] energy that people that people consume
+[00:47:04] to to power civilization it's actually a
+[00:47:06] very tiny amount of energy relative to
+[00:47:08] the amount of energy that the sun sends
+[00:47:10] in our general direction um and so in
+[00:47:13] order to deal with that we couldn't in
+[00:47:16] fact power the entire world with solar
+[00:47:18] power quite easily this is maybe not
+[00:47:20] super obvious to people B so was that
+[00:47:22] the Epiphany you had at Burning Man was
+[00:47:23] it a vision no I knew that long long I
+[00:47:25] knew that in college but what what was
+[00:47:27] the the key Vision that came to you at
+[00:47:30] Burning Man we all want to imagine you
+[00:47:33] there Vision um the uh no it was it was
+[00:47:37] more
+[00:47:39] um the the
+[00:47:43] uh I wouldn't say it was a a particular
+[00:47:47] Epiphany it was more that I was at
+[00:47:48] Burning Man with
+[00:47:50] um with with my cousins or to my cousins
+[00:47:54] uh ly Lyon and Peter Lyon and Peter R uh
+[00:47:57] who are awesome guys and they and and
+[00:47:59] they were sort of trying to think what
+[00:48:01] should they do after their um after
+[00:48:05] their first startup so they did company
+[00:48:07] called everdream which did um large
+[00:48:09] scale management of of computers so if
+[00:48:11] you've got like 60,000 computers it's
+[00:48:13] kind of hard to manage them so they
+[00:48:14] wrote this they create a software that
+[00:48:16] enables people companies to do that um
+[00:48:19] and that company actually got sold to
+[00:48:20] Dell uh um so they were looking for a
+[00:48:23] new Venture and looking for your ideas
+[00:48:26] well I would initially looking for my
+[00:48:27] ideas but I actually was trying to
+[00:48:28] convince them that they should do solo
+[00:48:31] um uh and
+[00:48:33] uh because I just thought I just thought
+[00:48:35] it was an area that needed people like
+[00:48:38] them uh who really good good
+[00:48:40] entrepreneurs
+[00:48:41] so uh and and since I was like somewhat
+[00:48:45] overcommitted I thought to say the least
+[00:48:48] yeah uh I thought well and and I said
+[00:48:50] like look if if you guys will will do a
+[00:48:53] solo company I'll I'll find you you know
+[00:48:55] F all the funding
+[00:48:57] and um you know whatever guidance I can
+[00:49:00] or help I can provide uh i' do that
+[00:49:04] that's and I thought it was really
+[00:49:06] important that there be
+[00:49:08] uh you know good entrepreneurs like them
+[00:49:11] in in Sol solar because just wasn't
+[00:49:14] wasn't doing very well as an industry so
+[00:49:18] um and I thought people were kind of
+[00:49:20] focusing on not the they weren't
+[00:49:23] focusing on the right problem um the
+[00:49:27] everybody sort of thought that the uh
+[00:49:30] the panel was the problem but actually
+[00:49:32] it's it's not it's it's a problem but
+[00:49:35] it's not it's not the it's not the most
+[00:49:37] important problem um the and and the
+[00:49:42] panel is somewhat commoditized at this
+[00:49:43] point so it's you know making standard
+[00:49:46] efficiency solar panels is about as hard
+[00:49:48] as making drywall it's really easy in
+[00:49:50] fact i' say drywall is probably harder
+[00:49:52] um and um but but what what is a thorny
+[00:49:56] problem is trying to figure out how to
+[00:49:58] get um solar on tens of thousands
+[00:50:02] eventually hundreds of thousands of
+[00:50:04] rooftops right the logistics part yeah
+[00:50:07] it's it's kind of like you got to
+[00:50:08] re-roof um millions of buildings right
+[00:50:12] um and and then figure out how the grid
+[00:50:14] interconnects work and then manage all
+[00:50:16] those systems like so if You' got
+[00:50:17] hundreds of thousands or maybe millions
+[00:50:19] of systems eventually you've got to
+[00:50:21] manage all these distributed systems you
+[00:50:23] have this really complex distributed
+[00:50:24] utility effectively um which I think
+[00:50:27] actually plays to two their strengths in
+[00:50:29] creating their price strength in
+[00:50:31] creating uh really scalable software for
+[00:50:34] managing you know hundreds of thousands
+[00:50:36] of computers um in a distributed fashion
+[00:50:39] right um and uh and that's that's kind
+[00:50:42] of what they did and did an awesome job
+[00:50:45] it was just like I basically would show
+[00:50:46] up at the board meetings to hear what's
+[00:50:48] the good news this time you know it's
+[00:50:50] like really you know we had like maybe a
+[00:50:52] couple of bad news board meetings well
+[00:50:55] late 2008 there were some bad news board
+[00:50:57] board meetings but um for the most part
+[00:51:00] apart from a few a few times when the
+[00:51:02] macroeconomic conditions were really
+[00:51:03] terrible um they just did an amazing job
+[00:51:07] with you know almost no help from me so
+[00:51:10] you've been able to leave it in their
+[00:51:11] good hands yeah it's uh they deserve the
+[00:51:15] vast majority of the credit for for the
+[00:51:16] success of that company awesome so I'd
+[00:51:18] like to move on to Innovation and
+[00:51:19] motivation there's been a lot of talk
+[00:51:21] lately about the fact that Innovation is
+[00:51:25] leveling off we're not making the
+[00:51:26] dramatic increases or improvements in
+[00:51:29] Innovation like we did when the plane
+[00:51:31] was invented do you do you agree with
+[00:51:32] that and uh no I don't agree with that I
+[00:51:34] don't think that's true um okay uh I
+[00:51:37] think we've we've seen well and I'm not
+[00:51:40] sure what time period that is exactly
+[00:51:42] but we've seen um huge improvements in
+[00:51:46] um the in the internet and new new
+[00:51:48] things uh I mean in you even in recent
+[00:51:52] years Twitter and Facebook being being
+[00:51:53] pretty huge when people kind of thought
+[00:51:55] the internet was done MH um and uh you
+[00:51:59] know I think there there are some of the
+[00:52:02] things that we're doing like you know
+[00:52:03] electric cars or or a new thing uh and
+[00:52:08] uh uh I I I do think there's there's a
+[00:52:11] pretty significant break through I mean
+[00:52:13] in genomics um we're getting better and
+[00:52:15] better at decoding genomes and and being
+[00:52:18] able to write genetics I think that's
+[00:52:20] going to be a huge huge area I think
+[00:52:22] there's likely to be some breakthroughs
+[00:52:24] in artificial intelligence
+[00:52:27] um and um I suspect we will even see the
+[00:52:31] flying car all right is that is that
+[00:52:33] going to be an El on musk production
+[00:52:36] no you're going to let someone else do
+[00:52:38] that uh yeah I well I think someone else
+[00:52:42] I think someone else is doing that all
+[00:52:44] right okay that's another conversation
+[00:52:47] do you feel uh the government is
+[00:52:49] standing in the way of innovation at
+[00:52:51] all well sometimes um the government I I
+[00:52:54] don't think the government tends to
+[00:52:55] stand the way Innovation but sometimes
+[00:52:57] it can
+[00:52:59] overregulation becomes very difficult um
+[00:53:03] I mean in the the order industry used to
+[00:53:05] be a great hot bed of innovation at the
+[00:53:08] beginning of the 20th century but uh but
+[00:53:12] now there's so many regulations that are
+[00:53:13] intended to protect
+[00:53:15] consumers um I mean the body of
+[00:53:17] regulation for cars could like full you
+[00:53:20] know this room it's just crazy how much
+[00:53:23] uh regulation there is down to like what
+[00:53:25] the T the head lamps are supposed to be
+[00:53:27] like and
+[00:53:29] the they even specify the some of the
+[00:53:32] elements of the user interface on the
+[00:53:34] dashboard which and some of these are
+[00:53:36] completely
+[00:53:37] anachronistic um because they're they're
+[00:53:40] relating back to the days when you had
+[00:53:42] like a little light that would
+[00:53:43] illuminate an image um so like we have
+[00:53:47] to reserve space on the instrument panel
+[00:53:49] the model S for where all of the the
+[00:53:52] indicators like that a car would have
+[00:53:55] you know you got like these little
+[00:53:56] lights like check engine or whatever
+[00:53:59] yeah like all these little little things
+[00:54:00] there's like a whole bunch of them and
+[00:54:02] we can't have anything else in that
+[00:54:03] space like uh well how would it create
+[00:54:06] one space and render a different graphic
+[00:54:08] like oh no because people are expecting
+[00:54:10] to see it in that space like nobody is
+[00:54:11] expecting to see it in that
+[00:54:13] [Music]
+[00:54:14] space yeah so you feel you can't argue
+[00:54:16] with these regulations you just have to
+[00:54:19] well you can argue with them but not
+[00:54:20] with great success
+[00:54:23] uh and and you you can actually get
+[00:54:25] these things changed but it takes ages
+[00:54:27] um like one of the things we're trying
+[00:54:30] to get is like like why should you have
+[00:54:33] side mirrors if you can have say little
+[00:54:36] video cameras tiny video cameras and
+[00:54:38] have them you know display an image
+[00:54:40] inside the
+[00:54:41] car um but there are all these
+[00:54:43] regulations saying you have to have side
+[00:54:45] mirrors and I went and met with the
+[00:54:48] secretary of Transport like can you
+[00:54:50] change this regulation still nothing has
+[00:54:52] happened that was like two years ago um
+[00:54:55] you know so your head against a wall
+[00:54:57] here a little bit it's not easy to get
+[00:54:59] these regulations changed so talking of
+[00:55:00] government uh President Obama is
+[00:55:02] obviously trying to do what he can if
+[00:55:05] you had five minutes with President
+[00:55:07] Obama what would you advise him for one
+[00:55:10] stimulating the economy and an
+[00:55:13] entrepreneurship and creating jobs is
+[00:55:15] there one thing that if he could
+[00:55:17] successfully get through that would be a
+[00:55:20] big stimulus do you
+[00:55:21] think well I think
+[00:55:24] actually um
+[00:55:27] I I think the reality of being president
+[00:55:28] is that you're actually like the captain
+[00:55:31] of a very huge ship and have a small
+[00:55:33] Rudder
+[00:55:35] um because because obviously if I mean
+[00:55:38] if there was a button that a president
+[00:55:39] could push that said economic Prosperity
+[00:55:41] you'd be like they're hitting that
+[00:55:42] button real fast full steam ahead you
+[00:55:44] measure the speed of light by how fast
+[00:55:46] they me they press that button because
+[00:55:48] that would be that's called like the
+[00:55:49] re-election button um so so so I'm not
+[00:55:54] sure how much the president can really
+[00:55:56] do but
+[00:55:58] um but I think I think
+[00:56:01] uh uh you know I'm I'm generally a fan
+[00:56:04] of like minimal government interference
+[00:56:08] in the economy um like the government
+[00:56:10] should be kind of a like the referee but
+[00:56:12] not the player um and there shouldn't be
+[00:56:15] too many
+[00:56:16] referees um but but um there is an
+[00:56:21] exception which is when there's uh an
+[00:56:24] unpriced externality um such as the CO2
+[00:56:28] capacity of the oceans in atmosphere so
+[00:56:30] when you have an unpriced externality
+[00:56:32] then the normal Market mechanisms do not
+[00:56:33] work and then government is government's
+[00:56:36] role to to intervene in a in a way
+[00:56:38] that's sensible um and the best way to
+[00:56:40] intervene is to is to put is to assign a
+[00:56:44] proper price to whatever the the common
+[00:56:47] good is that's being consumed um and
+[00:56:51] then and then so you're saying there
+[00:56:52] should be a tax on gas there should be a
+[00:56:54] tax on carbon you know if if the bad
+[00:56:56] thing is uh carbon accumulation in the
+[00:56:58] atmosphere then then needs to be attacks
+[00:57:00] on on that um and then we can that will
+[00:57:04] and then you get rid of all subsidies
+[00:57:05] and all everything else um and it seems
+[00:57:10] like logical that you should tax things
+[00:57:12] that that are most likely to be bad
+[00:57:14] rather than you know like like that's
+[00:57:16] why we tax cigarettes and alcohol um
+[00:57:19] because those those are probably bad for
+[00:57:20] you um certainly cigarettes are um and
+[00:57:27] um so so uh you so so you want to ER on
+[00:57:31] the side of taxing things that are
+[00:57:32] probably bad and and not tax things that
+[00:57:35] are that are good um and so I
+[00:57:38] think given that there is a need to
+[00:57:42] gather tax for the um you know to pay
+[00:57:45] for the federal government we should
+[00:57:47] shift the tax bur to to bad things and
+[00:57:50] then adjust that that tax of that bad
+[00:57:53] thing according to whatever is going to
+[00:57:55] result in in the behavior that we think
+[00:57:57] is beneficial for the future I mean I I
+[00:58:00] think currently that you know what we're
+[00:58:01] doing right now which is Mining and
+[00:58:03] burning trillions of tons of
+[00:58:04] hydrocarbons that that used to be buried
+[00:58:06] very deep underground and now we're
+[00:58:09] sticking them in the atmosphere and
+[00:58:10] running this crazy chemical experiment
+[00:58:11] on the atmosphere um and then you've got
+[00:58:14] the oil and gas companies which have
+[00:58:16] ungodly amounts of money um and you
+[00:58:19] can't expect them to just roll over and
+[00:58:20] die like they don't do that um so
+[00:58:24] actually what they much prefer to do is
+[00:58:25] spend
+[00:58:27] enormous amounts of money lobbying and
+[00:58:30] running bogus ad campaigns and that kind
+[00:58:32] of thing to preserve their their
+[00:58:34] situation um you know it's a lot it's a
+[00:58:37] lot like uh tobacco companies in the old
+[00:58:39] days I mean they used to run these ads
+[00:58:40] with doctors like well guy with a doctor
+[00:58:42] you know a pretending he's a doctor uh
+[00:58:44] you know essentially implying that
+[00:58:46] smoking is good for you and like having
+[00:58:49] pregnant mothers on ad smoking um do you
+[00:58:52] have a message for the climate change
+[00:58:54] Skeptics and and the the Big Oil people
+[00:59:00] well as far as climate change skeptic I
+[00:59:01] me like I'm you know I like to I believe
+[00:59:04] in the scientific method and one should
+[00:59:05] be one should have a healthy skepticism
+[00:59:07] of things in general and you know as if
+[00:59:11] if you're first things from a scientific
+[00:59:12] standpoint you always look at things
+[00:59:13] probabilistically not definitively and
+[00:59:16] so I think a lot lot of times if
+[00:59:18] somebody's a skeptic in the science
+[00:59:19] Community what they're really saying is
+[00:59:20] that they're not sure that it's 100%
+[00:59:22] certain that that this is the case but
+[00:59:24] that's that's that's not the point the
+[00:59:25] point point is um that is is is is look
+[00:59:29] it from the other side see what what do
+[00:59:31] you think the percentage chance is of of
+[00:59:33] this being catastrophic for some
+[00:59:36] meaningful percentage of the Earth's
+[00:59:38] population um is it greater than 1% is
+[00:59:41] it even 1% um if it is even 1% why are
+[00:59:46] we running this experiment right you
+[00:59:48] called it a Russian Roulette we're
+[00:59:49] playing Russian roulette with the
+[00:59:50] atmosphere we're playing Russian
+[00:59:51] roulette and then and and as each year
+[00:59:53] goes by we're loading more rounds in the
+[00:59:54] chamber
+[00:59:56] it's not it's not wise um so so that's
+[01:00:01] and and and what makes it super insane
+[01:00:03] is that we're going to run out of oil
+[01:00:07] anyway like it's not like there some
+[01:00:09] infinite oil supply we're going to run
+[01:00:11] out of it so we know we have to get to a
+[01:00:13] sustainable means of of of
+[01:00:17] Transportation no matter
+[01:00:19] what so why even run the experiment
+[01:00:22] right it's the world's dumbest
+[01:00:24] experiment right yeah
+[01:00:26] [Applause]
+[01:00:34] so let's move on to focus on Silicon
+[01:00:36] Valley Steve
+[01:00:37] Jobs is was and is a wonderful Silicon
+[01:00:40] Valley icon is he someone that you've
+[01:00:43] admired and what have you learned from
+[01:00:44] Steve's life and
+[01:00:46] work U well he's certainly someone i'
+[01:00:49] I've admired um although I did try to
+[01:00:52] talk to him once at a party and it was
+[01:00:54] super rude to me uh
+[01:00:57] but I don't think it was me I think it
+[01:00:58] was sort of you know po the course I
+[01:01:00] think you weren't the first yeah not the
+[01:01:01] first no it was um but but uh yeah and I
+[01:01:07] was actually there with like Larry Page
+[01:01:08] is an old friend of mine I've known
+[01:01:09] Larry since before he got Venture
+[01:01:10] funding for Google and Larry was the guy
+[01:01:12] that introduced me to Steve jop so it's
+[01:01:13] not as like I'm I'm going like and
+[01:01:15] tugging on his coat like you know please
+[01:01:17] talk to me um but you know so was
+[01:01:20] introduced by Larry pig is not bad so um
+[01:01:23] but uh I mean he obviously he was an
+[01:01:25] incredible guy and made fantastic
+[01:01:26] products uh that that um you know and I
+[01:01:30] know there was like a a certain um the
+[01:01:33] guy had a certain magic about him you
+[01:01:34] know to sort of that was kind of that
+[01:01:36] was really inspiring so I mean I think
+[01:01:39] that's that's really great is there is
+[01:01:40] there that magic that you try and
+[01:01:42] emulate uh no I I think Steve Jobs is
+[01:01:46] way cooler than than I am
+[01:01:49] so oh okay so I'd like to get inside
+[01:01:52] your head a little bit about you know
+[01:01:55] when you come up with an idea do you
+[01:01:57] doodle it you know on a pad of paper or
+[01:02:00] do you get your iPad out and and take
+[01:02:03] notes I mean when you come up with
+[01:02:04] something new you know a new rocket
+[01:02:06] design or whatever it is how does that
+[01:02:09] manifest itself could we see you being
+[01:02:13] creative um I mean it's somewhat cliched
+[01:02:15] but it's it happens a lot in the shower
+[01:02:17] um I don't know what it is about showers
+[01:02:20] or yeah exactly get the
+[01:02:23] camera um
+[01:02:28] like
+[01:02:29] y um no I'm just no I do I just kind of
+[01:02:32] stand there in the shower um so you have
+[01:02:35] long showers I do actually long showers
+[01:02:38] sounds wrong um but yeah I do um and so
+[01:02:45] there's not to mention the Burning Man
+[01:02:47] epiphanies um right that those are those
+[01:02:50] are huge um so yeah I think that's
+[01:02:56] uh yeah and and and then um there there
+[01:02:59] are sometimes like late at night uh if
+[01:03:01] I've been thinking about something then
+[01:03:02] I can't sleep and I'll be up for you
+[01:03:04] know for several hours um thinking about
+[01:03:08] sort of pacing around the house and
+[01:03:10] thinking about things and um
+[01:03:13] occasionally I'll I'll sketch something
+[01:03:14] or send myself an email or something
+[01:03:17] like that right so we have a question
+[01:03:19] from the audience um who inspires you or
+[01:03:23] do you have a mentor
+[01:03:26] um well um I I don't have a mantro per
+[01:03:28] se although I try to I try to get
+[01:03:31] feedback from as many people as possible
+[01:03:33] um and um so I have I have like friends
+[01:03:37] and I ask them to you know what they
+[01:03:39] think of this that that and the other
+[01:03:41] thing and um you know as mentioned you
+[01:03:44] know lar Larry's a good Larry p is a
+[01:03:46] good friend of mine value his advice a
+[01:03:48] lot um and um have many other good
+[01:03:52] friends and uh so so I think it's good
+[01:03:55] to feedback in particularly negative
+[01:03:57] feedback actually because you know
+[01:03:59] obviously people aren't don't love the
+[01:04:01] idea of giving you negative feedback um
+[01:04:02] unless unless it's like some you know on
+[01:04:05] on on blogs they they do that um yeah
+[01:04:08] how do you deal with negative feedback
+[01:04:10] because you got some tough um criticism
+[01:04:13] especially with SpaceX you had
+[01:04:15] incumbents like Neil Armstrong
+[01:04:17] even U speaking out and saying this is
+[01:04:21] wrong we don't want you know commercial
+[01:04:23] companies in space it's not a place for
+[01:04:26] Commerce so how did you deal with that
+[01:04:28] and how do you deal with in general cuz
+[01:04:31] you've had a lot yeah that was kind of
+[01:04:33] troubling uh because uh you know growing
+[01:04:35] up NE is kind of a hero so it's like it
+[01:04:37] kind of sucks to you know back that's a
+[01:04:41] bit of a blow yeah um so yeah but I I
+[01:04:45] think in his case he was somewhat
+[01:04:46] manipulated you know by by other
+[01:04:48] interests so I think he quite knew what
+[01:04:50] he was saying in those in those
+[01:04:52] Congressional hearings so yeah
+[01:04:56] okay and
+[01:04:58] um talk about you know it's one thing to
+[01:05:01] have these wonderful ideas in the shower
+[01:05:03] at Burning Man but there's another thing
+[01:05:05] to build motivate and retain a team of
+[01:05:09] excellent people can you talk about some
+[01:05:12] tips and some things you've learned that
+[01:05:14] obviously work for you yeah um well I
+[01:05:17] mean if you think about a company a
+[01:05:19] company is is a group of people that are
+[01:05:20] organized to create a product or service
+[01:05:23] that's uh that's what a company is so so
+[01:05:25] in order
+[01:05:26] to um create such a thing you have to
+[01:05:29] convince others to join you in in your
+[01:05:32] effort um and and and so they have to be
+[01:05:37] convinced that that that it's a sensible
+[01:05:39] thing that it's like that there's at
+[01:05:40] least some some good some reasonable
+[01:05:42] chance of success uh and if if there is
+[01:05:45] Success that the reward will be
+[01:05:47] commensurate with the effort involved um
+[01:05:51] and uh you know so so I think that's
+[01:05:56] getting people to to believe in what
+[01:05:58] you're doing uh and in in you is is is
+[01:06:02] important
+[01:06:03] um so in in the beginning there will be
+[01:06:07] there will be uh few people who who do
+[01:06:10] who believe in you or what you're doing
+[01:06:13] um and uh but then over time as you make
+[01:06:16] progress the the evidence will build and
+[01:06:19] and more more people will believe in in
+[01:06:20] what you're doing so um I think it's a
+[01:06:23] good idea when creating a company to to
+[01:06:27] um to create it to have a demonstration
+[01:06:29] or you know if it's a product to have
+[01:06:31] like a a good markup or if even if if
+[01:06:34] it's software to have good demo Weare or
+[01:06:37] to be able to sketch something so people
+[01:06:39] can really Envision what it's about um
+[01:06:42] think that that's a try to get to that
+[01:06:44] point as soon as possible and then
+[01:06:46] iterate to make it as as real as
+[01:06:48] possible as fast as possible
+[01:06:51] um yeah I if that makes sense but okay
+[01:06:55] so you're running you're CEO of two
+[01:06:57] companies you're chairman of Solar City
+[01:06:59] talk about time management how on Earth
+[01:07:01] do you do
+[01:07:03] this well do you get any
+[01:07:06] sleep uh sometimes not enough sleep is
+[01:07:09] is really great uh because because if I
+[01:07:12] find if I don't get enough sleep then
+[01:07:13] I'm I'm quite grumpy um I mean obviously
+[01:07:17] I think most people are that way um and
+[01:07:19] and and also um like I try to sort of
+[01:07:22] figure out what's the right amount of
+[01:07:23] sleep because I I found I could have I
+[01:07:27] could drop AOW a certain threshold of
+[01:07:28] sleep and although I'd be awake more
+[01:07:30] hours and I could sustain it I would get
+[01:07:32] less done because
+[01:07:35] um mental acurity would be affected um
+[01:07:39] so I found generally the right number
+[01:07:41] for me is around 6 to six and a half
+[01:07:42] hours on average per night um that's not
+[01:07:46] too bad yeah right and any other tips on
+[01:07:49] average though any other tips on on just
+[01:07:52] managing to run two companies
+[01:07:53] simultaneously I mean do you do you find
+[01:07:56] I mean I know you're up here Monday
+[01:07:57] Tuesday is it all Tesla when you're up
+[01:08:00] in Silicon Valley and all SpaceX
+[01:08:03] Wednesday Thursday it's having a sort of
+[01:08:08] um having a smartphone is incredibly
+[01:08:10] helpful because that means you can do
+[01:08:11] email during um interstitial periods
+[01:08:14] like if you're in a car you're walking
+[01:08:15] in the bathroom everywhere you can do
+[01:08:17] email practically when you're awake um
+[01:08:21] and uh and so that's really helpful to
+[01:08:23] have email for space and Tesla
+[01:08:26] integrated on on my phone um and then
+[01:08:32] uh and then it's just you have to apply
+[01:08:35] a lot of hours to actual working
+[01:08:37] actually working so the way I generally
+[01:08:39] do it is I'll be uh working at
+[01:08:43] SpaceX on Monday and then Monday night
+[01:08:46] fly to the Bay
+[01:08:48] Area uh spent Tuesday and Wednesday at
+[01:08:52] the Bara then at at Tesla and then fly
+[01:08:55] back on Wednesday night it's spend
+[01:08:57] Thursday and Friday at
+[01:08:59] SpaceX um in in in the last several
+[01:09:02] months then I would fly back here on a
+[01:09:04] Saturday um and either spend Saturday
+[01:09:06] and Sunday at
+[01:09:08] Tesla uh or spend Saturday at Tesla and
+[01:09:11] Sunday at
+[01:09:13] SpaceX um and and where do the boys fit
+[01:09:16] in you have five
+[01:09:18] Sons um yeah did they tag along with Dad
+[01:09:21] on some of these trips I do drag them
+[01:09:23] along on a lot of things actually um
+[01:09:25] they're remarkably unimpressed
+[01:09:29] by yeah I wish they would be sort of
+[01:09:31] more interested but I mean they're only
+[01:09:32] the twins are are eight and the triplets
+[01:09:34] are six so maybe they'll get more more
+[01:09:36] interested later but do you see one day
+[01:09:39] grooming one of them or several of them
+[01:09:41] to take over your
+[01:09:43] companies well I I mean I think if if if
+[01:09:46] they're inclined
+[01:09:47] to I mean if they're really interested
+[01:09:49] in working at teslo SpaceX then I you
+[01:09:52] know help them do that um I'm not sure
+[01:09:55] want to necessarily try to insert them
+[01:09:58] into the CEO role at some point you know
+[01:10:01] it's kind of like if if uh if the rest
+[01:10:05] of the team and the board kind of felt
+[01:10:07] that they were the right person then
+[01:10:09] that would be that would be fine but uh
+[01:10:12] I wouldn't want people to feel like I
+[01:10:14] kind of you know installed you know my
+[01:10:18] my kid there um and I don't think that
+[01:10:20] would be good for either the companies
+[01:10:22] or the kid really um uh
+[01:10:26] but but I have I I I was actually at one
+[01:10:29] point over school thought that um you
+[01:10:32] know it's best to give away kind of like
+[01:10:34] 99% or more of one's assets um kind of
+[01:10:38] like the buffet school ofth and um I'm
+[01:10:41] still mostly of that incline in that
+[01:10:43] direction but after seeing what happened
+[01:10:46] with Ford and GM and Chrysler where GM
+[01:10:49] and chryler went went bankrupt but Ford
+[01:10:51] did not and and Ford seemed to make
+[01:10:54] better long-term choices than than the
+[01:10:56] other two companies and that's in part
+[01:10:58] because of the influence of the Ford
+[01:11:00] family um and I thought well okay there
+[01:11:02] may be some Merit in having some longer
+[01:11:06] term family ownership at least at least
+[01:11:08] a portion of it so it's it acts as a
+[01:11:10] positive influence
+[01:11:12] uh this is still something I'm think
+[01:11:14] about but acting as a positive influence
+[01:11:16] in in the long term so the company kind
+[01:11:18] of does do proper long-term things um
+[01:11:22] and like I'm you know if look at what
+[01:11:25] happened also in in silic Valley with
+[01:11:27] with HP I I think it's quite quite quite
+[01:11:29] sad um and um and that that that to some
+[01:11:34] degree is because there was um much
+[01:11:38] diminished uh influence by the the the
+[01:11:42] huet and Packard families right
+[01:11:45] um I think they should have prevailed in
+[01:11:47] in in their you know where they were
+[01:11:49] opposed to the the merger that took
+[01:11:51] place at one point and I think they were
+[01:11:54] right actually right and keeping and
+[01:11:56] looking to the Future for SpaceX is
+[01:11:59] there an IPO plan for this year no
+[01:12:01] there's no IPO plan no um let say
+[01:12:05] running a public company does does have
+[01:12:08] its drawback um so you're not in a hurry
+[01:12:13] no okay um I mean in the case of Tesla
+[01:12:17] and
+[01:12:18] SpaceX uh we we had to raise Capital um
+[01:12:22] and and we had kind of a complex Equity
+[01:12:24] structure that needed to be resolved by
+[01:12:26] by going public um and um and so so I
+[01:12:31] thought we we kind of needed to do that
+[01:12:33] in those two cases we don't have to do
+[01:12:35] that in SpaceX I think think there's a
+[01:12:38] good chance we will at some point in the
+[01:12:39] future but but spacex's objectives are
+[01:12:43] are super longterm and and the market is
+[01:12:46] is not so I'm a bit worried that if we
+[01:12:48] did go public certainly if we're in
+[01:12:50] public too soon that it the that market
+[01:12:53] pressure would would force us to do uh
+[01:12:57] short-term things and abandon kind of
+[01:12:59] long-term projects like going to Mars
+[01:13:01] right going to Mars very longterm yes
+[01:13:03] that's an important one so you do have
+[01:13:05] other projects on the back burner you've
+[01:13:07] talked about the
+[01:13:08] hyperloop uh a way of getting people
+[01:13:11] from downtown LA to downtown San
+[01:13:13] Francisco in under half an hour an
+[01:13:15] electric supersonic airplane yeah which
+[01:13:18] of those two are bubbling up that we
+[01:13:20] might hear more about in the near future
+[01:13:23] well I I did promise that
+[01:13:25] I'd um do some paper on on the hyperloop
+[01:13:29] idea um and uh things got a little a
+[01:13:33] little hectic towards the end of last
+[01:13:35] year uh because had I had these had
+[01:13:38] committed to to make these milestones at
+[01:13:40] Tesla to to the public markets and um I
+[01:13:44] had to stay true to that obligation um
+[01:13:47] which required just a just an insane
+[01:13:49] level of work and attention um and uh
+[01:13:53] and then we also had the solar City IPO
+[01:13:56] which was a very difficult IPO to to get
+[01:13:59] done I mean that IPO occurred just by
+[01:14:01] the skin of its teeth I mean that was so
+[01:14:04] so such a tough one were you just
+[01:14:06] determined it had to be in
+[01:14:08] December well um if it wasn't in
+[01:14:12] December it would mean pushing it out
+[01:14:14] you know quite a bit
+[01:14:17] um and uh and the problem is that we'
+[01:14:20] already pushed it out quite a bit so if
+[01:14:21] we didn't go public we'd have to do a
+[01:14:23] private round and then
+[01:14:26] um and it just the whole thing wouldn't
+[01:14:28] feel right you know it's like you're
+[01:14:30] sitting at the it's like you're you're
+[01:14:32] you know at the at the altar and you
+[01:14:35] don't do the do the wedding it's like
+[01:14:37] what a bit awkward you know um to say
+[01:14:40] the least yeah uh so so we really need
+[01:14:43] we really needed to do it um and and uh
+[01:14:47] and I think if we hadn't done it people
+[01:14:48] would have looked at it as a failure and
+[01:14:50] it wouldn't have been good um because
+[01:14:52] there's just been too many failures in
+[01:14:54] the Solar or too many not enough success
+[01:14:56] let's say in the Solar Arena they needed
+[01:14:58] to be sort of we need to choke up the
+[01:15:00] success in the it's a rare piece of
+[01:15:02] sunshine for the solar year ironically
+[01:15:05] for a solar industry does not have a lot
+[01:15:06] of that yes so it's time unfortunately
+[01:15:09] for the last question you come a long
+[01:15:11] way since you were that six-year-old
+[01:15:13] little boy breaking the rules um you
+[01:15:16] turned 42 this year right what is on the
+[01:15:20] cards where do you where do you see
+[01:15:22] yourself in 10 years time 20 years time
+[01:15:25] 40 years time because you famously said
+[01:15:27] you want to die on Mars just not on
+[01:15:30] impact
+[01:15:33] right exactly tell us about that
+[01:15:36] dream
+[01:15:38] um yeah well actually was asked by
+[01:15:41] journalist do you want to die on Maus
+[01:15:43] and I said yes and I was like but wait
+[01:15:44] not not impact just to be
+[01:15:47] clear that's one of the possibilities
+[01:15:51] um so um yeah so I
+[01:15:55] uh I guess
+[01:15:57] um I I mean I'd like to be able to go to
+[01:16:00] Mars while I'm still able to manage the
+[01:16:04] journey reasonably well so I think like
+[01:16:06] I don't want to be like 75 and go to
+[01:16:08] Mars you don't want to take your Zimmer
+[01:16:09] frame with you right U you know it it it
+[01:16:13] could be at least in the beginning could
+[01:16:14] be you know mildly uous so um wanted to
+[01:16:20] I'd like to I'd like to get
+[01:16:21] there um I don't know I mean ideally in
+[01:16:24] my 50s that would be that would be kind
+[01:16:26] of cool so you see that happening in the
+[01:16:29] next well I mean I I aspire to make that
+[01:16:31] happen and I I can see the potential for
+[01:16:34] that happening um and
+[01:16:37] um I'm not saying it will happen but I I
+[01:16:41] I I I think it can happen um I'll try to
+[01:16:45] make it happen great ladies and
+[01:16:47] gentlemen Elon
+[01:16:49] Musk thank you very

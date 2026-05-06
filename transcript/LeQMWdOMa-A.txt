@@ -1,0 +1,1307 @@
+[00:00:00] thank you and good
+[00:00:02] afternoon so we have a lot to cover Elon
+[00:00:04] does a lot of things um there is at the
+[00:00:08] moment one of his spaceships docked to
+[00:00:10] this the space station uh the dragon
+[00:00:13] spaceship this is the third time uh that
+[00:00:15] it's been docked second commercial one
+[00:00:16] it was launched last week many of you
+[00:00:19] may have followed the launch but there
+[00:00:20] was drama you know there were solar
+[00:00:21] panels and all this kind of stuff we
+[00:00:23] could follow it on your Twitter feed
+[00:00:24] yeah Rock drama what's it can you just
+[00:00:27] tell us what it's like to be Elon Musk
+[00:00:30] in the control room during a launch when
+[00:00:32] something happens when there's an
+[00:00:34] issue uh well it's I mean it's extremely
+[00:00:38] nerve-wracking I mean it's the thing
+[00:00:40] about rocket launch is that all of your
+[00:00:42] work is distilled into these few minutes
+[00:00:44] particularly the the first several
+[00:00:46] seconds around uh the the liftoff
+[00:00:49] because the worst thing that could
+[00:00:50] happen with a rocket in touch word is uh
+[00:00:54] if if if if you have an engine failure
+[00:00:56] or some some huge failure right above
+[00:00:58] the Launchpad and the whole thing can
+[00:01:00] come down with about a million pounds of
+[00:01:02] TNT equivalent and destroy the whole
+[00:01:05] Launchpad that would be that that's
+[00:01:07] what's going through my mind if case
+[00:01:08] you're
+[00:01:09] wondering that's actually what I'm
+[00:01:11] thinking about [ __ ] um
+[00:01:14] so when it clears the lightning towers
+[00:01:17] and it's gotten further enough away from
+[00:01:20] uh not actually destroying the Launchpad
+[00:01:22] then uh then it's that's one sort of go
+[00:01:26] down a notch on on
+[00:01:28] um you know know uh the fear and anxiety
+[00:01:32] and then after first stage separation
+[00:01:37] that's another one when the second stage
+[00:01:39] lights up so it's sort of you going down
+[00:01:42] um in intensity as the rocket is going
+[00:01:46] up uh and the the thing is that the
+[00:01:50] first three rocket launchers that we had
+[00:01:52] failed okay and then the first one
+[00:01:54] failed quite close to the Launchpad
+[00:01:57] almost destroyed launch pad in fact I SP
+[00:02:00] that day picking up rocket pieces off
+[00:02:01] the reef uh which is which sucks so I
+[00:02:04] think like there's a pretty powerfully
+[00:02:07] ingrained fear response um as a result
+[00:02:10] of that because three in a row just you
+[00:02:12] know and uh the the image of those
+[00:02:15] rocket failures kind of going through my
+[00:02:16] mind as I'm seeing the rocket launch so
+[00:02:19] that's what's going on and then in this
+[00:02:21] case um you made it through the the
+[00:02:23] stage separation but then there was an
+[00:02:24] issue with the solar cells um tell me a
+[00:02:26] little bit how you sort of spotted the
+[00:02:27] problem diagnosed it what does the team
+[00:02:29] do I mean you got there in the end but
+[00:02:31] um how's it work yeah so uh the solar
+[00:02:34] panels were actually okay but uh and the
+[00:02:37] rocket launch went went really well so
+[00:02:39] that was not a problem uh where things
+[00:02:43] kind of went AR right was after
+[00:02:45] spacecraft
+[00:02:46] separation we try to initialize the four
+[00:02:49] threr pods so there there four threr
+[00:02:51] pods with a combined total of 18 engines
+[00:02:54] and uh the system is designed with a
+[00:02:57] huge amount of redundancy so it can take
+[00:02:58] all sorts of failures and still complete
+[00:03:00] its Mission that's that's the whole way
+[00:03:02] it's been made um in fact it can it can
+[00:03:06] work with even if it has only two of the
+[00:03:07] four Thruster pods working you know they
+[00:03:10] can still do a mission um so three
+[00:03:13] weren't working wow um and uh that which
+[00:03:19] was a huge puzzle like why are three not
+[00:03:21] working because these things are cross
+[00:03:23] strapped so you'd kind of think that
+[00:03:25] either maybe one wouldn't work or a
+[00:03:28] cross strap pair wouldn't work but not
+[00:03:30] three it was really really strange so
+[00:03:35] um so so we had the spacecraft just
+[00:03:37] going through kind of free drift in
+[00:03:39] space like we're just
+[00:03:41] tumbling um and and which makes also
+[00:03:45] difficult to to communicate with because
+[00:03:46] the antennas are like pointing you know
+[00:03:48] every which way you can imagine so we
+[00:03:50] had all we had was was a a very slight 2
+[00:03:55] kilobit uh occasional two 2 kilobit Link
+[00:03:59] that would go in and out um and and that
+[00:04:02] was an omnidirectional signal beaming
+[00:04:03] off the NASA tedra satellite system um
+[00:04:07] so in order to actually improve the the
+[00:04:10] we first had to improve the bandwidth so
+[00:04:12] we we actually asked the Air Force if we
+[00:04:14] could have some of their longrange Camry
+[00:04:17] scanners can can would they give us
+[00:04:19] access and we have this um communication
+[00:04:22] system that we call the mega proxy so we
+[00:04:24] had to uh recode the mega proxy to go
+[00:04:27] through the air force longrange dishes
+[00:04:29] to to blast the the spacecraft with
+[00:04:31] enough intensity to be able to upload
+[00:04:34] new code uh to try to fix the
+[00:04:38] problem and uh so so we wrote some new
+[00:04:40] some new software to um essentially
+[00:04:44] pressure slam the uh two of the three
+[00:04:49] oxidizer tanks that were um refusing to
+[00:04:53] pressurize um and it turned out I think
+[00:04:56] we've figured out the problem which is
+[00:04:57] that there's a there was a slight change
+[00:05:00] made to a check valve that was in three
+[00:05:02] of the tanks and on the other and we're
+[00:05:05] able to replicate that problem in the
+[00:05:06] ground
+[00:05:07] later um and and we're able to to to
+[00:05:10] basically have the have the system build
+[00:05:13] up pressure Upstream then release that
+[00:05:16] pressure and slam the
+[00:05:18] valve um so we're trying to give it the
+[00:05:20] sort of the spacecraft equivalent of the
+[00:05:21] heck maneuver
+[00:05:23] basically um and and then we got one of
+[00:05:27] the pods to that looked like it was
+[00:05:30] making progress and uh we we didn't want
+[00:05:33] to unfill the solar panels until we had
+[00:05:35] at least two pods active so we could we
+[00:05:38] could go from sort of drifting to to an
+[00:05:40] active hold uh but then the the the
+[00:05:43] temperatures of the solar panels which
+[00:05:45] are in these protective covers was
+[00:05:47] dropping uh and it can drop to like
+[00:05:50] almost absolute zero if it's pointing in
+[00:05:52] at dark space uh so uh so it was
+[00:05:56] dropping dropping dropping and we're
+[00:05:58] like okay [ __ ] we better release the
+[00:06:00] solar panels um otherwise they could
+[00:06:01] literally freeze in
+[00:06:03] place um and so we ran a simulation to
+[00:06:06] see what what would what would happen um
+[00:06:09] and it's actually slightly beneficial
+[00:06:10] and it's kind of like when a skater you
+[00:06:12] know when a skater uh puts her arms out
+[00:06:15] um it slows down pull them in it speeds
+[00:06:17] up so when actually when the the arms
+[00:06:20] went out when the solar pan arrays went
+[00:06:21] out it slowed down the rate of rotation
+[00:06:24] actually slightly helped us with um
+[00:06:26] maintaining communication with the
+[00:06:28] spacecraft and
+[00:06:30] um so then we're able to uh with with
+[00:06:35] that precious lamp thing get get get a
+[00:06:37] part uh active then then then a third
+[00:06:40] one and then a fourth one then we got
+[00:06:41] all four working and we're able to
+[00:06:45] continue the mission duck with the space
+[00:06:47] station in fact dragon is currently
+[00:06:48] ducked with the space station right now
+[00:06:51] and um if if all goes well we'll return
+[00:06:53] uh to Earth in about a week or two that
+[00:06:56] sounds
+[00:06:58] terrifying yeah
+[00:07:03] wow that was that was
+[00:07:07] Hardcore I don't want to go through that
+[00:07:10] again okay um you are not just here in
+[00:07:14] in in Austin for South by Southwest but
+[00:07:16] also to meet with the Texas legislature
+[00:07:18] to talk about possibly a launch base
+[00:07:21] here in Texas tell us more about that um
+[00:07:25] yeah so right now we've got uh two main
+[00:07:27] launch locations one is Cape Canaveral
+[00:07:31] in Florida and the other is uh venberg
+[00:07:33] Air Force Base in California um and so
+[00:07:37] they cap naral is good for kind of
+[00:07:39] Eastward launches uh vanderberg for
+[00:07:42] southernly launches and we figure we
+[00:07:44] need a a third launch site that's kind
+[00:07:46] of a commercial launch site you know
+[00:07:48] it's not um because cape nille and vur
+[00:07:50] got Air Force baces um which is cool and
+[00:07:53] it's obviously there's an important need
+[00:07:55] for air force space launch bases as
+[00:07:58] there is for Air Force uh airports um
+[00:08:01] but then there's also a need for
+[00:08:03] commercial airports and just like you
+[00:08:05] wouldn't expect commercial airliners to
+[00:08:07] land um at an Air Force Base in a normal
+[00:08:10] course of events um it makes sense to
+[00:08:12] have a commercial space port um
+[00:08:16] and we need to be able to launch
+[00:08:18] Eastward um and we want to be close to
+[00:08:20] the equator um so that basically means
+[00:08:24] uh the potential states are Virginia
+[00:08:27] through Texas um going you're going
+[00:08:30] south um Hawaii and Puerto Rico because
+[00:08:33] the other things we need to stay on on
+[00:08:35] US Territory because um rocket
+[00:08:40] technology like we're doing is
+[00:08:41] considered an advanced weapons
+[00:08:42] technology so it's very difficult to uh
+[00:08:45] export that if you will to other
+[00:08:46] countries um and uh anyway so those are
+[00:08:50] our options right right now Texas is
+[00:08:53] arguably the leading candidate um but uh
+[00:08:56] we need certain legislation passed
+[00:08:58] that's supportive of space launch um I
+[00:09:00] don't think it's particularly
+[00:09:02] controversial um but one of the things
+[00:09:04] we need for example is we need to be
+[00:09:05] able to close the beach when we're doing
+[00:09:06] a launch and Texas has the open beaches
+[00:09:09] act it's like okay you know we we we
+[00:09:12] can't launch if there's someone right
+[00:09:14] right next to the rocket you know on the
+[00:09:15] beach
+[00:09:17] um so that's I don't like I said I don't
+[00:09:20] think it's a particularly uh
+[00:09:22] controversial thing it's pretty
+[00:09:24] straightforward um and and then and then
+[00:09:26] we we we kind of need a littleit of
+[00:09:27] protection for kind of the the one in
+[00:09:30] 10,000 person case who who complains
+[00:09:32] about the thing like we had this dude
+[00:09:34] who filed a lawsuit against us for our
+[00:09:37] rocket development site in in Central
+[00:09:39] Texas near Waco he's like not even in
+[00:09:41] the same county um he's in a neighboring
+[00:09:44] County and he like also thinks like the
+[00:09:46] ca is listening to his brain waves um so
+[00:09:49] we need like just a little bit of
+[00:09:51] protection for for people like that so
+[00:09:52] we're not like spending a ton of time in
+[00:09:54] court um so that's basically what we're
+[00:09:56] asking for it's nothing nothing major um
+[00:09:59] and uh I I think it's likely to to move
+[00:10:03] forward so I think you know if if things
+[00:10:05] go as expected there's this it's likely
+[00:10:07] that we'll have a l site in Texas which
+[00:10:09] I think be really cool around
+[00:10:11] when
+[00:10:14] um
+[00:10:16] so it depends on how the environmental
+[00:10:18] approvals go and all that but I think um
+[00:10:21] I think we if if things go well I mean
+[00:10:23] not all not all of it's in our hands so
+[00:10:25] but assuming that things go as expected
+[00:10:28] you know there'd be a decision this year
+[00:10:30] and then we start construction next year
+[00:10:32] and then and probably the first launches
+[00:10:34] would take place in uh from there in 2
+[00:10:36] to three years terrific yeah um so um
+[00:10:40] Falcon 9 or the the rocket that launched
+[00:10:42] dragon is a traditional rocket which is
+[00:10:44] to say it's disposable bits but you're
+[00:10:46] essentially you're ultimately focused on
+[00:10:48] reusable rockets and grasshopper is the
+[00:10:51] name of that can you talk a little bit
+[00:10:53] about what's why reusable what's
+[00:10:56] different about reusable and I think you
+[00:10:57] probably have some things to show as
+[00:10:58] well
+[00:10:59] yeah absolutely so reusability is
+[00:11:02] extremely important um if you think it's
+[00:11:05] important that Humanity extend beyond
+[00:11:07] Earth um and become multiplet species
+[00:11:09] and all that um and I mean it's super
+[00:11:12] important I thought I think it's also
+[00:11:14] incredibly obvious common sense like you
+[00:11:16] can imagine watching like Star Trek and
+[00:11:18] then they they got a new starship after
+[00:11:20] every every trip that would be pretty
+[00:11:22] silly
+[00:11:23] um and and and every uh motor transport
+[00:11:27] that we're used to like cars Planes
+[00:11:29] Trains automobiles horses bikes they're
+[00:11:32] all reusable um and but but not rockets
+[00:11:36] and if if we can't make rockets reusable
+[00:11:39] the cost is just
+[00:11:40] prohibitive the the uh like the cost of
+[00:11:43] the fuel and oxygen on a
+[00:11:45] falcon9 is 0.3% of the cost of the
+[00:11:48] rocket wow so it's basically it's a very
+[00:11:51] tiny number it's it's very similar to uh
+[00:11:54] to an airplane so it's how much does it
+[00:11:56] cost to fuel up an airplane um and how
+[00:11:58] much the cost of buy an airplane they're
+[00:12:00] very different things so if if we're if
+[00:12:03] humanity is ever to expand beyond Earth
+[00:12:06] and establish a self-sustaining base on
+[00:12:08] another planet it's critical that we
+[00:12:10] solve this problem whether it's SpaceX
+[00:12:11] or someone else someone has to solve the
+[00:12:13] problem um and we can have a 100-fold
+[00:12:16] reduction in the cost of space
+[00:12:18] flight um so so that's what SpaceX has
+[00:12:22] been trying to do um and really that's
+[00:12:25] been the goal since the beginning of the
+[00:12:26] company so so far I've not been very
+[00:12:28] successful
+[00:12:30] uh in that in that regard so but I I
+[00:12:33] think we kind of have a handle on it I
+[00:12:34] think I think we've got a we've got a
+[00:12:37] design that in the simulations in and in
+[00:12:40] CAD and so forth it it it closes like it
+[00:12:43] should work if we can build that thing
+[00:12:46] it should work and uh in fact it may be
+[00:12:50] worth just rolling the reusability
+[00:12:52] videoos so people have a sense of what
+[00:12:53] I'm talking about I don't know where
+[00:12:54] that plays
+[00:12:56] but behind us in front of us
+[00:13:03] can people in the audience see
+[00:13:05] that oh there we go
+[00:13:10] right all right so what you're seeing
+[00:13:13] here is that the the first stage after
+[00:13:16] stage separation the first stage turns
+[00:13:17] around boosts back to the Launchpad um
+[00:13:20] and then lands propulsively with landing
+[00:13:22] gear it's kind of how rocket should land
+[00:13:34] that's that's the upper stage this is
+[00:13:36] the this is the quick version of the
+[00:13:38] video
+[00:13:42] obviously and then you seeing Dragon
+[00:13:44] version two so Dragon version 2 will
+[00:13:46] land on thrusters with landing gear with
+[00:13:49] the as accurately as a helicopter so it
+[00:13:51] can land anywhere on Earth as with with
+[00:13:53] the accuracy of a helicopter one last
+[00:13:55] question about space before we turn to
+[00:13:57] to cars um
+[00:14:00] you've talked before about how you
+[00:14:02] decideed to get into this you were you
+[00:14:03] founded you co-founded PayPal um you
+[00:14:07] don't really I mean you have a Physics
+[00:14:08] degree you know something about about
+[00:14:10] you know the underlying mechanics but
+[00:14:11] you didn't have any space experience
+[00:14:13] right you decided I think on a train to
+[00:14:16] go to Mars and decided that you could
+[00:14:19] out compete NASA or that you could get
+[00:14:21] to Mars you could get to space faster
+[00:14:23] cheaper better than the one of the
+[00:14:25] largest well the largest space agency in
+[00:14:27] the world
+[00:14:29] how did you get that
+[00:14:31] confidence uh
+[00:14:33] so
+[00:14:35] um well I think first of all I should
+[00:14:37] say maybe give some of a preface to um
+[00:14:41] what happened before starting
+[00:14:43] SpaceX um in
+[00:14:45] fact the way I sort of got into space
+[00:14:49] was um to do I I was really disappointed
+[00:14:53] that we had not sent anyone to M that we
+[00:14:55] had not progressed Beyond Apollo um and
+[00:14:58] I kept waiting for when we would and it
+[00:15:01] just didn't happen uh year after
+[00:15:03] year and and so a friend of mine asked
+[00:15:06] me about what I wanted to do after
+[00:15:08] PayPal and I said well you know I was
+[00:15:09] always curious about space but I didn't
+[00:15:11] think about that there was anything I
+[00:15:12] could do do in space and and I went to
+[00:15:16] the NASA website to just see when are we
+[00:15:18] going to Mars and I couldn't find find
+[00:15:19] that out
+[00:15:23] uh I thought maybe I it was there but I
+[00:15:25] well hidden or something but um
+[00:15:30] so so then I thought well perhaps this
+[00:15:32] is a question of of will is there
+[00:15:35] sufficient will to do this and and the
+[00:15:39] first idea I came up with was actually
+[00:15:41] to do a philanthropic mission to send a
+[00:15:44] small Greenhouse to the surface of Mars
+[00:15:46] with seeds in dehydrated gel that would
+[00:15:48] hydrate upon landing and you'd have this
+[00:15:50] cool Greenhouse with these green plants
+[00:15:52] on a red background that would be the
+[00:15:53] money shot um and and and then uh you
+[00:15:58] know people like precedents and
+[00:16:00] superlatives so it would be the first PL
+[00:16:02] first life on another planet furthest
+[00:16:04] the life's ever traveled and uh and that
+[00:16:07] would get people excited and you also
+[00:16:09] learn about a lot about what it to
+[00:16:10] support Earth PLS Earth plants in a
+[00:16:12] greenhouse on Mars um the the whole
+[00:16:16] purpose of that was to get people
+[00:16:19] excited about sending people to Mars and
+[00:16:21] increase NASA's
+[00:16:23] budget so that was my whole goal I was
+[00:16:25] going to basically torch yeah
+[00:16:31] it it was not had nothing to do with
+[00:16:33] competing with NASA in fact my goal was
+[00:16:35] to increase their
+[00:16:36] budget um and uh and and I should say
+[00:16:39] that today NASA is our biggest customer
+[00:16:44] um I mean um we've got almost 50
+[00:16:48] launches and uh about a quarter of those
+[00:16:51] are finesse that but 34 34 commercial
+[00:16:55] but one quarter NASA um and NASA's been
+[00:16:59] incredibly supportive and helpful and we
+[00:17:01] wouldn't be where we are today without
+[00:17:02] without the help of NASA so it's not
+[00:17:04] it's really got nothing to do with
+[00:17:05] competing with NASA it's really just
+[00:17:06] about what do we need to do to have an
+[00:17:08] exciting inspiring future in space that
+[00:17:11] that's that's what I think really
+[00:17:12] matters but at the end of the day you
+[00:17:14] didn't end up raising the fun the money
+[00:17:16] to pay NASA to do the mission you end up
+[00:17:18] doing building your own company and and
+[00:17:21] ideally to do it cheaper than
+[00:17:22] government's
+[00:17:23] good yeah um the I so I was able to to
+[00:17:29] figure out how to get the cost of the
+[00:17:31] spacecraft and the greenhouse and the
+[00:17:33] communication system way less than it
+[00:17:36] normally would cost for such a thing I
+[00:17:38] got stuck on the rocket um and I went to
+[00:17:41] to Russia three times to try to buy a
+[00:17:45] couple of their biggest
+[00:17:49] icbms
+[00:17:51] um this is about this is in 2001 late
+[00:17:54] 2001 and
+[00:17:55] 2002 um there was definitely in
+[00:17:59] interesting experience
+[00:18:01] uh and uh I I sort of got the feeling I
+[00:18:04] could have bought the nuke too
+[00:18:06] but don't want to go there
+[00:18:11] um and then when I when I got back on
+[00:18:13] from the third trip to Russia
+[00:18:16] um that that's when I thought okay look
+[00:18:19] uh even if we
+[00:18:21] do even if we buy these these icbms from
+[00:18:25] Russia um I I I I I thought it I thought
+[00:18:31] my initial supposition was wrong um and
+[00:18:35] so what what I thought really was that
+[00:18:37] we'd lost the world to explore that we'd
+[00:18:39] lost the world to push the the boundary
+[00:18:41] and and and in retrospect that was
+[00:18:43] actually a very foolish error uh because
+[00:18:46] the United States is a nation of
+[00:18:48] explorers United States is a
+[00:18:50] distillation of the human Spirit of
+[00:18:52] exploration it's ludicrous to to to
+[00:18:54] actually in retrospect to have made such
+[00:18:56] an assumption um
+[00:18:59] but people need to believe that it's
+[00:19:01] possible and that it's not going to it's
+[00:19:03] not going to bankrupt them it's not
+[00:19:05] they're not going to have to give up
+[00:19:06] something important like healthcare uh
+[00:19:08] you know it's going to be a cost that
+[00:19:10] isn't going to meaningfully affect their
+[00:19:12] their standard of living and I think the
+[00:19:13] United States would absolutely be super
+[00:19:15] super excited uh about uh sending people
+[00:19:19] to Mars and people I think a lot of
+[00:19:21] people really wish that that would occur
+[00:19:22] anyway so that was um that was what I uh
+[00:19:27] came to the conclusion of and and I
+[00:19:29] thought well if if we don't make a
+[00:19:30] difference in the cost of the rocket of
+[00:19:32] the transport system it's all it doesn't
+[00:19:34] matter um it's it's not like I said it's
+[00:19:37] not a question of will it's a question
+[00:19:38] of way um and so that's when I came back
+[00:19:41] and started the SpaceX but when I
+[00:19:43] started SpaceX there wasn't with the
+[00:19:45] perspective of like oh we'll just you
+[00:19:48] know take over the world and with with
+[00:19:50] awesome Rockets I don't know what the pr
+[00:19:52] gu is doing I was like clueless um I I
+[00:19:55] thought the most likely outcome was that
+[00:19:57] we would fail
+[00:19:59] and and the first three rockets did fail
+[00:20:02] so and you put all your money into it
+[00:20:05] between Tesla SpaceX and Solar City all
+[00:20:08] in
+[00:20:10] yeah that wasn't the plan at the
+[00:20:13] beginning by the
+[00:20:15] way and Peter Tails says we don't think
+[00:20:18] big anymore he must have interesting
+[00:20:20] conversations with him about that uh
+[00:20:23] well you know Peter's been a big
+[00:20:24] supporter actually so he's uh um he
+[00:20:27] invested in in uh SpaceX at at a very
+[00:20:30] important time in 2008 uh before we
+[00:20:34] reached orbit so after our third failure
+[00:20:36] but before our first success so you know
+[00:20:39] big credit to Peter and um Luke NOK and
+[00:20:42] the other guys at Founders spond
+[00:20:43] basically my my my buddies from PayPal
+[00:20:45] my buddies from PayPal saved my butt you
+[00:20:47] know it was really really good
+[00:20:54] so so let's talk about cars um uh
+[00:20:59] many many in the audience May recollect
+[00:21:01] the notorious New York Times review of
+[00:21:04] the model S yes exactly of the model S
+[00:21:08] um earlier this year yeah and your
+[00:21:11] reaction to that review and the times
+[00:21:14] reaction to your reaction and and and
+[00:21:16] the effect on your share price and on
+[00:21:18] orders and all that and without
+[00:21:20] rehashing the review or the facts I'd
+[00:21:24] like you just to postmortem the entire
+[00:21:26] experience wait how do I not do I do
+[00:21:28] postmortem without any facts or
+[00:21:31] anything post postmortem postmortem your
+[00:21:34] reaction okay to the review and what you
+[00:21:37] know put you on the couch and what would
+[00:21:38] you do differently today having seen the
+[00:21:40] way it all played
+[00:21:41] out
+[00:21:46] um well I
+[00:21:49] think
+[00:21:53] um I think there's one thing I didn't do
+[00:21:58] maybe still should which is to to to
+[00:22:01] post the the rebuttal to the rebuttal CU
+[00:22:04] I I withheld that and waited for the
+[00:22:07] public editor I sent that information to
+[00:22:09] the public editor waited for her to do
+[00:22:11] her sort of thing and she came down kind
+[00:22:15] of on the side of Tesla with respect to
+[00:22:17] the fact that the article was an error
+[00:22:20] but but disagreed on the motive on the
+[00:22:23] ethics yes um and um cuz you you impune
+[00:22:28] both facts and ethics I I did yes
+[00:22:33] um and and and I think it was I I think
+[00:22:35] it was I would call it a low- grade uh
+[00:22:37] ethics violation not not like a big one
+[00:22:40] I don't think he thought he was doing
+[00:22:42] anything particularly terrible but I I
+[00:22:44] would call it a low grade low grade
+[00:22:46] violation and not not not of the Jason
+[00:22:48] Blair you know crazy fabrication variety
+[00:22:52] but I I would call it a low grade it was
+[00:22:54] not in good faith if that that that's
+[00:22:57] that's that's an important important
+[00:22:58] Point um and uh and I I probably should
+[00:23:02] have posted that rebuttal to make that
+[00:23:04] clear but I didn't do
+[00:23:06] it that's what I regret so the only
+[00:23:09] change you would make is that the very
+[00:23:11] last bit the rebuttal that you wrote but
+[00:23:14] that has not been published you would
+[00:23:15] get maybe I should you would get out
+[00:23:17] there yeah so you would continue to use
+[00:23:19] the same language in the same way in
+[00:23:21] your I don't think the language was in
+[00:23:22] accurate I really don't
+[00:23:28] you've
+[00:23:33] often you've often said that one of your
+[00:23:35] management techniques one of the secrets
+[00:23:37] of your success is that you listen to NE
+[00:23:38] negative feedback
+[00:23:40] yes was a times forev youw not didn't
+[00:23:43] fall into the category of negative
+[00:23:45] feedback I have no problem with negative
+[00:23:47] feedback I have a problem with nor do I
+[00:23:49] have a problem with critical reviews if
+[00:23:51] I had a problem with critical reviews I
+[00:23:53] would spend all my time battling
+[00:23:55] critical reviews um there have been
+[00:23:57] hundreds of of negative articles
+[00:23:59] hundreds and yet I've only spoken out a
+[00:24:01] few times I I don't have a problem with
+[00:24:04] critical reviews I have a problem with
+[00:24:05] false
+[00:24:07] reviews all right
+[00:24:10] um one of the technologies that you had
+[00:24:13] to um um you know basically develop to
+[00:24:16] near Perfection or at least or at least
+[00:24:18] work on hardest with lithium batteries
+[00:24:21] um for the electric cars or run on
+[00:24:22] lithium batteries safety has always been
+[00:24:24] an issue accidents Etc um recently
+[00:24:27] Boeing had
+[00:24:29] uh fires with their lithium batteries
+[00:24:30] and and the and the Dreamliner is now
+[00:24:32] out of service because of that um you
+[00:24:35] volunteer to help the Boeing Executives
+[00:24:37] I guess diagnose and redesign yeah can
+[00:24:40] you talk a little bit about what they
+[00:24:41] did wrong what you would have done
+[00:24:42] differently and and what do you think
+[00:24:44] that the the future of you know Boeing
+[00:24:46] and others Airline batteries are going
+[00:24:48] to be sure um well first of all on on
+[00:24:51] the Boeing front I mean obviously even
+[00:24:52] though SpaceX and Bo compete on the
+[00:24:54] space side we have no competition on the
+[00:24:56] commercial airliner side um and some of
+[00:24:58] the comments that I made about Boeing
+[00:24:59] have somehow been interpreted as an
+[00:25:01] attack on Boeing when it is in fact not
+[00:25:02] an attack on Boeing um the the only
+[00:25:06] reason I actually uh I mean the main
+[00:25:09] reason I I should say I offered help was
+[00:25:11] that there's a friend of mine Richard
+[00:25:12] Branson who's whose aine is suffering as
+[00:25:15] a result of this lithium ion fire and he
+[00:25:18] he was mentioning that you know he's
+[00:25:19] losing hundreds of millions or his Aline
+[00:25:22] is um as a result of this this problem I
+[00:25:24] said well I think we could probably help
+[00:25:26] and then he so he said oh great well let
+[00:25:27] me connect you with the the chief
+[00:25:29] engineer um of the 787 I said cool we're
+[00:25:32] happy to help so uh you know provided
+[00:25:36] some some advice and hopefully that'll
+[00:25:39] be helpful um and I said we're also
+[00:25:42] happy to actually do the solution if you
+[00:25:44] want um and uh they haven't taken us up
+[00:25:47] on that offer um but we're happy to help
+[00:25:50] either you an advisory capacity or or to
+[00:25:52] do the solution whatever would result in
+[00:25:55] the 787 getting back to flight sooner um
+[00:25:59] we're just trying to be you know
+[00:26:00] productive and helpful so um I mean I
+[00:26:03] think the in the case of the VY uh
+[00:26:07] Boeing doesn't have a ton of In-House
+[00:26:09] battery expertise so they they
+[00:26:11] outsourced the the battery and then you
+[00:26:14] had a whole bunch of kind of nested
+[00:26:16] Outsourcing where they outsourced the
+[00:26:19] battery system and then and then that
+[00:26:21] got outsourced to another company then
+[00:26:24] to another company and then to a whole
+[00:26:25] bunch of other companies and and you're
+[00:26:27] like four layers deep before you
+[00:26:29] actually got to um any hardware um and
+[00:26:33] so that resulted in I think in a kind of
+[00:26:36] a breakdown of communication um I mean
+[00:26:38] from an architectural
+[00:26:39] standpoint the fundamental issue is that
+[00:26:42] the is that I I I think um is that the
+[00:26:46] the cells are too big the battery cells
+[00:26:47] are too big and the gaps between the
+[00:26:50] battery cells are are not big enough um
+[00:26:53] and the problem with a with a big
+[00:26:55] battery cell is that the the thermal
+[00:26:58] path pathway is is in a worst case
+[00:27:00] scenario is very long so you have to say
+[00:27:02] well if there's a hot spot in the
+[00:27:04] battery can it get its heat out yeah and
+[00:27:07] if it's deep in a Cell it can't it can't
+[00:27:08] do that um and it's also hard to
+[00:27:11] thermally condition the cells um the
+[00:27:13] life of the pack will be will be
+[00:27:15] dependent upon on the temperature the
+[00:27:18] average not the average temperature but
+[00:27:20] the worst temperature at any point in
+[00:27:22] any cell so you want to really even that
+[00:27:24] temperature out that's why Tesla is a
+[00:27:26] fan of having lots of small cells yeah
+[00:27:29] um and then actively cooling each cell
+[00:27:31] to keep the temperature even um and make
+[00:27:33] sure that if if if um Hotpot does
+[00:27:36] develop it's a very short pathway to the
+[00:27:38] cooling system and it and it can you
+[00:27:41] know take care of it and you also want
+[00:27:42] to make sure that it's it's I'm getting
+[00:27:44] quite technical here sorry um it's it's
+[00:27:48] um passive propagation proof so so if
+[00:27:51] you even if your active cooling system
+[00:27:53] fails um and you get thermal runway in a
+[00:27:56] cell that thermal Runway event can
+[00:27:58] Cascade into a neighboring cell so and
+[00:28:00] you get the thermal do domino effect
+[00:28:02] right I mean it's not it's not super
+[00:28:04] complicated um so
+[00:28:08] so um you know it just if if if you have
+[00:28:15] big cells you want big gaps and ideally
+[00:28:18] you want you don't want big cells but if
+[00:28:20] you do you want big gaps small cells
+[00:28:21] small
+[00:28:22] gaps yeah I mean so I mean this is this
+[00:28:25] is really important because because um
+[00:28:27] the the whole thing about this new
+[00:28:29] generation of airplanes is that they're
+[00:28:30] light they use composits they use
+[00:28:32] Electronics rather than mechanical
+[00:28:33] systems and so electricity drives the
+[00:28:35] whole thing so basically my
+[00:28:37] understanding is that you need lithium
+[00:28:39] batteries in the sky it just doesn't
+[00:28:40] work any other way and your point is it
+[00:28:42] can be done oh it totally can be done
+[00:28:43] yeah like lithium's getting a bit of a
+[00:28:45] bad name here um lithium is obviously
+[00:28:48] the way to go I mean people have lithium
+[00:28:49] ion batteries in their cell phones and
+[00:28:51] their laptops I mean I don't think
+[00:28:52] anyone's panicking here with the fact
+[00:28:54] that they got a lithium ion battery you
+[00:28:56] know next to a sense a region probably
+[00:28:59] of their body you
+[00:29:02] know got it well so just staying on on
+[00:29:05] on power for one last set of questions
+[00:29:08] before we um well before I return to
+[00:29:10] your life which seems insane um it is
+[00:29:14] insane um you're also a chairman of
+[00:29:17] Solar City which I believe is America's
+[00:29:19] largest solar installer um you know so
+[00:29:23] space Transportation
+[00:29:24] energy just picking off the big ones
+[00:29:27] there um
+[00:29:29] now you know solar got a bad name over
+[00:29:30] the last few years because of the
+[00:29:32] cylinder meltdown Etc but you know my
+[00:29:34] sense that people different are not
+[00:29:35] differentiating between the making of
+[00:29:37] solar cells and the using of solar cells
+[00:29:39] and and the Chinese competition and the
+[00:29:41] glutting of the market on the supply
+[00:29:43] side is what cylinder what got cylinder
+[00:29:45] in trouble they couldn't compete with
+[00:29:46] the fallowing prices but you're a
+[00:29:47] consumer of solar cells right so how do
+[00:29:51] you see you know the Chinese Chinese
+[00:29:54] competition and sort of the glut of
+[00:29:55] solar of of solar cells on the market
+[00:29:57] what's that good view um I mean I think
+[00:29:59] what China is doing in the solar panel
+[00:30:01] arena is awesome because they're
+[00:30:03] lowering the cost of solar power for the
+[00:30:05] world and they have these huge
+[00:30:07] gigafactories that they created out in
+[00:30:09] the in the Chinese desert um and with
+[00:30:12] with a ton of funding from the Chinese
+[00:30:14] government so it's like a giant donation
+[00:30:16] from the tiny Chinese government like
+[00:30:17] thanks that's awesome you know um and uh
+[00:30:21] you know people sort of complain about
+[00:30:23] Sindra but I mean obviously anyone who's
+[00:30:25] been involved in the Venture world knows
+[00:30:27] that you about a thousand there's some
+[00:30:28] companies that die the only reason we
+[00:30:30] know about slender is because became of
+[00:30:31] political football right um and uh I
+[00:30:34] mean there are other solar panel
+[00:30:37] manufacturers that are still doing
+[00:30:38] reasonably well um but but but it is
+[00:30:41] tough when you're competing um I mean I
+[00:30:44] think good rule of thumb was don't is
+[00:30:45] don't compete with China with a
+[00:30:48] commodity product yeah um you know
+[00:30:52] you're really asking for for travel in
+[00:30:54] that in that scenario um and and it's
+[00:30:57] really super easy to make 15% efficient
+[00:31:00] or standard efficiency solar panels it's
+[00:31:02] super easy it's like easier than making
+[00:31:04] freaking drywall at this point um so
+[00:31:07] it's like does anybody think we should
+[00:31:08] be competing with China in drywall
+[00:31:10] manufacturing okay probably not so um so
+[00:31:15] so that's the thing
+[00:31:16] so and and the the the hard part of
+[00:31:20] solar power is not the panel it's it's
+[00:31:22] actually the whole system it's basically
+[00:31:25] designing something that's going to fit
+[00:31:26] on a particular rooftop CU all you have
+[00:31:29] all these heterogeneous rooftops um then
+[00:31:31] you've got to you've got to mount the
+[00:31:33] system you've got to wire it up you got
+[00:31:35] to Connected the inverters connected to
+[00:31:37] the grid you got to do all the
+[00:31:39] permitting I mean it's a bunch of like
+[00:31:40] thorny unglamorous stupid problems but
+[00:31:43] if somebody doesn't optimize them
+[00:31:45] they're still going to cost a ton of
+[00:31:46] money um and and a lot of them are
+[00:31:49] really not they're not fun problems
+[00:31:51] they're not you know exciting problems
+[00:31:53] to to optimize but but but they are the
+[00:31:55] problems that actually matter in the
+[00:31:57] cost of of solar power so it's it's
+[00:31:59] really more like you know like a like a
+[00:32:01] a roofing contractor than it is a
+[00:32:04] Semiconductor Company I mean what what
+[00:32:06] you're doing is you're putting a second
+[00:32:07] roof on a building yeah okay
+[00:32:11] so and you got to do it at scale and
+[00:32:13] then you got to manage all these systems
+[00:32:15] because there's still some I mean even
+[00:32:16] though the after sales service is small
+[00:32:18] when you've got like hundreds of
+[00:32:20] thousands of systems that's still a lot
+[00:32:22] to
+[00:32:23] manage um and and so what Solar City
+[00:32:27] really is is a giant distributed
+[00:32:31] utility um and it's working in
+[00:32:33] partnership with the the house and
+[00:32:36] business um and in competition with the
+[00:32:41] the big sort of Monopoly utility I mean
+[00:32:44] I think it's like literally power to the
+[00:32:46] people okay it's
+[00:32:48] like literally so I think it's really
+[00:32:51] awesome CU utility just never had any
+[00:32:52] competition before yeah um and and now
+[00:32:55] they're like they have to actually think
+[00:32:56] about the cost of power and and figure
+[00:32:58] out better ways to do it and that kind
+[00:33:00] of thing I think it's really great um
+[00:33:01] and and the credit there is really due
+[00:33:03] to lyen and Peter RI co-founders uh I
+[00:33:07] mean I throw in a few ideas every now
+[00:33:08] and then but mostly it's just about
+[00:33:09] showing up at the board meeting to hear
+[00:33:11] the good news it's those guys are just
+[00:33:13] doing such an awesome
+[00:33:15] job so you are CEO and CTO of SpaceX so
+[00:33:20] not just running the company but you're
+[00:33:22] actually Chief technology officer as
+[00:33:23] well you are CEO and chief product
+[00:33:26] designer for Tesla so not just running
+[00:33:28] the company but designing the cars yeah
+[00:33:30] and you're chairman of Solar City
+[00:33:32] right what is your life
+[00:33:35] like it's it's it's very busy
+[00:33:39] uh and uh I'd actually like to take it
+[00:33:41] down just a scooch honestly um because
+[00:33:45] there there all these I mean these these
+[00:33:49] things that the last few years have been
+[00:33:50] really really great um but then there
+[00:33:52] were a number of years that sucked
+[00:33:53] horribly um and uh I'd like to just just
+[00:33:59] not have it be so extreme um uh and like
+[00:34:03] last year was a year of great
+[00:34:04] achievement but honestly I didn't have
+[00:34:06] that much fun it sucked I didn't have
+[00:34:08] that much fun um my newest resolution
+[00:34:11] was to have a little bit more fun this
+[00:34:12] year so hey I'm at South by Southwest
+[00:34:14] you
+[00:34:21] know and you have five children do
+[00:34:24] they're awesome kids are awesome by the
+[00:34:26] way you guys should all have kids
+[00:34:29] kids are
+[00:34:30] great uh how much do you see them I I
+[00:34:33] don't see them enough actually but but I
+[00:34:36] uh uh what what I find is that I'm able
+[00:34:38] to be with them and uh still be on email
+[00:34:42] because I don't need like constant
+[00:34:43] interaction except when we're talking
+[00:34:44] directly so um I find I can be with them
+[00:34:47] and still be you know working at the
+[00:34:50] same time um but wait wait are you
+[00:34:52] saying you can do email while you're
+[00:34:53] with your children yeah absolutely sure
+[00:34:57] um
+[00:34:58] wow I mean not all the time but a lot of
+[00:35:01] the
+[00:35:03] time um that's that's why it's tny to
+[00:35:05] have a phone you can sort of you do
+[00:35:08] email in in interstitial moments um in
+[00:35:10] the absence of that I would not be able
+[00:35:12] to get my job
+[00:35:14] done wow that's uh impressive um we
+[00:35:18] [Music]
+[00:35:20] are I have five children I can't do
+[00:35:22] email while I'm with my children it's
+[00:35:24] not good for the children and it's
+[00:35:25] really not good for the email well I I
+[00:35:27] do have to have a nanny there otherwise
+[00:35:29] they'll kill each
+[00:35:30] other so um yeah um we are going to turn
+[00:35:34] to audience questions at this point um
+[00:35:36] just a reminder that um if you tweet
+[00:35:38] your questions hash askm musk there's a
+[00:35:41] team in the back that will be selecting
+[00:35:44] the um the ones that we haven't already
+[00:35:46] covered and seem interesting and I get
+[00:35:48] them in front maybe you can see them as
+[00:35:50] well so as the first one from David
+[00:35:52] soless um he asked when it comes to
+[00:35:54] researching analyzing entrepreneurial
+[00:35:56] opportunity how do you go about
+[00:35:57] qualifying or
+[00:35:59] legitimizing presumably the idea
+[00:36:02] sure
+[00:36:05] um well um I'm not sure I'm the best
+[00:36:09] guide here because things that I've
+[00:36:11] chosen have not been
+[00:36:15] um op I've not been trying to optimize
+[00:36:17] on a risk adjusted return basis so there
+[00:36:20] are uh like I I would not say that I
+[00:36:23] went to The Rocker business the car
+[00:36:25] business uh or the solar business
+[00:36:27] thinking that it's a it's a great
+[00:36:29] opportunity I just thought that that
+[00:36:32] something needed to be done in in these
+[00:36:35] uh Industries in order to make a
+[00:36:37] difference and that's why I did it so
+[00:36:42] um but but in general I do think it's
+[00:36:45] worth thinking about like what whether
+[00:36:47] what you're doing is going to result in
+[00:36:49] disruptive change or not if it's just
+[00:36:51] incremental it's unlikely to to be
+[00:36:54] something major it it's it's got to be
+[00:36:58] something that's substantially better
+[00:37:01] than than what's gone on
+[00:37:03] before that cues up to our next question
+[00:37:05] really well um this is from uh Craig lre
+[00:37:08] um space Automotive Finance energy
+[00:37:10] you've disrupted major industries what
+[00:37:12] would you do if you had a free Reign
+[00:37:13] Over
+[00:37:16] education
+[00:37:17] um well I I think that the way that we
+[00:37:20] currently do education is is is wrong
+[00:37:22] and and we're when you see something
+[00:37:24] like the KH Academy and so forth I think
+[00:37:26] that's probably going in the right
+[00:37:27] direction Direction I mean generally you
+[00:37:28] want education to be like as close to a
+[00:37:31] video game as possible like a good video
+[00:37:34] game like you do not need to tell your
+[00:37:36] kid to play video games they will play
+[00:37:39] video games on autopilot all day so if
+[00:37:43] you can make it interactive and
+[00:37:45] engaging uh then then you can make
+[00:37:48] education far more compelling and and
+[00:37:50] far easier to do
+[00:37:53] um so I think that's how it should be
+[00:37:56] and it shouldn't be that you've got like
+[00:37:57] these grades where people move in lock
+[00:37:59] step um and so everyone goes through you
+[00:38:03] know goes like normally you will go
+[00:38:05] through English math uh science and so
+[00:38:09] forth from like fifth grade to sixth
+[00:38:10] grade to seventh grade like it's an
+[00:38:12] assembly line U but but people are not
+[00:38:15] objects on an assembly line that's a
+[00:38:17] ridiculous notion um people learn and
+[00:38:20] are interested in different things at
+[00:38:22] different Paces so you really want to um
+[00:38:26] disconnect the whole grade level thing
+[00:38:29] from the the subjects allow people to
+[00:38:31] progress at the fastest Pace that they
+[00:38:33] can or are interested in in each
+[00:38:36] subject um it seems like a really
+[00:38:38] obvious thing um I mean I think like
+[00:38:42] most teaching today is is a lot like
+[00:38:44] fordville where um and it's and as a
+[00:38:48] result just not not that compelling it's
+[00:38:49] like somebody standing up there and
+[00:38:51] lecturing to you and they've done the
+[00:38:52] same lecture several years in a row
+[00:38:54] they're not necessarily all that engaged
+[00:38:55] or or in doing it
+[00:38:58] um and you compare that to say Batman
+[00:39:00] The Dark Knight okay um and then you've
+[00:39:04] got like the world's best special
+[00:39:05] effects You' got the world's best
+[00:39:06] director screenwriter multiple cuts um
+[00:39:10] amazing you know editing and um and and
+[00:39:14] and and and that's amazing but but like
+[00:39:16] imagine if instead you had like the
+[00:39:18] local Town um aspiring actor do uh the a
+[00:39:23] oneperson Play version of that yeah that
+[00:39:27] would not be compelling
+[00:39:28] yeah do do you agree with Peter te about
+[00:39:31] the
+[00:39:58] classmates um because you can always buy
+[00:40:00] the textbooks and just read them like
+[00:40:02] nobody stopping you from doing that or
+[00:40:03] go online or go online um so uh now now
+[00:40:08] for a lot of companies they they they do
+[00:40:11] want to see the completion of the degree
+[00:40:13] because they're looking for um someone
+[00:40:16] who's going to persevere and see it
+[00:40:17] through to the end and and that's
+[00:40:19] actually what what what's important to
+[00:40:21] them so it really depends on on what
+[00:40:23] somebody's goal is if the goal is to
+[00:40:24] start a company I would say no point in
+[00:40:28] finishing uh College um in my case I had
+[00:40:31] to otherwise i' get kicked out of the
+[00:40:32] country yeah um so uh that was important
+[00:40:37] but although you went on and got a
+[00:40:40] master's degree as well right um I I
+[00:40:42] came out silic valy to do a PhD at
+[00:40:44] Stanford and applied physics and
+[00:40:45] Material Science to work on um Ultra
+[00:40:48] capacitors for use in electric cars and
+[00:40:50] that's what I was going to do and then I
+[00:40:52] started put that on hold to start a
+[00:40:54] company but since I already had my under
+[00:40:55] undergrad I could then get H1B visa and
+[00:40:58] that kind of thing so H1B Visa requires
+[00:41:01] uh a degree um but other than that I I
+[00:41:04] would have if what that wasn't the case
+[00:41:06] I probably would have stopped education
+[00:41:08] sooner did you not go to Wharton for
+[00:41:10] yeah yeah they did dual undergrading
+[00:41:11] physics and and business at Wharton I
+[00:41:13] see yeah but it was undergrad not not
+[00:41:15] Masters understood um another question
+[00:41:17] from the audience from Dan Griffith um
+[00:41:20] fill in the blank you will be
+[00:41:21] disappointed if blank does not happen in
+[00:41:23] your
+[00:41:26] lifetime um
+[00:41:29] um well probably the most thing I just
+[00:41:32] pointed out is if if Humanity doesn't
+[00:41:35] land on Mars in my lifetime I'd be
+[00:41:37] really disappointed that would be you
+[00:41:40] know that that would probably be my
+[00:41:41] biggest disappointment um and
+[00:41:45] uh yeah I think I think that's the thing
+[00:41:48] I'm most concerned about because because
+[00:41:49] we're at this obviously that's what
+[00:41:52] SpaceX is working on um so I'm not
+[00:41:54] trying to be self- serving here but it's
+[00:41:55] just I kind of worry that we've hit this
+[00:41:59] if I I don't know whether our technology
+[00:42:02] level will keep going or
+[00:42:05] subside and for the first time in 4 and
+[00:42:08] a half billion years the technology
+[00:42:11] level is at the point where we can
+[00:42:12] extend life to another planet make life
+[00:42:15] multiplanetary and um I I think it's too
+[00:42:18] easy to take for granted that it's going
+[00:42:20] to stay above that level um and if it
+[00:42:22] doesn't and it falls below that will it
+[00:42:26] return who who knows um uh you know the
+[00:42:30] the sun is gradually expanding and in
+[00:42:32] about you know roughly 500 million years
+[00:42:36] maybe a billion years the outside um uh
+[00:42:40] the oceans will boil and and there will
+[00:42:42] be no no meaningful life on Earth I mean
+[00:42:44] it might be like some you know chatres
+[00:42:47] or or ultra high temperature bacteria or
+[00:42:50] something but nothing that can make a
+[00:42:52] spaceship
+[00:42:54] um and and that's like if you think of
+[00:42:58] like maybe it's a 500 million year time
+[00:42:59] frame that's only a 10% increase in the
+[00:43:02] life of lifespan of Earth so if
+[00:43:06] if if um Humanity had taken an extra 10%
+[00:43:10] longer to get here it wouldn't have
+[00:43:12] gotten here at all yeah um and so far we
+[00:43:17] haven't seen any signs of life from
+[00:43:19] other worlds that we we haven't detected
+[00:43:21] anything I hope you know hopefully we do
+[00:43:24] and hopefully it's not a warship coming
+[00:43:25] towards us um
+[00:43:27] uh but uh I I just think that's the
+[00:43:31] thing that really concerns me we we we
+[00:43:33] we need to get this done um and and then
+[00:43:39] that is the best thing we can do to
+[00:43:41] ensure the continued existence of
+[00:43:44] humanity um so that's why I would say
+[00:43:47] that's the most important thing do you
+[00:43:54] personally do you do you personally want
+[00:43:56] to step foot on Mars I I do personally
+[00:43:59] want to step foot on Mars um but
+[00:44:02] honestly I would be doing this even if
+[00:44:03] there was no even if I knew there was no
+[00:44:05] chance of me going to
+[00:44:06] Mars it's
+[00:44:08] because I think like I said I think it's
+[00:44:10] just important that we are on a path to
+[00:44:12] getting there um so um I I would like to
+[00:44:16] go at some point I I'll go if I'm
+[00:44:18] certain that SpaceX will be fine without
+[00:44:20] me um and that that path will continue
+[00:44:23] um cuz that you may have heard me uh
+[00:44:26] some may have heard the joke I've made
+[00:44:28] before which is like you know I I I I
+[00:44:31] would I think be I would like to die on
+[00:44:32] Mars just not on impact you
+[00:44:36] know
+[00:44:38] so another question uh from the um
+[00:44:41] audience so we just we just lost lost
+[00:44:43] that one there was I don't remember um
+[00:44:45] who had asked this question but the
+[00:44:46] question was um uh which um when when
+[00:44:50] which do you think is going to have more
+[00:44:51] impact on the world SpaceX or
+[00:44:55] Tesla well I I think if we look back or
+[00:45:00] if historians if I would look back on
+[00:45:04] the impact of Tesla many years from now
+[00:45:08] I
+[00:45:09] think uh it would be that Tesla
+[00:45:13] hopefully the Tesla Advanced the Advent
+[00:45:16] of
+[00:45:17] sustainable transport by something like
+[00:45:20] a decade maybe maybe two decades um but
+[00:45:25] I do think electric cars are inevitable
+[00:45:27] in fact I think all modes of Transport
+[00:45:29] will go fully electric with the ironic
+[00:45:30] exception of rockets
+[00:45:33] um so that's uh that's what I think and
+[00:45:37] then for for Solar City perhaps
+[00:45:39] something similar on the energy
+[00:45:43] production site sustainable energy
+[00:45:44] production then uh for SpaceX hopefully
+[00:45:48] SpaceX deel develops the technology
+[00:45:49] necessary to transport large numbers of
+[00:45:51] people in Caro to Mars um and um I mean
+[00:45:56] I think that's
+[00:45:58] um you know a bigger impact but rather
+[00:46:02] the what what Solar City and Tesla are
+[00:46:04] about are solving what I think is the
+[00:46:07] most pressing terrestrial concern which
+[00:46:10] is the sustainable production and
+[00:46:11] consumption of energy or helping solve
+[00:46:13] it I mean there's many people solving it
+[00:46:15] um and then what SpaceX is about is
+[00:46:19] helping solve the biggest
+[00:46:20] non-terrestrial problem which is the
+[00:46:22] extension of life beyond Earth so th
+[00:46:25] those are how I see it we have two
+[00:46:27] related questions one that's no longer
+[00:46:29] on the screen but uh and another one
+[00:46:30] that is um the first was what was the
+[00:46:33] best advice you ever got and the second
+[00:46:36] you maybe can join them in your answer
+[00:46:38] is you mentioned working with your
+[00:46:39] friends Peter teal and Richard Branson
+[00:46:41] who influences and inspires you sure
+[00:46:46] um well I I'm inspired by a lot of
+[00:46:50] historical figures like one of my
+[00:46:51] favorite guys is Ben Franklin you know I
+[00:46:54] just think he's you know he's a really
+[00:46:57] guy I mean he was a scientist and he
+[00:46:58] also I mean worked in um obviously
+[00:47:01] publishing and the political sphere but
+[00:47:03] he kind of like he just thought about
+[00:47:05] like what are the what are the problems
+[00:47:06] that need to get solved and and worked
+[00:47:07] on those um and he was just a seemed
+[00:47:09] like a good guy all around um so really
+[00:47:12] I like him and um and I like just the
+[00:47:15] historical figures like in science and
+[00:47:18] um literature and I mean uh F found of
+[00:47:22] Churchill um and uh and obviously like
+[00:47:27] Tesla we named Tesla after Nicola Tesla
+[00:47:30] better than musk Motors you know um and
+[00:47:34] actually haven't named any product or
+[00:47:35] company after myself uh but but that
+[00:47:39] maybe gives a sense of like I think like
+[00:47:41] Tesla is someone who deserves a lot of
+[00:47:43] recognition um and uh sorry what was the
+[00:47:47] well they're all dead any figures um
+[00:47:51] yeah I mean I think um there's a friend
+[00:47:54] of mine uh Like Larry Page I think what
+[00:47:57] Larry's doing uh and Sergey at Google
+[00:48:01] I'm um really admire what they've done
+[00:48:05] um I think uh obviously he's recently
+[00:48:07] dead but Steve Jobs who doesn't admire
+[00:48:09] Steve Jobs um I think Jeff Bezos is
+[00:48:11] doing some some great things and among
+[00:48:14] others competing with you uh yes but
+[00:48:17] that's a good thing in fact every time I
+[00:48:18] see Jeff bezas I say why aren't you
+[00:48:20] doing more in space
+[00:48:24] yeah the other half of the question was
+[00:48:26] the best advice you ever got best advice
+[00:48:28] I ever
+[00:48:29] got
+[00:48:31] um well I I think
+[00:48:35] the uh you know the physics training is
+[00:48:39] a very good Training where uh it's a
+[00:48:42] good framework for reasoning where
+[00:48:44] you're trained to think about first
+[00:48:46] principles and reason from there and
+[00:48:49] that means boiling things down to the
+[00:48:51] most fundamental truths and then
+[00:48:53] connecting those truths in a way to to
+[00:48:55] try to understand
+[00:48:57] how reality is because you know physics
+[00:48:59] has this problem where they're trying to
+[00:49:01] figure out things that are totally
+[00:49:02] counterintuitive and so they had to have
+[00:49:04] a framework for for getting there like
+[00:49:06] quantum mechanics is incredibly
+[00:49:08] counterintuitive uh but it's true um and
+[00:49:11] so you had so so physics developed a
+[00:49:13] framework for for figuring out uh things
+[00:49:16] that aren't obvious and that's why I
+[00:49:18] think it's it's not it's it's a lot of
+[00:49:20] advice but it's it's it's the right
+[00:49:22] framework um and then um you know just
+[00:49:26] in general critical thinking is is good
+[00:49:28] you know examining whether you have the
+[00:49:30] correct axioms other the most applicable
+[00:49:33] axioms uh does the logic necessarily
+[00:49:36] connect um and then what are the what
+[00:49:39] are the range of probable outcomes um
+[00:49:41] outcomes are usually not deterministic
+[00:49:43] they're they're they're a range um and
+[00:49:46] so you want to figure out what those Pro
+[00:49:48] probabilities are and make sure ideally
+[00:49:51] that you're the
+[00:49:53] house you know it's it's fine to take
+[00:49:55] it's it's fine to it's fine to gamble as
+[00:49:57] long as you're the house yes
+[00:50:00] um and uh you know and a subset of that
+[00:50:04] is is to to um listen to critical
+[00:50:07] feedback which you alluded to uh earlier
+[00:50:09] voice solicit critical feedback
+[00:50:11] particularly from friends um because
+[00:50:13] generally they will be thinking it but
+[00:50:15] they won't tell you
+[00:50:17] yeah um a question here um from
+[00:50:21] Jal um any news or development on your
+[00:50:24] hyperloop idea and you might explain
+[00:50:25] what your hyperloop idea is
+[00:50:28] is well um what I've said is that I'm
+[00:50:31] I'm putting the hyperloop stuff on hold
+[00:50:34] until I get Tesla to
+[00:50:35] profitability U because I think if I was
+[00:50:38] an investor in Tesla and they heard me
+[00:50:41] sort of spouting off about the hyperloop
+[00:50:43] before I got the company profitable they
+[00:50:45] were like hey you know go do go do your
+[00:50:47] job so that's what I'm doing um I think
+[00:50:50] once Tesla is in a in a has been
+[00:50:53] profitable maybe for at least for a
+[00:50:54] quarter maybe two quarters then then
+[00:50:56] I'll I'll talk about the hyperloop um
+[00:50:59] but I think it could be an interesting
+[00:51:00] way to uh I mean I think it would be an
+[00:51:03] interesting way to travel really quickly
+[00:51:06] from one city to the next quickly
+[00:51:07] explain just in one sentence what a
+[00:51:08] hyperloop is
+[00:51:11] well um it it would be something that
+[00:51:14] would be say twice as fast as a plane at
+[00:51:17] least in terms of total Transit time um
+[00:51:20] maybe a little faster uh it would be
+[00:51:23] immune to weather uh and capable of
+[00:51:27] crashing um pretty much unless it was
+[00:51:29] like a terrorist attack um and um the
+[00:51:34] ticket price would be like let's say
+[00:51:36] half that of a plane um so it' be better
+[00:51:38] in every way um train of some sort
+[00:51:40] though it's kind of
+[00:51:43] it's not exactly a train it would be a
+[00:51:46] different it would be a new mode of
+[00:51:47] transportation that doesn't currently
+[00:51:48] exist terrestrial terrestrial yeah okay
+[00:51:52] underground above ground could go
+[00:51:55] either a kind of Subway
+[00:51:58] perhaps I I think it's I think it's the
+[00:52:01] capital cost would be less if it's
+[00:52:02] mostly above ground but you can go
+[00:52:04] underground
+[00:52:05] too all
+[00:52:08] right maybe the last question um what's
+[00:52:11] the biggest mistake you've ever made and
+[00:52:13] this is from Alexi Hill what's the
+[00:52:14] biggest mistake you've ever made and how
+[00:52:16] did you move forward looking back was it
+[00:52:17] really that big a
+[00:52:20] deal biggest
+[00:52:25] mistake I've made lots of mistakes some
+[00:52:28] of them some are pretty big
+[00:52:36] um um I mean it's hard to say CU things
+[00:52:40] have worked out pretty well in the end
+[00:52:42] so how how big of a mistake could it
+[00:52:43] have been as the as the question is
+[00:52:46] really really asking um uh you know I
+[00:52:50] did lots of dumb things at my first
+[00:52:51] company and at PayPal um and uh
+[00:53:00] you know I think I think
+[00:53:02] sometimes yeah I don't know there's so
+[00:53:05] many I like I'm hard pressed to say this
+[00:53:07] is this is the biggest one you know give
+[00:53:10] this one or two
+[00:53:13] okay
+[00:53:25] um personal okay sure um
+[00:53:28] so
+[00:53:31] there the biggest mistake in general
+[00:53:33] that I've made and I'm trying to correct
+[00:53:35] for that is uh to put too much of a
+[00:53:40] waiting on somebody's talent and not
+[00:53:42] enough on their
+[00:53:43] personality um and I've made that
+[00:53:45] mistake several times in fact then i'
+[00:53:48] would say I'm not going to make that
+[00:53:49] mistake again then I would make it again
+[00:53:52] um and and I think it actually matters
+[00:53:55] uh whether some somebody has a good
+[00:53:57] heart it really does and and I've made
+[00:54:00] them I've made the mistake if they K
+[00:54:01] that sometimes it's just about the
+[00:54:09] brain on that heartfelt note we're done
+[00:54:13] thank please join me in thanking
+[00:54:16] L thank you
+[00:54:23] [Music]
+[00:54:26] oh
+[00:54:31] [Music]

@@ -1,0 +1,1928 @@
+[00:00:04] my name is Andrew Hamilton I'm the vice
+[00:00:06] Chancellor of Oxford University it is an
+[00:00:10] enormous pleasure to welcome you all to
+[00:00:13] this Oxford Martin School lecture to see
+[00:00:17] the sheldonian packed to the rafters for
+[00:00:22] a very distinguished guest it's an
+[00:00:24] enormous pleasure for us to welcome Elon
+[00:00:26] Musk who will be talking about the
+[00:00:28] future of energy and transport this is a
+[00:00:32] lecture in the series of the Oxford
+[00:00:35] Martin School the Oxford Martin school
+[00:00:37] as all of you know is a very Dynamic a
+[00:00:41] very important interdisiplinary research
+[00:00:44] School here in Oxford focused on many of
+[00:00:49] the challenges of the 21st century and
+[00:00:52] of course one of them is transport and
+[00:00:54] so to hear from Elon Musk today very
+[00:00:58] much fits in with the priority of the
+[00:01:01] Martin school it's my pleasure now to
+[00:01:05] introduce the director of the Martin
+[00:01:08] School Professor Ian golden Ian has been
+[00:01:11] director since September
+[00:01:15] 2006 he is a South African you'll hear
+[00:01:18] in a few moments there's a South African
+[00:01:21] Lincoln connection tonight which uh
+[00:01:24] which we're all very pleased and and
+[00:01:26] proud of Ian came to the Martin School
+[00:01:30] uh as it said six years ago from the
+[00:01:34] World Bank where he was vice president
+[00:01:37] and prior to that he was director of the
+[00:01:40] development policy of the World Bank so
+[00:01:43] it's a pleasure Ian to introduce our
+[00:01:45] speaker this
+[00:01:54] evening thank you very much Vice
+[00:01:56] Chancellor welcome Elon it's an enous
+[00:02:00] pleasure to bring great minds together
+[00:02:03] and that's why my job as director of the
+[00:02:05] Oxford Martin school is so fun and
+[00:02:08] meaningful because we are dealing with
+[00:02:09] the greatest challenges of the 21st
+[00:02:12] century in Elon Musk we have someone who
+[00:02:15] is focusing on two key areas transport
+[00:02:19] and
+[00:02:20] energy he's an extraordinary intellect
+[00:02:24] but he combines His science with the
+[00:02:27] business Acumen and a commitment to SU
+[00:02:29] society which is unusual it's the
+[00:02:32] combination of not only business but
+[00:02:36] also with science and knowing what to
+[00:02:39] apply it for that makes him a really
+[00:02:42] special visitor tonight an extraordinary
+[00:02:44] Talent with the right commitment to deal
+[00:02:47] with the challenges of the 21st century
+[00:02:50] he's the engineer and entrepreneur who
+[00:02:52] build and operates companies to solve
+[00:02:55] Global Environmental economic and social
+[00:02:58] challenges he's the CEO and chief
+[00:03:00] designer of Tesla Motors you'll see the
+[00:03:03] car outside and CEO and chief technology
+[00:03:06] officer of SpaceX at SpaceX Elon is the
+[00:03:10] chief designer and has overseen the
+[00:03:12] development of the Rockets which have
+[00:03:14] taken it now twice to the space station
+[00:03:17] they've received the 1.6 billion NASA
+[00:03:20] contract to provide commercial
+[00:03:22] replacement for the cargo and as you
+[00:03:24] will tell us no doubt they have now got
+[00:03:26] a commitment as well to take
+[00:03:28] astronauts it's most extraordinary thing
+[00:03:30] visiting the factory as I was privileged
+[00:03:32] to do and to see not only the energy and
+[00:03:35] commitment of Elon and his team but also
+[00:03:38] the originality just how much of what
+[00:03:40] they are doing is original how much they
+[00:03:43] are taking away it has taken governments
+[00:03:45] before four governments have achieved
+[00:03:48] what Elon has achieved never before has
+[00:03:50] a private individual done so much so
+[00:03:53] quickly for space in addition to his
+[00:03:57] work on SpaceX as if that wasn't enough
+[00:03:59] his work at Tesla is developing a car
+[00:04:03] which has now won this year the
+[00:04:05] automobile and the Auto Trends
+[00:04:08] automobile of the year now for those of
+[00:04:11] us that don't follow cars this is the
+[00:04:13] equivalent of winning the Emma the the
+[00:04:16] Granny's and the Oscars in the same year
+[00:04:19] all for us academics to Nobel prizes it
+[00:04:23] is an achievement which is quite
+[00:04:25] remarkable and having driven he was kind
+[00:04:27] enough to trust his Roadster to me
+[00:04:30] having driven one of his cars I felt
+[00:04:32] like I was in a space rocket it had this
+[00:04:35] gForce which I've never before
+[00:04:37] experienced this car I believe will
+[00:04:39] revolutionize transport because it will
+[00:04:41] enable people to see that you can do
+[00:04:43] things without carbon which were
+[00:04:45] unimaginable before in addition to this
+[00:04:48] he started and run Solar City which is
+[00:04:51] developing and now the biggest producer
+[00:04:53] of solar power systems in the
+[00:04:55] US he began at PayPal which he
+[00:04:58] co-founded and of you will know about
+[00:05:00] PayPal he became its CEO and then moved
+[00:05:04] on to these other things the vice
+[00:05:06] Chancellor mentioned that we have a
+[00:05:08] South African connection we went to the
+[00:05:09] same high school and and we both escaped
+[00:05:13] um he went from there to do his degrees
+[00:05:17] at Pennsylvania and at Warton and in
+[00:05:20] many ways has moved on from that but the
+[00:05:22] work that he was doing including on
+[00:05:24] super capacitors has continued to drive
+[00:05:27] a lot of what he does today
+[00:05:30] it is this incredible combination of
+[00:05:32] vision bravery and ability which has had
+[00:05:36] him likened by many to a 21st century
+[00:05:39] version of what Brunell was in the 19th
+[00:05:42] century and Henry Ford in the 20th
+[00:05:44] century I have no doubt that he will
+[00:05:47] benefit us in ways that we still do not
+[00:05:49] imagine he exemplifies the ambition of
+[00:05:52] the Oxford Mar school and its interest
+[00:05:54] in solving the problems of the 21st
+[00:05:56] century and it's a huge pleasure to
+[00:05:58] invite him to address us
+[00:05:59] [Applause]
+[00:06:17] well um than thank you very much for the
+[00:06:19] kind kind introduction um it's an honor
+[00:06:21] to be here this is an incredibly
+[00:06:22] beautiful theater um and uh it's it's
+[00:06:25] amazing to be in a place designed by by
+[00:06:27] chrisopher ran um
+[00:06:30] and uh and speaking of of of Brunell
+[00:06:32] actually I'm a big fan of Brunell um and
+[00:06:34] I I have I have five boys and I really
+[00:06:37] wanted to name one of them Brunell um or
+[00:06:40] ibard I like them no luck um hopefully
+[00:06:46] one in the future um so uh I guess I
+[00:06:50] I'll just tell you the kind of the the
+[00:06:53] story of um kind of how I came to be
+[00:06:56] here or you know the various things that
+[00:06:58] I did and and and May re wed them and
+[00:07:00] hopefully that's that's um a bit helpful
+[00:07:03] um and uh and then we're going to have
+[00:07:05] quite a long question an answer session
+[00:07:08] so look forward to you know feel feel
+[00:07:10] free to ask me any any question no
+[00:07:12] matter how proud proa of or you know
+[00:07:16] challenge what what what we're doing um
+[00:07:19] I'm actually always always interested in
+[00:07:21] in negative feedback actually so um so
+[00:07:25] the way I started out was um I I did
+[00:07:27] start out in South Africa went went to
+[00:07:29] vioria Vo High um and uh and and then uh
+[00:07:32] left actually by myself initially to to
+[00:07:35] go to to Canada and then and then the US
+[00:07:38] to college and graduating from from
+[00:07:40] undergrad I um I I had sort of make a
+[00:07:43] make a decision um and uh uh one One
+[00:07:47] path would have sort of Led Led to Wall
+[00:07:48] Street and and I guess quite a big
+[00:07:51] salary and then the other would have was
+[00:07:53] was to do do grth studies and try to
+[00:07:55] figure out technical problem and uh uh I
+[00:07:59] I I didn't much like the first one so I
+[00:08:02] I went to I decided to go to go out to
+[00:08:05] Silicon Valley and and and go to
+[00:08:07] Stanford um and try to work on uh Ultra
+[00:08:10] capacitors for use in electric vehicles
+[00:08:12] and and I do actually think there's
+[00:08:13] potential for a significant breakthrough
+[00:08:16] uh in in that area and actually to have
+[00:08:18] an energy storage mechanism that's
+[00:08:19] that's better than than batteries um
+[00:08:22] it's it's not necessary for transport to
+[00:08:24] go electric but I think it is um it's
+[00:08:27] something that would accelerate that um
+[00:08:30] so um so I was sort of about to get into
+[00:08:34] get into grad studies and then then the
+[00:08:36] internet it was clear the internet was
+[00:08:38] going to be something that was would be
+[00:08:39] very important to to the Future so I
+[00:08:44] um I I thought well I could either sort
+[00:08:47] of spend 5 years in in a graduate
+[00:08:49] program and discover that the answer is
+[00:08:52] that there there is no no way to make a
+[00:08:54] capacitor work and and get perhaps get
+[00:08:57] some some nice um papers published and
+[00:09:00] that kind of thing and uh uh but that
+[00:09:03] would be that would be most unfortunate
+[00:09:04] situation I thought um you know because
+[00:09:07] you can come to one of the possible
+[00:09:08] things is is to to determine that
+[00:09:11] success is not one of the possible
+[00:09:12] outcomes I and I I couldn't actually
+[00:09:14] bracket the uncertainty on that so so I
+[00:09:16] thought I can either do that or I can uh
+[00:09:20] work on uh on on on building elements of
+[00:09:23] the internet um and this was in '95 so
+[00:09:25] nobody had actually made any money on
+[00:09:26] the internet so it was but but I thought
+[00:09:28] the internet would be something that
+[00:09:29] would fundamentally change the nature of
+[00:09:31] humanity where we it was like um
+[00:09:33] Humanity gaining a nervous system um
+[00:09:36] where where all all of a sudden any part
+[00:09:39] of humanity would would know what the
+[00:09:43] collective would have access to the
+[00:09:44] collective knowledge and and that's
+[00:09:46] that's true it's really quite a
+[00:09:47] remarkable
+[00:09:49] transformation um in in the past you'd
+[00:09:52] have to and if you wanted access to a
+[00:09:54] lot of information you have to be near a
+[00:09:55] big library or something um like the
+[00:09:58] great bodle and library in your Vine um
+[00:10:02] and uh then that that would be the only
+[00:10:04] only way to gain access to information
+[00:10:06] um and now with the internet with
+[00:10:10] everything online you could be somewhere
+[00:10:12] in the jungles of South America and if
+[00:10:13] you've got access to an internet
+[00:10:15] connection you have access to
+[00:10:16] essentially all the world's information
+[00:10:18] um with a tremendous amount of
+[00:10:20] analytical power behind that so I think
+[00:10:24] it literally has gone from a situation
+[00:10:26] where where people would communicate
+[00:10:29] almost like
+[00:10:31] um by Vi osmosis um you if you can
+[00:10:34] imagine sort of a a creature simple M
+[00:10:37] multicellular creature that would
+[00:10:39] communicate uh vi vi quite slow chemical
+[00:10:41] signals and now um we we're we any part
+[00:10:46] of humanity knows what every other part
+[00:10:48] of humanity does immediately it's it's
+[00:10:50] it's pretty incredible so anyway I
+[00:10:51] wanted to be part of building that so I
+[00:10:53] decided to to do a couple of internet
+[00:10:55] companies um and that actually worked
+[00:10:58] out reasonably well
+[00:11:00] um so uh the the first one helped bring
+[00:11:06] the the media companies online um and
+[00:11:09] then uh we sold that and then started
+[00:11:11] another company which you may have used
+[00:11:13] called PayPal um and that that that we
+[00:11:16] sold for actually a larger sum of money
+[00:11:18] to to eBay um and and that that left me
+[00:11:22] in in the fortunate position of of
+[00:11:25] having the capital to pursue uh the the
+[00:11:28] two other things that I thought would
+[00:11:30] would most affect the future of of
+[00:11:31] humanity being um sustainable energy
+[00:11:35] both the production and consumption of
+[00:11:37] energy in a sustainable manner which I
+[00:11:39] think is arguably the the most pricing
+[00:11:41] problem of the 21st century um and then
+[00:11:45] the other one which is is the extension
+[00:11:48] of life beyond Earth
+[00:11:50] um and um uh so
+[00:11:54] so um the one I did first was was the
+[00:11:57] space company
+[00:12:00] and
+[00:12:01] um the Genesis of that is is is is kind
+[00:12:04] of interesting because at first I didn't
+[00:12:06] think that it would be possible to to
+[00:12:09] create a rocket company um and I thought
+[00:12:13] the the what what would really make a
+[00:12:16] difference is to have a mission to to
+[00:12:19] Mars a small sort of send a small P to
+[00:12:22] the surface of Mars um that that would
+[00:12:25] get the public excited about um to re
+[00:12:29] reignite the passion for space
+[00:12:31] exploration such that we could go beyond
+[00:12:33] what we did with the Apollo program and
+[00:12:35] I thought it was quite sad that uh the
+[00:12:38] Apollo program represented the the high
+[00:12:41] Watermark of human space exploration um
+[00:12:45] and um it was not something that I was
+[00:12:47] able to to witness in real time cuz I
+[00:12:49] was minus two when they
+[00:12:52] landed
+[00:12:54] um so
+[00:12:56] uh it's it's it just seemed as though
+[00:12:58] that
+[00:13:00] if I thought about the future um one
+[00:13:04] where we were true space fairing
+[00:13:05] civilization out there exploring the
+[00:13:07] stars and making the things real that we
+[00:13:10] read in science fiction books and and
+[00:13:12] movies that that seems like a really
+[00:13:15] really exciting future that that that
+[00:13:17] that sort of made me feel good about the
+[00:13:19] future um and one where we're forever
+[00:13:21] confined to earth made me feel a bit sad
+[00:13:24] so um so so that that's that's really uh
+[00:13:29] what I was trying to figure out is how
+[00:13:30] do we how do we reverse that um and then
+[00:13:33] like I said at first I didn't think it
+[00:13:34] would be possible to create a space
+[00:13:35] company because it seemed like the
+[00:13:36] province of governments but so my first
+[00:13:40] thought was well let's let's see if we
+[00:13:42] can if we do a philanthropic Mission to
+[00:13:43] Mars um and get the public excited about
+[00:13:46] the idea of going there and then that
+[00:13:48] would lead to an increased budget for
+[00:13:50] NASA um and then um then we could go
+[00:13:53] there that would hopefully work um so I
+[00:13:57] I um figured out how to compress the
+[00:14:00] cost of the of the spacecraft and the
+[00:14:02] communication systems and the the the
+[00:14:05] payload and so forth um and and then the
+[00:14:08] um it would have been a small Greenhouse
+[00:14:11] about a meter across um with seeds and
+[00:14:14] dehydrated nutrient gel that would land
+[00:14:16] you'd hydrate the gel upon landing and
+[00:14:18] you'd have this great shot of um of
+[00:14:21] green plants against uh against red
+[00:14:24] background in the US that's called the
+[00:14:26] money shot um and um so and the public
+[00:14:32] tends to respond to um precedents and
+[00:14:34] superlatives so this would be the first
+[00:14:36] life on another planet the furthest that
+[00:14:38] life's ever traveled and I thought okay
+[00:14:40] well that would get people pretty
+[00:14:41] excited and maybe they could en Envision
+[00:14:43] people being there would certainly U um
+[00:14:46] be able to figure out a lot of um
+[00:14:49] engineering and scientific data about
+[00:14:50] what it took to maintain plant life on
+[00:14:52] the surface of
+[00:14:53] Mars um so so so I got through um most
+[00:14:57] of that and the thing I I got got hung
+[00:14:59] up on was the rocket um so getting there
+[00:15:02] in the first place um and there were the
+[00:15:05] US options from Boeing and lock were
+[00:15:07] simply too expensive I couldn't afford
+[00:15:09] them and and so I went to Russia three
+[00:15:11] times to negotiate purchasing purchasing
+[00:15:14] a an IBM
+[00:15:17] um of course I
+[00:15:19] mean desperate times call for desperate
+[00:15:22] measures so um and and uh
+[00:15:27] I I I went to so so I did I did three
+[00:15:30] visits there and
+[00:15:34] um at the end of it I I was able to get
+[00:15:37] to negotiate a price actually um to to
+[00:15:39] buy three of these these things three of
+[00:15:41] the largest icbms in the Russian Fleet
+[00:15:43] um but but but they uh they were still
+[00:15:47] pretty expensive and by the third trip I
+[00:15:51] actually came to the conclusion that
+[00:15:52] that I would I was operating under the
+[00:15:54] wrong premise that I was I was actually
+[00:15:56] mistaken about the willing to to send
+[00:16:00] people to Mars to to expand the space
+[00:16:02] Frontier um
+[00:16:06] and it actually in retrospect was quite
+[00:16:09] silly of me to to think that that people
+[00:16:12] were not interested in such a thing or
+[00:16:13] or lost lost the world to to do this uh
+[00:16:17] in fact
+[00:16:18] people had had really um thought that
+[00:16:22] it's it's not possible not not possible
+[00:16:24] for an amount of money that wouldn't
+[00:16:25] materially affect their standard of
+[00:16:27] living um
+[00:16:29] so so I came to conclusion that even if
+[00:16:31] we succeeded in doing this mission that
+[00:16:34] wouldn't that wouldn't be enough that
+[00:16:35] would that that would perhaps add a
+[00:16:38] little bit more to the world to do it
+[00:16:39] but it wouldn't it wouldn't make it
+[00:16:41] clear to people that there was a way um
+[00:16:44] and and and and this is a case of sort
+[00:16:47] of almost the opposite I think if if if
+[00:16:50] you can show people that there is a way
+[00:16:53] then there was there was plenty of
+[00:16:55] will
+[00:16:57] um so so after that third
+[00:17:00] trip I i' learned a lot more about
+[00:17:02] rockets at that point um and I I held a
+[00:17:07] series of meetings um just just sort of
+[00:17:10] brainstorming sessions with people from
+[00:17:13] the the space industry to try to
+[00:17:15] understand if there was if I was missing
+[00:17:17] something fundamental about um the
+[00:17:20] ability to improve rocketry um and this
+[00:17:23] is where I think it's helpful to use the
+[00:17:26] approach the the the antical approach in
+[00:17:29] physics which is to try to boil things
+[00:17:30] down to First principles and reason from
+[00:17:33] there as opposed to reasoning by
+[00:17:35] analogy um
+[00:17:38] so and and the way this applied to to
+[00:17:41] rocketry was to say okay
+[00:17:44] well um what are the what are the
+[00:17:46] materials that that go into a rocket um
+[00:17:49] how you know how much does each material
+[00:17:51] constituent weigh um what's the cost of
+[00:17:55] that raw
+[00:17:56] material and and that and that's going
+[00:17:58] to set some floor um as as to the cost
+[00:18:01] of the rocket and and that actually
+[00:18:03] turns out to be a relatively small
+[00:18:04] number um certainly
+[00:18:07] um well under 5% of the cost of a rocket
+[00:18:11] and in some cases closer to 1 or
+[00:18:14] 2% um and so I call it sort of maybe the
+[00:18:17] the magic wand number so if you if you
+[00:18:20] had a pile of of of of of the raw
+[00:18:23] material piles of raw materials on the
+[00:18:25] floor and you can just wave magic wand
+[00:18:27] and rearrange them um
+[00:18:29] then then that would be the the the best
+[00:18:31] case scenario for for a rocket and so I
+[00:18:33] was able to see okay well there's
+[00:18:35] clearly a great deal of room for
+[00:18:36] improvement even if you consider Rockets
+[00:18:38] to be
+[00:18:39] Expendable um and and so so I think
+[00:18:43] that's that's sort of that's what I mean
+[00:18:44] by sort of thinking about things from a
+[00:18:45] first principal standpoint if if on the
+[00:18:47] hand other hand I sort of analyzed it by
+[00:18:49] analogy and said okay well analogy would
+[00:18:52] be well what are all other rocket
+[00:18:54] companies what what do their Rockets
+[00:18:56] cost what historically have have other
+[00:18:59] Rockets cost and that would be sort of
+[00:19:01] an analogy thing but it really doesn't
+[00:19:02] illustrate what the true potential is um
+[00:19:05] and and so I I think sort of a first
+[00:19:10] principle first principles approach is
+[00:19:12] is is a good way to um to understand
+[00:19:16] what new things are possible so this
+[00:19:19] this is a good a good framework um and
+[00:19:22] it doesn't mean you'll be successful but
+[00:19:23] you you know at least you can determine
+[00:19:25] if Su success is one of the
+[00:19:27] possibilities that is is important uh I
+[00:19:30] think so I started SpaceX and and
+[00:19:33] initially I had a um decided to make a
+[00:19:37] small rocket called the Falcon 1 that
+[00:19:40] was capable of putting about half a ton
+[00:19:42] into orbit um and this did not go
+[00:19:46] smoothly I should
+[00:19:47] Point
+[00:19:49] um and it was quite difficult to attract
+[00:19:53] the the key technical talent and um and
+[00:19:57] of course
+[00:19:58] I was quite ignorant of of many things
+[00:20:01] and made lots of mistakes along the way
+[00:20:04] and the uh the first three flights of
+[00:20:08] the Falcon one failed or or rather they
+[00:20:10] they certainly didn't get to orbit the
+[00:20:12] second and third flights arguably got to
+[00:20:14] space but but they did not reach full
+[00:20:16] orbital velocity um and then fortunately
+[00:20:21] the fourth flight worked um and if it
+[00:20:23] hadn't SpaceX wouldn't be around because
+[00:20:25] I'd basically run out of money so that
+[00:20:28] would
+[00:20:29] that was a bit of a nailbiter
+[00:20:33] um and um thank goodness uh so and in
+[00:20:39] fact uh this all happened in in 2008
+[00:20:43] so um yeah there was really no ability
+[00:20:46] to to raise outside money in a
+[00:20:48] meaningful way in 2008 because of the
+[00:20:50] financial crisis um so you can imagine
+[00:20:53] trying to go to raise money saying well
+[00:20:55] yes we just had four failures and the
+[00:20:56] world is in financial ruin but would you
+[00:20:58] like to give us some money um that would
+[00:21:01] be a definite no um so fortunately that
+[00:21:04] that that succeeded um and um and we
+[00:21:08] were able to go from Falcon 1 to begin
+[00:21:11] designing the Falcon line which is an
+[00:21:13] order of magnitude larger vehicle in
+[00:21:16] fact um has more than 20 times the
+[00:21:19] payload so it's got a payload to orbit
+[00:21:21] of of over over 10 tons um and uh and
+[00:21:26] and and that actually has gone a lot um
+[00:21:29] a lot better because we had the the
+[00:21:32] experience of Falcon 1 to go by um and
+[00:21:36] and part of the reason we started with
+[00:21:37] Falcon 1 was because I I I I I I thought
+[00:21:40] we would make a lot of mistakes and if
+[00:21:42] if we're going to make a lot of mistakes
+[00:21:43] then it's it's best to make those
+[00:21:45] mistakes at a small scale rather than at
+[00:21:48] a large scale um and that seems to have
+[00:21:51] worked that um because going to Falcon 9
+[00:21:54] we've had four flights of Falcon 9 and
+[00:21:55] they've all um been all four of them
+[00:21:58] have been
+[00:21:59] successful um so I think that that
+[00:22:01] principle seems to have worked
+[00:22:02] reasonably well you know touch word and
+[00:22:04] all life life five is coming up soon um
+[00:22:07] but um and and then and then we also
+[00:22:10] developed the dragon spacecraft uh
+[00:22:12] because um some opportunistically NASA
+[00:22:17] announced that they were going to retire
+[00:22:18] the space the space shuttle um and they
+[00:22:21] needed they didn't have the budget to
+[00:22:24] develop uh a carago transport capability
+[00:22:27] to the space station by the normal large
+[00:22:30] government way and uh and so they put it
+[00:22:34] out to bid to to commercial industry for
+[00:22:37] the first time in NASA history it's
+[00:22:39] quite was quite a big step and uh we
+[00:22:42] were lucky enough to to win one of those
+[00:22:45] contracts um and then the other company
+[00:22:48] wasn't able to execute and so they they
+[00:22:50] got cut um and uh and so we ended up
+[00:22:54] being the primary means of um
+[00:22:57] transporting cargo to in from the space
+[00:23:00] station
+[00:23:02] um so we just did the first two missions
+[00:23:06] um uh for the first two space station
+[00:23:08] resupply missions uh this year um and so
+[00:23:12] thankfully both of those worked uh and
+[00:23:14] then going from there NASA then said
+[00:23:16] well what about astronaut transport and
+[00:23:19] um and so they um they put out a big
+[00:23:22] competition and um and awarded two
+[00:23:25] contracts for uh for ash transport one
+[00:23:28] of which went to Boeing they got a
+[00:23:30] slightly larger contract and then one to
+[00:23:32] us and so hopefully in about 3 years we
+[00:23:35] will have dragon version 2 and the the
+[00:23:38] Next Generation falcon9 Rockets
+[00:23:40] transporting astronauts to to from the
+[00:23:42] space
+[00:23:43] station um then then we've got Falcon
+[00:23:47] heavy which is about three times the
+[00:23:49] capability of Falcon line and that that
+[00:23:52] will hopefully launch in about a year or
+[00:23:54] two that'll actually be the most
+[00:23:56] powerful rocket in the world by a factor
+[00:23:57] of two
+[00:23:59] um so we're making sort of steady
+[00:24:01] progress um the Falcon Falcon heavy to
+[00:24:04] put that into perspective um has about
+[00:24:08] um 60% of the capability of of the
+[00:24:11] Saturn 5 Moon rocket so if you were to
+[00:24:14] combine two flights of Falcon heavy with
+[00:24:18] orbital uh rondu ding you could actually
+[00:24:21] send people back to the surface of the
+[00:24:24] Moon so I think now now we're really
+[00:24:26] sort of talking about you know Advan ing
+[00:24:28] the frontier which I think is quite
+[00:24:30] important um and and then um the the the
+[00:24:34] really major breakthrough that's needed
+[00:24:36] in in rocketry the the pivotal one uh
+[00:24:40] which we're we're ASP aspiring to make
+[00:24:42] is to have a fully and rapidly reusable
+[00:24:45] rocket uh this is this has not been
+[00:24:47] achieved before the space shuttle was an
+[00:24:49] attempt to achieve that but it was not a
+[00:24:51] successful attempt unfortunately um the
+[00:24:55] the main tank of the Space Shuttle was
+[00:24:56] thrown away every time which was also
+[00:24:58] the primary Ascent Arrow frame um and uh
+[00:25:02] even the parts that were reusable were
+[00:25:04] so difficult to reuse for the Space
+[00:25:05] Shuttle that it ended up costing four
+[00:25:07] times more than an Expendable rocket of
+[00:25:09] equivalent payload
+[00:25:10] capability um so so but it was it was
+[00:25:13] the right goal but but but didn't hit
+[00:25:15] the target
+[00:25:17] um and and I think this this is actually
+[00:25:19] incredibly important I think it may it
+[00:25:22] be completely intuitive but I think
+[00:25:24] perhaps if one refers to other modes of
+[00:25:25] transport it it makes more sense um
+[00:25:28] because all other modes of Transport are
+[00:25:31] fully and rapidly reusable um and that
+[00:25:34] that applies to a bicycle a horse uh
+[00:25:38] plane um ships in fact in in sort of
+[00:25:42] normal life it would be quite silly to
+[00:25:45] you discard your horse after every ride
+[00:25:48] um you know or dump the plane after you
+[00:25:52] fle it um the the cost of a 747 is about
+[00:25:57] $300 million and you'd need two of those
+[00:25:59] to do a round trip from uh Los Angeles
+[00:26:02] to London but nobody's I don't think
+[00:26:04] anyone has paid half a billion dollars
+[00:26:06] to do that so and nor would one want to
+[00:26:09] I mean there'd be a lot of travel by
+[00:26:10] boat and train and that sort of thing if
+[00:26:12] if if if that was the true cost so um
+[00:26:16] it's extremely important in rocketry to
+[00:26:17] achieve full and Rapid
+[00:26:19] reusability this is not an easy thing to
+[00:26:21] do because of Earth's gravity well um
+[00:26:24] and just the basic physics of things um
+[00:26:28] uh so there have been many attempts to
+[00:26:31] create a reusable rocket but they've
+[00:26:34] generally um well they they've all
+[00:26:36] they've all sort of been canceled along
+[00:26:37] the way once people realize that they
+[00:26:39] would they would not succeed um in fact
+[00:26:41] usually they got canceled quite some
+[00:26:43] quite some time after it was obvious
+[00:26:44] they wouldn't succeed um so um but but
+[00:26:50] the essence of the problem is that if
+[00:26:53] you design a an Expendable rocket and do
+[00:26:57] quite a good good job of it you'll get 2
+[00:26:59] to 3% of your liftoff Mass to
+[00:27:02] orbit um then if you
+[00:27:06] uh then you say well how much mass is
+[00:27:08] needed to return that rocket and be able
+[00:27:11] to fly it again quickly well about 2 to
+[00:27:15] 3% um so and and so you basically get
+[00:27:20] nothing to orbit is is is the way it's
+[00:27:22] been in the past so in order to do
+[00:27:24] something useful what what has what you
+[00:27:27] have to figure out is how do you get a
+[00:27:29] much larger percentage to it let's say
+[00:27:33] ideally on the order of 4% of your
+[00:27:35] liftoff Mass to orbit in an Expendable
+[00:27:37] configuration and then compress the
+[00:27:40] reusable elements down to about 2% so
+[00:27:43] you have a net payload to orbit of of
+[00:27:46] 2% um and then you could you could
+[00:27:49] really have something that's that's
+[00:27:50] quite useful um and the the cost of the
+[00:27:54] propellant is only about let's say 3%
+[00:27:58] of of the of the cost of the vehicle if
+[00:28:00] you take Falcon 9 for example which uses
+[00:28:03] quite expensive fuel relatively speaking
+[00:28:05] I think there's there are low lower cost
+[00:28:07] options um the cost of of of refueling a
+[00:28:12] reloading propellant on on Falcon 9 is
+[00:28:14] about
+[00:28:16] $200,000 and the cost of the rocket is
+[00:28:18] 60
+[00:28:19] million so that's it's just like a plane
+[00:28:21] I mean it's just if you were to refuel a
+[00:28:24] plane not very expensive you want to buy
+[00:28:26] a new plane very expensive
+[00:28:28] um so
+[00:28:31] um at this point I'm I'm really
+[00:28:33] reasonbly confident that it can be done
+[00:28:35] and now it's a question of of executing
+[00:28:38] to to make that design work um and
+[00:28:41] seeing if there are any gotas and
+[00:28:42] there'll probably be a few craters along
+[00:28:44] the way so I'm not expecting this to be
+[00:28:46] a uh smooth Journey um as long as the
+[00:28:50] rocket doesn't land on anyone it'll be
+[00:28:53] fine um so that that's really what
+[00:28:56] SpaceX is focused on right now is kind
+[00:28:59] of scaling up the size of the rockets
+[00:29:02] and and trying to achieve this full and
+[00:29:04] Rapid
+[00:29:05] reusability um so if you're curious you
+[00:29:08] can just we're fairly public about
+[00:29:10] things and you can just follow it on the
+[00:29:11] SpaceX website so that's what we're
+[00:29:13] doing on on the SpaceX side then then in
+[00:29:16] parallel we've got Tesla which is
+[00:29:19] developing electric vehicles and sort of
+[00:29:21] a whole SE separate story line um and
+[00:29:24] tell me if I'm going on too long and
+[00:29:26] stop me at any point um feel free to
+[00:29:29] leave it's it's getting
+[00:29:30] boring won't be offended um so uh with
+[00:29:35] with with Tesla the the the goal is to
+[00:29:39] um to try to create electric vehicles
+[00:29:42] that are more compelling than gasoline
+[00:29:44] vehicles as a product um I mean the
+[00:29:47] fundamental issue we have in um in
+[00:29:50] energy and transport is is is the
+[00:29:53] tragedy of the commons you know we've
+[00:29:54] got the CO2 capacity of the oceans and
+[00:29:57] atmosphere there that is unpriced or
+[00:30:00] mostly unpriced um and so it's um it
+[00:30:05] it's almost like we're sort of dumping
+[00:30:07] garbage in the atmosphere and and
+[00:30:09] nobody's paying for garbage collection
+[00:30:11] um so it it's um it's most unfortunate
+[00:30:15] situation because the uh there there
+[00:30:18] quite significant vested interests in um
+[00:30:22] in oil gas and coal um with enormous
+[00:30:25] amounts of money um
+[00:30:28] it it's quite a difficult battle to
+[00:30:30] fight and you can't expect them to
+[00:30:31] Simply roll over and commit suicide or
+[00:30:34] something they're they will fight hard
+[00:30:36] and and they have been um and so
+[00:30:39] unfortunately so it
+[00:30:41] requires fighting hard back and um and
+[00:30:45] and
+[00:30:46] creating products in the absence of
+[00:30:48] there being attacks on co2 creating
+[00:30:51] products that don't rely on the relative
+[00:30:53] economics of of um using um
+[00:30:58] hydrocarbon fuels versus um say versus
+[00:31:02] electric cars and so that that was our
+[00:31:05] goal from Tesla from the beginning um
+[00:31:09] and I'm really um I'm excited to to see
+[00:31:14] that we've um we've achieved that goal
+[00:31:17] actually with with the model S which was
+[00:31:20] as was mentioned Model S was recently uh
+[00:31:23] awarded um top honors by um it was
+[00:31:28] awarded sort car of the year and
+[00:31:29] automobile of the year um and and that
+[00:31:32] was against a very difficult field of of
+[00:31:35] gasoline cause um and so I'm hopeful
+[00:31:38] this will be seen as a pivotal moment in
+[00:31:41] transport where where
+[00:31:44] people where people you know finally
+[00:31:46] appreciated that an electric car could
+[00:31:48] be better than a gasoline car um and
+[00:31:51] then going into the future our goal with
+[00:31:54] Tesla is to uh keep refining the
+[00:31:56] technology increasing the scale of
+[00:31:59] production um and um and and make a mass
+[00:32:03] Market electric car that that that
+[00:32:06] almost anyone can afford um that's that
+[00:32:10] that's step three on the strategy so
+[00:32:12] step one was was um high price low
+[00:32:14] volume step two mid price mid volume
+[00:32:17] step three low price high volume so
+[00:32:19] we've sort of at step two and now we we
+[00:32:21] want to progress to the step three as as
+[00:32:24] soon as possible um we did get quite a
+[00:32:26] bit of criticism at Tesla for for
+[00:32:29] creating the the Roadster which we did
+[00:32:31] in collaboration with lotus um and uh
+[00:32:34] people are complaining well why are you
+[00:32:36] making this expensive sports car um and
+[00:32:39] with the implication that uh we felt
+[00:32:41] there was a shortage of sports cars for
+[00:32:43] rich people
+[00:32:45] and and and we're racing to meet that
+[00:32:48] that that unmet need you know so
+[00:32:52] the the the real reason is that any car
+[00:32:56] that we make at at at low vol volume
+[00:32:58] which is the first version of technology
+[00:33:00] is going to be expensive it didn't
+[00:33:01] matter what that car looked like so we
+[00:33:03] could make something that looked like a
+[00:33:05] very standard you know sort of toyot
+[00:33:07] Toyota Corolla or you know Ford Fusion
+[00:33:10] or something like that and it would have
+[00:33:11] cost say $770,000
+[00:33:14] um but nobody will pay that for for what
+[00:33:17] looks like a midsize economy sedan they
+[00:33:20] just they just w't or very few people
+[00:33:23] would um but people are willing to pay
+[00:33:25] $100,000 for a fast sports car and so
+[00:33:29] that that that's why we started off at
+[00:33:31] that at that level um and then with
+[00:33:34] another big design iteration and an
+[00:33:36] increase in volume so we had economies
+[00:33:38] of scale we were able to create the
+[00:33:40] model S and then with another order of
+[00:33:42] magnitude increase in volume and another
+[00:33:44] big design revision um that's what'll
+[00:33:47] allow us to cut the price in half a gain
+[00:33:50] um and uh then Tesla also supplies power
+[00:33:53] trains to uh Mercedes and Toyota and
+[00:33:57] perhaps other will do do that do that
+[00:33:58] for other car companies in an effort to
+[00:34:01] help them accelerate a transition to
+[00:34:03] electric
+[00:34:04] vehicles um so that's uh that's Tes on
+[00:34:09] SpaceX and I should me I should should
+[00:34:11] mention certainly Solar City um because
+[00:34:14] one must generate electricity in a
+[00:34:16] sustainable way as well as consume it in
+[00:34:19] a sustainable way um and and people will
+[00:34:22] say what don't electric cars cre create
+[00:34:25] pollution at the power power plant level
+[00:34:28] um and um it it should be it should be
+[00:34:31] noted that for any given Source fuel it
+[00:34:34] is always better to generate the power
+[00:34:37] at the power plant level and then charge
+[00:34:39] electric cars and run them for any given
+[00:34:41] Source fuel because power plants are
+[00:34:44] much more efficient at extracting the
+[00:34:46] energy than uh than internal combustion
+[00:34:49] engines in a car they are at least twice
+[00:34:51] as efficient and usually more like three
+[00:34:53] times as efficient um so so for any
+[00:34:57] given s fuel it's you know even if the
+[00:34:59] whole world were always going to be
+[00:35:01] powered by hydrocarbons it would still
+[00:35:02] make sense to do electric cars um but of
+[00:35:06] course we must find a sustainable means
+[00:35:07] of generating energy as well and and I I
+[00:35:12] I think that the the the most
+[00:35:14] likely the main candidate for energy
+[00:35:18] generation is actually uh solar
+[00:35:21] um I think the physics of this is
+[00:35:23] actually rather obvious uh um because
+[00:35:27] that the Earth is is actually almost
+[00:35:29] entirely solar powered today as it is um
+[00:35:32] the um would be a frozen ice ball at I
+[00:35:36] don't know 3 or 4 Kelvin um if it
+[00:35:38] weren't for the Sun and uh and our
+[00:35:43] entire system of precipitation is
+[00:35:45] powered by the Sun the the ecosystem is
+[00:35:48] almost entirely
+[00:35:50] 99.999% powered by the sun except for
+[00:35:52] some chatres at the bottom of the ocean
+[00:35:55] um so uh that's um you know it's rather
+[00:35:59] obvious that I think once you try to um
+[00:36:03] take take a little portion of that
+[00:36:04] energy and it's actually not much and
+[00:36:07] convert that into electricity for use by
+[00:36:10] um by Society so
+[00:36:14] um uh I I I I'm quite confident that um
+[00:36:18] solar power will be the single largest
+[00:36:21] source of energy or electrical energy uh
+[00:36:24] for for Humanity in the future um
+[00:36:28] and um uh it will be combined with other
+[00:36:31] things of course such as Hydro hydr
+[00:36:34] power and
+[00:36:35] geothermal um and um uh and actually
+[00:36:39] think nuclear is not a terrible option
+[00:36:42] uh as long as you're not located in a
+[00:36:43] place that's susceptible to natural
+[00:36:45] disasters that's also I think a defies
+[00:36:49] common sense but um so as long as there
+[00:36:52] aren't huge earthquakes or sort of
+[00:36:55] weather systems that that have names
+[00:36:57] coming at you um then then I think
+[00:37:01] nuclear can can be can be a sensible
+[00:37:03] option and there are much safer and
+[00:37:06] better ways of generating nuclear energy
+[00:37:08] I'm talking fision here um than than
+[00:37:11] existed in in the past when nuclear
+[00:37:13] reactors first first came out um and and
+[00:37:16] then at some point in the future it be
+[00:37:17] nice to make fusion work of course that
+[00:37:19] would be be quite that would be quite
+[00:37:21] good um but in the meantime I think um
+[00:37:25] indirect Fusion being solar power is the
+[00:37:28] uh is is a good thing to do so that's
+[00:37:30] what Solar City um is is doing is really
+[00:37:33] trying to improve the economics of solar
+[00:37:36] power um and they're doing doing a great
+[00:37:39] job I I don't run the company so the
+[00:37:40] credit for Solar City really goes to the
+[00:37:42] the two key guys um who who um uh who
+[00:37:47] run that company um but they're they're
+[00:37:49] doing a great job of really accelerating
+[00:37:52] the adoption of solar power in the
+[00:37:53] United States so um and hopefully
+[00:37:56] they'll they'll they'll come to to the
+[00:37:57] UK as well um so that's um that's about
+[00:38:02] it um so we can get a
+[00:38:23] Q&A thank you so much Elon for that you
+[00:38:26] make it sound so easy
+[00:38:28] um if only we a small fraction of us
+[00:38:31] could achieve that in our lifetimes I
+[00:38:33] think we'd be absolutely delighted uh
+[00:38:35] but thank you too for agreeing to take
+[00:38:37] uh questions and answers I know that's
+[00:38:38] what you really were looking forward to
+[00:38:41] uh today so we have um a roing mic uh we
+[00:38:44] have some time uh and please keep your
+[00:38:48] questions clear and concise uh to to
+[00:38:52] Elon I'm afraid there's no microphones
+[00:38:54] at the higher level uh it's going to be
+[00:38:56] difficult for the people carrying the
+[00:38:58] roving mic to get up to the higher tier
+[00:38:59] so if you want to ask a question come
+[00:39:01] down to this level uh of the sheldonian
+[00:39:05] who'd like to go
+[00:39:07] first Lord Reese over here um well
+[00:39:10] amazing talk can I be greedy and ask two
+[00:39:13] questions um one of the constraints on
+[00:39:15] both your projects is the energy isn't
+[00:39:19] concentrated enough uh batteries can't
+[00:39:21] store energy as densely as liquid Fuel
+[00:39:25] and even liquid fuel isn't dense enough
+[00:39:27] to have an efficient uh launch into
+[00:39:29] space so I wonder if you could speculate
+[00:39:31] on that and the second question I wanted
+[00:39:33] to ask is about uh robotics in the
+[00:39:36] future um I guess even though you can
+[00:39:38] have a driverless car people still want
+[00:39:40] to drive the Tesla themselves they won't
+[00:39:42] want to leave that to robot but do you
+[00:39:45] think that the advance of robots is
+[00:39:47] going to change people's perspective on
+[00:39:50] manspace
+[00:39:51] flight so energy concentration and the
+[00:39:54] role of robots um yeah AB absolutely um
+[00:39:58] in fact the um energy density basically
+[00:40:02] the you know the the amount of energy
+[00:40:04] you can store in a given amount of mass
+[00:40:06] or volume has been a fundamental
+[00:40:08] constraint on electric cars for a while
+[00:40:11] um and uh and then that's pared and and
+[00:40:15] correlated to some degree with the the
+[00:40:17] cost per kilowatt hour the cost of of
+[00:40:19] storing that energy in a car um now with
+[00:40:22] with the with the Advent of lithium ion
+[00:40:25] uh technology uh that that I think is
+[00:40:27] really what enabled um a compelling car
+[00:40:31] and the Thon batteries continue to
+[00:40:33] improve it's sort of a roughly on
+[00:40:36] average maybe eight 8 8 or n% per year
+[00:40:39] which when compounded over several years
+[00:40:41] ends up being a meaningful Improvement
+[00:40:44] um and as I mentioned my in my talk I
+[00:40:47] think even even if there was no
+[00:40:50] improvement in um no no fundamental
+[00:40:53] Improvement Beyond lithium ion batteries
+[00:40:56] I think we could still take all
+[00:40:58] terrestrial um all ground transportation
+[00:41:01] could go electric we we need we do need
+[00:41:03] a further breakthrough for aircraft
+[00:41:04] where the energy density requirements
+[00:41:06] are um at least two to three times um
+[00:41:10] more significant um but but even with
+[00:41:12] current generation lithium I think we
+[00:41:15] could go to mass Market with with uh
+[00:41:17] with ground vehicles um and in fact our
+[00:41:21] focus is is really more on reducing the
+[00:41:24] the cost uh of of the battery p than
+[00:41:28] improving the energy density um so I
+[00:41:31] think we're actually in in a pretty good
+[00:41:33] spot I'm quite and I and I actually now
+[00:41:36] am reasonably optimistic that there will
+[00:41:37] be a breakthrough in um High deny
+[00:41:41] capacitors
+[00:41:43] um and um it's sort of interesting if if
+[00:41:46] you do the sort of Bas do the basic
+[00:41:49] physics on the energy density potential
+[00:41:52] of a capacitor um it using naturally
+[00:41:56] occurring material
+[00:41:57] um it's it's quite hard to to beat
+[00:41:59] lithium iron batteries um but if if you
+[00:42:03] can figure out a way to
+[00:42:05] make sort of unnatural materials I
+[00:42:07] suppose um uh that are accurate to uh
+[00:42:13] the molecular level um then then I think
+[00:42:16] I think you can actually have some
+[00:42:17] fairly significant breakthroughs um and
+[00:42:20] that was actually
+[00:42:21] developed the the ability to do that was
+[00:42:24] developed um in in the photonics arena
+[00:42:27] um and applying the sort of photonics
+[00:42:30] breakthroughs to Capac technology is
+[00:42:33] what um has the potential for for a
+[00:42:35] really uh big breakthrough there so I I
+[00:42:38] I think we may see something on that on
+[00:42:40] that level but it it isn't totally
+[00:42:41] required uh for for cars um for Rockets
+[00:42:47] um well there's there's no way to make a
+[00:42:50] rocket electric that's for sure um
+[00:42:52] unfortunately mutant's third law is
+[00:42:55] cannot be escaped um
+[00:42:57] I think maybe I mean
+[00:42:59] certainly there have to be a few Nobel
+[00:43:01] prizes awarded if that if there was some
+[00:43:04] way to get around it that would be
+[00:43:05] really really convenient um but uh I do
+[00:43:11] think it's possible with um a really
+[00:43:16] efficient uh uh combustion rocket to
+[00:43:20] achieve um the settlements of Ms um I I
+[00:43:26] think I think you we probably want to
+[00:43:28] switch to uh methane um I think it's
+[00:43:32] really methane or hydrogen are the kind
+[00:43:34] of the two two best choices uh there um
+[00:43:38] and um probably slightly leaning in the
+[00:43:40] direction of of methane because it's
+[00:43:42] easier to handle than than hydrogen
+[00:43:44] methane is just CH4 versus H2
+[00:43:48] um and and both can be produced on the
+[00:43:51] surface of Mars which is important um so
+[00:43:56] um yeah
+[00:43:58] um in fact I should say that uh I I'm
+[00:44:02] I'm quite confident at this point that
+[00:44:04] it is it is possible to um set to to to
+[00:44:09] create a self sustaining civilization on
+[00:44:11] M using only um a methane or oxygen a
+[00:44:15] methane or hydrogen based uh launch
+[00:44:18] system and
+[00:44:20] um yeah just just it needs to be a fully
+[00:44:24] reusable methan or hydrogen launch
+[00:44:26] system will
+[00:44:27] uh it can be done and I the key thing I
+[00:44:30] was trying to figure out was it um with
+[00:44:34] volume is it possible to get the cost of
+[00:44:36] moving Tom Mars down under half a
+[00:44:39] million dollars which I think is we can
+[00:44:41] argue about the exact threshold but I
+[00:44:43] think that's about the Threshold at
+[00:44:45] which um enough people would could save
+[00:44:48] up money and move to
+[00:44:50] Mars you
+[00:44:52] know I mean that's that's how that's how
+[00:44:55] America got created basically and come
+[00:44:57] back if they want they don't like it of
+[00:44:58] course you you get a free return tricket
+[00:45:01] um the the I mean actually I mean that
+[00:45:04] there's sometimes a debate about going
+[00:45:06] to Mars One Way um and whether that
+[00:45:09] makes things easier and I think for the
+[00:45:11] initial fights perhaps but long term to
+[00:45:13] get the cost down you need the
+[00:45:14] spacecraft back whether the people come
+[00:45:16] back is
+[00:45:17] irrelevant uh but but but you must have
+[00:45:20] the ship back uh because those those
+[00:45:21] things are expensive so so anyone who
+[00:45:24] wants to return can just jump on um
+[00:45:28] so that that's but but until a few years
+[00:45:30] ago I wasn't sure that success was one
+[00:45:32] of the possible outcomes and now I now I
+[00:45:34] think I'm quite sure the success is
+[00:45:36] possible of course there's a long way
+[00:45:38] between possible and making it real but
+[00:45:41] I I believe it it's possible Robotics
+[00:45:43] and then robotics
+[00:45:45] right um I think one can accomplish a
+[00:45:48] lot with robotics
+[00:45:50] um I I do slightly worry about if
+[00:45:53] robotics get too good what's the point
+[00:45:55] of us um
+[00:45:57] um so it's it's some I think either
+[00:46:02] either robotics get get so good and
+[00:46:04] there's not much point to us I guess I
+[00:46:06] don't know um or or or or they're
+[00:46:09] they're not as good as us in which case
+[00:46:11] we need to go and I I I'd Advocate the
+[00:46:14] second um and uh hopefully the future
+[00:46:19] does there's not some sort of AI
+[00:46:22] apocalypse
+[00:46:23] um yeah
+[00:46:27] great I'm sure come back to that who
+[00:46:29] like yeah the gentleman over
+[00:46:33] here good evening thanks for taking
+[00:46:35] questions uh I just had two brief
+[00:46:37] questions one on Tesla and the second
+[00:46:40] one on SpaceX I was wondering if you're
+[00:46:42] familiar with the saber engine the the
+[00:46:44] Hybrid engine um which is um there's a
+[00:46:47] team of hardworking Rolls-Royce
+[00:46:48] Engineers working on it in the Oxford
+[00:46:51] cluster at the moment it's a Hybrid
+[00:46:53] engine that uh breathes air on the way
+[00:46:55] up um and it's you talked about it
+[00:46:58] earlier in your your talk um that you
+[00:47:00] you're specifically looking at reusable
+[00:47:02] space delivery vehicles and Rockets So
+[00:47:06] that was the space SpaceX one and the
+[00:47:08] Tesla one was what happened to the
+[00:47:10] original Tesla prototype the mule
+[00:47:12] one oh um yeah well we still have the
+[00:47:16] original mule one of of the Tesla
+[00:47:19] Roadster
+[00:47:20] um and uh here I should give credit to a
+[00:47:24] small company in Southern California
+[00:47:26] called a propulsion um that had a
+[00:47:29] vehicle called the t0 um so our very
+[00:47:32] first mule was really um taking a Lotus
+[00:47:35] lease kind of jamming a AC propulsion
+[00:47:38] power Trin into it and then sort of
+[00:47:40] making it drive um and then
+[00:47:43] um yeah we originally thought that well
+[00:47:47] it would be
+[00:47:49] um this is another example of making
+[00:47:51] some some mistakes sort of dumb mistakes
+[00:47:53] but the the thought at the beginning
+[00:47:56] with Tesla was to to use AC propulsions
+[00:47:58] powertrain and Lotus lease and get to
+[00:48:00] Market fast with an electric car um as
+[00:48:05] it turned out uh the AC propulsion
+[00:48:07] powertrain didn't really work very well
+[00:48:10] um and was not scalable for production
+[00:48:12] um had had a lot of issues um and so we
+[00:48:16] had to completely redesign the
+[00:48:17] powertrain um and then the the Elise
+[00:48:21] um because our car ended up being 50%
+[00:48:24] heavier and had different uh weight
+[00:48:27] distribution and load points we
+[00:48:28] invalidated all the crash structure and
+[00:48:30] had to completely redesign the chassis
+[00:48:33] um and in the end I think about 7% of
+[00:48:36] the parts were in common with the leas
+[00:48:39] um so almost nothing and but but we
+[00:48:42] actually inherited some of the
+[00:48:43] limitations of an lease
+[00:48:46] so
+[00:48:48] okay okay so and then but there long
+[00:48:52] answer I'll try to be less less Long Way
+[00:48:53] than my answers but um so with respect
+[00:48:56] to to um air breathing hybrid
+[00:49:00] stages I I have not I've not seen how
+[00:49:03] the physics of that makes sense um there
+[00:49:06] may be some assumptions that I'm that
+[00:49:09] that I have that are that are incorrect
+[00:49:11] um but really for for an orbital rocket
+[00:49:16] um you're trying to get out of the
+[00:49:17] atmosphere as soon as possible because
+[00:49:18] the atmosphere is just thick as soup
+[00:49:20] when when when you're trying to go fast
+[00:49:22] and um and it's not helped by the fact
+[00:49:25] that the atmosphere is mostly not oxygen
+[00:49:28] you know it's sort of 80% nitrogen
+[00:49:31] so um so mostly what you're air
+[00:49:33] breathing is is chaff not wheat um and
+[00:49:37] and and having a big sort of intake is
+[00:49:40] like having a giant Break um so the the
+[00:49:43] braking effect um tends to overwhelm the
+[00:49:48] advantage of ingesting 20% oxidizer um
+[00:49:53] so so so you can just make to say the
+[00:49:57] the the Boost Age 5 to 10% larger and
+[00:50:01] get rid of all the air breathing stuff
+[00:50:02] and you're
+[00:50:04] done thanks El uh the gentleman on here
+[00:50:07] I I should say that this is being filmed
+[00:50:09] so if any of you don't want to be filmed
+[00:50:11] either don't ask a question or else uh
+[00:50:14] tell the people who who filming up here
+[00:50:16] afterwards that you'd like your
+[00:50:18] questions um extracted but the
+[00:50:20] assumption is that you're happy to to be
+[00:50:22] on record
+[00:50:24] um good evening with the new
+[00:50:26] technologies that has made the
+[00:50:27] availability of Shell Gas really cheap
+[00:50:30] and with the boom of the US Energy
+[00:50:32] sector do you think the there'll be a
+[00:50:35] limitations in the development of
+[00:50:37] sustainable energy in the coming decade
+[00:50:38] because of the new energy boom that us
+[00:50:40] is facing right now um yeah that's a
+[00:50:43] good point um
+[00:50:47] uh um new technology and Innovation can
+[00:50:50] have a downside one of the downsides is
+[00:50:52] the ability to extract far more uh
+[00:50:54] hydrocarbons than we thought were
+[00:50:56] possible
+[00:50:57] um including um you know once you start
+[00:51:00] getting into um uh deep methane or or
+[00:51:04] deep natural gas um you're actually uh
+[00:51:06] tapping into things that are not related
+[00:51:09] to dinosaur fossils um methane is a
+[00:51:13] naturally occurring uh gas um there
+[00:51:16] there are um places in the solar system
+[00:51:18] where that that with atmosphere is
+[00:51:20] primarily methane so it's it's not it
+[00:51:23] does not require organic origin so if if
+[00:51:26] we if we dig too deep for methane we're
+[00:51:28] actually going to a level that has never
+[00:51:31] never been seen before not even in in in
+[00:51:34] the the um you know very earliest
+[00:51:36] history of Earth so that that's very
+[00:51:39] dangerous I think um and uh but but but
+[00:51:44] that's that's why I think it's it's
+[00:51:45] important for electric cars to be able
+[00:51:47] to compete um without economics being a
+[00:51:51] factor
+[00:51:53] um and uh but I but I I I think this is
+[00:51:56] it is very dangerous uh to to be
+[00:51:59] extracting vast quantities of
+[00:52:02] hydrocarbons from from deep within the
+[00:52:05] Earth and putting them in the atmosphere
+[00:52:07] uh sooner or later something very bad
+[00:52:09] will will happen and
+[00:52:11] um yeah it's just uh and I
+[00:52:15] I there are a lot of people particularly
+[00:52:17] in the US who who are
+[00:52:21] vehemently uh against um electric cars
+[00:52:26] and sort of sustainable power it's quite
+[00:52:29] difficult to reason with them actually
+[00:52:31] um you know they'll say well you know
+[00:52:33] some scientists don't think it's a
+[00:52:35] problem uh and I'm like well okay you
+[00:52:37] know you can find some number of people
+[00:52:38] that will disagree with anything um and
+[00:52:42] and uh you know this this actually
+[00:52:43] reminds me of the of the tobacco
+[00:52:46] industry where for the longest time they
+[00:52:48] were actually complaining you see ads
+[00:52:51] where claim tobacco was healthy for you
+[00:52:53] I mean hard to believe these days but
+[00:52:57] um and and then there was there were
+[00:52:58] these reports where there seem to be
+[00:53:00] some correlation between lung cancer and
+[00:53:02] smoking and they're like they're like
+[00:53:04] our scientists have conducted
+[00:53:06] experiments and they show it's there's
+[00:53:07] no relation at all it's complete
+[00:53:09] complete nonsense and um and so so it
+[00:53:13] got to the point where where almost any
+[00:53:15] any any reasonable scientist would would
+[00:53:19] say that yes of course smoking causes
+[00:53:21] lung cancer and all sorts of other bad
+[00:53:23] things um not definitively but it's
+[00:53:25] extremely likely um and yet the tobacco
+[00:53:28] industry will would still uh say oh
+[00:53:31] scientists disagree because one or 2% of
+[00:53:34] the scientific Community didn't feel
+[00:53:37] that way and that's kind of and and then
+[00:53:39] the public just hears scientists
+[00:53:41] disagree not they don't here 99% of them
+[00:53:44] think it's
+[00:53:45] stupid
+[00:53:46] um yeah so it's a it's definitely a
+[00:53:49] tough thing and um hopefully that I mean
+[00:53:52] hopefully that that transition occurs
+[00:53:54] before it's before it's too late um I
+[00:53:56] mean there's already quite a bit of
+[00:53:58] momentum in the direction of climate
+[00:54:00] change um and
+[00:54:03] accelerating the uh removal of
+[00:54:05] hydrocarbons from the crust and placing
+[00:54:07] in the atmosphere is is I think just
+[00:54:09] very unwise um so anyway that's why I
+[00:54:12] think it's it's the biggest problem of
+[00:54:13] the 21st
+[00:54:14] century legitimately yeah uh you're an
+[00:54:18] incredibly successful and very modest
+[00:54:20] man but my question is about failure
+[00:54:22] about
+[00:54:23] modest I think we'd all think you're
+[00:54:25] modest so
+[00:54:27] um my question is about failure so I was
+[00:54:29] just wondering what are you trying at
+[00:54:30] the moment or what do you think you'll
+[00:54:32] attempt in the future that you're not
+[00:54:33] expecting to succeed
+[00:54:39] it well I think I think I'm going to
+[00:54:42] stay on on um electric cars and and
+[00:54:45] Rockets for a while um and
+[00:54:50] uh yeah it was actually never never my
+[00:54:53] intent to to run Tesla I I I kind of
+[00:54:58] because running two companies is quite
+[00:55:00] quite a burden actually
+[00:55:03] um um I I you know it's sometimes I run
+[00:55:07] people who who who who think oh if
+[00:55:09] you're CEO of the company then then then
+[00:55:12] this sort of Imagine themselves if they
+[00:55:13] were SE of the company they would Grant
+[00:55:15] themselves lots of vacation um and do
+[00:55:17] lots of fun things it's like that
+[00:55:18] doesn't work quite work work that
+[00:55:21] way um what you actually get is a
+[00:55:24] distillation of the the the worst things
+[00:55:27] going on in the
+[00:55:29] company it's like um and uh anyway so I
+[00:55:34] I I that the idea of taking on something
+[00:55:36] more is uh is is very frightening um but
+[00:55:41] uh I mean possibly at some point in the
+[00:55:43] future certainly not the near term there
+[00:55:45] are uh I think there's there's um an
+[00:55:48] opportunity to create um an electric jet
+[00:55:53] essentially um and and I do think one
+[00:55:55] could create electric jet that that um
+[00:55:59] is really exciting something that would
+[00:56:00] be supersonic vertical takeoff and
+[00:56:03] Landing pure electric um and just just a
+[00:56:06] v a vaguely forward um I think I think
+[00:56:09] that's that's a distinct I I'm quite
+[00:56:12] confident it's doable um provided that
+[00:56:15] there's a uh a rough doubling of the
+[00:56:18] energy density um in batteries or
+[00:56:20] capacitors you basically around around
+[00:56:23] the 500 wat per kilogram level is where
+[00:56:25] it starts to make sense
+[00:56:27] um and then there's um I I do think
+[00:56:29] there's the possibility of kind of a a
+[00:56:32] fifth mode of Transport uh which I've
+[00:56:35] talked
+[00:56:36] about kind of mentioned tangentially uh
+[00:56:40] which is uh
+[00:56:42] like I call the the hyperloop with um
+[00:56:47] and
+[00:56:48] um you
+[00:56:50] know I I i' like to sort of publish
+[00:56:53] something about that maybe in the next
+[00:56:55] month or two um once Tesla's at steady
+[00:56:58] state production um and and I want to
+[00:57:01] flesh it out a little bit to so that um
+[00:57:03] and and and pre- address some of the
+[00:57:06] rebuttal that people will come up with
+[00:57:08] um rather than just sort of put it out
+[00:57:09] there and then Happ you have the
+[00:57:10] rebuttal occur and and have an
+[00:57:13] unaddressed rebuttal
+[00:57:15] um but um I guess a way to think of it
+[00:57:18] is um it's like a cross between uh a
+[00:57:23] Concord and a rail gun
+[00:57:26] we look forward to about the gentleman
+[00:57:27] with the blue shirt at the door then
+[00:57:30] we'll come this
+[00:57:32] side hi thanks for a great talk um at
+[00:57:35] the risk of asking for Trade Secrets I
+[00:57:37] was just wondering having built the
+[00:57:40] Falcon Rockets what was the final
+[00:57:42] conclusion of your analysis to as to why
+[00:57:45] your Rockets were so much less expensive
+[00:57:46] than government
+[00:57:51] projects well there's there's there's
+[00:57:55] not a
+[00:57:56] the the the full answer is is quite
+[00:57:59] complicated um and requires at least um
+[00:58:04] uh at least some understanding of how
+[00:58:06] rockets work and um but but if you if
+[00:58:09] you divide a rocket into the cost of the
+[00:58:11] engines the airframe and the electronics
+[00:58:15] um and then the launch operation itself
+[00:58:17] those are the the marginal cost drivers
+[00:58:19] and then there's the um the fixed cost
+[00:58:21] of the company which is the you know
+[00:58:24] which should divide over the number of
+[00:58:25] launches that take place um but just
+[00:58:27] looking at the marginal cost
+[00:58:28] drivers um it means you have
+[00:58:31] to make a significant advancement in
+[00:58:34] engines significant airframe electronics
+[00:58:37] and launch operation um in fact
+[00:58:41] um it be easy to point out one of those
+[00:58:44] areas but success in one of those areas
+[00:58:46] would only have a small effect um so
+[00:58:48] let's say you had free engines um well
+[00:58:51] that would only reduce the cost of the
+[00:58:53] rocket by probably 30% the cost of
+[00:58:55] launch 30% um and and so that that's not
+[00:58:58] much that's not a huge breakthrough or
+[00:59:01] or free Electronics or free airframe you
+[00:59:03] actually have to compress all of them
+[00:59:05] quite a bit um and then like I said you
+[00:59:07] have to make them reusable
+[00:59:10] um I can give a sort of an example
+[00:59:13] illustrative example in the airframe um
+[00:59:16] that that may be helpful um the normal
+[00:59:19] way that a rocket airframe is
+[00:59:20] constructed is is a machined isogrid um
+[00:59:25] an i that that's where you take um high
+[00:59:28] strength um uh aluminum alloy plates and
+[00:59:32] you machine uh stiffeners
+[00:59:35] into integrally machine stiffeners into
+[00:59:37] the into the plate and I apologize it's
+[00:59:39] going to go a little SL slightly
+[00:59:42] technical um but uh imagine you sort of
+[00:59:45] have a plate of metal and you're just um
+[00:59:48] uh cutting triangles out of it um and uh
+[00:59:54] that that's normally how it Rockets are
+[00:59:56] are made um and most of a rocket is
+[00:59:59] propelling tank so these things have to
+[01:00:00] be sealed um so have to maintain
+[01:00:02] pressure and everything and and they
+[01:00:03] have to be quite stiff so that that's
+[01:00:05] only how it's done then the approach
+[01:00:06] that we took is um is rather to to build
+[01:00:10] it up um and and to start with um skin
+[01:00:14] sections and friction ster weld um
+[01:00:18] stiffeners into the skin into the the
+[01:00:21] skin sections um and uh this is this
+[01:00:25] this is a big Improvement because if you
+[01:00:27] machine away the material you're you're
+[01:00:30] left with maybe 5% of the original
+[01:00:32] material so you have a 20 to1 roughly uh
+[01:00:35] wastage material plus a lot of Machining
+[01:00:37] time um and it's very expensive if you
+[01:00:40] can roll sheet um uh and St well the
+[01:00:45] stiffness in then your material wastage
+[01:00:48] can be
+[01:00:50] 5%
+[01:00:51] so the inverse essentially um where
+[01:00:56] where uh you know instead of having a 20
+[01:00:58] to1 ratio you've got maybe a 1.1 ratio
+[01:01:01] it's it's it's you know instead of
+[01:01:03] having 95% wastage it's 5% waste which
+[01:01:05] is Hu huge Improvement um and then um
+[01:01:09] you can actually improve the mass
+[01:01:11] fraction too because if you have
+[01:01:15] um Stow wed stiffness you can increase
+[01:01:18] the profile and geometry and improve the
+[01:01:20] geometry of the stiffness so uh you can
+[01:01:23] have something which is say
+[01:01:26] uh 5 cm tall uh whereas if you machined
+[01:01:29] it from a plate it would be limited to
+[01:01:31] the plate which maybe 2 or 3 cm tall um
+[01:01:34] so you actually end up with something
+[01:01:36] which is both um more advanced and and
+[01:01:39] in that it is better Mass fraction but
+[01:01:42] it is also a fraction of the cost that's
+[01:01:44] one example but there there are many
+[01:01:45] such things Al one of the most amazing
+[01:01:48] 3D printers when I wasited you as
+[01:01:52] well M mlla who runs our getting out of
+[01:01:56] Transport Group in the uh in the Oxford
+[01:01:58] Mar
+[01:02:00] school so Elon the question I have for
+[01:02:02] you is to say that
+[01:02:06] uh we can see that our society is going
+[01:02:09] to go through a major change because of
+[01:02:11] the the the the the climate issue and
+[01:02:13] the carbon problem that we
+[01:02:14] have and looking back in our history
+[01:02:17] South Africa went through a major change
+[01:02:18] one one of the key uh enablers to that
+[01:02:21] was the scenario work with Clem Suna
+[01:02:24] where they had the high road and the low
+[01:02:25] road scenario and that that enable
+[01:02:27] people to envisage what would be a good
+[01:02:29] outcome and what would be a bad outcome
+[01:02:31] right what is your good outcome with the
+[01:02:34] climate change
+[01:02:36] challenge how would you envision what
+[01:02:38] the what a good world would look like
+[01:02:40] with this CL climate change
+[01:02:42] challenge uh
+[01:02:45] well I I I think the thing we need to do
+[01:02:48] is we the the best thing you to to to
+[01:02:51] achieve that um would be the C tax um
+[01:02:55] and and uh so it's I think if if we were
+[01:02:58] to just the market system will work
+[01:03:00] extremely well if if it has the right
+[01:03:03] information um to to to work uh so if if
+[01:03:08] if we just apply tax to carbon and then
+[01:03:09] dial that up according to whatever
+[01:03:11] achieves the the target maximum carbon
+[01:03:16] um proportion in the atmosphere that
+[01:03:18] that's that's I think the right way to
+[01:03:19] go and and countries really need to act
+[01:03:23] unilaterally people can't have this
+[01:03:25] thing will you know if such and such
+[01:03:27] country isn't doing it I'm not doing it
+[01:03:28] well okay set a good example you know
+[01:03:31] and and hopefully other over time other
+[01:03:33] countries will will fall in line um or
+[01:03:37] or get ostracized um so
+[01:03:40] um so I think that that's probably the
+[01:03:42] smart move and then we can avoid all of
+[01:03:44] there's no need for subsidies and um
+[01:03:46] special incentives which are really a
+[01:03:48] backwards way of trying to deal with the
+[01:03:50] lack of a carbon tax um so so I think in
+[01:03:54] in in the good scenario
+[01:03:57] the the best possible scenario would be
+[01:03:59] that something like that is
+[01:04:01] instituted um what what yeah um and
+[01:04:06] we're still going to have a significant
+[01:04:08] increase in in the Caron in the
+[01:04:11] atmosphere temperatures are still going
+[01:04:13] to rise sea levels will
+[01:04:15] rise uh there there will be um uh but it
+[01:04:20] it should be I mean the Dutch can manage
+[01:04:22] you know with their probably lot of d
+[01:04:25] compan companies will there a lot lot of
+[01:04:27] opportunity in the D business I think um
+[01:04:31] but I I think I think if if we if we
+[01:04:32] take action reasonbly soon um we can
+[01:04:35] avoid a calamitous outcome um if if we
+[01:04:39] only take take action say towards the
+[01:04:41] end of the century then it's it's it's
+[01:04:44] going to be extremely bad um um and um I
+[01:04:50] don't think people quite appreciate the
+[01:04:51] fact that there's the momentum of of the
+[01:04:54] climate you know of climate climate
+[01:04:56] change it's like even if you stop now
+[01:04:58] even if we immediately stopped all
+[01:05:00] carbon production the momentum will
+[01:05:02] still carry forward and and increase the
+[01:05:05] temperature raise water levels make
+[01:05:08] storms more powerful all those
+[01:05:11] things um so I
+[01:05:16] yeah so I'm not I'm trying to like
+[01:05:19] what's the good good we do we do carbon
+[01:05:21] tax we minimize carbon production we
+[01:05:24] move to sustainable transportation
+[01:05:25] energy production um which like I is
+[01:05:28] going to be sort of solar wind
+[01:05:30] geothermal Hydro uh and some nuclear I
+[01:05:33] think I think we have to we have to sort
+[01:05:35] of accept that that nuclear is a good
+[01:05:37] option in in certain places um and um
+[01:05:42] and I actually think that that the most
+[01:05:44] likely outcome is is is is a is a good
+[01:05:46] one or reasonably good one one one that
+[01:05:48] where there's does does damage but but
+[01:05:52] we but we recover I I I actually think
+[01:05:54] that will occur so I don't I want I'm
+[01:05:56] I'm quite optimistic about the future
+[01:06:00] um not suggesting complacency in the
+[01:06:02] least but I'm I I'm optimistic about the
+[01:06:05] future um trying to find a woman uh the
+[01:06:09] lady at the back
+[01:06:14] there hi um please excuse the pessimism
+[01:06:18] of this question but could we uh expend
+[01:06:22] so much energy running around on the
+[01:06:25] surface of the planet that um we don't
+[01:06:29] have enough to eventually get off it to
+[01:06:33] another planet if we wanted to and if so
+[01:06:37] how long might we have to that
+[01:06:41] point um yeah I actually think um as
+[01:06:45] long as the sun is shining we'll be fine
+[01:06:47] um that and that's going
+[01:06:50] to if if if we had to if Humanity had to
+[01:06:53] get all of its energy from from the Sun
+[01:06:55] it could it could do so um it's really
+[01:06:59] this a truly astounding amount of energy
+[01:07:01] that that comes at us from from the Sun
+[01:07:04] um and I mean it's interesting that
+[01:07:07] um um if you took the land area of used
+[01:07:12] by by um by nuclear plants including the
+[01:07:15] the stay out zones and everything um and
+[01:07:18] said okay what generates more power the
+[01:07:20] nuclear power plant or or just covering
+[01:07:24] it with solar panels in most cases it's
+[01:07:27] solar panels just the area used by the
+[01:07:30] nuclear power plant in solar panels to
+[01:07:32] generate more energy because you
+[01:07:33] actually have to have a big stayout Zone
+[01:07:35] you can't you can't just put you know a
+[01:07:37] nuclear power plant in the in in out in
+[01:07:38] the suburbs and and with a bunch of
+[01:07:40] people around it so you have to have
+[01:07:41] this big clear clear Zone um and so they
+[01:07:45] use a lot of area and um but just to
+[01:07:48] give you just a sense of how much power
+[01:07:50] can come from the Sun um this is
+[01:07:53] literally true what what what I've just
+[01:07:54] said
+[01:07:57] um the gentleman can red jump for
+[01:08:01] that hi thanks very much for your talk I
+[01:08:04] think you're a Visionary um so you
+[01:08:06] talked earlier about setting up a sort
+[01:08:09] of colony on Mars and you've talked
+[01:08:11] before about hopefully retiring onto
+[01:08:13] Mars um so I was my question is just Why
+[01:08:16] Mars right so people have talked about
+[01:08:19] uh upper atmosphere of Venus or various
+[01:08:21] moons so like why definitely not Venus
+[01:08:24] why why yeah but like why why M so oh
+[01:08:28] okay so you just by process of
+[01:08:31] elimination um the uh um Mercury is
+[01:08:37] obviously way too close to the Sun um um
+[01:08:41] definitely get I mean there there maybe
+[01:08:43] some you narrow habitable zone on the
+[01:08:46] back side of mercury but but I think one
+[01:08:49] sort of asking for trouble on that one
+[01:08:51] um and and then Venus um Ian is is in
+[01:08:57] Venus would be a lesson for for what
+[01:08:58] Earth could become you know in a worst
+[01:09:00] case scenario um which is a a sort of a
+[01:09:05] superheated high pressure um well the
+[01:09:09] case of Venus Acid Bath um so it's
+[01:09:12] literally a high pressure um high
+[01:09:14] temperature Acid Bath um so so
+[01:09:16] definitely not a good place uh to to to
+[01:09:20] to make another I mean I think the most
+[01:09:23] that any probe has even lasted on Venus
+[01:09:24] has measured
+[01:09:26] hours um and then the Moon is close but
+[01:09:29] it's it's really a small rock you know
+[01:09:31] that's just circling Earth with no
+[01:09:32] atmosphere um some very limited amounts
+[01:09:36] of of water ice that are sort of in the
+[01:09:38] in in very um permanently shattered
+[01:09:42] craters um and
+[01:09:45] um and and then it's got a 28 day
+[01:09:48] rotational cycle which isn't great for
+[01:09:49] plants um so so it's it would be quite
+[01:09:53] tough to make a self- sustaining
+[01:09:54] civilization on the moon
+[01:09:57] um so then coming to Mars um Mars is
+[01:10:01] definitely a fixer oper of a planet it's
+[01:10:04] not not not perfect but um but but
+[01:10:08] feasible I mean it's got a rotational
+[01:10:11] period of 24 and 1/2 hours so um
+[01:10:14] remarkably similar to Earth um it's got
+[01:10:17] um just under a half Earth's gravity so
+[01:10:20] it's like closer gravitationally it's
+[01:10:21] got a lot of water ice uh so almost all
+[01:10:25] of Mars has U water bound up in ice form
+[01:10:29] in the soil the soil has turned out to
+[01:10:31] be non-toxic based on on probes that
+[01:10:34] we've sent there so you could theor add
+[01:10:36] if you had a greenhouse and some
+[01:10:38] fertilizer and you you just sort of warm
+[01:10:40] things up and pressurized it a little
+[01:10:42] bit um then you could uh you could grow
+[01:10:45] plants on mice um and mice has a CO2
+[01:10:47] atmosphere which plants like to consume
+[01:10:50] so plants turns you consume CO2 and on
+[01:10:54] net exud oxygen
+[01:10:56] um so it's it's I think it's very very
+[01:10:58] doable to create a a Mars um base self
+[01:11:03] sustaining Mars base and then ultimately
+[01:11:05] uh terraform the planet to to make it
+[01:11:07] like Earth so we could just walk around
+[01:11:09] Outdoors be obviously a longer term
+[01:11:11] project but um but it's it's it it is
+[01:11:14] within the realm of
+[01:11:15] possibility and then and of course going
+[01:11:17] beyond that you're going to like Jupiter
+[01:11:19] and gas giants and you could potentially
+[01:11:21] do something on the moons of Jupiter or
+[01:11:23] Saturn but but but that's way harder
+[01:11:26] um Alex H who is the head of maths
+[01:11:29] physics and Life Sciences o but also a
+[01:11:31] GE
+[01:11:34] physicist um so I loved your talk and
+[01:11:37] look forward to talking more
+[01:11:40] um NASA and Isa in NASA in particular
+[01:11:44] has done a huge amount to transform our
+[01:11:46] understanding of the solar system
+[01:11:48] through wonderful planetary missions um
+[01:11:51] the Apollo program even though it had a
+[01:11:54] political military Dimension to it um
+[01:11:58] was persuaded at the late stages to
+[01:12:00] actually bring some rocks back which
+[01:12:02] totally transformed our understanding of
+[01:12:04] the inner solar system through those
+[01:12:06] samples so uh the way things are going
+[01:12:09] with you can you tell us how you
+[01:12:12] envision um private space exploration
+[01:12:15] taking over from major space agencies
+[01:12:19] and and JPL and organizations like this
+[01:12:22] in the future and with this move to
+[01:12:25] towards
+[01:12:26] privatization uh how are we going to be
+[01:12:28] able to address scientific priorities as
+[01:12:31] opposed to commercial priorities and
+[01:12:33] solar system
+[01:12:36] exploration sure uh so
+[01:12:40] um uh I I I think I think space
+[01:12:43] exploration is going to be a mixture of
+[01:12:44] of private and government government
+[01:12:46] activities and um and in fact for SpaceX
+[01:12:52] we there there are many things we want
+[01:12:53] to do to to enable scientific missions
+[01:12:56] um and and and enable NASA and JPL to be
+[01:13:01] able to um Anda and others to uh to to
+[01:13:06] do much more for a given budget um and
+[01:13:09] um in fact we've had a number of
+[01:13:12] conversations with JPL which is located
+[01:13:14] quite close to SpaceX um about using um
+[01:13:19] our Falcon rocket and dragon spacecraft
+[01:13:23] was the version two of the Dragon
+[01:13:24] spacecraft was will have propuls
+[01:13:26] propulsive Landing capability so version
+[01:13:28] two of the Dragon spacecraft will be
+[01:13:29] able to land on any liquid or solid
+[01:13:31] surface on the uh in the solar system um
+[01:13:34] so there's the potential to turn that
+[01:13:36] into a generalized uh science instrument
+[01:13:38] delivery platform um for for anywhere in
+[01:13:42] the solar system and then if you
+[01:13:44] conceivably you you one could figure out
+[01:13:47] how to do a sample return um you know if
+[01:13:49] you're to land dragon and then and and
+[01:13:52] have a a smaller sort of sample return
+[01:13:54] rocket housed within the dragon space
+[01:13:56] craft that that could return um some
+[01:14:01] some Martian regul that would be pretty
+[01:14:03] cool um and um so so we're exploring
+[01:14:07] some ideas there and and I think we'll I
+[01:14:10] think we'll see at least at least some
+[01:14:12] science missions um being done in the
+[01:14:15] future maybe a lot of them um so um it's
+[01:14:19] still at the early stage um we do have
+[01:14:21] one of we have Jason 3 which is a joint
+[01:14:23] uh NASA e Mission that's going to be
+[01:14:25] launched on one of our rockets in about
+[01:14:27] 2 years um and then of course we're
+[01:14:31] supplying the space station um so so I
+[01:14:35] think it's going to be a mixture of
+[01:14:36] government commercial I'm for whatever
+[01:14:38] means we'll we'll make it happen so I'm
+[01:14:40] not you know hard over on Commercial
+[01:14:43] government I'm just let's what whatever
+[01:14:46] works for all practical
+[01:14:48] purposes um lilan Martin
+[01:14:52] here is it too early to think about
+[01:14:55] about um establishing
+[01:14:58] some not rules but some uh attitude
+[01:15:02] toward the commons let it be common
+[01:15:06] because you know that the entrepreneurs
+[01:15:08] are going to go and try to mine things
+[01:15:11] there there are many valuable minerals
+[01:15:14] and things on on Mars and to keep it
+[01:15:18] from being exploited what kind of
+[01:15:21] thinking do we have to do
+[01:15:23] now well I I I think it's going to be
+[01:15:26] economical to to mine things on Mars and
+[01:15:29] then transport them back to Earth um
+[01:15:31] because the transport costs would
+[01:15:32] overwhelm the value of whatever you
+[01:15:34] whatever you mind uh but I mean there
+[01:15:37] will likely be a lot of mining on Mars
+[01:15:38] that's useful for a Mars base um but but
+[01:15:42] unlikely to be transferred back to to
+[01:15:44] Earth I think the the the exchange of
+[01:15:48] the the economic exchange between say
+[01:15:51] amar's uh amar's base and and Earth
+[01:15:54] would be mostly in the form of
+[01:15:56] intellectual property um anything that
+[01:15:59] can be transmitted by a photon um that
+[01:16:03] that's I think that that's the most
+[01:16:04] likely exchange of of things um that
+[01:16:07] will
+[01:16:08] occur um yeah uh but you I mean I I so I
+[01:16:14] don't I don't think we need to worry too
+[01:16:15] much about sort of exploitation of mos
+[01:16:16] essentially it's uh um yeah I mean that
+[01:16:21] would be a high class problem to deal
+[01:16:23] with for sure okay okay um lots of hands
+[01:16:26] up the back uh the the the gentleman uh
+[01:16:30] yeah
+[01:16:31] with hello um just want to ask two quick
+[01:16:34] questions real quick uh we've been
+[01:16:36] having a lot of argument about the food
+[01:16:38] versus World debate I just want to take
+[01:16:41] um get your um your take on the use of
+[01:16:44] biofuels as a means of
+[01:16:46] transportation and also the use of
+[01:16:50] electric um electric cars is most likely
+[01:16:53] to put some sort of strain on the
+[01:16:54] electrical grid of our cities I just
+[01:16:57] want to ask what kind of adaptations you
+[01:16:59] like to see done to the transmission
+[01:17:02] grid sure um so um I I'm I'm not I'm not
+[01:17:08] the biggest fan of biofuels um because I
+[01:17:11] I think it's difficult you know again I
+[01:17:13] try try to look at things like just
+[01:17:15] calculate the basic physics of it I mean
+[01:17:17] really Elementary stuff and uh and say
+[01:17:20] okay well what what percentage of the
+[01:17:22] incident sunlight is bound up in usable
+[01:17:25] chemical energy and then once you have
+[01:17:27] that chemical energy um how how much of
+[01:17:30] that is then translated into electricity
+[01:17:32] and you have to compare of course that
+[01:17:35] that uh total efficiency with just
+[01:17:37] having solar panels um and I mean unless
+[01:17:41] I've made some really dumb mistake which
+[01:17:44] possible but uh you're you're about a
+[01:17:47] 100 times off with biofuels I mean at
+[01:17:51] least two o its
+[01:17:52] magnitude um so if you so so essentially
+[01:17:56] what it boils down to is how many um
+[01:17:59] what's your watts per square meter of of
+[01:18:02] of electrical energy generated with the
+[01:18:05] best case biofuel I'm not talking about
+[01:18:08] like take take every every assumption
+[01:18:11] and and maximize it so so don't worry
+[01:18:14] don't say well maybe there something
+[01:18:16] somebody could invent something better
+[01:18:17] say what is the best just just envelope
+[01:18:20] the the whole thing and say you had
+[01:18:23] unbelievably efficient plants
+[01:18:25] in Maxim maximally efficient you can't
+[01:18:28] violate any laws of thermodynamics but
+[01:18:30] but like assuming you're at the limit of
+[01:18:32] the laws of thermodynamics in in all
+[01:18:34] those cases and biofuels at least for
+[01:18:36] terrestrial you know landbased biofuels
+[01:18:38] there's no way this this this makes
+[01:18:40] sense um you end up being around maybe
+[01:18:44] uh
+[01:18:45] 2% um you know efficient whereas um in
+[01:18:51] turn in turning sunlight into electrical
+[01:18:53] energy whereas solar panels commercial
+[01:18:56] solar panels are 20% efficient so why
+[01:18:58] would you ever do biofuels um and then
+[01:19:03] and then it's not as though that there
+[01:19:04] are large swaats of arable land
+[01:19:07] unused um so you have to say well this
+[01:19:10] if you goow with biofuels is going to
+[01:19:12] either result in Wilderness being being
+[01:19:14] cultivated or um an increase in food
+[01:19:18] prices um and then you you can also say
+[01:19:21] is it
+[01:19:22] possible if if you stopped all all food
+[01:19:25] production in the world to to uh
+[01:19:27] generate enough energy to meet the
+[01:19:29] world's needs and like yeah you you
+[01:19:31] could Pro probably that's about right
+[01:19:34] actually if you stopped all food
+[01:19:36] production um just about meet meet the
+[01:19:39] world's energy needs so so now there is
+[01:19:41] a possibility of of um ocean based um
+[01:19:45] because earth's surface is mostly ocean
+[01:19:48] um so if you could find a way to um you
+[01:19:52] know maybe maybe some sort of ocean
+[01:19:53] alergy based solution where you're
+[01:19:55] unconstrained by surface area um
+[01:19:58] although I still think you'd have to
+[01:20:00] compare that to a bunch of floating
+[01:20:02] solar
+[01:20:03] panels uh and and you I think you still
+[01:20:06] lose on floating solar panels
+[01:20:09] so I I can't see how how how it would
+[01:20:12] make sense um sorry what was the second
+[01:20:16] question uh the question the electricity
+[01:20:19] grid so um yeah
+[01:20:22] um at at some point
+[01:20:25] there will be need to be improvements to
+[01:20:27] electricity grid um but because that
+[01:20:29] there's a huge disparity in the peak
+[01:20:33] energy use during the day um and the
+[01:20:35] energy use at night um and most charging
+[01:20:39] of electric cars occurs at night um and
+[01:20:42] we have quite a a strong empirical uh
+[01:20:46] basis for concluding this because we can
+[01:20:48] look at all of our customers and and and
+[01:20:50] and and plot their energy usage and it's
+[01:20:53] very predominantly at night it's just
+[01:20:54] just like basically just like your cell
+[01:20:56] phone you you go home you plug it in and
+[01:20:58] it charges every night um and and there
+[01:21:01] there's
+[01:21:02] um you know that the electricity grid is
+[01:21:07] has to be sized for the worst second of
+[01:21:10] the worst day of the worst year with
+[01:21:13] some power plants not
+[01:21:16] functioning that's well that's
+[01:21:18] how electricity grit should be sized
+[01:21:22] Sometimes some doesn't work out that way
+[01:21:23] but um and and so um most of the time
+[01:21:28] you have huge amounts of excess capacity
+[01:21:31] um and then and so in the US there was a
+[01:21:35] study done you have like the St studies
+[01:21:37] done on all sorts of things some are
+[01:21:39] complete nonsense I love the words
+[01:21:40] studies say um but but I think the study
+[01:21:43] is actually poly accurate um that you
+[01:21:46] could replace about 70% of the passenger
+[01:21:49] miles in the United States at least I'm
+[01:21:51] not sure how to apply to Britain but in
+[01:21:53] 70% of the passenger miles with no
+[01:21:54] changes to the
+[01:21:56] grid um um assuming charging occur
+[01:22:00] predominantly at night and then if you
+[01:22:02] combine that with increased use of solar
+[01:22:04] panels on houses and and businesses so
+[01:22:08] you have localized Power Generation Um
+[01:22:10] and the nice thing about solar power is
+[01:22:11] it tends to match energy usage um
+[01:22:15] because just generating power during the
+[01:22:17] day when and that's when you tend to use
+[01:22:20] the most power um and uh and
+[01:22:23] particularly on on summer days where you
+[01:22:25] have air conditioning running and air
+[01:22:27] conditioning is a huge um consumer of
+[01:22:29] electricity um and you generally only
+[01:22:32] need it when it's warm and sunny so or
+[01:22:35] that's when you need it most so um so I
+[01:22:38] think we're okay on the on the grid
+[01:22:39] front um at least for the near future um
+[01:22:43] it it's only going to become a problem
+[01:22:45] once let's say electric vehicles are at
+[01:22:47] least approaching
+[01:22:48] 10% or 20% of the vehicles on the road
+[01:22:51] um and then I think we'll be able to
+[01:22:53] address the problem on a fa localized
+[01:22:55] basis I'm afraid that's um that's all we
+[01:22:58] have time for I know many of you uh have
+[01:23:01] have your hands up we will be running a
+[01:23:02] Blog uh and we'll try and encourage Elon
+[01:23:05] to to engage when he has a second in his
+[01:23:08] time as well uh and clearly lots of
+[01:23:11] different things happening in the Oxford
+[01:23:12] Martin school around this that we'd like
+[01:23:14] to engage you all in as well um I'm
+[01:23:17] going to ask the vice Chancellor to make
+[01:23:18] some concluding
+[01:23:21] comments ladies and gentlemen it's it's
+[01:23:24] worth remembering that the great
+[01:23:27] breakthroughs in exploration of the
+[01:23:30] world in past centuries came from this
+[01:23:33] combination that's been touched upon in
+[01:23:36] the question time of government
+[01:23:39] sponsorship but private genius and drive
+[01:23:43] and it was Pioneers that discovered the
+[01:23:46] Indies that crossed the Atlantic that
+[01:23:49] explored the Western extremes of Canada
+[01:23:53] and the United States
+[01:23:55] and I think you'll agree with me today
+[01:23:57] that we have heard this evening a true
+[01:24:00] Pioneer and as we imagine the
+[01:24:04] possibilities of space
+[01:24:07] exploration we've heard tonight some of
+[01:24:10] the possible solutions that might take
+[01:24:13] us there like Ian golden I had the great
+[01:24:16] pleasure to visit Elon at SpaceX in Los
+[01:24:20] Angeles it's hard to describe the scale
+[01:24:25] of the ambition the scale of the
+[01:24:28] Enterprise as the Rockets are being
+[01:24:30] built you see not only a real focus and
+[01:24:34] dedication on solving practical problems
+[01:24:37] in this vast many many football field
+[01:24:41] size Factory not only Rockets being
+[01:24:45] built but also soaring ambition in the
+[01:24:49] new designs the carrying of astronauts
+[01:24:52] as we've heard trying to turn the Rock
+[01:24:54] into reusable vehicles and I think today
+[01:24:58] we've we've really had an insight into
+[01:25:00] into the way elon's mind works and I
+[01:25:04] think it's given us all an object lesson
+[01:25:06] in Innovation and and you know don't
+[01:25:09] limit your
+[01:25:11] Ambitions go back to First
+[01:25:15] principles be ready to make lots of
+[01:25:19] mistakes but not so many that you run
+[01:25:22] out of money right exactly and perhaps
+[01:25:25] the last and most important of all don't
+[01:25:29] buy icbms from the
+[01:25:32] Russians right ladies and gentlemen it's
+[01:25:35] been a fascinating lecture a fascinating
+[01:25:38] question and answer session let me thank
+[01:25:41] all of you for participating it in in it
+[01:25:44] so wonderfully but most importantly
+[01:25:47] would you join me in thanking Elon Musk
+[01:25:51] for coming to Oxford for visiting us and
+[01:25:54] for giving us such a wonderful
+[01:25:56] Exposition this evening

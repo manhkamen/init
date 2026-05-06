@@ -1,0 +1,605 @@
+[00:00:00] - Hi it's me, Tim Dodd, the Everyday Astronaut.
+[00:00:04] I think it's safe to do this now
+[00:00:06] because we are socially distant,
+[00:00:07] we are far away from everyone,
+[00:00:08] we are following safety protocols,
+[00:00:10] but I am here at launch complex 39A.
+[00:00:13] This is at Kennedy Space Center in Florida,
+[00:00:15] I am standing right in front of SpaceX's crew Dragon capsule
+[00:00:20] riding on top of SpaceX's gorgeous Falcon 9 rocket.
+[00:00:23] You know this rocket, it can land itself.
+[00:00:25] It's flown like 85 times or something,
+[00:00:27] it's just this reliable workhorse rocket
+[00:00:29] that SpaceX has been flying for almost 10 years now.
+[00:00:32] And I'm here because this day
+[00:00:33] is a really really exciting day.
+[00:00:35] NASA is sending crew on top of a rocket
+[00:00:39] for the first time in almost nine years.
+[00:00:42] Almost nine years exactly.
+[00:00:43] The last crew that took off
+[00:00:45] from this exact launch pad, actually
+[00:00:46] from launch complex 39A was STS-135.
+[00:00:49] That was July 8th, 2011.
+[00:00:52] And that was the last time the United States
+[00:00:54] has put people into orbit.
+[00:00:56] So this is a really big deal.
+[00:00:57] Tomorrow from right here
+[00:00:59] about 24 hours from right now
+[00:01:01] that rocket's going to take off
+[00:01:02] and it's going to be sending Bob Behnken and Doug Hurley
+[00:01:05] up into orbit and they're gonna be sent off
+[00:01:07] to the International Space Station.
+[00:01:08] Now if you need a timeline breakdown of all of the events
+[00:01:11] on launch day all the way from suit-up to orbit,
+[00:01:13] I've already got you covered with a video.
+[00:01:15] Now if only there was someone that I could ask
+[00:01:17] a couple more questions to
+[00:01:18] because there's a lot of exciting stuff
+[00:01:20] that I think a lot of want answers to.
+[00:01:23] Who could that be?
+[00:01:24] I gotta stop doing that joke.
+[00:01:26] You guys have read the title of the video,
+[00:01:27] it's not like you
+[00:01:29] don't know what I'm doing right now.
+[00:01:31] (laughing) Oh, I wonder what Tim's gonna have on camera.
+[00:01:33] Hey guys.
+[00:01:34] - [Both] Hey.
+[00:01:35] - [Tim] How's it going?
+[00:01:36] - Good, how are you?
+[00:01:37] - [Tim] Fantastic.
+[00:01:41] Okay I've got smorgasbord of stuff for you guys to set up.
+[00:01:44] Jim if you could stand right over there along that,
+[00:01:46] I would love to shake your hand, but-
+[00:01:47] - I know, it's sad isn't it?
+[00:01:48] - Yeah, I'll just throw you a quick peace sign.
+[00:01:50] Right there is a mic,
+[00:01:53] if you wouldn't mind micing yourself up,
+[00:01:54] that would be fantastic.
+[00:01:56] And Elon, if you wouldn't mind mixing yourself up there too.
+[00:01:57] - Sure. - That'd be great.
+[00:02:00] (Elon whistling)
+[00:02:01] - And then rolling on that, rolling here.
+[00:02:03] Hi guys, congratulations,
+[00:02:04] we are basically 24 hours away
+[00:02:06] from seeing humans return to space from US soil.
+[00:02:10] American rockets, American soil. (laughing)
+[00:02:12] - You've heard that before?
+[00:02:13] - [Tim] Yeah, we've heard it
+[00:02:15] - That's good. - and I think we're ready, so.
+[00:02:16] - Cool.
+[00:02:17] I think the biggest thing I wanna,
+[00:02:18] well first off congratulations
+[00:02:19] to a big 2020 for you so far,
+[00:02:20] you've had a kid. - Oh yeah.
+[00:02:22] (laughing)
+[00:02:25] You have a rocket out there on the pad
+[00:02:26] waiting to have astronauts go to space for the first time.
+[00:02:31] And you're working on Starship simultaneously.
+[00:02:34] You're still doing everything with Tesla,
+[00:02:35] you're a very busy person.
+[00:02:37] But I wanted to set a record straight
+[00:02:38] straight off the bat.
+[00:02:39] I want people to hear from both of you
+[00:02:41] the beautiful partnership of NASA and SpaceX
+[00:02:44] and how far back it goes
+[00:02:45] and that it's not NASA versus SpaceX.
+[00:02:48] - Oh that's right.
+[00:02:49] - Absolutely.
+[00:02:50] - Yeah, Elon if you don't mind
+[00:02:51] just tell us the history of how SpaceX and NASA
+[00:02:54] started working together in the first place.
+[00:02:56] - Sure, well,
+[00:02:58] I mean this actually could be quite a long story,
+[00:02:59] but basically the whole reason I started SpaceX
+[00:03:03] was actually to try to increase NASA's budget.
+[00:03:06] Or at least the way I got interested in space
+[00:03:08] was I tried to figure out why we had not gone to Mars
+[00:03:12] and then I thought well maybe we need to reignite
+[00:03:16] public excitement in Mars,
+[00:03:17] so I initially started off
+[00:03:20] with the idea of doing this philanthropic mission
+[00:03:22] to send a small greenhouse to Mars
+[00:03:24] to get the public excited about sending life to Mars.
+[00:03:28] And if I got the public excited
+[00:03:29] then they would tell their representatives in Congress
+[00:03:33] to increase NASA's budget. (laughing)
+[00:03:35] That was the goal.
+[00:03:37] It was meant to be a philanthropic thing.
+[00:03:39] And then I tried to buy some ICBMs in Russia
+[00:03:42] to do this and ultimately came to the conclusion
+[00:03:44] that there's actually plenty of will
+[00:03:47] to go beyond Earth but there needs to be a way.
+[00:03:49] Like, essentially NASA needs to have more affordable rockets
+[00:03:54] that we need to increase the pace of innovation in space
+[00:03:57] and so if we can give NASA another horse in the stable,
+[00:04:00] that is moving faster and cost less
+[00:04:03] and is more innovative,
+[00:04:05] then that would be a way to accelerate progress in space.
+[00:04:08] So I love NASA and always have.
+[00:04:11] And always will.
+[00:04:12] - Yeah yeah, and Jim you weren't with NASA
+[00:04:15] at the beginning of the COTS program and stuff like that,
+[00:04:18] or even the, yeah, the commercial resupply,
+[00:04:20] but you've been around for a while
+[00:04:21] to see the cherry get on the top here with the crew program
+[00:04:25] actually coming together,
+[00:04:26] so tell us about what you've seen so far
+[00:04:28] and how you've seen the commercial partners
+[00:04:30] really step up to the plate.
+[00:04:32] - Yeah, so SpaceX brings a very unique capability to the mix
+[00:04:36] that NASA has been lacking quite frankly.
+[00:04:39] SpaceX is really good at flying and testing,
+[00:04:42] even being willing to fail and then fix
+[00:04:44] and then fly, test, fail, fix
+[00:04:47] and they can reiterate that over and over again
+[00:04:51] very very fast.
+[00:04:51] And we've seen that with Starship now.
+[00:04:54] The willingness to fail is something that NASA has lacked
+[00:04:57] for a very long time.
+[00:04:59] But it's what enables SpaceX to move so fast.
+[00:05:02] To rapidly iterate and improve.
+[00:05:05] NASA has this history of qualifying every component
+[00:05:11] and then every sub component
+[00:05:12] and then every, you know,
+[00:05:14] every piece of every rocket is fully qualified
+[00:05:18] and everything has to go perfect on every launch.
+[00:05:22] And that slows us down.
+[00:05:23] And SpaceX has been a great partner;
+[00:05:26] make no mistake, they have pushed NASA,
+[00:05:29] but I hope NASA has also come along and pushed them in a way
+[00:05:32] that is unique as well,
+[00:05:34] so this partnership has been fantastic.
+[00:05:37] And you're seeing the fruits of it;
+[00:05:39] you'll see it tomorrow, for sure.
+[00:05:41] - Yeah, there's no question
+[00:05:42] that SpaceX would not be where it is today without NASA.
+[00:05:46] As the saying goes, we're only here
+[00:05:47] because we stand upon the shoulders of giants.
+[00:05:49] - Yeah and then you're wearing stilts on top of that,
+[00:05:51] I feel like. (Elon and Jim chuckle)
+[00:05:52] It's a high bar.
+[00:05:53] I mean we're inside the actual firing room here,
+[00:05:56] this is where the,
+[00:05:57] and you guys flipped it the right way
+[00:05:58] so everyone's looking out the windows.
+[00:06:00] (Jim and Tim laughing)
+[00:06:00] - That's like the biggest change.
+[00:06:03] We modernized some of the decor,
+[00:06:04] but most importantly we flipped the screens
+[00:06:06] so everyone can look at it that way.
+[00:06:08] But this glass that's been here since the 60s,
+[00:06:12] you can see it in the Apollo documentaries and stuff.
+[00:06:18] It's the same glass, same angle,
+[00:06:21] it's been here since the 60s actually.
+[00:06:22] It was modern looking.
+[00:06:24] - Yeah, no, it's gorgeous.
+[00:06:25] This glass has seen a lot of history.
+[00:06:26] - Yeah, I mean, what an awesome view.
+[00:06:28] It's incredible, like wow.
+[00:06:30] - So I mean that's just gotta be the biggest honor
+[00:06:32] for, SpaceX leased that pad in 2014.
+[00:06:34] I was actually, that was the first mission was CRS3 for me,
+[00:06:37] and Gwen was out here to release the pad.
+[00:06:40] And I remember it being a big deal
+[00:06:42] you know 39A,
+[00:06:43] that's the launch pad. - It's like Time Square.
+[00:06:44] - Yes!
+[00:06:45] - It's like opening a play on Time Square,
+[00:06:47] this is the best location.
+[00:06:49] The best launch pad in the world, definitely.
+[00:06:51] - By far and I mean
+[00:06:53] obviously for those listening
+[00:06:54] this where the people going to the moon
+[00:06:56] every single one of them walked up,
+[00:06:59] went up that tower, well a slightly different tower,
+[00:07:01] but out there on that pad,
+[00:07:03] went to the moon,
+[00:07:04] like 80-something space shuttle missions
+[00:07:05] took off from 39A, I mean-
+[00:07:06] - It's a great honor that SpaceX is allowed to use that pad.
+[00:07:10] - There's a lot of history there.
+[00:07:12] And we're still writing the history.
+[00:07:14] The history is gonna be written tomorrow yet again.
+[00:07:16] - Yeah, so, tell me a little bit-
+[00:07:18] - I'm trying to...
+[00:07:19] - Yeah, you're in the super most awkward position,
+[00:07:21] this is gonna be the most YouTube interview ever,
+[00:07:23] but you know, we're rolling with it.
+[00:07:25] But one of the fun things for me
+[00:07:26] is watching the cargo go into the crew vessel.
+[00:07:29] All of the sudden we had Dragon one,
+[00:07:31] now we have crew Dragon
+[00:07:32] and it's substantially different but familiar.
+[00:07:36] So tell us, what's been some of the hardest parts
+[00:07:38] to transition from cargo into crew.
+[00:07:40] 'Cause crew is a little more important
+[00:07:44] than cargo.
+[00:07:45] - Yes, I mean cargo can be replaced, crew cannot.
+[00:07:49] And so the level of scrutiny, the level of attention is
+[00:07:54] I mean I don't know, an order of magnitude greater,
+[00:07:56] it was already high for cargo.
+[00:08:01] But it's just a whole nother level for crew.
+[00:08:04] So,
+[00:08:06] and I told the SpaceX team that,
+[00:08:09] you know the
+[00:08:12] this mission reliability is not merely the top priority
+[00:08:14] it is the only priority right now.
+[00:08:16] So we're just doing continuous insuring reviews
+[00:08:20] from now, nonstop, 24 hours a day until launch.
+[00:08:23] Just going over everything again and again and again.
+[00:08:27] And I was out at the pad just recently
+[00:08:28] just walking down the rocket;
+[00:08:31] we've got a team that's just crawling over the rocket
+[00:08:33] in the horizontal.
+[00:08:35] Then we're gonna rotate it vertical,
+[00:08:36] then we're gonna crawl all over in the vertical.
+[00:08:39] And
+[00:08:41] we're just looking for any possible action
+[00:08:44] that could improve the probability of success
+[00:08:46] no matter how small.
+[00:08:47] Whether that comes from an intern or anyone, doesn't matter.
+[00:08:51] - And this is just the beginning of,
+[00:08:53] I mean we're seeing a lot of new things come out
+[00:08:55] between partnerships with SpaceX and NASA.
+[00:08:58] I think the one-
+[00:08:59] - There's been a great partnership.
+[00:09:01] Like I said, I love NASA.
+[00:09:02] I literally had IloveNASA as my password.
+[00:09:05] Technically it was IloveNASA9!.
+[00:09:08] (all laughing)
+[00:09:10] 'Cause it would be too easy to guess otherwise.
+[00:09:11] Was the nine because of nine merlin engines?
+[00:09:13] - I think yeah yeah, it was.
+[00:09:14] - Nice, nice.
+[00:09:15] So I want to know,
+[00:09:16] you guys have dropped some surprises on us
+[00:09:18] just in the past couple months
+[00:09:19] we have Dragon XL flying on Falcon heavy for Gateway,
+[00:09:24] I didn't see that coming at all.
+[00:09:26] What is DragonXL?
+[00:09:27] What's its heritage?
+[00:09:30] What is it?
+[00:09:31] - Well, I think probably I wanna limit this interview
+[00:09:36] to what's happening tomorrow
+[00:09:38] and then we can talk about other stuff later.
+[00:09:42] I always love talking to you
+[00:09:43] so it's like, (stammering)
+[00:09:45] but we gotta stay.
+[00:09:46] - We gotta stay on, okay.
+[00:09:47] - Like when I said this is the only priority,
+[00:09:49] this is the only priority.
+[00:09:50] So other stuff is nice, this is the priority.
+[00:09:53] - What I will tell you and I think this is important,
+[00:09:56] this relationship between SpaceX and NASA,
+[00:09:59] has been sufficiently meaningful
+[00:10:01] to where we are now looking at
+[00:10:03] how we do all of our business models.
+[00:10:06] And that includes how we're gonna resupply the Gateway.
+[00:10:09] It includes how we're gonna get
+[00:10:10] to the surface of the moon.
+[00:10:12] This business model has proven to be very effective.
+[00:10:15] First on commercial resupply
+[00:10:17] now on commercial crew.
+[00:10:18] I will let SpaceX and Elon Musk talk all day long
+[00:10:22] about what the details entail, but,
+[00:10:25] and obviously he's not ready to talk about that today,
+[00:10:28] but I will tell you that the relationship
+[00:10:31] has proven to be tremendously valuable
+[00:10:34] and that the business model has proven
+[00:10:36] to be tremendously valuable.
+[00:10:38] - Yeah, well I mean because NASA basically got a Falcon 9
+[00:10:40] and a Dragon capsule
+[00:10:41] for an initial investment of $400 million.
+[00:10:44] - Right. - Yeah.
+[00:10:45] Nobody thought that would work, basically.
+[00:10:46] I think, yeah.
+[00:10:48] That was not expected.
+[00:10:50] That was like,
+[00:10:52] I think at the time viewed as like a maverick thing
+[00:10:54] that you know to basically,
+[00:10:57] to some degree,
+[00:10:57] at least by a lot of the conventional people was like,
+[00:11:00] oh let's just you know give those commercial guys some money
+[00:11:04] to be quiet and then, you know,
+[00:11:07] they'll stop bugging us, basically.
+[00:11:09] - It was definitely a hail Mary.
+[00:11:10] - And then it worked.
+[00:11:11] - Yeah, it was a hail Mary.
+[00:11:11] A commercial partner launching an orbital class rocket,
+[00:11:15] I mean, rendezvous with the International Space station,
+[00:11:17] it was already this huge long checklist
+[00:11:20] of okay sure, yeah I have to do that,
+[00:11:21] okay I'll have to do that too.
+[00:11:23] And now we're just seeing the next iteration of that,
+[00:11:25] we're seeing it to the point of being,
+[00:11:27] you know replacing the shuttle's importance
+[00:11:30] of carrying humans on top of it.
+[00:11:31] I mean that's like the ultimate thing, you know?
+[00:11:34] - Yeah. - Yeah.
+[00:11:35] - Well, the
+[00:11:37] flag has been up there since 2011.
+[00:11:40] And if all goes well, Dragon will recover the flag
+[00:11:43] that was last placed there
+[00:11:44] by the space shuttle nine years ago.
+[00:11:48] - And Doug was on that mission.
+[00:11:51] Doug Hurley.
+[00:11:52] So he, did he actually put the flag up there?
+[00:11:54] It'd be pretty cool if-
+[00:11:55] - I'm not sure, but-
+[00:11:56] - It would be pretty cool.
+[00:11:57] - I mean there's a certain poetry to this whole thing.
+[00:11:59] - There really is.
+[00:12:00] And the same launch pad.
+[00:12:02] I mean the whole thing is coming full circle, so.
+[00:12:05] What do you guys think as far as looking forward?
+[00:12:07] I mean we have next up already,
+[00:12:09] you already have another crew launch on the docket.
+[00:12:11] I mean, and it's been expanded from three people to four.
+[00:12:15] This mission's expanded from a two-week mission
+[00:12:17] to a month plus?
+[00:12:19] - Yeah, I'm not sure - Yeah.
+[00:12:20] - If the final amount of time has been decided,
+[00:12:22] do you know?
+[00:12:23] - No, it's very flexible on the backend, I'll say that.
+[00:12:26] So we wanna make sure that crew one is ready to go.
+[00:12:29] We have a target date for that at the end of August.
+[00:12:32] And between now and then
+[00:12:34] if crew one is ready to go,
+[00:12:35] Bob and Doug, we're gonna bring 'em home.
+[00:12:38] If we need to extend 'em a little bit,
+[00:12:39] we'll extend 'em a little bit.
+[00:12:40] We wanna get as much out of the International Space Station
+[00:12:43] as we can.
+[00:12:44] And so that's what we intend to do.
+[00:12:46] But the big three factors
+[00:12:48] when we think about the flexibility
+[00:12:50] on the backend of this mission,
+[00:12:52] the big three factors are the solar arrays,
+[00:12:55] which for this mission have about 114-day lifespan.
+[00:12:59] Although we will learn on orbit-
+[00:13:01] - Yeah, we'll, exactly,
+[00:13:02] there's a lot to be learned.
+[00:13:04] - They could last longer, we don't know yet.
+[00:13:06] But we're assuming 114 days at this point.
+[00:13:09] And then of course the weather and the readiness of crew one
+[00:13:12] and I think if all goes well.
+[00:13:14] I've been really clear with everybody on the NASA side,
+[00:13:17] our number one priority is to get this thing tested
+[00:13:20] and to get Bob and Doug home safely.
+[00:13:21] - Absolutely.
+[00:13:22] - That's the highest priority.
+[00:13:24] I would also like to say,
+[00:13:25] you mentioned that this is the replacement for the shuttle.
+[00:13:28] I really think that that's a gross understatement.
+[00:13:32] We are transforming in a very historical nature
+[00:13:35] how we access space in general.
+[00:13:37] We're NASA as a customer,
+[00:13:38] one customer of many
+[00:13:40] and we expect SpaceX as you know
+[00:13:42] to go get lots of customers that are not us.
+[00:13:45] And that's gonna drive down our costs.
+[00:13:48] And we wanna have not just SpaceX,
+[00:13:50] but other providers that are competitive
+[00:13:53] on cost, on innovation, on safety,
+[00:13:55] basically creating this robust marketplace in space.
+[00:13:59] And then we're using, the ISS right now is being used
+[00:14:02] to create the commercial markets of the future
+[00:14:06] for microgravity.
+[00:14:07] Whether it's pharmaceuticals, immunizations,
+[00:14:10] printing of human organs in 3D,
+[00:14:12] advanced materials, artificial retinas,
+[00:14:14] I mean there's so many things that we're proving out
+[00:14:16] on the ISS right now.
+[00:14:18] And if NASA accomplishes its objectives,
+[00:14:21] we're not just gonna have commercial resupply
+[00:14:23] and commercial crew,
+[00:14:24] we're gonna have commercial space stations,
+[00:14:26] we're gonna be landing on the moon commercially,
+[00:14:28] so this is the shuttle replacement,
+[00:14:32] that's not what this is,
+[00:14:33] this is a transformation
+[00:14:34] of how we do commercial space in general.
+[00:14:37] - I'm not sure if the public is actually aware
+[00:14:39] that there's a giant space station zooming around earth.
+[00:14:42] I think probably a lot of people don't know
+[00:14:44] that this is the case.
+[00:14:46] And it's enormous.
+[00:14:47] - Yeah. (Elon laughing)
+[00:14:48] - There's an enormous space station
+[00:14:50] zooming around the earth 25 times the speed of sound,
+[00:14:52] circling the globe every 90 minutes.
+[00:14:55] When you see the pictures it looks like it's stationary,
+[00:14:57] and it does have station in the name,
+[00:14:59] but it's extremely fast,
+[00:15:03] it's going
+[00:15:04] I mean,
+[00:15:05] it's going you know like...
+[00:15:08] - 17,500 mile and hour, 27,000 kilometers,
+[00:15:11] it's screaming.
+[00:15:12] - Yeah. - It's screaming.
+[00:15:13] - I mean,
+[00:15:14] order of magnitude faster than a bullet, basically.
+[00:15:16] - Right right, yeah.
+[00:15:17] And that, it's so funny
+[00:15:19] 'cause there's been a permanent presence
+[00:15:20] on the International Space Station too
+[00:15:21] for what 20 years or something now?
+[00:15:23] I mean it's been a huge part of the science
+[00:15:27] an the exploration of NASA currently
+[00:15:29] and it's fun to be able to see now with new offerings
+[00:15:32] we'll be able to get to the International Space Station
+[00:15:33] cheaper and NASA will continue to push
+[00:15:36] and go back into deep space
+[00:15:37] which I think it a really cool way
+[00:15:39] to transition into the future, so.
+[00:15:40] - Yeah, as the administrator was saying,
+[00:15:44] you know this is,
+[00:15:46] I mean, this is really,
+[00:15:47] we want this to be the dawn of a new era.
+[00:15:49] Where there's a rapid increase in innovation,
+[00:15:52] we're sending more and more people to orbit
+[00:15:55] that we're sending
+[00:15:57] both government and commercial passengers to orbit,
+[00:16:01] astronauts to orbit.
+[00:16:01] And
+[00:16:04] generally opening up space for humanity.
+[00:16:07] The ultimate goal being
+[00:16:08] that anyone who wants to go to orbit or the moon
+[00:16:11] or maybe even Mars can go.
+[00:16:14] It's like
+[00:16:14] if you want to move there you can.
+[00:16:18] Like that's the ultimate goal.
+[00:16:20] - So but then how is that handoff look?
+[00:16:22] 'Cause if commercialization opens up
+[00:16:24] and NASA's the current gatekeeper so to speak a little bit,
+[00:16:28] how does, that transition's gonna be
+[00:16:30] a little bit of a gray area for a little bit.
+[00:16:32] You know if Tom Cruise
+[00:16:34] going to the International Space Station,
+[00:16:37] who has the authority to say what goes on
+[00:16:39] and all that stuff currently
+[00:16:40] when commercial partners are the ones selling the ride?
+[00:16:43] - Well NASA, obviously. (laughing)
+[00:16:45] - Well, remember, for now, right?
+[00:16:47] And look, NASA, we have a job.
+[00:16:49] Exploration, discovery, science, inspiration,
+[00:16:53] that's our job.
+[00:16:55] But there's a whole nother element of space
+[00:16:57] which is development.
+[00:16:59] And that's what commercial industry does.
+[00:17:00] Commercial industry does development.
+[00:17:02] So when we think about
+[00:17:03] you know when people came to the new world
+[00:17:05] and then they expanded west, right?
+[00:17:08] They expanded west with a purpose,
+[00:17:10] they were seeking commerce.
+[00:17:12] The railroad got put into place for a purpose.
+[00:17:14] It was put there for commercial reasons.
+[00:17:17] And that's where we are right now
+[00:17:19] at the dawn of this new era in space flight.
+[00:17:21] Ultimately if the government is the only one
+[00:17:24] doing things in space it will not be sustainable,
+[00:17:26] it will not be successful.
+[00:17:28] There has to be a commercial motive
+[00:17:30] to achieve the objectives that we all hope for.
+[00:17:33] - Yeah and we're literally seeing that.
+[00:17:36] This is it, this is the dawn of that new era.
+[00:17:38] - It is.
+[00:17:39] - And that's, I mean, what history in the making.
+[00:17:42] I'm so excited that everyone,
+[00:17:44] the public is finally seeing this.
+[00:17:45] I'm seeing this everywhere, you know,
+[00:17:46] I mean SpaceX has had some big missions recently,
+[00:17:49] NASA's had some big missions recently.
+[00:17:51] But this is the one
+[00:17:53] and I am so excited to be here.
+[00:17:57] It's unfortunate a lot of the press and public
+[00:17:58] aren't able to have the
+[00:18:01] you know, concerning the circumstances,
+[00:18:02] but it's so cool that we live in an era
+[00:18:03] where we can bring this to everyone
+[00:18:04] and everyone can get excited
+[00:18:06] and have something forward to look,
+[00:18:08] something to look forward to
+[00:18:09] instead of the current state of the world, so-
+[00:18:12] - I really hope this is something
+[00:18:13] that like everyone,
+[00:18:16] no matter what their political leanings are,
+[00:18:18] how they feel can be excited,
+[00:18:20] they can look at this and be excited about the future.
+[00:18:21] - Yeah.
+[00:18:22] - That's exactly right.
+[00:18:23] Like this is a bright shining moment
+[00:18:26] in a very difficult time.
+[00:18:29] And we've had these in the past
+[00:18:30] and this is what NASA has been historically,
+[00:18:34] a signal of hope in a time of troubled circumstances.
+[00:18:37] And of course we think back to the 1960s,
+[00:18:40] we think about Vietnam, we think about the protests,
+[00:18:42] we think about the civil rights abuses,
+[00:18:44] we think about the civil rights protests,
+[00:18:46] the country in turmoil,
+[00:18:48] and yet, in 1968, we sent astronauts around the moon
+[00:18:52] in 1969 we landed on the moon.
+[00:18:54] That was probably one of the most difficult times
+[00:18:57] in American history
+[00:18:58] and yet we still achieved these magnificent things.
+[00:19:00] And here we are in the midst of the coronavirus pandemic
+[00:19:03] and we can still do magnificent things
+[00:19:07] and that's what tomorrow represents.
+[00:19:09] - Yeah, that's awesome.
+[00:19:10] Well thank you guys for taking some time with me.
+[00:19:12] Best of luck tomorrow. - Yeah thank you.
+[00:19:14] - We're all gonna be tuning in,
+[00:19:15] I'm telling you the public is extremely excited, so.
+[00:19:18] - Great.
+[00:19:19] Thank you guys for everything,
+[00:19:19] I'm gonna have to just throw you guys a peace sign
+[00:19:21] and say thank you,
+[00:19:21] but yeah all right, thanks guys.
+[00:19:24] - Thank you, appreciate you.
+[00:19:25] - Let me apologize.
+[00:19:26] If you saw this in my ear,
+[00:19:27] it's not because I have a producer,
+[00:19:28] I just had my friend Trevor Malman helping me shoot this
+[00:19:31] and that's it, that was it.
+[00:19:32] There's CBS and CNN
+[00:19:34] with all their big fancy cameras and stuff
+[00:19:36] and then there's just me
+[00:19:37] and I only brought two microphones
+[00:19:39] because I didn't know Jim Bridenstine was gonna join us
+[00:19:41] which was a huge surprise
+[00:19:42] so it ended up being,
+[00:19:43] like I'm like I'll give them the good mics,
+[00:19:45] so if my audio sucks,
+[00:19:46] I apologize, you're hearing iPhone headphones
+[00:19:49] to the rescue.
+[00:19:50] So I guess that's the joy of being a YouTuber.
+[00:19:54] Well, that exceeded quite literally
+[00:19:56] every expectation I've ever had in life.
+[00:19:59] I was just right there in firing room number four
+[00:20:02] which is literally where they commanded the Apollo missions
+[00:20:06] and told the rocket that took humans
+[00:20:08] to go to the moon to launch.
+[00:20:09] Right there, I was there, what just happened?
+[00:20:14] You should watch the Apollo 11 film,
+[00:20:16] the CNN films documentary on Apollo 11
+[00:20:18] that just came out last year
+[00:20:19] for the 50th anniversary.
+[00:20:21] You get to see a lot of shots from that particular room.
+[00:20:24] It was stuffed to the brim with computers
+[00:20:26] and it was facing the wrong way
+[00:20:27] where people were not looking out the window.
+[00:20:29] And it's just, being in there right now
+[00:20:31] I'm just totally beside myself.
+[00:20:35] Wow, what an awesome day.
+[00:20:37] And tomorrow's going to be even cooler.
+[00:20:40] And honestly I couldn't do it
+[00:20:41] if it wasn't for the help of my Patreon supporters.
+[00:20:43] So I you wanna help me continue to do what I do
+[00:20:45] and make awesome content
+[00:20:46] about rockets and space flights,
+[00:20:48] head on over to patreon.com/everydayastronaut
+[00:20:52] where you'll gain access to our exclusive sub Reddit,
+[00:20:54] our exclusive Discord channel,
+[00:20:55] and exclusive live streams.
+[00:20:57] And if you wanna wear some really cool shirts,
+[00:20:59] including a shirt where Elon's
+[00:21:00] after we shut off the camera's he's like,
+[00:21:03] you have arcadia planitia on your shirt?
+[00:21:04] I'm like yeah, that's your prime candidate landing site
+[00:21:07] for Starship with the exact coordinates
+[00:21:09] and he just chuckled and was like, that's awesome.
+[00:21:11] So yeah, if you want your own future martian society shirt
+[00:21:13] and some reminders of the gravity and atmosphere on Mars
+[00:21:17] and also a reminder not to forget
+[00:21:19] to wear a space suit if you're on Mars,
+[00:21:21] if you want any other cool shirt
+[00:21:22] like the full flow staged combustion cycle shirt
+[00:21:25] or pointy end up flame-y end down
+[00:21:27] we got lots of cool nerdy space stuff for you
+[00:21:29] at everydayastronaut.com/shop.
+[00:21:31] Thanks everybody, that's gonna do it for me.
+[00:21:33] I'm Tim Dodd, the everyday astronaut.
+[00:21:35] Bringing space down to earth for everyday people.
+[00:21:38] (funky music)

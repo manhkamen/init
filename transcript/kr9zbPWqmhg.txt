@@ -1,0 +1,1858 @@
+[00:00:00] hi
+[00:00:02] hi
+[00:00:03] hi
+[00:00:09] [Music]
+[00:00:18] okay well welcome to our last open
+[00:00:22] session of this meeting uh subject is
+[00:00:25] spacex
+[00:00:26] starship
+[00:00:28] and we are very pleased to welcome elon
+[00:00:32] musk
+[00:00:33] who leads spacex tesla
+[00:00:36] neuralink and the boring company as the
+[00:00:39] founder and chief engineer at spacex
+[00:00:42] alum
+[00:00:43] the development of rockets and
+[00:00:45] spacecraft for missions to earth orbit
+[00:00:48] in 2008 spacex falcon 1 was the first
+[00:00:53] privately developed liquid fuel rocket
+[00:00:56] to reach orbit and in 2017 spacex
+[00:01:00] re-flew both the falcon 9 rocket and
+[00:01:03] dragon spacecraft for the first time
+[00:01:06] they are also currently developing the
+[00:01:08] starlink mega constellation of
+[00:01:11] communication satellites and the
+[00:01:14] starship heavy lift launch system
+[00:01:17] and we welcome you and you can unmute
+[00:01:20] yourself and all mute me
+[00:01:27] great um
+[00:01:29] thanks for having me
+[00:01:30] um i think there may be an introductory
+[00:01:33] video potentially
+[00:01:35] that we can play
+[00:01:37] okay
+[00:01:52] andrea can you check the sound
+[00:02:03] oh
+[00:02:18] let me try that again i was muted
+[00:02:20] okay
+[00:02:22] the sound isn't essential um
+[00:02:28] hi
+[00:02:30] hi
+[00:02:31] hi
+[00:03:00] cup
+[00:03:15] be
+[00:03:57] uh
+[00:04:00] [Music]
+[00:04:20] uh great so
+[00:04:23] that was uh just an introductory video
+[00:04:24] regarding the starship program that was
+[00:04:26] all real no cgi there
+[00:04:30] so
+[00:04:31] what we're aiming to develop with a
+[00:04:33] starship is a generalized means of
+[00:04:36] transporting uh
+[00:04:37] large amounts of mass
+[00:04:39] more people but
+[00:04:40] just in general large amounts of mass
+[00:04:42] anywhere in the solar system
+[00:04:44] um the
+[00:04:46] idea behind uh
+[00:04:48] behind this is to have the first fully
+[00:04:50] and rapidly reusable rocket um which is
+[00:04:54] that's the really the holy grail of
+[00:04:55] rocketry um
+[00:04:57] if you can have a fully rapidly reusable
+[00:05:00] rocket oval rocket
+[00:05:02] uh then the cost of
+[00:05:05] of transport of
+[00:05:07] you know of a ton to orbit drafts by
+[00:05:10] about two orders magnitude uh
+[00:05:12] maybe better
+[00:05:14] so
+[00:05:15] um you know just as a word for uh really
+[00:05:18] any mode of transport if you
+[00:05:21] say had
+[00:05:22] aircraft or cars that
+[00:05:26] were not reusable you would see very
+[00:05:27] little use of aircraft and and cars
+[00:05:30] because you'd have to buy a new aircraft
+[00:05:32] every time you went somewhere
+[00:05:34] and if you traveled somewhere in a car
+[00:05:36] that was single use you'd have to
+[00:05:38] obviously tow a small car behind you
+[00:05:41] just for the return journey
+[00:05:44] so
+[00:05:45] uh
+[00:05:47] you know so i think this is quite
+[00:05:48] profound
+[00:05:50] if we are successful and and at least
+[00:05:52] from a design standpoint uh it appears
+[00:05:55] to be
+[00:05:56] uh you know all of the calculations
+[00:05:58] close for having
+[00:06:00] a fully fully reusable
+[00:06:02] 100 ton to lower orbit capability
+[00:06:06] [Music]
+[00:06:07] the the vehicle is very big
+[00:06:09] so one of the things that helps with
+[00:06:10] reusability is scale
+[00:06:12] because for example the
+[00:06:14] electronics that control the the brain
+[00:06:17] of the vehicle if you will does not
+[00:06:19] actually
+[00:06:20] get
+[00:06:22] any heavier
+[00:06:24] if it is a big vehicle or a small
+[00:06:25] vehicle so things like avionics and
+[00:06:28] control
+[00:06:29] initial measurements dancers and whatnot
+[00:06:32] become round out to basically
+[00:06:35] um almost no percentage of the mass for
+[00:06:38] a big vehicle
+[00:06:39] um
+[00:06:41] whereas for a small vehicle obviously
+[00:06:42] that would be much more of an issue
+[00:06:44] so scale scale certainly helps um
+[00:06:46] and then the uh we're using the most
+[00:06:49] advanced uh
+[00:06:51] engine cycle which from physics
+[00:06:52] standpoint is the
+[00:06:54] the
+[00:06:55] the best you can extract the most amount
+[00:06:57] of momentum for a given amount of fuel
+[00:07:00] or propellant
+[00:07:01] which is a full flow stage a full flow
+[00:07:05] uh gas gas staged combustion
+[00:07:07] uh engine now that's the raptor engine
+[00:07:11] there are currently 29 of those on the
+[00:07:14] base of the booster we'll be expanding
+[00:07:16] that to 33.
+[00:07:19] and
+[00:07:22] at 33 engines and with the rafter 2
+[00:07:24] we'll be doing about
+[00:07:29] 76 70 700
+[00:07:32] metric ton force of thrust on liftoff uh
+[00:07:35] so it's about
+[00:07:37] two
+[00:07:38] two point two two point three times the
+[00:07:40] thrust of a saturn v
+[00:07:42] um so it's really a very big deal
+[00:07:43] because the biggest rocket ever
+[00:07:45] um
+[00:07:46] ever designed
+[00:07:48] and and and we're we're close to our
+[00:07:50] initial launch
+[00:07:52] um on our national orbital launch we've
+[00:07:54] done
+[00:07:55] several subwoofer flights
+[00:07:57] and i've been able to to land the
+[00:07:58] vehicle successfully
+[00:08:00] um
+[00:08:02] the first orbital flight
+[00:08:03] we're hoping to do in in january
+[00:08:07] so we've completed the the first orbital
+[00:08:10] booster
+[00:08:11] uh and first orbital ship
+[00:08:14] and
+[00:08:15] will be complete with the uh
+[00:08:17] launch pad and launch tower
+[00:08:20] uh later this month and then we'll do
+[00:08:23] a bunch of tests in in december and
+[00:08:25] hopefully launch in in january um
+[00:08:28] there's a lot of risk associated with
+[00:08:29] this first launch so i would not say
+[00:08:31] that uh
+[00:08:32] it is likely to be success uh successful
+[00:08:35] but i think we'll make a lot of progress
+[00:08:37] and then we've also built a factory for
+[00:08:40] making a lot of these vehicles so this
+[00:08:42] is not a case of just just one or two
+[00:08:45] we're aiming to make a great many
+[00:08:47] ultimately
+[00:08:50] i think in order for life to become
+[00:08:52] multi-planetary uh we'll need uh
+[00:08:55] maybe a thousand ships or something like
+[00:08:57] that
+[00:08:58] um
+[00:09:00] but the the overarching goal of spacex
+[00:09:03] has been to
+[00:09:06] advance space technology such that uh
+[00:09:08] humanity can become a multi-planet
+[00:09:10] species
+[00:09:11] and ultimately a space-bearing
+[00:09:13] civilization and to make true the things
+[00:09:15] that we read about in science fiction
+[00:09:17] and have them not always be fiction um
+[00:09:22] i think this is actually quite important
+[00:09:24] um
+[00:09:25] uh well it's long term it's it's
+[00:09:27] essential for
+[00:09:29] preserving the light of consciousness um
+[00:09:33] eventually
+[00:09:35] something will happen to us uh hopefully
+[00:09:37] not soon um
+[00:09:39] but either natural man-made that would
+[00:09:42] cause the end of civilization um so the
+[00:09:45] probable lifespan of civilization is
+[00:09:47] much greater if we are a multi-planet
+[00:09:48] species
+[00:09:50] and and ultimately even go beyond our
+[00:09:52] solar system
+[00:09:54] but the first step is
+[00:09:56] is um being being multi-planet mars
+[00:09:58] being the only
+[00:10:00] realistic option for that um
+[00:10:04] so i think from from a
+[00:10:05] [Music]
+[00:10:06] a standpoint of
+[00:10:09] yeah like i said for stanford preserving
+[00:10:10] the light of consciousness and
+[00:10:13] um
+[00:10:15] which i think we should regard as
+[00:10:16] fragile
+[00:10:18] i think it's extremely important that we
+[00:10:20] try to become a multi-planet species um
+[00:10:23] as quickly as possible um
+[00:10:25] obviously along the way we will
+[00:10:27] learn a great deal
+[00:10:29] about the nature of the universe
+[00:10:34] and it will be possible to have many
+[00:10:36] more
+[00:10:37] space-based
+[00:10:38] experiments if you have
+[00:10:40] a very large vehicle
+[00:10:42] uh capable of transporting things to
+[00:10:44] orbits on the moon or anywhere
+[00:10:46] um
+[00:10:48] that at um you know 100 times less than
+[00:10:51] it currently costs
+[00:10:52] um so it's
+[00:10:54] it offers sort of profound
+[00:10:56] possibilities and i think this
+[00:10:59] uh
+[00:11:01] you know there's there's a fundamental
+[00:11:02] juncture in in the
+[00:11:04] uh history of
+[00:11:06] really any
+[00:11:07] civilization on a single planet which is
+[00:11:11] do you get to the second planet or do
+[00:11:12] you not
+[00:11:14] i propose we do
+[00:11:17] and i think we should do it as soon as
+[00:11:18] possible
+[00:11:20] um
+[00:11:21] the window of this opportunity is opened
+[00:11:23] now for the first time in the four and a
+[00:11:24] half billion year history of earth
+[00:11:26] it may be open for a long time or maybe
+[00:11:28] open for a short time and i think
+[00:11:30] we should
+[00:11:33] you know
+[00:11:36] be hasty
+[00:11:37] so that just in case it's only open for
+[00:11:39] a short time
+[00:11:43] yeah so like i said i think this is very
+[00:11:45] important for the long-term preservation
+[00:11:47] of the light of consciousness
+[00:11:49] um and of course we'll naturally
+[00:11:52] uh we'll learn a lot of science and
+[00:11:54] develop a lot of technology along the
+[00:11:55] way
+[00:11:56] so that that's what starship's all about
+[00:11:59] um
+[00:12:01] and um
+[00:12:03] we have an interesting project that
+[00:12:04] we're working with uh seoul uh
+[00:12:06] milometer at berkeley on uh which is to
+[00:12:09] have a really big uh telescope this is
+[00:12:11] taking a ground-based uh lens that a
+[00:12:14] lens that was intended for
+[00:12:16] a ground-based telescope and
+[00:12:19] creating a space-based telescope with it
+[00:12:22] so that could be i think pretty
+[00:12:23] interesting and we would love to do
+[00:12:25] other things as well
+[00:12:28] so
+[00:12:30] yeah
+[00:12:31] and i think people may know that nasa
+[00:12:33] has selected
+[00:12:35] a starship
+[00:12:36] for the um transport of astronauts to
+[00:12:39] the lunar surface
+[00:12:41] so
+[00:12:42] we look forward to doing that for nasa
+[00:12:44] and um
+[00:12:47] and then i think you know it really
+[00:12:49] could be
+[00:12:50] it has the ability because of the
+[00:12:52] the mass transport capabilities
+[00:12:54] of transporting enough
+[00:12:56] mass and people to the moon to actually
+[00:12:58] have a permanently occupied i think
+[00:13:00] based on the moon uh much as we have
+[00:13:02] like a permanently occupied base at
+[00:13:04] antarctica we could have a sort of a
+[00:13:07] moon research station which i think
+[00:13:08] would be
+[00:13:10] amazing
+[00:13:12] so
+[00:13:13] yeah i think anyway this is a very
+[00:13:15] profound vehicle um
+[00:13:17] and
+[00:13:19] um
+[00:13:20] nothing really like it has
+[00:13:23] uh
+[00:13:23] is being developed or
+[00:13:26] and i don't think anything quite like it
+[00:13:27] has been even proposed
+[00:13:29] but it's um
+[00:13:32] it has the potential to affect
+[00:13:34] human destiny in a very
+[00:13:36] profound way
+[00:13:37] so i'm happy to answer any any questions
+[00:13:40] i'm not sure
+[00:13:42] quite what you'd like to know so
+[00:13:44] maybe real time questions are the best
+[00:13:46] way to
+[00:13:48] address what people may be thinking
+[00:13:51] terrific thank you so much
+[00:13:53] elon
+[00:13:54] from our board members please raise your
+[00:13:57] hands for questions
+[00:14:01] and our first question will come from
+[00:14:04] louis demaro
+[00:14:11] i think you may be on mute
+[00:14:13] yeah still muted
+[00:14:16] there you go
+[00:14:17] it's just saying uh thank you for that
+[00:14:20] it's rather big vision i
+[00:14:22] i i wonder you know
+[00:14:25] in order to achieve this goal that that
+[00:14:28] you painted what type of uh
+[00:14:31] international collaboration
+[00:14:33] do you see
+[00:14:35] to get this done and
+[00:14:37] you know what what are the possibilities
+[00:14:39] of actually pulling that off
+[00:14:43] well we're not assuming uh any any
+[00:14:46] international collaboration uh we're
+[00:14:47] building this thing right now
+[00:14:49] um and we're we're really um building it
+[00:14:52] from internal funds there's nasa is
+[00:14:54] providing some support uh
+[00:14:57] uh they'll they tend to use starship for
+[00:15:00] uh transporting astronauts to the
+[00:15:02] surface of the moon but this has really
+[00:15:03] been an internally funded uh effort um
+[00:15:07] probably at least night nights
+[00:15:08] internally funded thus far
+[00:15:10] um and we um expect to reach all but uh
+[00:15:14] you know probably
+[00:15:16] i don't forget there on the first
+[00:15:17] attempt but
+[00:15:18] i'm confident we'll get there next year
+[00:15:19] and then we tend to have a high flight
+[00:15:21] rate next year
+[00:15:22] um
+[00:15:24] so
+[00:15:26] uh it it's difficult for us to actually
+[00:15:28] have international uh involvement
+[00:15:30] because of itar
+[00:15:32] so i i'm not sure and uh i don't really
+[00:15:35] see anyone
+[00:15:36] outside the us who is
+[00:15:38] um building some part of what we need
+[00:15:42] um so
+[00:15:44] yeah
+[00:15:46] we're just doing it
+[00:15:50] that's great wonderful answer next
+[00:15:52] question will come from adam burroughs
+[00:15:55] a fascinating vision i don't know where
+[00:15:57] to begin but i will ask just a technical
+[00:16:00] question
+[00:16:01] uh it was surprising to many that i
+[00:16:03] believe you chose a stainless steel
+[00:16:06] um for the vehicle i could be wrong but
+[00:16:09] what what what were the technical and
+[00:16:11] engineering reasons for that and don't
+[00:16:14] stint on the details
+[00:16:16] i sure that's a i think a very
+[00:16:18] interesting question um because uh to a
+[00:16:20] lot of people intuitively they would
+[00:16:21] think of steel as being heavy um
+[00:16:25] and rockets need to be light so
+[00:16:27] well that seems pretty a pretty odd
+[00:16:29] choice picking a heavy sounding thing
+[00:16:31] for
+[00:16:32] rockets especially orbital rockets that
+[00:16:34] need to be very light um i mean
+[00:16:37] the the nature of earth's gravity being
+[00:16:39] quite strong and a dense atmosphere
+[00:16:42] means that you really have to have an
+[00:16:43] incredibly good propellant mass
+[00:16:45] percentage
+[00:16:47] and you have to have very efficient
+[00:16:48] engines to get anything to open at all
+[00:16:50] um so
+[00:16:52] since then the white deal so we started
+[00:16:55] off with um
+[00:16:57] uh
+[00:16:58] with an advanced composite so
+[00:17:00] intuitively if you ask people who
+[00:17:02] understand materials they will say we
+[00:17:04] want to make something incredibly light
+[00:17:06] they will they'll say probably you want
+[00:17:08] to use state-of-the-art uh calm fiber
+[00:17:10] composite um that's usually what they'll
+[00:17:12] say
+[00:17:13] um
+[00:17:13] and that's what we started out with
+[00:17:15] which was um
+[00:17:16] really a very advanced carbon fiber um
+[00:17:20] and uh actually it was
+[00:17:22] only made in very small quantities uh it
+[00:17:24] cost uh 130 per kilogram so it was very
+[00:17:27] expensive material
+[00:17:29] um
+[00:17:31] and um and there are some challenges if
+[00:17:33] you want to make the primary structure
+[00:17:34] out of uh carbon fiber which is that uh
+[00:17:36] you've got to make contain uh cryogenic
+[00:17:40] uh fluid and um
+[00:17:42] and you need a
+[00:17:43] uh
+[00:17:44] gas in sort of what's called gas
+[00:17:47] pressurization gas
+[00:17:48] uh to pressurize the propellants in the
+[00:17:51] main tanks and and feed the uh engine
+[00:17:53] turbo pumps with a with a given inlet
+[00:17:55] pressure
+[00:17:56] so so for if you have if you have a
+[00:17:59] carbon fiber tank because it tends to be
+[00:18:01] porous
+[00:18:02] and also um
+[00:18:03] potentially uh flammable when subject to
+[00:18:07] warm gaseous uh ox pure oxygen because
+[00:18:11] our vehicle is autonomously pressurized
+[00:18:12] so the oxygen tank is pressurized with
+[00:18:14] gaseous oxygen and the fuel tank is
+[00:18:16] pressurized with gaseous methane
+[00:18:18] um so um the re the resin and the carbon
+[00:18:22] in the
+[00:18:23] carbon fiber is potentially flammable um
+[00:18:25] with with hot pure oxygen gas so you'd
+[00:18:29] have to have some kind of liner
+[00:18:31] so when you look at the the full mass
+[00:18:34] and complexity of a column fiber system
+[00:18:35] you you start having um
+[00:18:38] uh things that
+[00:18:39] reduce the mass efficiency of carbon
+[00:18:42] fiber such as having an inert liner um
+[00:18:45] and being worried about uh
+[00:18:47] uh
+[00:18:49] gas permeating through the carbon fiber
+[00:18:51] and that kind of thing so
+[00:18:52] um
+[00:18:54] then uh but it still would be and it's
+[00:18:56] still an okay choice um however um we
+[00:18:59] were having a lot of trouble making
+[00:19:00] progress with uh the
+[00:19:03] uh
+[00:19:04] carbon fiber um because this is a nine
+[00:19:06] meter diameter rocket
+[00:19:07] and so you're wrapping carbon fiber um
+[00:19:10] with typically in this case uh 60 or 220
+[00:19:13] plies depending upon where you are on in
+[00:19:16] the tank um and you have to get all of
+[00:19:18] those wrappings uh accurate and not um
+[00:19:22] leave bubbles or separator sheets or all
+[00:19:24] the things that typically happen
+[00:19:26] um or you've got to scrap the whole
+[00:19:28] thing
+[00:19:29] and then you've got to
+[00:19:30] to get good good master properties put
+[00:19:32] it in an autoclave um and put it under
+[00:19:34] you know a large pressure
+[00:19:36] um and then you need a gigantic
+[00:19:38] autoclave because it's a nine meter
+[00:19:40] diameter with a
+[00:19:42] 70 meter long boost stage
+[00:19:45] so this is autoclave from hell
+[00:19:47] um
+[00:19:48] and we we just weren't making rapid
+[00:19:51] progress with this material so
+[00:19:53] then i i so then the next step the next
+[00:19:56] thing the the other two materials worth
+[00:19:58] considering are a
+[00:20:00] uh high strength form of aluminum
+[00:20:02] aluminium
+[00:20:04] or
+[00:20:05] uh potentially steel
+[00:20:06] so for falcon 9 we use um aluminum
+[00:20:09] lithium
+[00:20:10] which is the highest strength to weight
+[00:20:11] aluminum alloy that you can use very
+[00:20:13] difficult to weld
+[00:20:14] but that's what we use for the primary
+[00:20:16] structure of falcon 9.
+[00:20:18] then
+[00:20:19] but the problem is it's very difficult
+[00:20:21] as well you need to do friction still
+[00:20:22] welding
+[00:20:23] and also the material cost is quite high
+[00:20:25] so
+[00:20:27] um you know that's that's sort of a
+[00:20:29] material cost
+[00:20:30] arguably on the sort of 40 dollars a
+[00:20:32] kilogram level
+[00:20:34] um
+[00:20:35] and uh like very difficult to weld but
+[00:20:37] then and then there's the steel now the
+[00:20:39] interesting thing about 300 series
+[00:20:42] stainless steel is that uh its
+[00:20:44] properties at cryogenic temperatures uh
+[00:20:47] strength properties increased
+[00:20:48] dramatically so if you were to look at
+[00:20:49] the material properties at room
+[00:20:51] temperature you'd be like well it's not
+[00:20:52] that great but now go now go uh look at
+[00:20:55] the temperature properties at liquid
+[00:20:57] oxygen temperature oh actually much
+[00:20:59] stronger
+[00:21:00] also no no meaningful increase in
+[00:21:03] brittleness so you have still has high
+[00:21:05] toughness uh at cryogenic temperatures
+[00:21:08] uh it is much stronger depending on how
+[00:21:09] how cold you go
+[00:21:11] up to twice as strong
+[00:21:13] uh and then the um yeah so
+[00:21:17] and then you can also cold work it so
+[00:21:19] you get if you go sort of full hard cold
+[00:21:21] work
+[00:21:22] um and
+[00:21:23] uh and do the final bit of cold work uh
+[00:21:25] at cryogenic temperatures uh you get
+[00:21:28] outstanding uh strength properties which
+[00:21:30] are roughly equal to an advanced carbon
+[00:21:33] fiber
+[00:21:34] um and and this is in our case for for
+[00:21:39] um
+[00:21:40] for starship the it both the fuel and
+[00:21:43] the oxygen are cryogenic
+[00:21:44] so this helps helps a lot whereas for uh
+[00:21:47] falcon 9 the use cryogenic oxygen but um
+[00:21:51] kind of room temperature uh kerosene
+[00:21:53] fuel um
+[00:21:55] so anyway so
+[00:21:56] we're
+[00:21:58] this is a quite long explanation
+[00:21:59] hopefully interesting
+[00:22:00] um
+[00:22:01] uh if if both fuel and oxygen are fuel
+[00:22:04] and oxidizer are cryogenic now you get
+[00:22:06] the strength properties in in the
+[00:22:08] primary structure of both tanks um
+[00:22:11] and uh so both very strong uh very tough
+[00:22:14] uh and resilient uh also very easy world
+[00:22:17] stainless steel
+[00:22:19] um
+[00:22:20] and we started off with stainless steel
+[00:22:21] 301 um
+[00:22:23] that that did have some some um
+[00:22:26] fracture toughness issues at
+[00:22:29] uh quite draining temperatures
+[00:22:31] um we switched to 304 and now we have
+[00:22:34] our we developed our own alloy which is
+[00:22:35] 30x which is better than either 301 or
+[00:22:39] three or four um
+[00:22:41] so
+[00:22:42] um and and anyway so now
+[00:22:45] now stainless steel only costs about
+[00:22:47] four dollars a kilogram
+[00:22:49] so we're from 130 a kilogram
+[00:22:52] uh
+[00:22:53] advanced carbon fiber to four dollar a
+[00:22:55] kilogram stainless steel
+[00:22:57] uh from 120 plies
+[00:23:00] to one ply it's just coil from the mill
+[00:23:03] um and
+[00:23:06] basically the same strength um
+[00:23:09] and and very high toughness and
+[00:23:11] resilience and don't even need to paint
+[00:23:12] it which is great um
+[00:23:15] so the painters
+[00:23:16] you know not wait can't paint on a big
+[00:23:19] vehicle weighs many tons and it's quite
+[00:23:22] difficult to make big things so
+[00:23:25] uh
+[00:23:26] so that and but now there's another
+[00:23:28] advantage so
+[00:23:30] um obviously you can tell i'm a huge fan
+[00:23:32] of stainless steel i
+[00:23:33] understand i should get a room or
+[00:23:34] something um
+[00:23:37] um
+[00:23:38] so the
+[00:23:40] so for increa in
+[00:23:41] making the vehicle reusable um so now
+[00:23:44] the it's coming in very hot um
+[00:23:46] so the ship is coming in at hypersonic
+[00:23:49] velocities coming you know it's a
+[00:23:51] kind of like a mach 25 uh entry velocity
+[00:23:54] so
+[00:23:55] this is just obviously
+[00:23:57] melted
+[00:23:59] um
+[00:24:00] and um
+[00:24:02] and if but if you've got steel your
+[00:24:05] melting point is much much better higher
+[00:24:08] than aluminum um and you can have it
+[00:24:10] handle much better temperatures than the
+[00:24:11] uh carbon fiber because the the resin
+[00:24:14] tends to have problems like you can
+[00:24:16] basically
+[00:24:17] go you know
+[00:24:19] you know anything much above say 200
+[00:24:22] celsius or
+[00:24:24] for carbon fiber or aluminum is is you
+[00:24:26] start falling off a cliff from a
+[00:24:28] strength standpoint
+[00:24:30] but but for steel you go 800
+[00:24:33] and
+[00:24:33] it's fine even 1000 can be fine
+[00:24:36] so for for the ship this means that the
+[00:24:38] heat shield mass is significantly
+[00:24:40] reduced because the the heat shield
+[00:24:43] mass is determined by the temperature um
+[00:24:46] on the back of the tile
+[00:24:48] uh that and that that then transmits to
+[00:24:51] the hull
+[00:24:52] so the hull if the hull is steel um you
+[00:24:55] can have thin uh heat shield tiles
+[00:24:56] whereas the hull is carbon fiber or
+[00:24:59] aluminum you have to have thick heat
+[00:25:00] shield tiles
+[00:25:01] and you also need no heat shielding at
+[00:25:03] all on the leeward side
+[00:25:05] of the ship
+[00:25:06] so
+[00:25:07] it is actually lighter than the most
+[00:25:10] advanced carbon fiber vehicle
+[00:25:12] yeah i'm very surprised at that but that
+[00:25:13] was very very interesting i appreciate
+[00:25:16] your long disposition on this and i'm
+[00:25:19] i i thought that the steel substituting
+[00:25:22] for aluminum on the re-entry made some
+[00:25:24] sort of sense i i didn't realize any of
+[00:25:26] the other stuff yeah
+[00:25:30] the right thing and then it's just
+[00:25:32] and it's it's like the cost is
+[00:25:34] ridiculously low it's like four dollars
+[00:25:37] a kilogram
+[00:25:38] even the special alloy that we're
+[00:25:39] developing although it requires like a
+[00:25:41] mill run
+[00:25:42] um it's not using anything super exotic
+[00:25:44] we might throw a little
+[00:25:46] exotic spicy something in there but it's
+[00:25:48] a small it's you know it's gonna be like
+[00:25:49] point two percent um so it's still gonna
+[00:25:51] be like maybe four dollars a kilogram
+[00:25:53] maybe 450 um and then it's just very
+[00:25:56] easy to to to weld um
+[00:25:58] and um
+[00:26:00] uh yeah i love it it's great and then if
+[00:26:03] we want to just add something to if you
+[00:26:05] want to
+[00:26:06] you know
+[00:26:06] [Music]
+[00:26:08] it's easy to repair it's if you want to
+[00:26:11] um
+[00:26:12] you know add a sort of something to
+[00:26:15] carry some wiring or plumbing or
+[00:26:17] whatever you just weld it right on it's
+[00:26:19] super easy
+[00:26:21] it's great
+[00:26:25] it's a high-tech low-tech
+[00:26:27] um wonderful
+[00:26:29] our next uh question will come from
+[00:26:31] howard singer elon
+[00:26:36] hello i started my science career
+[00:26:38] watching captain video and
+[00:26:40] reading isaac asimov
+[00:26:42] and you've made all that fiction real so
+[00:26:45] thank you very much uh my question is
+[00:26:48] uh what are you doing for radiation
+[00:26:51] protection for the crews and if you uh
+[00:26:54] have you explored the need for
+[00:26:56] forecasts of the space weather
+[00:26:58] conditions or the space weather
+[00:27:00] environment
+[00:27:02] sure um
+[00:27:04] well um
+[00:27:06] i i think there is um
+[00:27:09] you know there's always there's always
+[00:27:10] always some risk uh going into deep
+[00:27:12] space um
+[00:27:14] and and i
+[00:27:16] um we definitely wouldn't want to
+[00:27:18] be traveling when there's like intense
+[00:27:20] solar storms or anything like that um
+[00:27:24] you know for going to the moon like
+[00:27:26] obviously you know the united states has
+[00:27:28] done that before um and it would be
+[00:27:30] great to go back and great to have a
+[00:27:32] permanent base where you know um if if
+[00:27:34] the costs are good enough where we can
+[00:27:36] have like a
+[00:27:37] significant science contingent actually
+[00:27:39] you know
+[00:27:40] you know
+[00:27:41] on the base permanently occupied are we
+[00:27:43] epic um
+[00:27:45] so
+[00:27:47] but once you're on the moon of course
+[00:27:48] you you're protected by the the moon
+[00:27:50] below you and then you can you can put a
+[00:27:52] lot of lunar regolith on top of whatever
+[00:27:54] um you know the research station roof uh
+[00:27:57] would be um so once you're there easy to
+[00:28:00] protect on the way we'll have to check
+[00:28:04] the weather report
+[00:28:06] but for mars it's going to be trickier
+[00:28:08] you know i
+[00:28:09] um
+[00:28:10] obviously we don't have all the answers
+[00:28:12] here but
+[00:28:13] um
+[00:28:14] and there may be some clever ways to
+[00:28:15] reduce the rate radiation effects
+[00:28:18] um but i don't think they're
+[00:28:19] insurmountable
+[00:28:22] all righty thanks uh our next question
+[00:28:25] comes from margie kivelson
+[00:28:29] uh so i'm an enthusiast for the outer
+[00:28:32] planets
+[00:28:33] and uh
+[00:28:35] spacex is giving the europa clipper a
+[00:28:37] lift out to
+[00:28:39] uh jupiter i wondered if you have
+[00:28:42] comments on other
+[00:28:45] uh missions that you would like to
+[00:28:48] enhance by
+[00:28:50] providing
+[00:28:51] big big lists
+[00:28:54] sure um actually we're really
+[00:28:56] excited and and honored to uh be flying
+[00:28:58] the the clipper mission um
+[00:29:01] and um
+[00:29:03] you know
+[00:29:04] i mean i think this
+[00:29:05] there could be some incredibly exciting
+[00:29:07] things to discover and hopefully are um
+[00:29:09] under europa um
+[00:29:11] it's uh seems like probably the best
+[00:29:13] place for some
+[00:29:14] strange life uh so hopefully we find
+[00:29:17] some really cool things
+[00:29:19] um
+[00:29:19] so yeah i can't wait to launch the
+[00:29:21] clipper and um
+[00:29:22] that'll be on a falcon heavy um
+[00:29:25] currently uh with with the starship we
+[00:29:28] could like the great thing about
+[00:29:29] starship is it it really should enable
+[00:29:32] us to send very big things and also and
+[00:29:34] also to send them uh uh fast and like
+[00:29:38] need much less in the way of um
+[00:29:41] sort of planetary gravity assists and
+[00:29:43] that kind of thing um
+[00:29:45] so um especially if we could build a
+[00:29:48] propellant generation um on the moon uh
+[00:29:51] then then we could really send something
+[00:29:54] very to very with with very high delta b
+[00:29:57] um
+[00:29:58] and if we have a base on mars with uh
+[00:30:01] high delta v now you could really you
+[00:30:03] can basically plan it hop from mars to
+[00:30:06] maybe saras to maybe one of the ruins of
+[00:30:09] jupiter and ultimately all the way to
+[00:30:12] the outer
+[00:30:13] solar system
+[00:30:14] um
+[00:30:16] basically any place we can put the the
+[00:30:18] gas station
+[00:30:20] that that gives us a another whole leap
+[00:30:22] forward
+[00:30:25] so
+[00:30:26] ultimately starship is designed to be
+[00:30:29] a generalized transport mechanism for
+[00:30:32] the greater solar system
+[00:30:34] um
+[00:30:35] and um
+[00:30:37] and so it's it's really whatever you can
+[00:30:39] imagine being
+[00:30:41] um
+[00:30:42] you know if you could if you could get
+[00:30:44] you know 100 ton object to the
+[00:30:47] surface of europa there's a lot more you
+[00:30:49] can do than with a smaller object um
+[00:30:51] so
+[00:30:53] yeah i think it's it's very exciting um
+[00:30:56] obviously we still have a lot to prove
+[00:30:57] but
+[00:30:58] architecturally it is capable of
+[00:31:02] transporting kind of almost any
+[00:31:04] arbitrary mass to to any solid surface
+[00:31:07] in the solar system
+[00:31:09] wow terrific
+[00:31:11] thanks and margie is actually part uh
+[00:31:14] leading the team building the
+[00:31:15] magnetometer that you will be taking to
+[00:31:18] europa on the clipper
+[00:31:21] uh our next question comes from steve
+[00:31:23] mackwell
+[00:31:24] hi elon um thanks so much for your
+[00:31:26] presentation um i was wondering um what
+[00:31:30] were you what are your kind of plans for
+[00:31:33] humans to mars uh in terms of time
+[00:31:35] scales and uh
+[00:31:37] and you know are you going to send folks
+[00:31:39] there for uh kind of a shorter stay or
+[00:31:42] you think a longer stay and bring them
+[00:31:43] back
+[00:31:44] at least initially
+[00:31:47] i'm not sure i think what so the first
+[00:31:49] thing we'd want to do is is confirm that
+[00:31:51] we can uh land the ship safely on mars
+[00:31:54] and so that might be
+[00:31:55] it would want to probably
+[00:31:57] land two or three i think before sending
+[00:32:00] people and just confirm that that uh
+[00:32:03] we can land safely
+[00:32:05] um
+[00:32:06] so
+[00:32:07] you know and actually on those missions
+[00:32:08] we could we could obviously put um a lot
+[00:32:11] of scientific instrumentation
+[00:32:14] that
+[00:32:15] i would recommend putting the
+[00:32:17] lower cost uh scientific stuff on the
+[00:32:19] first mission
+[00:32:20] but
+[00:32:23] we'll certainly have
+[00:32:25] propulsive landing very reliable on
+[00:32:27] earth as we've been able to achieve with
+[00:32:28] the falcon 9 booster um
+[00:32:31] it's now here knock on wood so it's it's
+[00:32:33] a it's no longer it's quite normal for
+[00:32:36] the rocket to land uh safely and we'll
+[00:32:38] do the same with starship
+[00:32:40] um and and then um
+[00:32:43] i'm not sure quite what would happen i
+[00:32:44] mean we might be working with nasa or um
+[00:32:47] maybe nasa and other uh
+[00:32:50] you know other countries to send people
+[00:32:52] to mars
+[00:32:53] um
+[00:32:54] but i i view this very much as um
+[00:32:58] you know the you know what sort of
+[00:33:00] actions can we take that
+[00:33:02] maximize the probability that the future
+[00:33:03] is good for civilization
+[00:33:06] you know like what are sort of like
+[00:33:08] civil civilizational risks that we can
+[00:33:10] potentially mitigate
+[00:33:12] um and
+[00:33:13] i just think being a multi-planet
+[00:33:15] species is a tremendous risk mitigation
+[00:33:19] for
+[00:33:20] uh human civilization
+[00:33:23] and um
+[00:33:25] as we know eventually the earth will
+[00:33:26] become if you wait long enough both will
+[00:33:28] become uninhabitable so
+[00:33:30] um in the long run we are obviously all
+[00:33:32] dead
+[00:33:33] but
+[00:33:34] but i think the um
+[00:33:36] you know the technology that we we
+[00:33:38] develop uh in
+[00:33:40] traveling from
+[00:33:41] um earth to mars i think will be just a
+[00:33:44] very powerful forcing function for the
+[00:33:46] improvement of space transport
+[00:33:48] you know like the initial votes that
+[00:33:50] cross the atlantic and across the
+[00:33:51] pacific back in the sailing days were
+[00:33:53] really terrible
+[00:33:57] um you know
+[00:33:59] so you know they were often just plain
+[00:34:02] sink and but as once there was a reason
+[00:34:05] to
+[00:34:06] do uh large amounts of ocean trade the
+[00:34:09] the the sailing shifts the wooden
+[00:34:11] sailing ships got dramatically better um
+[00:34:14] and and so but you kind of have to have
+[00:34:16] that forcing function um
+[00:34:18] so
+[00:34:19] that that's what i think will happen and
+[00:34:21] we'll get much better at space transport
+[00:34:23] and i think this will also be very
+[00:34:25] important if um you know if there's like
+[00:34:27] a
+[00:34:28] potential uh earth collision event from
+[00:34:31] from some comets or something like that
+[00:34:33] um you know the the asteroids we can
+[00:34:35] predict fairly well obviously but
+[00:34:37] um there's this massive cloud of um
+[00:34:41] of comets out there that uh
+[00:34:43] you know we we don't know the situation
+[00:34:46] um so
+[00:34:48] and they come in pretty fast so there's
+[00:34:49] always some risk of
+[00:34:51] comets like taking out a continent you
+[00:34:54] know there's those places look like they
+[00:34:55] talk a lot about extinction events where
+[00:34:57] you know almost all life was destroyed
+[00:34:59] on earth but they don't talk that much
+[00:35:00] about the ones where well it was just a
+[00:35:02] continent
+[00:35:04] [Music]
+[00:35:05] there's plenty of sort of continent
+[00:35:07] level
+[00:35:08] uh extinction events that occurred in
+[00:35:10] the fossil record and it was like really
+[00:35:13] so commonest to really not really
+[00:35:15] generate a lot much attention
+[00:35:16] um
+[00:35:17] and and but if we've got uh large
+[00:35:19] rockets that could uh potentially do
+[00:35:21] something about that then then that
+[00:35:23] could be you know that that could that
+[00:35:25] one day save billions of people
+[00:35:28] but we've been we've got to have big
+[00:35:29] rockets um and much more advanced space
+[00:35:32] technology in order to protect against
+[00:35:34] um
+[00:35:35] uh yeah a comet coming in from
+[00:35:37] yeah far away okay thank you so much
+[00:35:40] perfect
+[00:35:42] thanks elon our next question will come
+[00:35:44] from harlan spence
+[00:35:48] elon thank you for uh sharing your time
+[00:35:50] and your vision with us i had a question
+[00:35:53] about um
+[00:35:54] looking back
+[00:35:56] the history of exploration human
+[00:35:58] exploration as we ventured from one
+[00:36:00] place to another um scientific discovery
+[00:36:02] has always been an element of that and
+[00:36:05] you've shared a little bit about some
+[00:36:07] opportunities there um but i was hoping
+[00:36:10] you could share a little bit more when
+[00:36:12] you think about the aspects of
+[00:36:14] scientific
+[00:36:15] discovery that will accompany becoming a
+[00:36:18] multi-uh planet species what are the
+[00:36:20] kinds of things that you're thinking
+[00:36:21] about in terms of what we would discover
+[00:36:24] along the way
+[00:36:27] well um
+[00:36:28] i think uh
+[00:36:30] being able to really
+[00:36:32] um you know have heavy-duty science
+[00:36:34] research uh on the moon and on mars
+[00:36:37] where you could really just go anywhere
+[00:36:39] you want
+[00:36:41] drill core samples anywhere you want
+[00:36:45] i think we'd learn
+[00:36:46] a tremendous amount
+[00:36:49] as compared to having to send
+[00:36:52] fairly small vehicles with with limited
+[00:36:54] scientific instrumentation um
+[00:36:57] which is what we currently do for for
+[00:36:58] mars and the moon so
+[00:37:00] uh just
+[00:37:02] just having people there who can
+[00:37:03] dynamically decide what they're going to
+[00:37:05] do
+[00:37:05] um
+[00:37:06] and then really being able to analyze
+[00:37:08] the whole history of the planet i think
+[00:37:09] would learn a tremendous amount
+[00:37:12] um
+[00:37:14] and uh
+[00:37:16] yeah and that would obviously extend
+[00:37:18] over time through at least the um the
+[00:37:20] greater solar system um
+[00:37:23] so
+[00:37:24] you know i mean
+[00:37:25] yeah um
+[00:37:27] i mean i studied physics because i was
+[00:37:28] just trying to find out what what's what
+[00:37:30] what's the universe all about how does
+[00:37:32] it work where did it come from why are
+[00:37:33] we here um
+[00:37:35] and um i actually kind of got sort of
+[00:37:37] depressed at one point because i was
+[00:37:38] like man this
+[00:37:39] doesn't seem to be any meaning to life i
+[00:37:41] just seems to be like
+[00:37:43] you know and then i made the mistake of
+[00:37:44] like reading the german philosophers as
+[00:37:45] a teenager that would that made it was
+[00:37:47] quite depressing um
+[00:37:50] but but then i read uh douglas adams
+[00:37:52] which is guide to the galaxy which is
+[00:37:54] really a book in philosophy of his
+[00:37:56] disguises humor and he makes point that
+[00:37:59] you know
+[00:38:00] uh the question is harder than the
+[00:38:02] answer and um and and really basically
+[00:38:04] the answer is the universe and and uh
+[00:38:08] we kind of need to figure out like what
+[00:38:09] questions to ask about the answer that
+[00:38:11] is the universe
+[00:38:12] um and that's the question of the hard
+[00:38:14] part and then the answer is easier by
+[00:38:16] comparison um so
+[00:38:19] so i'm like i don't know like like why
+[00:38:20] are we here how do we get here is this
+[00:38:22] is this real is this
+[00:38:23] is a simulation or something at least if
+[00:38:25] we go to these other planets we'll make
+[00:38:26] the simulators
+[00:38:28] work harder and have to buy more
+[00:38:30] computers to run the simulation or
+[00:38:31] something
+[00:38:33] you know
+[00:38:34] um
+[00:38:35] but uh yeah i mean i think it's
+[00:38:37] and and if if if we are able to at least
+[00:38:40] be like um a multi-fan species within
+[00:38:43] the souls our solar system then
+[00:38:47] um that then hopefully we can develop
+[00:38:48] the technology to send probes uh to
+[00:38:52] um other star systems and eventually um
+[00:38:55] maybe some same people all that stuff
+[00:38:58] but we could certainly send robots to
+[00:39:00] um robot probes to all the nearby star
+[00:39:03] systems and um
+[00:39:06] yeah try to figure out what what what's
+[00:39:09] what's the meaning of life and what's
+[00:39:10] going on and are there any aliens out
+[00:39:12] there
+[00:39:19] thank you
+[00:39:22] do you have a do you have time for a a
+[00:39:25] question or two more uh yeah as much
+[00:39:27] time as you like
+[00:39:28] oh wonderful all right um i do have one
+[00:39:31] question from uh from a board chair um
+[00:39:34] and it's this
+[00:39:36] one aspect of spacex that has
+[00:39:38] distinguished it from the previous
+[00:39:40] organizations has been its willingness
+[00:39:42] to embrace failure as a development tool
+[00:39:45] when do you think you will be able to
+[00:39:46] start selling starship launches at
+[00:39:49] prices significantly less expensive than
+[00:39:51] falcon 9 say 5 to 10 times
+[00:39:54] less sure um
+[00:39:58] actually i think it's not it's not that
+[00:39:59] far away i think probably um
+[00:40:02] two years from now
+[00:40:04] so
+[00:40:05] um
+[00:40:06] our rate of progress on starship is very
+[00:40:09] rapid um
+[00:40:11] and um
+[00:40:12] like i said we're we're actually
+[00:40:15] getting ready to do our first local
+[00:40:16] orbital launch attempt within the next
+[00:40:19] few months we're expecting uh our
+[00:40:21] license pool from the faa
+[00:40:23] around the end of this year and then so
+[00:40:25] that probably means
+[00:40:26] a launch attempt in january or perhaps
+[00:40:28] february
+[00:40:30] um and then um
+[00:40:32] we're we're actually building the
+[00:40:34] the factory to make lots of starships
+[00:40:36] and make lots of engines
+[00:40:38] in parallel so there will be many many
+[00:40:41] vehicles um
+[00:40:42] the the engine build rate is currently
+[00:40:44] the biggest constraint on
+[00:40:46] um how many vehicles we can make because
+[00:40:49] there are
+[00:40:50] currently 29 uh
+[00:40:52] engines on the booster and uh there will
+[00:40:54] be 33 even at a higher thrust level um
+[00:40:57] so
+[00:40:58] um that means yeah so 33 engines per
+[00:41:01] booster and these are big engines these
+[00:41:02] are um
+[00:41:04] you know
+[00:41:06] the raptor 2 is a roughly
+[00:41:09] uh 240 ton thrust engine um so we're
+[00:41:13] talking like you know five or six
+[00:41:14] hundred
+[00:41:15] thousand pound thrust engines the
+[00:41:18] yeah so really quite quite intense
+[00:41:21] um
+[00:41:23] i in fact i'd say that building the
+[00:41:25] production system for starship is much
+[00:41:27] harder than the design of the starship
+[00:41:29] itself
+[00:41:30] but we have that in progress and we
+[00:41:33] intend to do um
+[00:41:35] hopefully
+[00:41:36] hopefully a dozen launches next year um
+[00:41:40] maybe
+[00:41:41] maybe more
+[00:41:42] and and
+[00:41:43] if we're successful with it being fully
+[00:41:46] reusable it means that we we build up
+[00:41:48] the fleet just as we are with the falcon
+[00:41:50] 9 and the falcon 9 booster which is
+[00:41:53] reused
+[00:41:54] we lose the upper stage every time but
+[00:41:56] we
+[00:41:57] almost always recover the booster
+[00:41:59] so
+[00:42:01] um
+[00:42:02] so basically we intend to complete like
+[00:42:04] the test flight program next year which
+[00:42:06] means that
+[00:42:08] it's probably ready for
+[00:42:10] um
+[00:42:11] for for valuable payloads that that are
+[00:42:14] not kind of in the test
+[00:42:16] not for testing basically but actual
+[00:42:19] real payloads um in 2023.
+[00:42:22] so quite soon
+[00:42:25] great thank you so much
+[00:42:27] all right next next question from ned
+[00:42:29] wright
+[00:42:37] ned i think you're still muted
+[00:42:45] won't we all be glad when we don't say
+[00:42:47] that all the time
+[00:42:49] yeah so it's um
+[00:42:52] you have to preserve cryogenic
+[00:42:54] propellant for six to eight months to
+[00:42:56] actually be able to land on mars
+[00:42:58] yeah i wonder what your plan is for that
+[00:43:02] um yeah so
+[00:43:04] um
+[00:43:06] the
+[00:43:07] the landing propellant for mars would be
+[00:43:09] in separate header tanks
+[00:43:11] so these would be um
+[00:43:14] spherical header tanks for for maws
+[00:43:16] there would probably be
+[00:43:20] they might might be contained inside the
+[00:43:21] main tanks or there would be up in the
+[00:43:23] cargo section
+[00:43:25] but well insulated so
+[00:43:27] um
+[00:43:29] it would actually have to um
+[00:43:32] uh have extremely well insulated um
+[00:43:35] header tanks for landing uh that are not
+[00:43:36] the main tanks
+[00:43:38] so that's what we'd have for for mars
+[00:43:43] great thanks
+[00:43:46] uh
+[00:43:46] riza what wexler is the next question
+[00:43:51] yeah so um changing topic to something
+[00:43:53] that's happening before we have the
+[00:43:55] possibility to uh be a multi-planet
+[00:43:57] species uh i i also study the universe
+[00:44:00] and i'm trying to understand how it
+[00:44:02] works and how it got here and as you
+[00:44:04] know the satellite constellations from
+[00:44:06] starlink and other sources are already
+[00:44:07] having a huge impact on astronomical
+[00:44:10] observations and this is really going to
+[00:44:12] significantly limit the science
+[00:44:13] potential of the next generation of
+[00:44:15] observatories if we don't have a core
+[00:44:17] shift so what role do you expect star
+[00:44:20] spacex to play in working with
+[00:44:22] astronomers and regulatory agencies to
+[00:44:24] mitigate this
+[00:44:26] well spacex already works with um
+[00:44:29] uh
+[00:44:30] regulatory agencies and with the
+[00:44:33] the
+[00:44:35] so um
+[00:44:35] with the astronomers um
+[00:44:38] and um
+[00:44:40] generally what we see is the the
+[00:44:43] the telescope um that is perhaps most
+[00:44:45] sensitive to this is very rubin um
+[00:44:48] and we work directly with the vera rubin
+[00:44:51] team to make sure that
+[00:44:53] uh
+[00:44:54] their observations will not be affected
+[00:44:56] by starling satellites
+[00:44:57] um and my understanding is at this point
+[00:44:59] they are comfortable that it will not be
+[00:45:01] an interference for their urban um they
+[00:45:04] have um
+[00:45:05] uh there's a slight risk
+[00:45:08] of capacitive coupling between uh some
+[00:45:10] of the
+[00:45:11] uh
+[00:45:12] basically um sensors there uh but this
+[00:45:15] which can create ambiguity but we we're
+[00:45:18] confident that we can work around that
+[00:45:23] great thanks
+[00:45:24] our next question comes from john karis
+[00:45:29] elon thanks uh for all your time today
+[00:45:31] appreciate it kind of going back to
+[00:45:33] prior question about um
+[00:45:35] long-term storage of cryogenics for
+[00:45:37] whatever mission but um
+[00:45:40] i realized or i believe that your
+[00:45:42] architecture for starship to go beyond
+[00:45:44] low earth orbit to go the moon has
+[00:45:46] you know cryo fuel transfers and things
+[00:45:48] like that and yeah you know long-term
+[00:45:51] cryofluorides you know cryo-fluid
+[00:45:53] storage low boil off
+[00:45:56] not easy problems yeah
+[00:45:58] yeah
+[00:46:00] so not easy problems so the question i
+[00:46:02] have for you is is uh you know what are
+[00:46:04] your plans to to mature that technology
+[00:46:06] but before you have to rely on it to go
+[00:46:08] to the moon like in a year or two
+[00:46:11] well um
+[00:46:14] yeah um
+[00:46:16] so
+[00:46:18] i mean there's more ways to address it
+[00:46:19] um
+[00:46:21] by uh having a
+[00:46:23] uh
+[00:46:24] launching one one uh vehicle that is
+[00:46:26] very well insulated um but does not
+[00:46:29] return to earth effectively a propellant
+[00:46:31] depot um so if you take a ship a
+[00:46:33] starship and you
+[00:46:35] take take the the heat shielding off and
+[00:46:37] replace that with a
+[00:46:39] thermal insulation like you know a
+[00:46:41] multi-layer installation um that's just
+[00:46:43] very very good um at um
+[00:46:46] keeping things cold
+[00:46:47] um then you could have one ship up there
+[00:46:49] that uh
+[00:46:50] is it effective just turns into a propel
+[00:46:52] depot and and then you um
+[00:46:55] send tankers up there to
+[00:46:58] uh dock and transfer propellant um
+[00:47:02] and uh and so you should be able to be
+[00:47:04] there for a while and then whatever ship
+[00:47:06] you want to go to the moon you go up and
+[00:47:08] dock with the the depot uh transfer
+[00:47:11] propellant and and off you go
+[00:47:14] so that's that's the that's rough plan
+[00:47:16] we're pretty good at docking at this
+[00:47:17] point we've docked with the space
+[00:47:18] station a couple dozen times the space
+[00:47:20] station is a very difficult thing to
+[00:47:21] talk with because we don't control both
+[00:47:23] sides of it
+[00:47:24] um and um
+[00:47:26] so it's that that is a very challenging
+[00:47:28] uh docking whereas docking with our own
+[00:47:30] vehicle is comparatively easier
+[00:47:32] yeah but both of these technologies have
+[00:47:34] really only been demonstrated on very
+[00:47:36] very small scale so you're
+[00:47:38] your scale's a lot larger and i think
+[00:47:40] poses other problems good luck in uh
+[00:47:42] solving those
+[00:47:44] yeah i know
+[00:47:45] i i i don't think we'll just sort of
+[00:47:46] like you know it's not exactly a walk in
+[00:47:48] the park um
+[00:47:50] so
+[00:47:51] like i think this is hard um but it is
+[00:47:53] necessary and it's the only way um at
+[00:47:56] least with
+[00:47:57] that that i've worked with current
+[00:47:59] physics to um to actually uh make things
+[00:48:02] work um and then obviously you know
+[00:48:05] like um aerial refueling is is used
+[00:48:08] quite a lot with with aircraft um
+[00:48:11] and so this is uh you know taking that
+[00:48:13] concept just doing it in orbit um and um
+[00:48:16] so it like we're not we know that
+[00:48:19] success is one of the possible outcomes
+[00:48:21] um we're not breaking any physics you
+[00:48:23] know physics is the law and everything
+[00:48:24] else is a recommendation um
+[00:48:26] so but just because it's at least in the
+[00:48:29] center possible excessive excess success
+[00:48:32] is at least in the set of possible
+[00:48:33] outcomes
+[00:48:36] yeah great
+[00:48:37] thanks very much uh next question will
+[00:48:40] come from amanda hendricks
+[00:48:43] hi there um so i'm a co-chair of the
+[00:48:46] committee on planetary protection
+[00:48:49] and our committee is concerned with
+[00:48:52] preserving the validity of future
+[00:48:56] uh astrobiological experiments on mars
+[00:48:58] and other places in the solar system
+[00:49:01] searches for life extinct or extant and
+[00:49:04] i wonder if you can comment on spacex's
+[00:49:07] planetary protection plans for mars
+[00:49:10] sure um
+[00:49:12] well i mean first of all
+[00:49:13] it's not like we're launching to mars
+[00:49:15] really soon i mean
+[00:49:16] mars is a ways off
+[00:49:18] um
+[00:49:19] and
+[00:49:20] the
+[00:49:21] you know but there there is um
+[00:49:24] you know
+[00:49:25] fundamentally a choice to to be made
+[00:49:27] which is
+[00:49:29] we going to try to be multi-planet
+[00:49:31] species um
+[00:49:33] uh
+[00:49:34] which would would mean like at least in
+[00:49:36] one spot on mars that there is human you
+[00:49:40] know human biology like that we will be
+[00:49:43] you know uh we're pretty hard to avoid
+[00:49:45] no
+[00:49:47] no biology if you send humans there
+[00:49:49] they're
+[00:49:50] biological creatures um but i i i don't
+[00:49:53] think this is this is going to
+[00:49:54] invalidate uh
+[00:49:56] research and on the rest of the planet i
+[00:49:57] mean mars is a big planet and so i
+[00:50:00] and they've been um
+[00:50:02] uh you know rocks that have been knocked
+[00:50:04] off of earth and landed on mars and that
+[00:50:06] kind of thing so
+[00:50:07] uh
+[00:50:08] but but yeah i think we'll you know you
+[00:50:12] wouldn't want to sort of spread
+[00:50:13] biological debris all over mars but i
+[00:50:15] think we will have to
+[00:50:17] put at least somewhere if there are
+[00:50:18] people going there um at least in one
+[00:50:20] spot and and then just make sure we try
+[00:50:22] to contain that and not have it sort of
+[00:50:24] spread around
+[00:50:25] um
+[00:50:27] yeah and
+[00:50:28] i guess it's same for the moon and other
+[00:50:30] places
+[00:50:34] thank you eon um we'll just take a
+[00:50:36] question or two more next question from
+[00:50:38] larry paxton
+[00:50:40] hi thanks for your time um i have a
+[00:50:43] question that was engendered by a remark
+[00:50:45] you made in passing that i think is uh
+[00:50:47] very interesting which is where you said
+[00:50:50] that um there's a window of opportunity
+[00:50:52] for us to get off the planet
+[00:50:54] and the question that occurred to me was
+[00:50:56] uh you you follow that up with saying
+[00:50:59] that you didn't know how long that
+[00:51:00] window of opportunity would be open
+[00:51:03] yeah and there you mentioned in passing
+[00:51:05] of course the traditional things like
+[00:51:08] you know exogenous forces like uh
+[00:51:10] cometary impact or near-earth object but
+[00:51:13] i was wondering
+[00:51:14] you know with all these compelling
+[00:51:15] reasons for us to get off the planet
+[00:51:18] and including the compelling reason to
+[00:51:20] to
+[00:51:21] have another refuge for the human race
+[00:51:23] what do you see is the biggest threats
+[00:51:25] and in particular we have a wide range
+[00:51:27] of expertise here we've been talking
+[00:51:29] about some of the
+[00:51:30] problems that we think are the most
+[00:51:32] important that are unresolved yet i just
+[00:51:34] wonder what you felt were the most
+[00:51:36] important uh issues for us as human race
+[00:51:41] yeah i mean in general i i you know i've
+[00:51:43] thought about this quite a lot um which
+[00:51:46] is not saying that i've thought about it
+[00:51:47] correctly but i thought about it a lot
+[00:51:49] um
+[00:51:50] you know and the
+[00:51:52] you know the the the one of the bigger
+[00:51:54] risks on earth would be you know if we
+[00:51:56] that we need to transition to
+[00:51:57] sustainable energy uh even if uh one
+[00:52:01] discounts the co2
+[00:52:04] capacity of the oceans and atmosphere uh
+[00:52:06] eventually we'll run out of hydrocarbons
+[00:52:08] to burn and so we need something that's
+[00:52:10] long-term sustainable
+[00:52:12] um
+[00:52:13] so that that's that's sort of um you
+[00:52:15] know i kind of put my time between tesla
+[00:52:17] and spacex and so tesla's
+[00:52:19] trying to accelerate the advent of
+[00:52:20] sustainable energy um and that's you
+[00:52:23] know to
+[00:52:25] mitigate the the risk on earth
+[00:52:28] and then spacex is
+[00:52:30] intended to
+[00:52:32] you know mitigate like longer-term risks
+[00:52:34] um
+[00:52:35] that could potentially extinguish
+[00:52:36] consciousness as we know it i mean we've
+[00:52:38] got the sort of delicate candle of
+[00:52:39] consciousness sort of flickering in the
+[00:52:41] darkness here
+[00:52:43] um
+[00:52:44] and
+[00:52:46] i don't know if you guys have seen any
+[00:52:48] evidence of aliens but i sure haven't
+[00:52:51] i get asked that a lot
+[00:52:52] so
+[00:52:53] um i mean i think the foamy paradox is
+[00:52:55] just an incredibly interesting question
+[00:52:57] um
+[00:52:58] and um i'm not sure who said it but
+[00:53:02] the
+[00:53:03] like it appear to be if
+[00:53:05] they're if
+[00:53:06] there's either a lot of aliens or none
+[00:53:08] um and equally each those answers are
+[00:53:11] equally
+[00:53:12] terrifying um
+[00:53:15] so
+[00:53:16] anyway so i i think um
+[00:53:20] but with respect to nearer term risks on
+[00:53:22] earth um
+[00:53:24] obviously sustainable energy
+[00:53:27] and your potential non-linearities in
+[00:53:31] uh the co2 inc uh
+[00:53:33] ppm in the atmosphere are are a concern
+[00:53:36] uh you know if we start doing things
+[00:53:37] like melting the severe and tundra and
+[00:53:39] that kind of thing
+[00:53:40] um
+[00:53:42] um i i'm probably less alarmist than
+[00:53:44] most uh
+[00:53:45] uh on on on climate change i i've put
+[00:53:48] myself in the in the moderate category
+[00:53:50] on climate change i just think it's
+[00:53:52] the
+[00:53:53] the amount of inertia associated with
+[00:53:55] the hydrocarbon economy is so gigantic
+[00:53:57] that
+[00:53:58] it
+[00:53:59] it will require a long time to make that
+[00:54:01] transition and so it's probably better
+[00:54:03] to start it sooner rather than later and
+[00:54:05] that's why i describe fundamental good
+[00:54:07] of tesla as the degree to which it
+[00:54:09] accelerates the advent of sustainable
+[00:54:10] energy it will happen i think anyway but
+[00:54:13] faster is better that then with s4 risks
+[00:54:16] on earth um
+[00:54:19] i mean there's always
+[00:54:20] good old nuclear armageddon you know
+[00:54:23] that's still one of one of the things
+[00:54:26] um
+[00:54:27] that's not out of the question there's
+[00:54:29] still a lot of nuclear missiles pointed
+[00:54:30] all at us in the us and many parts of
+[00:54:33] the world
+[00:54:34] um
+[00:54:36] i don't know what what quite that risky
+[00:54:38] is but it's not zero um
+[00:54:41] i think there's there's maybe some
+[00:54:42] counterintuitive risks or that people
+[00:54:45] don't put that much attention on um
+[00:54:47] if you look at the birth rate trends um
+[00:54:50] there are growth rate trends are very uh
+[00:54:52] negative um and so um and
+[00:54:56] many countries are are seeing population
+[00:54:58] decline um with no end in sight so i
+[00:55:00] think there's
+[00:55:02] um
+[00:55:04] uh i i think the the the the
+[00:55:07] very low growth rate i think is actually
+[00:55:09] quite a significant risk um but an under
+[00:55:11] an underappreciated one
+[00:55:13] um
+[00:55:14] so
+[00:55:15] uh
+[00:55:17] yeah um
+[00:55:18] and and for population prediction i
+[00:55:20] would recommend taking
+[00:55:22] uh things like the number of
+[00:55:25] uh babies born last year and just
+[00:55:27] multiplying that by the probable
+[00:55:29] lifespan and if if you do if you do that
+[00:55:31] you'll i think you'll see numbers that
+[00:55:34] uh are very very bad for future
+[00:55:36] population
+[00:55:38] and with an inverted demographic permit
+[00:55:40] so you've got a lot more older people
+[00:55:42] and then
+[00:55:43] fewer middle-aged people and then
+[00:55:44] eventually just very few youngsters
+[00:55:48] and this will necessarily lead to
+[00:55:50] resources being applied to taking care
+[00:55:52] of the elderly instead of advancing
+[00:55:54] science or advancing civilization
+[00:55:59] i'm quite worried about that one
+[00:56:01] because i see no reversal of the trend
+[00:56:03] um
+[00:56:04] and um
+[00:56:08] you know that that would you know
+[00:56:09] civilization will die with a bang or a
+[00:56:10] whopper that would be dying with whimper
+[00:56:14] then there's obviously of course uh you
+[00:56:16] know a
+[00:56:17] a pandemic with a with that that has
+[00:56:20] that's that's like covert but which has
+[00:56:21] a much higher mortality um
+[00:56:24] sort of a lot long
+[00:56:25] you know
+[00:56:26] high contagion highly contagious long
+[00:56:29] incubation period high mortality type of
+[00:56:32] pandemic that's
+[00:56:35] fairly a risk
+[00:56:38] ai
+[00:56:40] is i think maybe more risk than people
+[00:56:42] realize
+[00:56:43] um
+[00:56:45] ironically the
+[00:56:47] smart people tend to think ai is
+[00:56:50] less of a risk
+[00:56:51] because they think that they're so smart
+[00:56:53] but actually we're just humans and we're
+[00:56:55] quite dumb
+[00:56:56] what are you
+[00:56:58] it's amazing we got this bar frankly
+[00:57:00] um
+[00:57:01] so
+[00:57:02] if you see the advancement of ai it's
+[00:57:04] clear that uh ai will exceed human
+[00:57:07] intelligence uh in every way if
+[00:57:09] if these trends continue
+[00:57:13] and the list of things that
+[00:57:15] the human mind can do better than ai is
+[00:57:17] less and less every year
+[00:57:19] so
+[00:57:20] [Music]
+[00:57:21] you know hopefully that ai is
+[00:57:23] ai is coupled to human will um
+[00:57:26] but it might not be uh
+[00:57:29] the
+[00:57:31] the long term goal of neural link is to
+[00:57:34] uh achieve sort of better symbiosis with
+[00:57:36] uh
+[00:57:37] ai and with the kind of
+[00:57:40] human
+[00:57:42] mind
+[00:57:43] um in the short term neural link i think
+[00:57:45] will help solve a lot of
+[00:57:47] of brain injuries and diseases and
+[00:57:48] spinal injuries and that kind of thing
+[00:57:50] but long term
+[00:57:51] uh
+[00:57:52] like because one of the things that i'm
+[00:57:54] getting quite esoteric here but
+[00:57:56] um
+[00:57:57] the uh
+[00:58:00] we're we're already a sidewalk really in
+[00:58:02] the sense that the our phones and
+[00:58:05] computers are an extension of ourselves
+[00:58:07] and you can say we arguably have
+[00:58:09] um
+[00:58:10] sort of the sort of the primitive kind
+[00:58:12] of limbic system
+[00:58:13] the
+[00:58:14] cortex the higher thinking and then
+[00:58:16] we've got a tertiary layer which is our
+[00:58:18] which is silicon in the form of our
+[00:58:20] computers and phones and everything
+[00:58:22] um
+[00:58:23] but
+[00:58:25] um
+[00:58:26] we have already
+[00:58:27] somewhat merged with computers but the
+[00:58:29] the the issue we have is the um
+[00:58:32] the communication rate the bandwidth
+[00:58:35] with the computers is low especially
+[00:58:36] output if our output is two thumbs uh
+[00:58:39] that's you know we're talking
+[00:58:41] maybe 10 bits per second or something
+[00:58:43] like that not it's
+[00:58:45] maybe 100 best case
+[00:58:47] it's a very slow
+[00:58:48] output and as the intelligence of the
+[00:58:50] computer grows if that communication
+[00:58:52] link remains very tiny
+[00:58:55] i think we will necessarily decouple
+[00:58:57] from computers just because our rate of
+[00:59:00] communication is very slow
+[00:59:02] and so if we can solve the i o bandwidth
+[00:59:05] question
+[00:59:06] and and by you know increase it by
+[00:59:09] a thousand or more
+[00:59:11] maybe a million
+[00:59:12] then the
+[00:59:14] you could have human machine symbiosis
+[00:59:16] that is much better
+[00:59:19] i i mean that's at least
+[00:59:21] one approach
+[00:59:22] um
+[00:59:23] let's see what else is there um
+[00:59:29] i mean religious extremism you know if
+[00:59:31] that that becomes
+[00:59:33] if if that grows over time a religious
+[00:59:36] extremism is is certainly a threat to um
+[00:59:39] advancement of science
+[00:59:40] uh so depending on how how far that goes
+[00:59:43] that that could be an issue um
+[00:59:49] and what do you think
+[00:59:52] it's a big deal
+[00:59:54] i'll only add i think that this is a
+[00:59:55] fundamental question because as you said
+[00:59:57] the fermi paradox
+[00:59:59] there are should either be a tremendous
+[01:00:02] number of alien civilizations or there
+[01:00:04] is some gate that so many civilizations
+[01:00:08] have failed to get past and the question
+[01:00:10] is are we going to fail to get past that
+[01:00:12] gate as well the great filters
+[01:00:15] yeah
+[01:00:16] um
+[01:00:17] so
+[01:00:18] i think at least one of the great
+[01:00:19] filters is
+[01:00:20] does a civilization become
+[01:00:22] multi-planetary or not
+[01:00:23] um yes if a civilization does not become
+[01:00:26] multi-planetary then then eventually the
+[01:00:28] sun's going to expand and and you know
+[01:00:30] boil the ocean and that's game over so
+[01:00:33] and and actually think about it from a
+[01:00:35] percentage standpoint you know it's been
+[01:00:37] around four and a half billion years and
+[01:00:38] it took us one billion years to get this
+[01:00:40] far um
+[01:00:42] we'll probably it may be as soon as
+[01:00:45] another 500 million years and
+[01:00:48] the sun might have expanded by enough by
+[01:00:49] that time to boil the oceans potentially
+[01:00:51] it's not 500 million years it's not much
+[01:00:53] beyond that
+[01:00:55] which is basically means that if it took
+[01:00:57] 10 percent longer
+[01:00:59] for
+[01:01:00] uh
+[01:01:01] you know civilization to evolve it would
+[01:01:03] never have evolved
+[01:01:06] there's an interesting one um elon do
+[01:01:09] you have time for one more question
+[01:01:12] wonderful
+[01:01:13] all right um jill dahlberg please
+[01:01:17] so let me just say i feel lucky that you
+[01:01:20] are here so thank you and not just here
+[01:01:22] in our panel um you're very inspiring
+[01:01:26] my question is
+[01:01:27] mundane you're gonna have these rockets
+[01:01:30] they're going to go up and they're going
+[01:01:31] to
+[01:01:32] go to
+[01:01:33] two places that are going to need energy
+[01:01:36] the earth needs a lot of energy as well
+[01:01:38] so what are your plans for making energy
+[01:01:42] i'm thinking space-based solar power or
+[01:01:44] something like that does your company
+[01:01:46] have plans for plethorating energy
+[01:01:49] systems you're going to need
+[01:01:51] well um
+[01:01:53] a tesla does do solar power um and solar
+[01:01:57] is actually there's a quite an amazing
+[01:01:59] amount of of energy that reaches us from
+[01:02:01] the sun
+[01:02:03] that
+[01:02:04] you know i mean really when you think
+[01:02:06] about earth is almost entirely solar
+[01:02:08] powered if it were not for the sun we
+[01:02:10] would be a frozen dark ice ball at three
+[01:02:12] degrees carbon um
+[01:02:15] so
+[01:02:16] so apart
+[01:02:17] keeping us warm um and not super cold
+[01:02:19] and frozen in dark is pretty helpful and
+[01:02:21] then the almost the entire ecosystem
+[01:02:24] is uh solar powered um you know plants
+[01:02:27] are a solar powered chemical reaction
+[01:02:28] and
+[01:02:29] um there are partial chemotrophs at the
+[01:02:31] bottom of the ocean it's basically you
+[01:02:32] know everything's all powered
+[01:02:34] um so really talking about uh just like
+[01:02:37] a little bit of incremental power from
+[01:02:39] the sun being used to power civilization
+[01:02:41] um the
+[01:02:43] uh you know as a sort of good rule of
+[01:02:45] thumb is
+[01:02:47] uh because you get about uh a kilowatt
+[01:02:49] per square meter uh of solar energy um
+[01:02:53] uh
+[01:02:54] so then in a square kilometer there's a
+[01:02:56] million uh square meters so now you've
+[01:02:58] got a gigawatt of solar energy per
+[01:03:00] square kilometer um and so if you've got
+[01:03:02] like uh
+[01:03:04] 25 percent efficient panels and there
+[01:03:06] are maybe uh
+[01:03:08] eighty percent uh
+[01:03:10] uh of the area is you know panel of uh
+[01:03:13] you know
+[01:03:13] then you've got like basically 200
+[01:03:15] megawatts per square kilometer of solar
+[01:03:17] power um and so then if you say well
+[01:03:20] okay how much then you really won't need
+[01:03:22] a large a very large area to power the
+[01:03:25] entire united states with solar um like
+[01:03:27] a little corner of utah or texas
+[01:03:30] obviously you prefer it to be
+[01:03:32] distributed but you can just say like
+[01:03:33] okay
+[01:03:34] how much is actually needed to power the
+[01:03:35] us and it's
+[01:03:37] you know somewhere between um
+[01:03:40] a square that's roughly 150 to 200
+[01:03:42] kilometers on a side
+[01:03:44] uh will power the entire entire united
+[01:03:46] states um
+[01:03:49] that so it's really
+[01:03:50] clearly no problem to power um
+[01:03:52] civilization with a um
+[01:03:56] with a with solar and then of course
+[01:03:58] there's wind and um
+[01:04:00] you know i'm actually pro nuclear uh
+[01:04:02] provision-wise um
+[01:04:04] and uh there's also hydro and um
+[01:04:07] geothermal so i i think we will solve
+[01:04:09] earth's energy needs um
+[01:04:12] and and they are being sold if you look
+[01:04:13] at the growth of wind power and solar
+[01:04:15] power
+[01:04:16] it's it's really has a very high growth
+[01:04:18] rate it needs to be paired with
+[01:04:20] batteries uh in order to because of the
+[01:04:23] intermittency of wind and solar but the
+[01:04:25] combination of of solar plus battery
+[01:04:27] will you can completely solve all of
+[01:04:29] those energy needs in fact uh for
+[01:04:31] satellites that are in orbit that's all
+[01:04:34] they use um is
+[01:04:36] solar panels and a battery and and what
+[01:04:38] what what is earth but a large satellite
+[01:04:44] sorry i think you're
+[01:04:46] you're on here
+[01:04:49] yeah i was i was thinking something more
+[01:04:51] grandiose like a space-based solar power
+[01:04:53] system but you have a good argument you
+[01:04:55] would just use solar on earth
+[01:04:58] and plethora i like that thank you works
+[01:05:01] great um
+[01:05:02] like
+[01:05:03] because if we think civilization uses a
+[01:05:06] lot of energy but it's actually very
+[01:05:07] tiny compared to the amount of solar
+[01:05:09] energy that reaches the earth every day
+[01:05:11] um
+[01:05:12] yeah it just it's just there
+[01:05:14] um i get asked a lot about fusion and in
+[01:05:17] my opinion
+[01:05:18] like if you if you just make a very
+[01:05:20] large
+[01:05:22] thing of magnetically confined fusion
+[01:05:23] you could absolutely make it work
+[01:05:27] i don't think any any really major
+[01:05:29] breakthroughs needed to uh make fusion
+[01:05:31] work but but i think it's it's
+[01:05:33] unnecessary to make fusion work because
+[01:05:35] we've got a giant fusion reactor in the
+[01:05:37] sky that just shows up every day with
+[01:05:38] and doesn't require any maintenance um
+[01:05:41] so it's a low maintenance
+[01:05:43] fusion reactor shows up every day so if
+[01:05:46] if we just just catch the energy from
+[01:05:48] you know where to catch it it's just
+[01:05:51] keep us lobbing all this energy at us
+[01:05:52] just cash it with the photovoltaics and
+[01:05:55] store it in the batteries and it'll
+[01:05:57] that'll that'll
+[01:05:58] solve for everything basically
+[01:06:00] um
+[01:06:01] yeah we need a lot of batteries but um
+[01:06:04] there's also like the next question
+[01:06:06] might be um is there or do we face some
+[01:06:08] materials limitation with batteries and
+[01:06:10] the answer is definitely not um i think
+[01:06:13] most uh the vast majority of stationary
+[01:06:15] storage will use an iron
+[01:06:17] cathode lithium ion battery
+[01:06:20] so
+[01:06:21] there's obviously plenty of iron on
+[01:06:23] earth no shortage of iron there's also
+[01:06:26] no shortage of lithium lithium is
+[01:06:27] extremely common on earth basically
+[01:06:29] everywhere
+[01:06:31] so um
+[01:06:33] and and so if you have a basic iron
+[01:06:34] phosphate uh cathode with a
+[01:06:37] graphite uh anode um
+[01:06:40] and uh lithium carbonate there's there's
+[01:06:42] enough
+[01:06:44] of that
+[01:06:44] on earth to paris many civilizations but
+[01:06:47] if several or easily order magnitude
+[01:06:50] larger civilization than ourselves could
+[01:06:51] be powered uh with with the batteries
+[01:06:54] that with the veteran materials that
+[01:06:56] that are that are readily available so i
+[01:06:58] don't really suggest complacency here
+[01:07:00] but um
+[01:07:01] just that uh there is a very clear path
+[01:07:03] to a sustainable energy future
+[01:07:05] okay
+[01:07:06] that's wonderful
+[01:07:08] yvonne we just want to thank you so much
+[01:07:10] the national academy of sciences is so
+[01:07:13] pleased to have you here with us today
+[01:07:16] paul worcester is a member of the space
+[01:07:18] studies board and this is also the board
+[01:07:20] on physics and astronomy
+[01:07:22] and um just thank you so much for the
+[01:07:24] time and the interaction with our
+[01:07:26] members and answering so many questions
+[01:07:29] so graciously i know it's past uh
+[01:07:32] the 7 p.m hour on the east coast or
+[01:07:35] wherever you are
+[01:07:39] well thank you for the for the great
+[01:07:40] questions and and it was an honor to
+[01:07:42] speak to everyone thank you
+[01:07:45] thank you all of us thank you
+[01:07:48] [Music]
+[01:07:55] [Music]
+[01:08:01] [Music]
+[01:08:02] you

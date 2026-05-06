@@ -1,0 +1,317 @@
+[00:00:05] Thanks for coming.
+[00:00:07] We're super excited at SpaceX to announce some of the details around the Falcon Heavy
+[00:00:14] rocket, which is our large rocket development - our really large rocket development, and
+[00:00:21] this is something we've alluded to in the past but I've only just recently completed
+[00:00:32] the design and I've been able to increase the thrust and payload capability of the rocket
+[00:00:37] considerably over our previous estimations.
+[00:00:43] With Falcon Heavy we'll be able to put well over 100,000 pounds into orbit.
+[00:00:52] In fact, it's looking like at least on the order of 117,000 pounds, maybe even above
+[00:01:02] 120,000 pounds, depending upon what the final performance numbers look like.
+[00:01:09] This is a rocket of truly huge scale.
+[00:01:14] As we mentioned in the press release, this is - the 117,000 pounds is more than a fully
+[00:01:23] loaded Boeing 737 with 136 passengers, luggage and fuel - in orbit.
+[00:01:31] So that is, really really humungous.
+[00:01:35] It's more payload capability than any vehicle in history apart from the Saturn V, and so
+[00:01:43] opens up a range of possibilities, for government and commercial customers, that simply aren't
+[00:01:50] present with the current launch capacity.
+[00:01:54] If you compare our lifting capacity to, say, the space shuttle or the Delta IV Heavy, which
+[00:02:00] are the two most capable vehicles in the world today, we're twice - more than twice - the
+[00:02:05] capability of either of those vehicles.
+[00:02:10] Although the space shuttle is obviously retiring this year - I think - this is something America
+[00:02:18] can be really proud of - the fact that there's actually going to be a vehicle with twice
+[00:02:23] the capability of the space shuttle, that going to be ready to launch at the end of
+[00:02:27] next year.
+[00:02:28] The initial launch will take place from Vandenburg air force base in California, where we have
+[00:02:38] space launch complex 4 and shortly thereafter expect to be launching from Cape Canaveral
+[00:02:44] as well.
+[00:02:46] So we'll certainly have that capability on both coasts.
+[00:02:53] We expect to be launching Falcon Heavy a lot, actually.
+[00:02:56] Whereas Falcon 9 can address about half the market, Falcon Heavy can address the other
+[00:03:04] half of the market which is the largest government and commercial satellites, as well as - as
+[00:03:11] I mentioned - as well as opening up new market opportunities for satellites and spacecraft
+[00:03:16] that simply cannot be carried to space by the currently available rockets.
+[00:03:26] So I expect to see, potentially new opportunities arising because of Falcon Heavy.
+[00:03:33] Also, from a cost standpoint - which is critically important in space, because launch costs have
+[00:03:38] been steadily rising over the years, Falcon Heavy represents a huge economic advantage.
+[00:03:47] Falcon Heavy costs about a third as much per flight as Delta IV Heavy, but carries twice
+[00:03:52] as much payload to orbit, so it's effectively a six-fold improvement in the cost per pound
+[00:03:58] to orbit.
+[00:03:59] In fact, Falcon Heavy sets a new world record for the cost per pound to orbit of around
+[00:04:07] about $1000.
+[00:04:09] So that's a pretty huge leap in capability.
+[00:04:14] Let's show the video.
+[00:05:43] In addition to representing a new world record in cost per pound to orbit, the Falcon Heavy
+[00:05:49] is also designed to meet the NASA human rating standards.
+[00:05:53] For example, it is designed  with structural safety margins that are 40%
+[00:06:02] above the actual flight loads that it expects to encounter, as opposed to normal satellite
+[00:06:07] launchers which are designed to only 25% above the flight loads.
+[00:06:12] It also has engine-out capability, so you can lose multiple engines on the vehicle and
+[00:06:16] still complete the mission.
+[00:06:19] It has cross-feed between the cores which is the first time any rocket has been able
+[00:06:25] to cross-feed propellant between the cores.
+[00:06:31] Triple-redundant avionics.
+[00:06:34] All of this is such that it can launch people if need be and do so safely.
+[00:06:41] Also, it has so much capability, so much more than any other vehicle, that we can start
+[00:06:48] to realistically contemplate missions like a Mars sample return - which requires quite
+[00:06:55] a lot of lift capability because you've gotta send a lander to Mars that still has enough
+[00:07:02] propellant to return to Earth.
+[00:07:08] If you try to do a mission like that with a smaller vehicle you have to do several launches
+[00:07:13] and either do orbital rendezvous or do some sort of much more complex mission whereas
+[00:07:18] with Falcon Heavy you could potentially do it with a single flight.
+[00:07:24] Let me turn it over to questions.
+[00:08:03] The payload to Mars would be about a quarter of its payload to LEO.
+[00:08:08] So we're talking about, something like, 30,000 pounds to trans-Mars injection.
+[00:08:16] To the Moon it would be about, maybe, 35,000 pounds.
+[00:08:49] The Falcon 9 is suitable for transporting people to low Earth orbit, like to the space
+[00:08:55] station and back, but Falcon 9 doesn't quite have the lifting power to go beyond the space
+[00:09:00] station, whereas Falcon Heavy go, really, much further than low Earth orbit.
+[00:09:09] Falcon Heavy is about half the lifting capability of a Saturn V, so, in principle you could
+[00:09:16] do another mission to the Moon, just by doing two launches of a Falcon Heavy.
+[00:09:20] Perhaps one that delivered the return vehicle to the surface of the Moon and one that delivered
+[00:09:25] the lander to the surface of  the Moon.
+[00:09:36] As far as human standards are concerned, the Falcon 9 and Falcon Heavy are designed to
+[00:09:43] meet all of the published NASA human rating standards.
+[00:09:47] So it would only be if there's some unpublished standard or some new standard that's about
+[00:09:51] to be published - that it would not be in compliance.
+[00:10:07] Falcon 9, we've always said it would be about 3 years from when we received NASA funding
+[00:10:13] to conduct a demonstration, and the gating fact on that isn't actually the rocket, it's
+[00:10:19] the launch escape system on the spacecraft.
+[00:10:23] Falcon Heavy would be, really, capable of launching people as soon as we've proven it
+[00:10:31] out with a few launches, really.
+[00:10:33] There's no changes, that we are aware of, that we would make to the Falcon Heavy that
+[00:10:38] would be required to launch people.
+[00:10:40] There may be changes to the spacecraft that it carries, but not to the launch vehicle
+[00:10:44] itself - or if there are, they're very minor.
+[00:10:49] So yeah, it certainly opens up a wide range of possibilities, such as returning to the
+[00:10:54] Moon and conceivably even going to Mars, although it would require probably twice as many launches
+[00:11:03] as a Moon mission.
+[00:11:15] We have an upgrade in the works for our Merlin engine.
+[00:11:30] Going from 95,000 pounds of sea-level thrust to 140,000 pounds of sea-level thrust.
+[00:11:36] So, pretty substantial upgrade.
+[00:11:41] We're also doing some design improvements to improve the manufacturability, so we can
+[00:11:45] go to a high rate of engine production.
+[00:11:47] We're anticipating, if launch demand ends up being like we think it is, we'll have a
+[00:11:52] production rate of about 400 booster engines per year.
+[00:11:55] Which, I think, would be more engines than the rest of the world production combined.
+[00:12:02] As it is, we're already more than the rest of US production combined.
+[00:12:05] Although that's not saying much.
+[00:12:10] Unfortunately.
+[00:12:11] We do not have - so we're expecting to do an initial demonstration flight of Falcon
+[00:12:16] Heavy, that doesn't have a primary customer, although that could change.
+[00:12:21] It'll probably have some smaller secondary satellites on-board.
+[00:12:26] However, we are highly confident of announcing customers for Falcon Heavy for the second
+[00:12:34] and subsequent flights, and we're in liaison discussions with government and commercial
+[00:12:39] customers in that regard.
+[00:12:52] Even on Falcon 9 we have been launching secondary satellites, we launched some secondary satellites
+[00:12:57] on the last flight of Falcon 9.
+[00:13:00] With the upcoming flight of Falcon 9, the first one that's going to the space station,
+[00:13:05] that will carry a couple of ORBCOMM satellites.
+[00:13:08] With every, with most missions we expect to be launching secondary satellites.
+[00:13:12] It's not always with the same dispenser, although that would make it a lot more convenient,
+[00:13:17] but I think it's likely that most of our flights will carry secondary satellites.
+[00:13:41] I think you should definitely count on Falcon Heavy being there for the long term.
+[00:13:47] When it succeeds, and certainly that is right from the initial launch as it was with Falcon
+[00:13:54] 9.
+[00:13:58] We're starting off at Vandenburg but we'll then be transitioning to the cape.
+[00:14:03] We'll be upgrading our launch pad at Cape Canaveral so that we can process both a Falcon
+[00:14:08] 9 and a Falcon Heavy simultaneously and they can both roll out to the pad.
+[00:14:13] We're also investigating the possibility at the cape of using one of the old shuttle pads
+[00:14:17] for the Falcon Heavy.
+[00:14:20] That's a possibility but our default plan is to use our existing launch pad but upgrade
+[00:14:24] it such that there's a hanger where you can process Falcon 9 and that rolls to the pad,
+[00:14:27] and another hanger - kinda at 90 degrees - where you can process Falcon Heavy and either one
+[00:14:32] of them can roll to the pad, so you can have dual processing take place.
+[00:14:35] In terms of the number of jobs, it really depends on the launch rate, so I'd expect
+[00:14:40] that number to grow over time, but I think once it really gets going - and we do expect
+[00:14:47] more launches to occur from the cape than from Vandenburg in the long haul, with Falcon
+[00:14:52] Heavy, because most of our commercial customers want to go to GTO which, obviously, is cape
+[00:15:00] launches.
+[00:15:01] So we're expecting probably a couple of hundred jobs.
+[00:15:06] It depends on customer demand, so I'd say, it's probably 2 to 3 years, but it really
+[00:15:18] depends on what the customer adoption rate is.
+[00:15:23] I'm confident of a couple of hundred jobs when the customer adoption is high, when we're
+[00:15:30] doing several launches a year.
+[00:15:32] I think we'll probably do as many Falcon Heavy launches as we do Falcon 9 launches.
+[00:15:39] Our rough ballpark estimate is something on the order of 20 launches per year of which
+[00:15:46] roughly half are Falcon Heavy, roughly half are Falcon 9 and of those, probably 60%, 70%,
+[00:16:09] are [inaudible].
+[00:16:18] I think there's a lot of wishful thinking on the part of our competitors that our prices
+[00:16:27] must be higher, but they are not.
+[00:16:30] In fact, I think that we're unique in the launch business of publishing our prices on
+[00:16:35] our website.
+[00:16:36] Whereas other launch providers sort of treat it like a rug bazaar - they'll charge you
+[00:16:42] what they think you can afford.
+[00:16:44] We believe in every day low prices, you know, and we've stuck to our guns on that.
+[00:16:57] The Falcon 9 costs $50 million, and it's been that way for a while, and the Falcon Heavy
+[00:17:03] is, on average, about $100 million, so we're very very confident of being able to maintain
+[00:17:11] those prices, and I say let history be the judge.
+[00:17:18] Here I am saying it, we'll see if that remains true, but you have it on camera.
+[00:18:39] [Question about getting to the Moon.]
+[00:18:58] If you had a small enough spacecraft, you could conceivably do it with one Falcon Heavy.
+[00:19:06] It kinda depends on how big of a spacecraft and how many people you want to send, but
+[00:19:11] I think you could slim it down to just do it on one Falcon Heavy.
+[00:19:16] [Question about getting to an asteroid.]
+[00:19:25] I'm sure you could do it with two Falcon Heavy launches.
+[00:19:31] If your spacecraft had a little bit of propellant on-board, presumably it would because it has
+[00:19:35] to get back from the asteroid too, then I think you could do it with two Falcon Heavy
+[00:19:47] launches.
+[00:19:51] I think we've thought a lot about going public but before we do so we want to make sure that
+[00:19:58] we have a very predictable revenue stream because the markets don't like surprises,
+[00:20:08] but I think that there's a decent chance we'll look at going public towards the end of next
+[00:20:13] year.
+[00:20:14] Not saying we will, but it's a possibility.
+[00:20:26] It's possible that we could see acquisition interest, but I have no interest in selling
+[00:20:34] and I am the controlling shareholder in the company.
+[00:20:40] We've had some inquiries, but then I'm pretty clear with them that I would not give up a
+[00:20:49] controlling stake in the company because SpaceX has some philosophical goals, or philanthropic
+[00:20:57] goals, which may not be coincidental with the goals of a large government contractor.
+[00:21:14] I think end of next year meaning November, December, is when we expect to have Falcon
+[00:21:20] Heavy at the launch pad at Vandenburg.
+[00:21:23] The launch itself is a little more difficult to predict, because we have to go through
+[00:21:28] final regulatory approvals, there could be things that we have to debug about the rocket
+[00:21:34] and the launch site interaction, so I think, most likely what you'll see is a rocket at
+[00:21:41] the pad towards the end of next year and a launch sometime in 2013.
+[00:21:48] I don't want to speak for specific customers, but I can say that there is strong interest
+[00:22:06] from both the US government and large commercial operators in Falcon Heavy and that we are
+[00:22:13] at an advanced stage of discussions with both, and part of what's needed to get them to sign
+[00:22:24] up to a launch is to not be the first.
+[00:22:31] It's always possible that a customer may jump in at the last minute and say, okay, they'll
+[00:22:37] do it, but it's a lot easier to get deals done if customers know that they don't have
+[00:22:44] to be the first flight.
+[00:22:45] It's a bit of a, I guess, a slight risk on our part to be doing the first launch on our
+[00:22:54] own funds, and of course, it does cost us some money, but it's an important thing to
+[00:23:03] do in order to get customers to sign up.
+[00:23:05] We had to do something similar with Falcon 9.
+[00:23:31] Ramping up production is our number one focus.
+[00:23:37] That's what I have the whole company focused on.
+[00:23:40] We're bringing in people both from the rocket industry, as well as from other industries,
+[00:23:43] like automotive and high volume aircraft production.
+[00:23:48] We'll be making more rocket engines than any company - actually, more than any country,
+[00:23:52] I think - has every made.
+[00:23:55] At 400 booster engines per year, I guess, at 500 booster engines per year it is more
+[00:24:00] than the rest of the world's production combined.
+[00:24:04] So that's pretty serious scale in the rocket business.
+[00:24:08] In terms of the number of cores, we're talking about 40 cores.
+[00:24:15] So it's very high volume but that's what's needed in order to do 10 Falcon 9s and 10
+[00:24:21] Falcon Heavys in a given year.
+[00:24:24] As it is, if you look at our launch manifest, just based on existing contracts that we have,
+[00:24:31] if you go out 3 or 4 years, we already have on the order of 10 launches booked of Falcon
+[00:24:39] 9 and we've only done two Falcon 9 launches, and we're only just putting a stake in the
+[00:24:45] ground with Falcon Heavy.
+[00:24:47] Twenty launches a year, is not a crazy number at all.
+[00:24:52] We expect that to occur without any miracles.
+[00:24:56] So we must make sure that we are building our production capability and our launch capability
+[00:25:00] to meet that demand.
+[00:25:17] Right now our engine production rate is around 50 to 60 per year.
+[00:25:23] That's what we're doing with the Merlin 1C.
+[00:25:26] Merlin 1D, in addition to being a thrust upgrade, and some performance upgrade, is really a
+[00:25:32] design for manufacturability as well.
+[00:25:34] It's helpful that I have experience from the automotive world as well because, in automotive,
+[00:25:42] 400 engines per year is nothing.
+[00:25:46] There are a lot of techniques which the car industry has developed to be able to do high
+[00:25:51] volume production but also be very reliable and consistent in doing so.
+[00:25:56] I'm very confident that with the Merlin 1D design we'll be able to build 400 engines
+[00:26:02] per year or frankly even 600 or 700 engines per year if we need to, and then the same
+[00:26:09] with the cores.
+[00:26:11] So we are making a significant investment in tooling and production process efficiency,
+[00:26:18] honing our software systems within the company that manage the procurement, assembly, and
+[00:26:24] launch, trying to automate as much as possible.
+[00:26:30] None-the-less, we are expecting to hire a lot more people and last year we grew quite
+[00:26:37] dramatically - over 50% employment count growth last year - we went from 800 to 1200 in 2010.
+[00:26:47] This year, I think we'll probably grow 15 to 20% and I am intentionally slowing growth
+[00:26:58] down a little bit just because I want to make sure we're building the company on the right
+[00:27:02] foundation, and then next year I expect the growth rate to continue to increase up to
+[00:27:08] the 30 to 40% level in personnel growth.
+[00:27:16] We actually have been steadily acquiring the buildings around us in California.
+[00:27:26] So we're sort of growing like the Borg.
+[00:27:29] Actually, almost all the buildings around us have been acquired and that's increased
+[00:27:37] our capacity in California by about 50% in terms of real estate, but I think we'll actually
+[00:27:43] do a lot more with the existing physical locations we have.
+[00:27:46] Actually, I really like density.
+[00:27:48] I like a beehive of activity and people fairly close together.
+[00:27:53] I think it creates a much better esprit de corps.
+[00:27:58] You may have seen the announcement in Texas that we've more than doubled the size of our
+[00:28:06] rocket development facility in Texas which is where we do development and acceptance
+[00:28:10] testing of the rocket engines and stages and that's in anticipation of a lot more growth.
+[00:28:17] So we're now at over 600 acres in Texas.
+[00:28:21] We're building up a launch site at Vandenburg and we'll be enhancing our launch site at
+[00:28:26] the cape.
+[00:28:27] So it's a lot of growth across the board.
+[00:28:32] [A thousand dollars per pound,] it's the mythical number.
+[00:28:53] Not so mythical anymore.
+[00:29:02] [Comparison to shuttle and volume.]
+[00:29:15] Good question.
+[00:29:19] I think we'll need to launch, maybe, on the order of four per year to maintain those cost
+[00:29:26] numbers, but I'm very confident that we'll be able to do that.
+[00:29:29] That is not, I think, a tall order, and I think it's going to be a lot closer to 10
+[00:29:35] than 4.
+[00:29:36] Also, because of the commonality between Falcon 9 and Falcon Heavy we're able to spread the
+[00:29:42] overhead across both vehicles.
+[00:29:45] Because really, Falcon Heavy is essentially the upgraded Falcon 9 with two additional
+[00:29:51] first stages as side boosters.
+[00:29:54] So it's able to use the same tooling, be made in the same line, and I think therefore significantly
+[00:30:03] improves the probability of being able to hold to our cost numbers on Falcon Heavy.
+[00:30:08] You're hearing it from me directly, you know, it's being recorded that we will stick to
+[00:30:14] those prices, and not go above them, except for, you know, inflation and stuff like that.
+[00:30:19] So, in current year dollars, we'll stick to what we have said.
+[00:30:34] The first mission is really a demonstration flight.
+[00:30:39] It's there to prove that Falcon Heavy will work.
+[00:30:43] That it will deliver the payload that we say it can, and we don't have a primary customer
+[00:30:50] for it, but we are likely to have several smaller secondary satellites on-board that
+[00:30:54] will do a variety of things, and if we get lucky, maybe there will be a big satellite
+[00:31:00] at the last minute that wants to buy the flight at a reduced price.
+[00:31:17] Dragon is capable of reentering from even Mars velocities including lunar velocities,
+[00:31:24] etc.
+[00:31:25] It's a very capable vehicle and is not limited to simply low Earth orbit operations.
+[00:32:03] It's certainly possible to do a lunar fly-by mission with Falcon Heavy and Dragon.
+[00:32:10] Where you sort of send a Dragon spacecraft on a loop around the back side of the Moon.
+[00:32:14] In order to land on the Moon, there would need to be a propulsive landing system developed
+[00:32:22] which we do not currently have planned.
+[00:32:27] Certainly it is something we could potentially do, but there's no question that with Falcon
+[00:32:33] Heavy and Dragon you could do a really cool mission which would be a lunar flyby, so you
+[00:32:37] could go past the back of the Moon, you could even go a little further than they went in
+[00:32:42] Apollo.
+[00:32:43] That'd be kinda cool I think.
+[00:32:51] [Question about price changes since 2002.]
+[00:33:10] Well, first of all, in 2002 we didn't even have any pricing because I only started the
+[00:33:22] company in, basically, July of 2002.
+[00:33:31] We didn't even know what rocket we were making in 2002.
+[00:33:34] So it's not possible to have doubled from a question mark.
+[00:33:41] But I think if you look at the pricing for Falcon 9, ever since we rolled out the final
+[00:33:48] specifications for Falcon 9, we've kept our pricing consistent at around the $50 million
+[00:33:53] level.
+[00:33:54] I think we've been very solid in keeping our prices steady and we do not expect to make
+[00:34:03] price increases in the future except for inflation related adjustments.
+[00:34:08] In fact, over time we really want to reduce the cost per pound to orbit because that is
+[00:34:14] the fundamental gating factor that prevents humanity from becoming a truly spacefaring
+[00:34:20] civilization.
+[00:34:21] It has just been far too expensive to do space travel in the past and in order for the country
+[00:34:31] and for humanity to have an exciting future in space, it is critical that we are constantly
+[00:34:36] improving the cost per pound to orbit and with Falcon Heavy we're demonstrating that
+[00:34:41] we are.
+[00:34:42] Falcon Heavy is a significant improvement over Falcon 9 in the cost per pound to orbit,
+[00:34:47] and it's right around the, not so mythical anymore, $1000 per pound capability, and as
+[00:34:59] we improve the performance of Falcon Heavy over time we want to get it below $1000.
+[00:35:18] We have an idea for a super heavy lift capability that would be sorta on the order of 150 metric
+[00:35:24] tons to orbit, about three times the capability of Falcon Heavy and that's something that
+[00:35:30] we're working.
+[00:35:33] That's 50% bigger than a Saturn V. That's something that we're iterating with NASA on
+[00:35:41] right now as part of - NASA issued an RFP for design ideas on a super heavy.
+[00:35:49] We're one of the companies that NASA awarded.
+[00:35:51] It's a small contract, a few hundred thousand dollars, but we're exploring with NASA how
+[00:35:56] to do a 150 metric ton to orbit capability but complete that development rapidly and
+[00:36:06] with an end result that is well under $1000 per pound to orbit.
+[00:36:36] We're already slated to replace the shuttle as far as cargo delivery capability to the
+[00:36:41] station, which is the main functionality of the shuttle.
+[00:36:46] Most of what the shuttle does is carry cargo to and from the space station.
+[00:36:53] It does carry astronauts as well, and if things go as we hope, [inaudible] replace both the
+[00:37:05] cargo and astronaut transport capabilities of the space shuttle.
+[00:37:10] So we do expect that will occur.
+[00:37:11] Now that's slated to occur with Falcon 9 and Dragon, Falcon Heavy has potential to do a
+[00:37:16] lot more than that.
+[00:37:31] Texas is where we do all of our engine development and stage testing.
+[00:37:37] As I mentioned a moment ago, we've more than doubled the size of our property in Texas,
+[00:37:41] now 600 acres.
+[00:37:43] So we are expecting a significant workforce increase at our McGreggor test site.
+[00:37:49] I expect it to more than double over the next few years.
+[00:37:57] Alright, thank you.

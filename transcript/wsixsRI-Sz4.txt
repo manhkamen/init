@@ -1,0 +1,2594 @@
+[00:00:00] Elon, let me start by saying we're very
+[00:00:02] glad you're here safe and sound. Uh
+[00:00:04] thanks. I actually had to sorry for
+[00:00:06] being late. I was uh
+[00:00:07] uh flying I flew here with the landing
+[00:00:09] gear down cuz there was like some kind
+[00:00:10] of landing gear issue. Landing gear was
+[00:00:12] stuck?
+[00:00:13] There's some kind of warning light uh my
+[00:00:16] pilot said that if they were to retract
+[00:00:18] the landing gear it may not go back down
+[00:00:19] again. So
+[00:00:21] So this happens to you this even happens
+[00:00:23] to you.
+[00:00:24] Yeah. Yeah. Yeah. Okay. I have landing
+[00:00:26] gear problems of various kinds. Um so um
+[00:00:30] anyway we're happy to wait for you and
+[00:00:32] then we're glad you got here safe.
+[00:00:33] Thanks for having me. It's great to see
+[00:00:34] you guys. Thank you for coming. I really
+[00:00:35] appreciate it. You kept your promise
+[00:00:37] which was nice. I think you were drunk
+[00:00:39] when you promised me but that's okay.
+[00:00:41] I'll take it. So you know in the couple
+[00:00:43] of years since you've come you've done
+[00:00:46] some astonishing things in in terms of
+[00:00:48] substance of stuff with your with both
+[00:00:50] of your companies. Um let's start
+[00:00:52] talking about space and what you've been
+[00:00:54] doing there. Um obviously you've had
+[00:00:56] some success uh landing the landing the
+[00:00:58] rocket. You've had you know you've done
+[00:01:00] a bunch of other things that where
+[00:01:01] people thought you weren't going to be
+[00:01:02] successful. Talk a little bit about sort
+[00:01:05] of the progress you think you've made
+[00:01:06] with SpaceX. Sure well I mean there's a
+[00:01:08] lot of things where I I think I I didn't
+[00:01:10] think we'd be successful. Um
+[00:01:11] so the
+[00:01:13] the um
+[00:01:14] probably and the most significant thing
+[00:01:15] is being able to land an
+[00:01:18] an orbit class rocket uh booster stage
+[00:01:21] um
+[00:01:22] and uh and bring it both back to Cape
+[00:01:25] Canaveral uh land to land and be able to
+[00:01:27] land on a drone ship out in the ocean.
+[00:01:31] Um
+[00:01:32] the
+[00:01:33] um it it there is a bit of an education
+[00:01:36] process that's needed to understand
+[00:01:37] orbital dynamics um cuz
+[00:01:40] a lot of people can are confused of like
+[00:01:42] why the heck are you landing a ship uh
+[00:01:44] landing a rocket in a on a ship in the
+[00:01:46] ocean? That seems pretty inconvenient.
+[00:01:48] Um
+[00:01:49] and the the reason is because that uh
+[00:01:52] going up and staying up is actually
+[00:01:54] about velocity horizontal to the earth's
+[00:01:56] surface.
+[00:01:58] So
+[00:01:59] um there there's a huge difference
+[00:02:01] between space and or space and or and
+[00:02:03] orbit. It like space you can think of as
+[00:02:05] like say being the international waters
+[00:02:08] boundary for the Pacific Ocean. Like if
+[00:02:10] you go you know
+[00:02:11] uh 100 miles offshore you're technically
+[00:02:13] out of
+[00:02:14] Yes.
+[00:02:15] coastal waters now you're in the
+[00:02:16] Pacific. So it's like technically you're
+[00:02:18] in the Pacific but but it's but orbit is
+[00:02:20] like circumnavigating the globe.
+[00:02:23] It it's a really giant difference and
+[00:02:25] the the reason that things go up and
+[00:02:28] stay up is because
+[00:02:30] you're you're zooming around the earth
+[00:02:31] so fast that your outward radial
+[00:02:33] acceleration is equal to the inward
+[00:02:35] acceleration of gravity.
+[00:02:37] And so those balance out and you have a
+[00:02:39] net zero gravity.
+[00:02:41] So when you see the space station
+[00:02:43] the thing that's little little sort of
+[00:02:45] um counterintuitive is that the space
+[00:02:47] station is actually zooming around the
+[00:02:48] earth at 17,000 miles an hour.
+[00:02:52] Even though it seems like it just
+[00:02:53] really still you know but it's moving
+[00:02:56] really really fast. Um
+[00:02:58] I mean to put that into perspective
+[00:03:01] um a bullet from a 45 um
+[00:03:04] gun you know a handgun um is is is is uh
+[00:03:08] just below the speed of sound. So
+[00:03:10] the space station is going more than 25
+[00:03:13] times faster than that.
+[00:03:16] Um and that's what's needed actually to
+[00:03:17] go up and stay up. Um and that's why
+[00:03:19] that's why there's the term escape
+[00:03:21] velocity not escape altitude. There's no
+[00:03:23] such thing as an escape altitude there's
+[00:03:25] only escape velocity. You need to be a
+[00:03:27] certain speed to escape the gravity of
+[00:03:29] the earth. Yeah you can think of gravity
+[00:03:30] as kind of a funnel in space time.
+[00:03:33] Um so uh
+[00:03:35] or think of it like a coin funnel. Like
+[00:03:37] it's it's really it's very much like
+[00:03:38] that in in you know but it's obviously a
+[00:03:40] sort of a four-dimensional coin funnel
+[00:03:42] but uh
+[00:03:44] if if you if you spin a spin a marble or
+[00:03:46] a coin on a coin funnel the
+[00:03:50] when it's when it's far out it sort of
+[00:03:52] spins slowly and then as it gets closer
+[00:03:54] it spins faster and faster
+[00:03:56] and if you want if you want if you were
+[00:03:57] to start at the bottom of the coin
+[00:03:59] funnel and you wanted to to to to to to
+[00:04:01] exit you'd spin it horizontally and it
+[00:04:04] would it would spin out and and and
+[00:04:07] that's really how you
+[00:04:08] how you get to orbit. Um
+[00:04:11] Yeah so the gravity well is like a
+[00:04:13] funnel.
+[00:04:13] why you want to land on the on a ship in
+[00:04:15] the ocean?
+[00:04:17] Uh because
+[00:04:18] um in order to get to orbit you all that
+[00:04:20] matters is your horizontal velocity.
+[00:04:22] Your altitude is doesn't doesn't really
+[00:04:23] matter.
+[00:04:24] Um in fact the the um
+[00:04:28] the force of gravity at uh say
+[00:04:30] the
+[00:04:31] the nominal
+[00:04:33] um boundary of space 100 km is almost
+[00:04:35] exactly the same as it is on the surface
+[00:04:37] of the earth.
+[00:04:38] Hm.
+[00:04:39] Um it's it's like if it's a few percent
+[00:04:41] lower than than the surface of the
+[00:04:42] earth.
+[00:04:43] Um
+[00:04:45] uh so in in order to go up and stay up
+[00:04:48] the only thing that matters is how fast
+[00:04:49] are you going horizontal to the earth's
+[00:04:50] surface.
+[00:04:52] So you have that outward radial
+[00:04:53] acceleration or think of it like maybe
+[00:04:54] like tetherball or something like that.
+[00:04:56] It's really that outward acceleration is
+[00:04:58] the thing that matters. Um and so when
+[00:05:00] the rocket is going to orbit um
+[00:05:03] the only reason it's going up is to get
+[00:05:05] out of the thick part of the atmosphere
+[00:05:06] cuz that
+[00:05:07] at high velocity the atmosphere is thick
+[00:05:09] as molasses.
+[00:05:10] Um
+[00:05:12] and so it goes up very briefly but if
+[00:05:13] you look at a long exposure of the the
+[00:05:16] rocket's uh trajectory you'll see it it
+[00:05:19] goes up but immediately curves over and
+[00:05:21] starts going horizontal.
+[00:05:23] Um
+[00:05:24] and so
+[00:05:25] the um
+[00:05:27] at at the at the point at which the
+[00:05:29] uh
+[00:05:31] the uh the the point at which the stage
+[00:05:33] is separate those two stages
+[00:05:35] um the the primary booster stage which
+[00:05:37] is the most expensive part of the rocket
+[00:05:39] the point at which that that staging
+[00:05:40] occurs uh can be um as high as uh Mach
+[00:05:44] 10.
+[00:05:46] Um but it's it's so it's going away from
+[00:05:48] the launch site at 10 times the speed of
+[00:05:50] sound.
+[00:05:52] So in in in order to get back to the
+[00:05:55] launch site you would have to have
+[00:05:56] enough I
+[00:05:57] fuel and oxygen to reverse out that
+[00:06:00] velocity
+[00:06:02] and and and boost back all the way to
+[00:06:04] the launch site.
+[00:06:05] Um and you just don't have the physics
+[00:06:07] of it don't really allow you to have
+[00:06:09] that much it's it's not about saving
+[00:06:11] money on fuel or anything it's just
+[00:06:13] physically impossible.
+[00:06:15] Um
+[00:06:16] so um
+[00:06:18] because another sort of thing about uh
+[00:06:21] if you're if you're in space is that
+[00:06:22] there's nothing to react against. So
+[00:06:24] like whereas an aircraft can can circle
+[00:06:27] very easily because it's reacting
+[00:06:29] against air.
+[00:06:31] In vacuum there's nothing to react
+[00:06:33] against. So the only way to go back the
+[00:06:35] other direction is to apply just as much
+[00:06:37] energy as it took you to go it we if you
+[00:06:39] want to go backwards you have to apply
+[00:06:41] just as much energy as it took you to go
+[00:06:42] forwards.
+[00:06:43] In fact it would twice as much really
+[00:06:45] cuz you got to zero it out and then
+[00:06:47] you've got to You've got to land
+[00:06:48] elsewhere.
+[00:06:49] Yeah so bottom line is this thing is
+[00:06:50] zinging out to
+[00:06:52] zinging out to
+[00:06:52] the point it may well be over the ocean
+[00:06:53] cuz the ocean covers most of the
+[00:06:55] ocean covers most of the uh the earth.
+[00:06:56] So that's the point
+[00:06:57] it may Oh it's it's it's actually the
+[00:07:00] point of separation it's not that far
+[00:07:01] away. It's maybe 100 km away from the
+[00:07:04] the launch site but it is going like
+[00:07:07] hell in the opposite you know away from
+[00:07:09] the launch site.
+[00:07:10] So
+[00:07:11] the
+[00:07:12] the only way to really land it is to
+[00:07:14] have it continue on that arc that
+[00:07:17] ballistic arc and then land far out to
+[00:07:20] sea on a ship that's that's
+[00:07:22] pre-positioned to a particular
+[00:07:25] latitude and longitude very very precise
+[00:07:27] to within about a meter. Um
+[00:07:30] and then
+[00:07:31] the the rocket will um then go from
+[00:07:33] vacuum through rarefied air at
+[00:07:36] hypersonic velocity uh
+[00:07:39] um it and and what so when it's when
+[00:07:40] it's in vacuum it has to obviously you
+[00:07:42] can't use air surfaces you have to use
+[00:07:44] um nitrogen jets to control the um
+[00:07:48] the attitude and position.
+[00:07:50] And then um as it starts to encounter
+[00:07:54] uh the air um we use um
+[00:07:57] grid fins because grid fins
+[00:07:59] uh look like sort of like a waffle um
+[00:08:02] they work quite well across a wide
+[00:08:04] regime from both very high velocity um
+[00:08:07] hypersonic through supersonic transonic
+[00:08:10] and subsonic. Um so it's hard to it's
+[00:08:12] it's hard to have air surfaces that work
+[00:08:14] well across that entire regime.
+[00:08:17] And then uh
+[00:08:19] so once the air air
+[00:08:20] forces become high it uses the um the
+[00:08:23] four grid fins to to sort of control its
+[00:08:26] attitude
+[00:08:26] itself. Yeah it's it's controlling its
+[00:08:29] it's it's controlling pitch yaw and roll
+[00:08:31] with with the grid fins.
+[00:08:33] Um
+[00:08:34] and uh and then once and those grid fins
+[00:08:37] will then
+[00:08:38] position it to where it's fairly close
+[00:08:40] to the ship and then it will light in
+[00:08:43] this case three of the nine engines to
+[00:08:46] arrest the velocity and then drop to one
+[00:08:48] engine for precision right before
+[00:08:50] landing. Right. Okay. So that was a
+[00:08:53] maybe a bit of a long explanation.
+[00:08:54] but okay what we're going to get to is
+[00:08:57] that's super [ __ ] hard.
+[00:08:59] There's a video. So why why is that
+[00:09:01] important? Why has that this moment been
+[00:09:03] important for you?
+[00:09:05] Um
+[00:09:08] well so in order to reuse
+[00:09:11] the the booster stage which is about 70%
+[00:09:14] of the cost of the rocket so that Which
+[00:09:15] cost is that? How much is that?
+[00:09:17] Um
+[00:09:19] well I mean it's sort of on the order of
+[00:09:21] 30 to 35 million dollars. Right. So you
+[00:09:23] want to save that. Yeah I mean it's like
+[00:09:25] I try to I tell my team it's like
+[00:09:26] imagine there was a pallet of cash that
+[00:09:28] was
+[00:09:29] falling through the atmosphere
+[00:09:33] and it was going to burn up and smash
+[00:09:35] into tiny pieces. Would you try to save
+[00:09:37] it? Right. Right. Right. Probably yes.
+[00:09:39] Yes. Okay. Yeah that sounds like a good
+[00:09:41] idea. Right. Okay. Uh-huh. Um
+[00:09:44] so
+[00:09:45] so yeah so we we we
+[00:09:46] we want to get it back and that way um
+[00:09:50] we don't have to make another one.
+[00:09:52] Right. Um and I think it's quite tragic
+[00:09:54] if rockets like get smashed into tiny
+[00:09:56] pieces and land at the bottom of the
+[00:09:57] ocean.
+[00:09:57] a question? We we've been in we've been
+[00:09:59] going to space for
+[00:10:01] uh what, 50 years or something like
+[00:10:04] that?
+[00:10:04] Yeah.
+[00:10:05] Nobody, until you started doing this and
+[00:10:08] Jeff Bezos' company has done it, uh the
+[00:10:10] government never thought of saving the
+[00:10:12] rockets.
+[00:10:13] They never saved the pallet of cash.
+[00:10:16] Why not? And the Russians didn't either.
+[00:10:18] I mean, what what is the deal there?
+[00:10:20] yeah, I mean there was some attempt uh
+[00:10:21] made to do that with the the space
+[00:10:23] shuttle but there was no um
+[00:10:25] return. It's the first time that that a
+[00:10:27] rocket booster has returned to launch
+[00:10:28] site um
+[00:10:30] from an orbital mission and and
+[00:10:31] certainly the first time that there's
+[00:10:32] been a a landing on a ship out at sea.
+[00:10:34] regular rockets that went up that
+[00:10:36] weren't designed like planes never tried
+[00:10:39] to do this. Right. Um the plane thing is
+[00:10:43] not not a good idea in my view. Um
+[00:10:46] the
+[00:10:47] so so the the the plane um
+[00:10:50] and the the reason I think it's
+[00:10:51] like intuitively it seems like a plane
+[00:10:53] should work but but actually if you you
+[00:10:55] consider that really every mode of
+[00:10:56] transport has a design that is
+[00:10:58] appropriate to its medium. Um and if
+[00:11:01] you're in
+[00:11:02] space, um wings are not very useful.
+[00:11:06] Um cuz there's no air.
+[00:11:08] Uh
+[00:11:10] and
+[00:11:11] and and then if you want to go somewhere
+[00:11:13] other than Earth, there's also no
+[00:11:14] runways.
+[00:11:16] Uh-huh. So, this is these are important
+[00:11:18] considerations.
+[00:11:20] Um
+[00:11:23] so that's why when they went to the
+[00:11:24] moon, they used propulsive landing.
+[00:11:26] Right. But what I'm saying was when they
+[00:11:27] built the space shuttle, it sort of was
+[00:11:29] like a looked like a
+[00:11:31] kind of bulbous plane.
+[00:11:32] appealed to Congress. Yeah. Yeah.
+[00:11:34] Yeah.
+[00:11:36] They went cool. It's cool. Yeah, looked
+[00:11:38] like an airplane.
+[00:11:39] Can you explain the the you know, Jeff
+[00:11:41] Jeff Bezos Good one. Jeff Bezos was here
+[00:11:44] last night and I asked him, what's the
+[00:11:45] difference between what you're doing and
+[00:11:47] what Elon Musk is doing and he said,
+[00:11:49] well, I think we have
+[00:11:51] I think he used the word like-minded
+[00:11:54] in the general sense of it and then he
+[00:11:56] went on to explain some differences. Do
+[00:11:57] you
+[00:11:59] And then he but he talked about and
+[00:12:02] correct me if I'm misquoting him but I
+[00:12:04] think he was saying,
+[00:12:06] we're this is all about laying the
+[00:12:07] foundations of being able to do greater
+[00:12:11] things by getting the basic
+[00:12:13] infrastructure of being able to reuse
+[00:12:15] these rockets down.
+[00:12:17] Right. Do you Is that correct? Do you
+[00:12:20] have a similar starting point from him
+[00:12:23] in your thinking process? I think
+[00:12:25] there's certainly some similarities of
+[00:12:26] opinion. Um I think both uh Jeff and I
+[00:12:28] believe that it's important for the
+[00:12:30] future to be a spacefaring civilization
+[00:12:33] um and actually ultimately be out there
+[00:12:34] among the stars and I think that's the
+[00:12:36] that's the exciting, inspiring future
+[00:12:38] that
+[00:12:39] I think I think certainly people in this
+[00:12:41] room are wanting and anyone
+[00:12:43] after seeing that the asteroids are
+[00:12:45] going to destroy this planet. I mean, Um
+[00:12:47] I mean, I don't view it as um you know,
+[00:12:50] we want we
+[00:12:52] I mean, I I think I think what when I
+[00:12:53] say, you know, multi-planet
+[00:12:55] species, like that's really where we
+[00:12:56] want to be. It's not like, you know,
+[00:12:59] still being a single-planet species with
+[00:13:00] moving planets. It's uh it's really
+[00:13:02] being a multi-planet species um
+[00:13:05] and having civilization and life as we
+[00:13:07] know it extend beyond Earth to the rest
+[00:13:09] of the solar system and ultimately to
+[00:13:11] other star systems. Um I think that's
+[00:13:13] the thing that that's the that's the
+[00:13:15] future that's exciting and inspiring and
+[00:13:16] I think that's what, you know, I think
+[00:13:19] you know,
+[00:13:20] you you need kind of you need things
+[00:13:21] like that to make to to to be glad to
+[00:13:23] wake up in the morning. You know, the
+[00:13:24] like life life can't be just about
+[00:13:26] solving problems. Like there have to be
+[00:13:27] things that are inspiring and exciting
+[00:13:29] that make you glad to be alive. So, what
+[00:13:32] in the immediate time frame, what is
+[00:13:34] what is your goal for SpaceX now that
+[00:13:36] you've done this, which is a huge
+[00:13:38] accomplishment? What is the
+[00:13:39] plan for you in the immediate time and
+[00:13:42] then the longer range?
+[00:13:44] Sure. So, the
+[00:13:45] um so we plan to re-fly
+[00:13:49] uh one of the landed um
+[00:13:52] rocket boosters hopefully in about
+[00:13:56] two or three months, something like
+[00:13:57] that.
+[00:13:58] Um
+[00:13:59] and um
+[00:14:01] and then that that so that'll be an
+[00:14:03] important milestone. Um so far the the
+[00:14:05] the stages are looking like quite quite
+[00:14:07] good uh even though they come through
+[00:14:08] through quite there's a really difficult
+[00:14:11] entry re-entry situation. Um but they're
+[00:14:14] they're looking in fact they're in
+[00:14:15] they're in good shape.
+[00:14:17] Um we now have four of them. Um so, we
+[00:14:20] want to start re-flying them
+[00:14:21] um
+[00:14:22] you know, towards the end of summer
+[00:14:24] um
+[00:14:25] and then uh hopefully by the end of this
+[00:14:28] year we'll be launching Falcon Heavy uh
+[00:14:30] which will will be the um the most
+[00:14:32] powerful rocket
+[00:14:34] uh in the world by more than a factor of
+[00:14:35] two.
+[00:14:36] So, Falcon Heavy is will be on the order
+[00:14:39] of 5 million pounds of thrust on
+[00:14:40] lift-off, which is about 2/3 the size of
+[00:14:42] a Saturn V.
+[00:14:44] Oh, really? Yeah, so it's That's the
+[00:14:46] rocket that uh took the astronauts to
+[00:14:48] the moon. Right, exactly. So, In fact,
+[00:14:50] we're launching from the same from the
+[00:14:51] same pad. From Very same pad.
+[00:14:53] from the Apollo 11 pad. Wow. Yeah.
+[00:14:55] That's amazing. So, you you're hoping to
+[00:14:57] launch that Falcon Heavy by the end of
+[00:14:59] this year, you said.
+[00:15:00] Yeah, that's that's our aspiration. Is
+[00:15:01] that Now, that's somewhat of a delay
+[00:15:03] from when you first hoped to launch it,
+[00:15:05] right? Um yeah, um but uh
+[00:15:09] the I mean, it's not like we had a lot
+[00:15:10] of pressing customers who wanted us to
+[00:15:12] launch it.
+[00:15:12] Uh-huh. Okay.
+[00:15:14] So,
+[00:15:15] the
+[00:15:17] uh in fact, the first launch will will
+[00:15:18] not have any operational satellites.
+[00:15:20] It'll be a demonstration launch. Mhm. Um
+[00:15:22] and the first operational flights where
+[00:15:24] where customers actually want us to
+[00:15:26] launch it are next year.
+[00:15:28] You know, whereas there's there's a lot
+[00:15:29] of customers who want us to launch uh
+[00:15:32] Falcon 9. Um
+[00:15:34] so, about about a quarter of our launch
+[00:15:35] of our flights are for uh for NASA um
+[00:15:37] but 3/4 are for uh commercial satellites
+[00:15:40] like broadcasting communication
+[00:15:41] satellites um or science missions for
+[00:15:44] other countries. Um
+[00:15:46] and um
+[00:15:48] and this is there's quite a quite a
+[00:15:49] backlog and we had we had an issue with
+[00:15:51] a rocket last year so that
+[00:15:53] um put about a 6-month hold on our
+[00:15:54] schedule so we're sort of backlogged on
+[00:15:56] our launches and we're trying to get
+[00:15:57] them out as as as quickly as we as we
+[00:16:00] can um and
+[00:16:02] you know, so
+[00:16:03] you know, service our customers.
+[00:16:05] The the uh so we're we're the launches
+[00:16:07] will take place you know, every two to
+[00:16:09] four weeks. It's quite a quite a high
+[00:16:11] launch cadence.
+[00:16:11] That's a much faster cadence than NASA
+[00:16:13] had, right? Um yeah, it's I mean, it's
+[00:16:16] it will be more launches than any
+[00:16:18] anything else in the world. Um so, more
+[00:16:20] than Russia, more than Europe, more than
+[00:16:23] well, more than China by now. Sure,
+[00:16:25] certainly.
+[00:16:26] to deliver customers.
+[00:16:28] Satellites.
+[00:16:29] Yeah, it's it's um
+[00:16:30] there's a lot of broadcasting
+[00:16:31] communication satellites that are going
+[00:16:33] to geosynchronous orbit. Mhm.
+[00:16:36] And um
+[00:16:37] and then there's we're we're we'll also
+[00:16:39] be launching the new uh Iridium
+[00:16:42] constellation. So, the Iridium's got a
+[00:16:44] next generation uh constellation of uh
+[00:16:47] satellites, I think 60 or 70 satellites,
+[00:16:49] quite you know, decent-size satellites
+[00:16:51] uh um
+[00:16:52] that that'll be
+[00:16:54] like many orders of magnitude
+[00:16:55] improvement over the current Iridium
+[00:16:56] system. So, we'll be able to have global
+[00:16:58] broadband um
+[00:17:00] so that that'll be a whole bunch of
+[00:17:01] launches and um
+[00:17:04] yeah, and then and then next year we'll
+[00:17:06] be flying
+[00:17:08] um Dragon version two, which is the one
+[00:17:11] that's capable of taking up to seven
+[00:17:13] astronauts to the space station. Mhm. Um
+[00:17:16] in fact, Dragon two really is
+[00:17:19] it's a propulsive lander as well um and
+[00:17:22] it'll be the uh it's it's it's intended
+[00:17:25] to carry astronauts to the space station
+[00:17:27] but it's also capable of being a general
+[00:17:30] science delivery platform to anywhere in
+[00:17:32] the solar system.
+[00:17:34] So, um So, where are you going with it?
+[00:17:37] We're going to we're going to send one
+[00:17:38] to Mars in 2018. Okay.
+[00:17:40] Now, let's talk
+[00:17:41] Wait. Wait. 2018, that's for sure. Yeah,
+[00:17:43] a couple years. Couple years. Now, will
+[00:17:45] you be on that flight?
+[00:17:46] No. You have talked about this. You said
+[00:17:49] you don't want to you want to die on
+[00:17:51] Mars, just not on landing, right? Is
+[00:17:52] that correct?
+[00:17:54] Well, I mean, I think if you're going to
+[00:17:55] choose a place to die,
+[00:17:57] then Mars is probably
+[00:17:59] you know, not a bad choice. All right.
+[00:18:02] Um
+[00:18:03] But you're not ready
+[00:18:04] it's not some sort of Martian death wish
+[00:18:05] or something.
+[00:18:07] But but yeah, I mean, if you're going to
+[00:18:09] be born on Earth, die on Mars. So,
+[00:18:11] sending this up to Mars, 2018, right?
+[00:18:14] Sending this up to Mars, 2018.
+[00:18:17] When will someone like you get there
+[00:18:19] from your plans? Sure. So, so the 2018
+[00:18:22] mission would be um our Drag- Dragon
+[00:18:24] version two.
+[00:18:25] Right. Um and
+[00:18:27] that um
+[00:18:29] I wouldn't recommend traveling to Mars
+[00:18:31] in in that cuz I mean, it has the
+[00:18:32] interior volume of a large SUV. Okay. Uh
+[00:18:35] the the the trip the trip for Dragon
+[00:18:38] would be on the order of six months.
+[00:18:39] Mhm. It's a long time to spend in an
+[00:18:41] SUV, I think. Mhm. Um
+[00:18:44] That's yes,
+[00:18:45] can be done. Can be done but not not
+[00:18:48] probably not
+[00:18:49] ideal. Um
+[00:18:51] and it also doesn't have the capability
+[00:18:52] of getting back to Earth. Right. That's
+[00:18:57] That seems more important than the space
+[00:18:59] is.
+[00:18:59] Hopefully. Yeah, we can put that in the
+[00:19:00] in the fine print, Yeah.
+[00:19:02] Sorry. We were rooting for It's It's
+[00:19:03] like the side effects in a drug ad.
+[00:19:05] By the way, cannot get back to Earth.
+[00:19:08] Yeah. Yeah, we saw the movie. We saw
+[00:19:09] what happened. He got back. Yeah, yeah.
+[00:19:12] Um
+[00:19:13] So, it's good. I I I actually enjoyed
+[00:19:14] the movie. Um
+[00:19:17] So,
+[00:19:17] he could have gotten back like that?
+[00:19:19] That was that plausible?
+[00:19:19] Well, I thought there was some, you
+[00:19:21] know, connection. It was It was mostly
+[00:19:23] It was like 80% scientifically correct.
+[00:19:26] Um but they did connect a series of
+[00:19:28] improbable events.
+[00:19:29] Such as?
+[00:19:31] Well, I mean, I don't think you can sort
+[00:19:32] of just uh take off from Mars um on an
+[00:19:35] unguided rocket really and and then
+[00:19:38] prick your finger on a space suit and
+[00:19:40] navigate to a to a spaceship.
+[00:19:42] Right?
+[00:19:45] Yeah.
+[00:19:46] Not Not Not impossible, just extremely
+[00:19:48] unlikely.
+[00:19:50] So, the sand storm in the movie
+[00:19:52] if you're Matt Damon maybe. Maybe. You
+[00:19:54] have some mad skills for sure.
+[00:19:56] So so so when will people like yourself
+[00:20:00] get there and I assume you'll be first
+[00:20:01] in line for that? Yeah so
+[00:20:04] later this year in September at the
+[00:20:07] IAC which is the big
+[00:20:10] sort of world space conference industry
+[00:20:11] space conference. I'm going to be
+[00:20:12] presenting the
+[00:20:14] the architecture for Mars colonization.
+[00:20:17] Mhm.
+[00:20:19] So I think what really matters is being
+[00:20:20] able to transport large numbers of
+[00:20:22] people and
+[00:20:25] ultimately millions of tons of cargo to
+[00:20:26] Mars.
+[00:20:29] And and that's what's necessary in order
+[00:20:30] to create a self-sustaining
+[00:20:35] not really self-sustaining but a growing
+[00:20:39] city on Mars. So I'm curious have you
+[00:20:41] been to space yet? No. Why?
+[00:20:44] I mean you could just go up right for a
+[00:20:45] little bit or not?
+[00:20:46] I could I suppose. Yeah. Why haven't
+[00:20:48] you? Like walked around or something?
+[00:20:51] Yeah well yeah probably will. Will you
+[00:20:52] do a moon test before you
+[00:20:55] go to Mars?
+[00:20:57] Yeah I'm going to probably probably I
+[00:20:58] don't know go to orbit in four or five
+[00:21:00] years or something like that. But again
+[00:21:01] space and orbit are very different
+[00:21:02] things. But on the Mars thing would you
+[00:21:05] send up
+[00:21:07] two or three
+[00:21:09] whether it's you or not. I kind of would
+[00:21:11] prefer if you tried it frankly but
+[00:21:15] because it would be exciting but
+[00:21:18] would you send up some people some
+[00:21:20] people before you do this whole
+[00:21:21] architecture for colonizing Mars just a
+[00:21:24] handful of people to kind of see what I
+[00:21:26] mean the the the basic game plan is like
+[00:21:28] we're going to
+[00:21:29] send um
+[00:21:31] a mission to Mars with every Mars
+[00:21:33] opportunity from 2018 onwards. So
+[00:21:36] and they occur approximately every 26
+[00:21:38] months. So um
+[00:21:40] you know we we're establish we're
+[00:21:42] establishing cargo flights to Mars that
+[00:21:44] people that people can count on for for
+[00:21:46] cargo. Um
+[00:21:48] and it's like I said the the the
+[00:21:50] Earth-Mars orbital rendezvous is only
+[00:21:52] every 26 months. So there's one in 2018
+[00:21:54] there'll be another one in 2020.
+[00:21:56] Um
+[00:21:57] and I think if things go
+[00:22:00] according to plan we should be able to
+[00:22:03] uh
+[00:22:06] we should be able to launch people
+[00:22:07] probably in 2024 with arrival in 2025.
+[00:22:13] So Is that is that a more certain
+[00:22:15] schedule than United Airlines?
+[00:22:20] Well um I don't know.
+[00:22:23] Uh There's certainly some uncertainties
+[00:22:25] associated with that.
+[00:22:27] Um So um let's um I'm going to share
+[00:22:29] Anyway that's the game plan like
+[00:22:30] approximately 2024 to do the first to to
+[00:22:33] to to launch the first um
+[00:22:37] of the Mars colonial transport system
+[00:22:39] with I want to get back to what you said
+[00:22:40] earlier about a multi
+[00:22:41] a very big rocket.
+[00:22:43] Okay. A very big bigger than Saturn V?
+[00:22:46] Twice as big or what?
+[00:22:49] September. I'll tell you.
+[00:22:51] Not going to say anything till
+[00:22:52] September? Come on.
+[00:22:53] Very big.
+[00:22:54] Come on. Has to be very big.
+[00:22:56] I how big is very big? So big.
+[00:23:02] Um
+[00:23:05] Do you think we should abandon the Earth
+[00:23:06] at some
+[00:23:07] No. No I No I think it's great. But you
+[00:23:10] have said things
+[00:23:12] Why would we abandon Earth? It's really
+[00:23:14] nice here.
+[00:23:14] You've said things about we may have to
+[00:23:16] abandon the Earth so it's good to have a
+[00:23:18] plan B. No I haven't. Or No that was
+[00:23:21] amazing. That's I think that's maybe
+[00:23:23] maybe I don't know but it wasn't me. All
+[00:23:25] right. Okay.
+[00:23:26] Wasn't me like Jackie you All right. Um
+[00:23:28] So let's move to things on this Earth.
+[00:23:31] Let's move to Hyperloop Tesla
+[00:23:34] other things. Let's talk about Tesla
+[00:23:35] first.
+[00:23:37] Where do you feel like the company is at
+[00:23:39] at this point and there's been lots of
+[00:23:41] activity in self-driving cars and
+[00:23:44] autonomous autonomous. How do you look
+[00:23:46] at how everybody's jumped in Google
+[00:23:48] Apple others? Um and all the car
+[00:23:51] manufacturers.
+[00:23:53] Um
+[00:23:54] Yeah I mean there have been so many
+[00:23:55] announcements of like autonomous EV
+[00:23:57] startups. I'm waiting for my mom to
+[00:23:58] announce one. Okay. Um it's like mom you
+[00:24:01] too?
+[00:24:03] Um
+[00:24:06] I mean there's a lot.
+[00:24:07] So
+[00:24:08] um
+[00:24:12] Yeah I mean in in
+[00:24:14] in in the US alone there are there are
+[00:24:16] four I think maybe five China-funded EV
+[00:24:19] startups.
+[00:24:21] At the billion dollar plus level like
+[00:24:24] serious funding.
+[00:24:25] Um
+[00:24:26] and there's a bunch of startups and then
+[00:24:28] of course the you know the car industry
+[00:24:30] as a whole seems to be moving in that
+[00:24:31] direction.
+[00:24:34] Volkswagen just I think announced a huge
+[00:24:37] battery factory that they're going to
+[00:24:38] build.
+[00:24:39] Um
+[00:24:40] And I think these are all good you know
+[00:24:41] it's good it's good for
+[00:24:43] the industry to be moving towards
+[00:24:45] sustainable transport as as quickly as
+[00:24:47] possible.
+[00:24:48] Um we open sourced our patents to try to
+[00:24:50] be helpful in that regard.
+[00:24:52] And um
+[00:24:53] yeah so it's it's encouraging to see all
+[00:24:55] this activity.
+[00:24:57] Um
+[00:24:58] From a Tesla standpoint you know we're
+[00:25:01] just we want to take the set of actions
+[00:25:03] that are
+[00:25:05] uh likely to accelerate the advent of
+[00:25:06] sustainable energy. Um so
+[00:25:09] um
+[00:25:11] scale up production as fast as we can so
+[00:25:13] we accelerated plans for the Model 3 by
+[00:25:15] two years.
+[00:25:17] Um
+[00:25:18] and to so we we want to try to get to
+[00:25:20] half a million cars in total in kind of
+[00:25:23] the 2018 timeframe which is an
+[00:25:25] aggressive schedule but I think
+[00:25:27] achievable.
+[00:25:28] Um and and then maybe a million cars a
+[00:25:31] year by 2020. Um
+[00:25:34] and um
+[00:25:37] you know I I can see a I I think a
+[00:25:39] pretty clear path to get there.
+[00:25:41] Uh autonomy is obviously extremely
+[00:25:42] important. Uh
+[00:25:44] people are going to want want autonomy.
+[00:25:46] It's going to be odd to have a car
+[00:25:48] without autonomy in the future.
+[00:25:50] Um
+[00:25:52] But
+[00:25:53] um yeah so that I think that's So what
+[00:25:55] what what do you How do you look at
+[00:25:57] How do you look at the all these
+[00:25:58] efforts? Not your mother but
+[00:26:00] Yeah my mom's yeah she's She's not going
+[00:26:02] to do it. She may do a rocket situation
+[00:26:03] but
+[00:26:04] um
+[00:26:05] how do you look at each of them? Let's
+[00:26:06] go through them. What Google's doing?
+[00:26:09] How do you assess what they're doing
+[00:26:11] when you're looking at it cuz they'll be
+[00:26:12] competitors at some point. These are all
+[00:26:14] Um eventual competitors. Well you know
+[00:26:17] what I think what what Google's I mean
+[00:26:19] Google's done
+[00:26:20] a great job of showing the potential of
+[00:26:23] autonomous transport. Um
+[00:26:25] but they're they're not a they're not a
+[00:26:27] car company so they would potentially
+[00:26:29] you know license their technology to
+[00:26:31] other car companies and I think they
+[00:26:32] announced something with Fiat. Um
+[00:26:36] and
+[00:26:37] so I I wouldn't say you know Google's a
+[00:26:39] competitor because they're not a car
+[00:26:41] company. They We would compete with
+[00:26:43] somebody perhaps that they license
+[00:26:44] technology to but not to them directly.
+[00:26:46] Right. Um Apple?
+[00:26:48] Uh
+[00:26:50] Yeah that that'll be more direct.
+[00:26:52] That'll be more direct? Yeah. You can
+[00:26:54] tell that by the hiring pattern and that
+[00:26:57] kind of stuff.
+[00:26:58] So what do you
+[00:26:59] Okay so they're going to be more direct.
+[00:27:01] How do you assess it?
+[00:27:03] Um
+[00:27:06] I mean I I say like you know I
+[00:27:08] I think it's great that they're doing
+[00:27:09] this and
+[00:27:11] um I
+[00:27:12] um
+[00:27:14] you know I hope they I hope it works
+[00:27:15] out.
+[00:27:19] What's What's the timeframe for them do
+[00:27:21] you think?
+[00:27:22] Um I don't know I mean
+[00:27:24] um I I think they should have
+[00:27:27] embarked upon this project
+[00:27:30] sooner actually.
+[00:27:33] Uh but that uh
+[00:27:35] um
+[00:27:38] but I don't know
+[00:27:40] I don't know when they I mean they have
+[00:27:41] they don't they don't share with me the
+[00:27:42] details of their
+[00:27:44] production plans but um I I I
+[00:27:47] I don't think it's going to be I don't
+[00:27:49] think they'll be in volume production
+[00:27:50] sooner than
+[00:27:52] maybe 2020. That'll be like the soonest.
+[00:27:55] And that's Is that too late? When you
+[00:27:56] say they should have embarked sooner is
+[00:27:58] is that because 2020 will be too late to
+[00:28:00] stop you or beat you or compete with you
+[00:28:02] or No it's just like it's a missed
+[00:28:04] opportunity. It's just a that they it's
+[00:28:07] a it's
+[00:28:09] um It'll be over by 2020?
+[00:28:11] I wouldn't say that. It's
+[00:28:12] It's just like it's it's it's a couple
+[00:28:13] of years.
+[00:28:14] I think they'll they'll probably make a
+[00:28:16] good car and probably be successful. The
+[00:28:19] car industry is very big so it's not as
+[00:28:21] though there's um
+[00:28:23] you know one company to the exclusion of
+[00:28:25] others.
+[00:28:26] Um
+[00:28:27] I mean there's like a dozen
+[00:28:29] car companies in the world of of of
+[00:28:31] significance. So
+[00:28:32] uh and the the most that any company has
+[00:28:36] is approximately 10% market share.
+[00:28:38] So it's it's not like um
+[00:28:40] you know somebody comes up with a car
+[00:28:42] and they're suddenly like they kill
+[00:28:43] everyone else. It's not not that way.
+[00:28:46] Um
+[00:28:47] and and the sheer scale of automotive
+[00:28:49] manufacturing is is is just
+[00:28:52] it's hard to appreciate until you see
+[00:28:54] the plants. I mean that they're gigantic
+[00:28:56] like the industrial Yeah I mean the the
+[00:28:59] the the sheer size of the industrial
+[00:29:01] infrastructure is is staggering. Not
+[00:29:03] just the assembly plant but everything
+[00:29:04] else that goes
+[00:29:05] Yeah the supply chain exactly the supply
+[00:29:07] chain is just a little tip of the
+[00:29:08] iceberg really. The supply chain is
+[00:29:10] literally tip of the iceberg.
+[00:29:12] The the supply chain is um
+[00:29:15] you know once you go to tier two tier
+[00:29:17] three tier four suppliers
+[00:29:19] that's
+[00:29:20] uh probably an order of magnitude more
+[00:29:22] uh So okay so you think Google will not
+[00:29:25] be a competitor Apple probably will be a
+[00:29:28] direct competitor.
+[00:29:29] Yeah yeah sure. What about the car
+[00:29:31] companies? The the I think they're all
+[00:29:33] they're all going to be competitors.
+[00:29:35] Yeah sure. Who do you see out there that
+[00:29:37] has done a nice job so far? Mercedes or
+[00:29:40] GM
+[00:29:41] of of what? Of a competitive car.
+[00:29:44] incumbents.
+[00:29:46] Potentially competitive car, I guess.
+[00:29:50] I mean
+[00:29:52] I don't think anyone's any of the car
+[00:29:53] companies as far as I've made
+[00:29:55] a really great electric car.
+[00:29:58] I mean, you tell me if I'm if you
+[00:29:59] disagree, but I don't think yet that any
+[00:30:03] of them have made a great electric car.
+[00:30:06] Okay. And they, you know, presumably
+[00:30:07] will continue to improve on what they've
+[00:30:09] done so far and and then at some point
+[00:30:11] they may make a car that's
+[00:30:13] that's a
+[00:30:15] you know, but that's a great car, but
+[00:30:17] not they haven't done that yet. Can I
+[00:30:18] ask you about batteries for a second?
+[00:30:20] Yeah, sure. So you're building this
+[00:30:22] gigafactory, right? You've got it's
+[00:30:24] built.
+[00:30:25] It's
+[00:30:26] Well, it's not completely built. Okay,
+[00:30:27] but it part of it's up and running. A
+[00:30:29] chunk of it is built, yeah. Part of it
+[00:30:30] is up and running.
+[00:30:31] gigantic thing. It's like when the
+[00:30:33] gigafactory is done, it'll be the
+[00:30:35] largest footprint building of any kind
+[00:30:37] in the world. Of any kind, not just
+[00:30:38] factories, it's literally of any
+[00:30:40] What is this? The largest rocket, the
+[00:30:41] largest building. I mean, every
+[00:30:43] Well, I mean, I think this it's not
+[00:30:44] scale for scale's sake. It's just like
+[00:30:46] if you say, "Well, we want to accomplish
+[00:30:48] these goals, then um
+[00:30:50] then you kind of have to be make a big
+[00:30:52] thing."
+[00:30:54] Okay. Um
+[00:30:56] You've got this big thing. It's this big
+[00:30:58] giant building. Yeah. It's going to make
+[00:30:59] batteries. The batteries it's going to
+[00:31:01] make are lithium
+[00:31:03] to have an opening. Well, it's not
+[00:31:04] technically an opening party since it's
+[00:31:05] been operating for a little while, but
+[00:31:07] we're going to have a party soon. You
+[00:31:08] guys maybe want to come. We can come.
+[00:31:10] Yeah, sure. We'll come to the battery
+[00:31:12] party. But they can't come. What I was
+[00:31:13] saying this is like
+[00:31:15] Right? Just this This is crazy. No. This
+[00:31:17] is like an alien dreadnought. It's
+[00:31:18] really nutty.
+[00:31:20] I love a battery party, but
+[00:31:22] Right. Well, but but but But talk about
+[00:31:24] where it's going. Are these lithium ion
+[00:31:26] batteries?
+[00:31:26] Yeah, sure. So they're the same
+[00:31:28] batteries that's in our phone? No.
+[00:31:31] Explain. Please explain.
+[00:31:32] Yes, so so lithium
+[00:31:34] Have you made a a battery breakthrough
+[00:31:36] is something I'm interested in.
+[00:31:38] Yeah, I mean, generally the I mean,
+[00:31:40] there's there's so much nonsense out
+[00:31:42] there about batteries. Like about you
+[00:31:43] can believe about 1% of what you read.
+[00:31:45] Um on a you know, maybe. Um
+[00:31:48] Uh
+[00:31:49] Lithium ion covers a very broad range of
+[00:31:52] technologies. Um
+[00:31:54] and you can have an enormous difference
+[00:31:57] in the power density and the energy
+[00:31:58] density and the cycle life um
+[00:32:03] between one chemistry and another. They
+[00:32:05] can be really enormously different. Um
+[00:32:08] So
+[00:32:10] Uh what you really actually want to ask
+[00:32:12] is what is the cathode and what is the
+[00:32:13] anode? Right. Um
+[00:32:16] So in our case
+[00:32:17] That's right.
+[00:32:18] Um
+[00:32:19] I just put it in the The the lithium is
+[00:32:21] actually 2% of the cell mass.
+[00:32:24] So so like it's like the salt in the
+[00:32:25] salad. It's it's a very small
+[00:32:28] um
+[00:32:29] amount of the cell mass and a very small
+[00:32:31] amount of the cost. Um
+[00:32:33] But it sounds like it's big because it's
+[00:32:35] called lithium ion, but it it really
+[00:32:37] like our battery should be called
+[00:32:39] nickel graphite
+[00:32:40] cuz it's mostly nickel and graphite.
+[00:32:43] Okay, and Um it's nickel cobalt aluminum
+[00:32:46] But battery
+[00:32:46] little things in graphite with a silicon
+[00:32:48] oxide layer.
+[00:32:49] Battery efficiency or power you know,
+[00:32:52] the power that you can store in a
+[00:32:53] certain uh mass seems to be
+[00:32:57] move very slowly, at least compared to
+[00:32:59] you know, we're used to Moore's law
+[00:33:01] pushing uh integrated circuits faster.
+[00:33:04] Batteries kind of are always in our
+[00:33:06] consumer devices always lagging behind.
+[00:33:09] In your you've built this giant thing,
+[00:33:11] the biggest building in the world that's
+[00:33:12] ever seen.
+[00:33:13] not fully built, but yes, it's Your
+[00:33:15] building a A pretty big chunk of it is
+[00:33:16] built, so yeah.
+[00:33:17] Uh to make batteries. Your whole
+[00:33:20] business depends on batteries in these
+[00:33:21] cars. Have you figured out a way to do
+[00:33:25] some significant
+[00:33:27] uh increase in the yield of energy from
+[00:33:31] a given amount of
+[00:33:33] of space in the battery?
+[00:33:35] Well
+[00:33:37] Yeah, I mean, the the
+[00:33:39] the energy density is increasing sort of
+[00:33:41] maybe on the order of like 5-ish percent
+[00:33:44] per year.
+[00:33:46] Um
+[00:33:46] And it doesn't sound like much, but you
+[00:33:47] add that up over a number of years with
+[00:33:50] compound interest, it ends up being
+[00:33:51] quite quite a significant number.
+[00:33:54] Um and a lot of people sort of think
+[00:33:56] that, "Oh, well, we just sort of cobbled
+[00:33:58] together some
+[00:33:59] um laptop batteries and somehow made a
+[00:34:02] great car." If it If it was that easy,
+[00:34:03] then I think we would have quite a few
+[00:34:04] competitors who did the same thing. But
+[00:34:06] but it's it's it's really quite quite a
+[00:34:08] lot harder than that. Um the it is a
+[00:34:11] cylindrical form form factor, but the
+[00:34:13] internals of the battery are quite
+[00:34:14] different from what you'd find in uh in
+[00:34:16] a laptop. Um
+[00:34:19] And uh and and and it will be
+[00:34:21] increasingly different with the what's
+[00:34:23] built at the gigafactory, which is
+[00:34:24] highly optimized for automotive. Um
+[00:34:27] And um
+[00:34:28] and with has improved energy density,
+[00:34:30] but but mostly it's not the energy
+[00:34:32] density that's the issue cuz
+[00:34:34] you know, you can buy if you buy a Model
+[00:34:36] S today
+[00:34:37] um the range is um
+[00:34:39] around 300 miles. Um
+[00:34:42] And and yeah, that's quite a lot. Um
+[00:34:45] So it's pretty rare that people really
+[00:34:48] need to go more than 300 miles at a time
+[00:34:50] without stopping. Right.
+[00:34:52] um
+[00:34:54] So I don't think we really have a range
+[00:34:56] issue. And we could make a 400-mile
+[00:34:57] range car today.
+[00:34:59] Like that wouldn't be too big of a deal.
+[00:35:01] Um
+[00:35:03] The What What really matters is
+[00:35:05] decreasing the cost
+[00:35:07] uh per unit of energy of the battery
+[00:35:09] packs so that you can make the car
+[00:35:10] affordable. That's actually the the the
+[00:35:12] important thing. Um
+[00:35:14] So there's
+[00:35:15] and there's really two main main
+[00:35:17] dimensions along which uh
+[00:35:19] cost optimization and making something
+[00:35:21] available to mass market can be
+[00:35:22] achieved. One is design iteration, going
+[00:35:24] through multiple versions of something.
+[00:35:26] And then the other is economies of
+[00:35:27] scale.
+[00:35:28] Um and you kind of need both of those
+[00:35:30] those things in order to make a
+[00:35:32] compelling mass market uh product. And
+[00:35:34] you look at like cell phones and how
+[00:35:35] many design iterations have we gone
+[00:35:37] through with cell phones?
+[00:35:39] Um and and then and and and what and
+[00:35:42] look at the scale at which they're
+[00:35:44] they're made is enormous. Uh and that's
+[00:35:46] what enables everyone to have a
+[00:35:48] supercomputer in their pocket.
+[00:35:50] Um So speaking of that, the sales. When
+[00:35:52] you're talking about the sales, you have
+[00:35:54] booked how many orders for
+[00:35:56] It's on the order of 400,000.
+[00:35:58] 400,000. So obviously it's consumer
+[00:36:00] interest in a promise. A lot of it
+[00:36:02] around you, around the idea of you and
+[00:36:04] Tesla and the excitement. Yeah, it's
+[00:36:07] it's quite surprising, actually. I mean,
+[00:36:08] I
+[00:36:09] the
+[00:36:10] um
+[00:36:11] cuz we didn't do any advertising or
+[00:36:14] there was no guerrilla marketing or
+[00:36:16] anything. It was just basically like,
+[00:36:17] "Yeah, we're going to have this
+[00:36:18] webcast." There was only there were only
+[00:36:20] about a thousand people in the audience.
+[00:36:22] Um and um
+[00:36:24] it really caught us by surprise. But I
+[00:36:25] think you know, when you have a product
+[00:36:27] that really resonates with with
+[00:36:30] customers, the word of mouth uh
+[00:36:32] grows like wildfire. And that seems to
+[00:36:34] be what it
+[00:36:35] Yeah, but it's a little bit. I mean,
+[00:36:36] honestly, in some groups of especially
+[00:36:39] men in Silicon Valley, if you show up
+[00:36:40] and read like a label of a peanut jar,
+[00:36:42] they'd be thrilled with the situation.
+[00:36:44] So I mean, you a lot of this does base
+[00:36:47] around you. Like the idea of you and the
+[00:36:49] excitement around this exciting
+[00:36:51] entrepreneur. Is that
+[00:36:54] Is that enough to get it to to to this
+[00:36:56] massive company you've been hoping to?
+[00:36:57] The idea of
+[00:36:59] this is the Elon promise or it's the
+[00:37:01] Well, I I think actually it's not so
+[00:37:03] much
+[00:37:04] I mean, I sort of um
+[00:37:07] um I I mean, I'm not sure. I I think I
+[00:37:10] deserve less credit than that, actually.
+[00:37:11] The the
+[00:37:14] I
+[00:37:15] What What Tesla's done with a phenomenal
+[00:37:16] team is like 15,000 people at the
+[00:37:18] company. Um
+[00:37:20] worked super hard to create compelling
+[00:37:22] products, to create great cars. Um and
+[00:37:24] we started off with the roadster and
+[00:37:26] then the Model S. The Model S was rated,
+[00:37:27] you know, by Consumer Reports as the
+[00:37:28] best car ever. Um
+[00:37:31] Got the Model X, which you know, had
+[00:37:32] some has had some teething issues, but
+[00:37:35] um I think it's now at the point where
+[00:37:36] it's it's really starting to
+[00:37:39] I think it's really
+[00:37:41] I think quite sublime at this point. Um
+[00:37:45] And uh and and so people look at that
+[00:37:47] and say, "Okay, well, if Tesla's made
+[00:37:50] these cars, then probably the next car
+[00:37:52] they make is going to be
+[00:37:54] you know, the less expensive one.
+[00:37:55] also a great car. And Um yeah, but you
+[00:37:58] know, so it'll be a great car, but it'll
+[00:38:00] be affordable. And it's like, "Great.
+[00:38:01] Okay, that sounds like something I
+[00:38:02] want." Um So this car, this next car,
+[00:38:04] the price is the It's starting at
+[00:38:06] 35,000. Okay, affordable. Okay, when is
+[00:38:09] the When do you get to the When do you
+[00:38:10] get to the When do you get to the really
+[00:38:12] affordable, the way down much lower than
+[00:38:14] that? Yeah, I mean, it's more important
+[00:38:16] that the 35,000, particularly when
+[00:38:18] you're factoring in the lower cost of
+[00:38:20] electricity versus gasoline and that the
+[00:38:22] maintenance cost is much less. You don't
+[00:38:23] have to have oil changes. You never need
+[00:38:25] to replace your brakes because the the
+[00:38:27] car uses regenerative braking, so the
+[00:38:29] brakes last as long as the car do at the
+[00:38:31] car does.
+[00:38:32] Um it's basically you just need to
+[00:38:33] replace the tires. Like that's about
+[00:38:35] about all.
+[00:38:36] Um So the operational cost of the car is
+[00:38:38] much lower fundamentally than than a
+[00:38:39] gasoline car.
+[00:38:41] And and so
+[00:38:42] um
+[00:38:43] And and I think I think the the the
+[00:38:45] average price for cars
+[00:38:48] for gasoline cars is around 30, 32,
+[00:38:51] something like that, yeah. Uh I mean,
+[00:38:52] there are starting prices that are
+[00:38:53] lower, but but when people pick pick
+[00:38:55] options, I believe it's in the
+[00:38:57] around 32 or so in the US. So we're
+[00:38:59] pretty close to the that that that But
+[00:39:01] that's your base price, right? I mean,
+[00:39:03] the Yeah, but it's going to be a great
+[00:39:04] car.
+[00:39:05] ASP for the car.
+[00:39:06] No, but it's going to be a great car
+[00:39:07] even at 35.
+[00:39:09] So it's like even if you order nothing
+[00:39:10] no options at all, it'll be great. But
+[00:39:12] you're at but you're likely to have a
+[00:39:13] mix where the average
+[00:39:16] car that you actually sell sells for a
+[00:39:18] little more than that. Yes, probably
+[00:39:21] it's probably going to be Yeah, it's
+[00:39:22] probably going to be some higher number.
+[00:39:24] Um
+[00:39:25] But it's really important to emphasize
+[00:39:26] like the the 35 if if somebody orders
+[00:39:28] the 35,000 car, they'll be very happy.
+[00:39:30] Like it's not like you need to order a
+[00:39:31] bunch of options in order without which
+[00:39:32] the car is is, you know, not not good.
+[00:39:35] That car will have autonomous for 35? Um
+[00:39:40] I have a
+[00:39:41] uh
+[00:39:44] I'm going to do another of Tesla van
+[00:39:46] maybe at the end of the year. Um,
+[00:39:48] talk more about that.
+[00:39:50] And say
+[00:39:50] Well, so you could start here.
+[00:39:55] Um, it would be real big news if I start
+[00:39:57] here.
+[00:39:58] Um We don't mind that.
+[00:40:01] Let me just say that we're going to do
+[00:40:02] the obvious thing.
+[00:40:05] Okay.
+[00:40:06] Okay.
+[00:40:07] Got it. It's really obvious.
+[00:40:10] So cup
+[00:40:11] So
+[00:40:12] So cup holders good. Okay. Um
+[00:40:17] So brilliant brilliant But those things
+[00:40:18] are nuanced. All right, absolutely. Um,
+[00:40:21] let's talk about two more things. I want
+[00:40:23] to talk about AI cuz we've been talking
+[00:40:24] about it a lot here. Um,
+[00:40:26] which
+[00:40:27] I want to get it clear what your
+[00:40:29] thoughts are because it's mostly Elon's
+[00:40:31] scared of robots. I mean, that kind of
+[00:40:32] thing or what How do you I'm just scared
+[00:40:35] of robots.
+[00:40:36] Um
+[00:40:37] Or artificial intelligence. Can you like
+[00:40:39] clarify exactly what the issue you have
+[00:40:41] now?
+[00:40:41] And and you deserve the background.
+[00:40:43] We've been talking to
+[00:40:45] uh Jeff Bezos, Sundar Pichai. Uh, we
+[00:40:51] talked to Mark Fields from Ford about
+[00:40:53] it. Um it's
+[00:40:54] Microsoft for Uh
+[00:40:55] yeah, the Facebook folks. Um, there
+[00:40:57] certainly seems to be uh in the I in the
+[00:41:01] tech companies a big
+[00:41:03] tremendous new drive or interest to
+[00:41:06] believing they will be all competing
+[00:41:09] for intelligent assistants and
+[00:41:11] good. It'll make your life better Make
+[00:41:13] your life better. Siri is going to
+[00:41:15] suddenly get smart. Microsoft's one is
+[00:41:18] going to get smart. And Google is going
+[00:41:20] to cream them all.
+[00:41:22] a happy version of this is going to
+[00:41:23] Sometimes technology hurts you, but not
+[00:41:25] as much as it helps you. That's really
+[00:41:27] Yeah. So that's there's been a lot of
+[00:41:29] conversation here about that.
+[00:41:31] Um and yet and you've staked out a
+[00:41:32] slightly different position. So can you
+[00:41:34] talk about that?
+[00:41:35] Well, I mean, I think my sort of full
+[00:41:37] position would
+[00:41:39] require quite a long explanation. Um
+[00:41:42] I mean, I
+[00:41:44] I am concerned about um
+[00:41:46] certain
+[00:41:48] directions that AI could take that would
+[00:41:50] be uh
+[00:41:53] not good for the future. That the I
+[00:41:55] mean, it I I I think it'd be fair to say
+[00:41:57] that like not all AI futures are benign.
+[00:42:00] Not not all. Okay. Um
+[00:42:02] And and so if you have something if if
+[00:42:04] if there's if we create some digital
+[00:42:07] superintelligence that exceeds us in
+[00:42:08] every way by a lot, um
+[00:42:12] it's very important that that be benign.
+[00:42:14] Um
+[00:42:16] And um
+[00:42:17] and so actually with with the with a few
+[00:42:19] others um
+[00:42:21] I created uh Open AI.
+[00:42:23] Uh which is uh an AI
+[00:42:26] uh
+[00:42:28] It's a nonprofit actually. It's so so
+[00:42:29] there's there's no I think the
+[00:42:31] governance structure here is important.
+[00:42:33] Um, so you want to make sure that there
+[00:42:34] was not some fiduciary duty to uh
+[00:42:37] generate
+[00:42:38] um
+[00:42:39] you know, profit or proof of the AI
+[00:42:40] technology that's developed.
+[00:42:42] Um So uh so we created this uh
+[00:42:46] a 501c3 um but it but I think
+[00:42:49] it's it's like quite different from I
+[00:42:51] mean, like a lot of sort of
+[00:42:54] 501c3s are, you know, they have
+[00:42:57] they don't have a high sense of urgency.
+[00:42:59] Um like they're they're not like
+[00:43:01] um
+[00:43:04] you know, they're not really
+[00:43:05] sort of
+[00:43:06] ex
+[00:43:08] developing technology at at at a fast
+[00:43:10] pace, but Open AI is. Uh so Open AI has
+[00:43:13] a very high sense of urgency and the
+[00:43:15] talent I think that the people that have
+[00:43:17] joined are are really
+[00:43:19] really amazing. Um
+[00:43:21] um and um
+[00:43:23] and the intent with Open AI is to
+[00:43:26] democratize
+[00:43:28] AI power. Um
+[00:43:30] And there's a quote that I love from uh
+[00:43:33] Lord Acton. He was the guy that came up
+[00:43:34] with power corrupts and absolute power
+[00:43:36] corrupts absolutely. Um which is that uh
+[00:43:39] freedom consists of the distribution of
+[00:43:41] power and despotism in its
+[00:43:42] concentration.
+[00:43:44] And so I think it's important if we have
+[00:43:46] this incredible power of AI that it not
+[00:43:48] be concentrated in the hands of a few
+[00:43:49] and potentially lead to a world that we
+[00:43:52] don't want. And what world is that? What
+[00:43:54] is What do you see foresee that when you
+[00:43:56] say
+[00:43:57] It's difficult I mean, it's called the
+[00:43:58] singularity cuz it's it's difficult to
+[00:44:00] predict. Um
+[00:44:02] what exactly what future that might be
+[00:44:05] except um I don't know a lot of people
+[00:44:07] who love the idea of living under a
+[00:44:08] despot. Mhm.
+[00:44:10] Um
+[00:44:11] you know, I don't think people generally
+[00:44:13] choose to live in a democracy over a
+[00:44:15] dictatorship.
+[00:44:15] Mhm. And the despot would be the
+[00:44:17] computer?
+[00:44:18] Well, the people controlling the
+[00:44:19] computer. Mhm.
+[00:44:21] And do you worry specifically about any
+[00:44:25] of these companies I mentioned who've
+[00:44:27] all seemed to
+[00:44:29] now kind of be pivoting toward this as
+[00:44:31] the battleground in the next 10 years? I
+[00:44:34] won't name a name, but there is only
+[00:44:35] one.
+[00:44:37] There's only one you're worried about.
+[00:44:40] And they're not preoccupied with making
+[00:44:41] a car that will compete with you, I
+[00:44:44] assume.
+[00:44:46] There's only one.
+[00:44:51] And what tell tell me This is an
+[00:44:52] interesting
+[00:44:53] competing It's not about competing. It's
+[00:44:55] Like like this is sort of like who like
+[00:44:56] what would be the point of competing for
+[00:44:58] you know
+[00:45:00] mutual destruction. It's like there's no
+[00:45:01] It's not about competing. It's really
+[00:45:02] just about
+[00:45:04] um trying to increase the probability
+[00:45:06] that the future will be good.
+[00:45:09] That's all. Mhm. So the
+[00:45:12] the goal of of Open AI is really just to
+[00:45:15] take the set of actions that are most
+[00:45:16] likely to improve the
+[00:45:18] positive futures. Like if you can think
+[00:45:20] of like the future as a set of
+[00:45:22] of probability streams that that that
+[00:45:25] branch out and then converge collapse
+[00:45:27] down to a particular event and then
+[00:45:29] branch out again. And uh
+[00:45:32] there's a certain set of probability
+[00:45:33] associated with the future being
+[00:45:34] positive and different type flavors of
+[00:45:35] that. And uh at Open AI we want to try
+[00:45:39] to get do do whatever we can to guide to
+[00:45:41] to increase the probability of of the
+[00:45:43] good futures happening. I think that's
+[00:45:45] that's really what we're trying to do
+[00:45:46] there.
+[00:45:46] worry that by making this open some bad
+[00:45:49] actors may use some of what has been
+[00:45:51] developed to do
+[00:45:54] bad stuff uh with the power of the AI?
+[00:45:56] Yeah, I mean, that that is certainly the
+[00:45:57] the
+[00:45:58] the I mean, a good rebuttal to that. Um
+[00:46:01] however, I think if AI power is widely
+[00:46:03] distributed um then and there is not uh
+[00:46:07] say one entity that has
+[00:46:11] some super AI that is a million times
+[00:46:14] smarter than anything else.
+[00:46:16] Uh you know, if it if instead the AI
+[00:46:17] power is broadly distributed and to the
+[00:46:20] degree that we can link uh AI power to
+[00:46:24] um each individual's will. Um so like
+[00:46:27] you you know, you would have your AI
+[00:46:28] agent and you would like everyone would
+[00:46:30] have their sort of AI agent. And then if
+[00:46:33] somebody did try to do something really
+[00:46:34] terrible, well, then uh the collective
+[00:46:36] will of others could overcome that bad
+[00:46:38] actor.
+[00:46:40] Um
+[00:46:41] which you can't do if if there's one AI
+[00:46:44] that's
+[00:46:46] you know, a million times better than
+[00:46:47] everything else.
+[00:46:48] and it's proprietary.
+[00:46:49] And it's yeah, it's either has its own
+[00:46:52] will or more likely at least in the
+[00:46:53] beginning is controlled by
+[00:46:56] you know, some small set of people. So
+[00:46:59] um I think that's that's really the the
+[00:47:01] risk. I mean
+[00:47:02] um
+[00:47:03] you know, there's always there's always
+[00:47:04] been these arguments like what's the
+[00:47:05] what's the best form of government? Um
+[00:47:07] you know, big fan of
+[00:47:09] I think it was Churchill like, you know,
+[00:47:10] democracy is the the worst form of
+[00:47:12] government except for all the others.
+[00:47:13] Right. Um So speaking of that Yeah.
+[00:47:16] this election. You are
+[00:47:18] from
+[00:47:18] Oh, no. No, no, no.
+[00:47:20] Yes, yes, yes. How does that strike you
+[00:47:23] what's happening now?
+[00:47:25] You're you you come to this country or
+[00:47:27] naturalized citizen?
+[00:47:27] Uh you know, I think I'm glad that the
+[00:47:29] framers of the Constitution saw fit to
+[00:47:32] ensure that the president uh was someone
+[00:47:34] who um
+[00:47:36] was captain of a large ship with a small
+[00:47:37] rudder.
+[00:47:38] Okay.
+[00:47:40] And
+[00:47:42] There's a limit to how much harm any
+[00:47:43] given president
+[00:47:44] Are you sure about that? Oh, yeah. Yeah.
+[00:47:47] Yeah. So you're not worried about Are
+[00:47:49] you backing in either of the candidates
+[00:47:51] at this point?
+[00:47:52] stay out of this situation.
+[00:47:54] Because
+[00:47:56] I don't think this is the finest moment
+[00:47:57] in our democracy. Well, given that it's
+[00:48:00] not the finest moment in our democracy,
+[00:48:02] do you think the best thing is to stay
+[00:48:04] out
+[00:48:05] or
+[00:48:05] We'll see.
+[00:48:06] get in I'm not sure what I what I can do
+[00:48:08] to I mean
+[00:48:09] worst. I don't know how much how much
+[00:48:10] influence I could have as as one person
+[00:48:12] on the outcome. Um so
+[00:48:15] um
+[00:48:18] I mean, if I think I could make a
+[00:48:20] difference, I would probably do
+[00:48:20] something. Um but um
+[00:48:24] like I said, I think I'm just glad that
+[00:48:25] that the pre you know,
+[00:48:27] being the US president is like being
+[00:48:29] captain of a large ship with a small
+[00:48:30] rudder. Mhm. And so like there's just a
+[00:48:33] limit to
+[00:48:34] how much good or bad a president can can
+[00:48:36] can actually do. I mean, obviously if if
+[00:48:39] a president could make the economy great
+[00:48:41] that and there was like a button he
+[00:48:43] could press, they'd be pressing that
+[00:48:44] button at the speed of light.
+[00:48:45] Mhm. Um
+[00:48:47] So
+[00:48:49] you know, that they they but they
+[00:48:51] they can't. So I can't they can't just
+[00:48:52] magically make the economy good. Um no
+[00:48:55] president wants the economy bad ever. Um
+[00:48:57] but they you know,
+[00:48:59] like there's just a limit to to how much
+[00:49:00] they can do. Um
+[00:49:03] and um
+[00:49:05] yeah.
+[00:49:07] I guess there is the nuclear thing which
+[00:49:08] is Yeah, the nuclear
+[00:49:11] I guess there is the nuclear thing.
+[00:49:13] Yeah, but I I I don't know. I think you
+[00:49:14] would
+[00:49:15] I think I think
+[00:49:16] I don't think we would like just
+[00:49:18] arbitrarily launch nuclear missiles.
+[00:49:19] Yeah. One would hope.
+[00:49:20] President can do that.
+[00:49:21] Uh I don't think so. Arbitrarily. I
+[00:49:23] mean, I think that He's No, he's the
+[00:49:25] commander-in-chief.
+[00:49:26] but I don't I still I still don't I
+[00:49:27] still don't think that means you can
+[00:49:28] just launch nuclear missiles whenever
+[00:49:29] you want. All right. Yeah.
+[00:49:30] Um I I think Congress would be like
+[00:49:32] quite upset about that and um They might
+[00:49:35] not be consulted. Yeah, but I think
+[00:49:38] I think like the military would be like,
+[00:49:39] "Yeah, we really think Congress should
+[00:49:40] be consulted on that before you launch a
+[00:49:42] Yeah, that that might happen.
+[00:49:44] preemptive nuclear strike. Are you
+[00:49:45] willing that you're basing your faith in
+[00:49:47] that though? I'm quite confident that
+[00:49:49] the military would not just
+[00:49:51] you know, randomly agree to launching
+[00:49:54] nuclear missiles at somebody.
+[00:49:56] Well, that's calming. Um so
+[00:49:59] um
+[00:50:00] we're going to put up just very quickly
+[00:50:01] with and on Hyperloop. You've been
+[00:50:03] involved with it. Your level of
+[00:50:04] involvement is what at this point? Just
+[00:50:06] Yeah, and I know it's a it's a bit it's
+[00:50:08] a bit confusing cuz um
+[00:50:10] I am
+[00:50:12] You talked about it when you were here
+[00:50:13] last time.
+[00:50:14] Yeah, um
+[00:50:15] I I actually came up with the idea um
+[00:50:18] I came up with an initial idea which
+[00:50:20] which turned out to be wrong and
+[00:50:22] wouldn't work um several years ago
+[00:50:25] and
+[00:50:27] and then
+[00:50:28] um but I sort of shot my mouth off and
+[00:50:30] and said I like have an idea that would
+[00:50:32] work and turned out that it didn't work
+[00:50:33] but I
+[00:50:34] with a lot of iteration was able to come
+[00:50:35] up with something that
+[00:50:37] where the physics hangs together.
+[00:50:39] Um and then published the paper and just
+[00:50:41] said like look anyone who wants to do
+[00:50:42] this is great. Go you know, be my guest.
+[00:50:45] Cuz I'm I sort of have a plate full
+[00:50:47] running Tesla and SpaceX. Yeah, yeah.
+[00:50:50] And
+[00:50:51] so I think it'd be great. I mean I I
+[00:50:53] think it'd be great to have any
+[00:50:54] interesting new transport solutions. Um
+[00:50:57] anything that gets people to their
+[00:50:59] destination um in a way that's safer,
+[00:51:02] costs less, is more convenient. Um
+[00:51:06] that'd be great. I mean and so I think
+[00:51:09] probably
+[00:51:10] the most valuable thing that the
+[00:51:11] Hyperloop paper that I published um
+[00:51:16] uh has done is is to spur thinking in
+[00:51:19] terms of new transportation systems. So
+[00:51:21] it's not just oh let's you know, have a
+[00:51:25] a fast train.
+[00:51:27] Okay, that's not even as fast as what
+[00:51:29] Japan did in the '80s. Like okay, why
+[00:51:31] would I don't see what the point of that
+[00:51:33] is, you know.
+[00:51:34] Like we should really be trying to think
+[00:51:36] of some something that's
+[00:51:38] um I think particularly in California
+[00:51:40] like we should be like saying, "Hey,
+[00:51:41] what is the best Let's invent something
+[00:51:44] new that's
+[00:51:45] way better than anything else. Do you
+[00:51:47] want to shoot your mouth off about that?
+[00:51:50] Um
+[00:51:51] well
+[00:51:52] um you know, I so so I I mean I'm not an
+[00:51:54] investor in any of the companies uh that
+[00:51:56] that are working on it and I've tried to
+[00:51:58] be neutral cuz I'm like trying to trying
+[00:51:59] not to favor one company over another.
+[00:52:02] Uh but just to encourage anyone that is
+[00:52:04] interested to say like you know,
+[00:52:07] the
+[00:52:07] try try to give them moral support, you
+[00:52:09] know. Um
+[00:52:11] And I I hope they succeed. Um the only
+[00:52:13] thing that um I am doing on Hyperloop
+[00:52:15] front is like we're we're holding a
+[00:52:16] student competition and the student
+[00:52:18] competition is really just um aimed
+[00:52:20] towards encouraging
+[00:52:23] uh students to think about exciting new
+[00:52:26] transport methods. Um and it's totally
+[00:52:28] cool if they want to like do some
+[00:52:30] architecture that's different from
+[00:52:32] uh what I proposed in Hyperloop. In
+[00:52:34] fact, the the winning team at the
+[00:52:36] student competition that we held earlier
+[00:52:37] this year used a different um suspension
+[00:52:40] mechanism
+[00:52:41] uh than what I proposed which is I you
+[00:52:44] know, I I proposed using essentially
+[00:52:46] taking taking the
+[00:52:47] uh air that eventually is that builds up
+[00:52:49] on the nose from the compressor and and
+[00:52:51] flowing that through um air skis. Um
+[00:52:55] So that you simultaneously remove the
+[00:52:57] drag from the nose and provide a a a
+[00:53:00] means of suspending the
+[00:53:02] the pod. Um and and that's also
+[00:53:04] something that that works well um even
+[00:53:07] at uh super supersonic velocities. You
+[00:53:09] can go it's been demonstrated up to Mach
+[00:53:11] 1.1 in terms of using air bearings as
+[00:53:14] But they use something different. Uh uh
+[00:53:16] yeah, basically electromagnetic
+[00:53:17] suspension.
+[00:53:19] Um and and like the the the reason I
+[00:53:21] didn't suggest um
+[00:53:23] uh
+[00:53:24] um
+[00:53:25] sort of any any kind of um
+[00:53:27] um magnetic suspension um is that
+[00:53:30] it's very important that the cost of the
+[00:53:33] of the tube be be minimized.
+[00:53:36] So you really want because the the the
+[00:53:38] pod is cheap, the tube is expensive.
+[00:53:40] Um so if you if you want to go say 400
+[00:53:42] miles and you and and two in two
+[00:53:44] directions, so you've got 800 miles of
+[00:53:45] tube.
+[00:53:46] The the the critical uh economic
+[00:53:49] optimization parameter is the cost of
+[00:53:51] the tube. So you want that tube to be as
+[00:53:53] low cost as possible. Um and so if you
+[00:53:57] if you do anything that that
+[00:53:59] um
+[00:54:00] requires
+[00:54:01] um
+[00:54:03] action on the tube side, it's going to
+[00:54:05] make that tube much more expensive.
+[00:54:07] Um so if you use air bearings, it
+[00:54:09] doesn't change like that's real cheap.
+[00:54:11] Um
+[00:54:12] and um
+[00:54:14] yeah, so Do you think this is going to
+[00:54:16] happen?
+[00:54:19] Yeah, I think something like that I
+[00:54:20] think something will happen in the
+[00:54:21] future. Um
+[00:54:23] You know, it's I think I think if if if
+[00:54:25] the companies that are that are trying
+[00:54:26] that are
+[00:54:27] trying to make it happen now, if if for
+[00:54:29] whatever reason that that doesn't work
+[00:54:31] out, um
+[00:54:32] then you know, I think I I'll you know,
+[00:54:35] I'll I might I might do something myself
+[00:54:38] in the future. I I don't want to do
+[00:54:39] something
+[00:54:40] I don't want to front I don't want to
+[00:54:41] sort of front run them, you know, and
+[00:54:42] say here's this free idea and then
+[00:54:44] meanwhile I go and do it myself, you
+[00:54:46] know, that wouldn't be nice. So
+[00:54:48] um
+[00:54:49] so so but if I if they if they if they
+[00:54:52] if if much
+[00:54:53] companies don't try and it doesn't work
+[00:54:55] out then then I think
+[00:54:56] I think um
+[00:54:58] I think I'll try to just at least do a
+[00:54:59] demonstration system, you know. Okay,
+[00:55:02] last question. Do you think tech has
+[00:55:03] gotten more serious? Do you How do you
+[00:55:05] look at the tech landscape as someone
+[00:55:07] who's you know, well known
+[00:55:09] you probably qualify as a visionary. Um
+[00:55:12] the concept What What do you imagine we
+[00:55:14] are right now in the tech space and then
+[00:55:16] we'll get to questions from the
+[00:55:16] audience.
+[00:55:20] I think there's a lot of innovation
+[00:55:21] happening
+[00:55:22] in in many different areas.
+[00:55:25] Um
+[00:55:26] The advancements in AI are I think are
+[00:55:28] quite quite astonishing.
+[00:55:30] Um the advancements in genetics are
+[00:55:32] amazing.
+[00:55:34] Um
+[00:55:38] The
+[00:55:39] So I I think that there is a lot of
+[00:55:40] innovation going on.
+[00:55:43] Um I think that there's probably a few
+[00:55:45] too many talented entrepreneurs in kind
+[00:55:49] of the internet space and and I think
+[00:55:51] their talent actually would be better
+[00:55:53] served in some other industries.
+[00:55:55] Um
+[00:55:57] But I do think I mean I don't think
+[00:55:59] we're like facing some sort of low
+[00:56:01] innovation period or anything like that.
+[00:56:03] I think there's a lot of innovation
+[00:56:04] going on. They need to move to other
+[00:56:06] Uh I just think there's like if you had
+[00:56:08] some ideal distribution there probably
+[00:56:09] would be fewer
+[00:56:11] like there's just a lot of talent
+[00:56:12] focused on the internet and probably
+[00:56:14] some of that talent um
+[00:56:16] uh
+[00:56:17] would
+[00:56:18] um
+[00:56:19] be be be better to have some of that
+[00:56:21] talent in other industries.
+[00:56:22] Um that's about all but but there's
+[00:56:25] tremendous amount of innovation that
+[00:56:27] that's happening.
+[00:56:28] Um
+[00:56:29] It's something that I think is is
+[00:56:31] going to be quite important. Um
+[00:56:36] And and it's there's not I don't know of
+[00:56:38] a company that's working on it seriously
+[00:56:40] is
+[00:56:42] um
+[00:56:45] is a neural lace. Um
+[00:56:48] so
+[00:56:49] you know, going going back to the AI
+[00:56:51] situation. Um
+[00:56:52] this is quite important. Uh
+[00:56:56] quite important debate. Like the
+[00:56:59] if you assume any rate of advancement in
+[00:57:01] AI, um
+[00:57:03] we will be left behind by a lot.
+[00:57:07] Um and so then we could be in like
+[00:57:11] you know, a benign situation but the
+[00:57:12] even the benign situation if you have
+[00:57:14] some you know, if you have ultra
+[00:57:15] intelligent AI, um we would be
+[00:57:18] you know,
+[00:57:20] so so far below them in intelligence
+[00:57:22] that it would be would be like you know,
+[00:57:24] a pet basically.
+[00:57:25] Cat, that's what I was thinking.
+[00:57:26] Like a pet, a cat, a cat, like a house
+[00:57:28] cat. Yeah, we'd be like a house cat.
+[00:57:30] Um
+[00:57:32] and um yeah, so that's that's the end of
+[00:57:34] the world, you know. Just
+[00:57:36] sort of pets.
+[00:57:37] Seen the movie, it could be. It could
+[00:57:38] be, could be.
+[00:57:40] Um
+[00:57:41] the
+[00:57:42] Yeah, so that but that honestly that
+[00:57:43] would that would be a benign scenario.
+[00:57:45] Um and
+[00:57:46] So house cat is okay?
+[00:57:49] I mean I don't love the idea of being a
+[00:57:51] house cat.
+[00:57:51] Okay.
+[00:57:52] But but that
+[00:57:53] So what's the solution? Yeah, so I think
+[00:57:56] the
+[00:57:58] um
+[00:58:00] I I think I think it I think it's to
+[00:58:02] essentially I think one of the solutions
+[00:58:05] the solution that seems maybe the best
+[00:58:08] one
+[00:58:09] is
+[00:58:10] to have an AI layer. Um if you think of
+[00:58:13] like you've got your limbic system,
+[00:58:15] um your cortex and then um a digital
+[00:58:18] layer, a sort of a third layer above the
+[00:58:20] cortex
+[00:58:22] um
+[00:58:23] that
+[00:58:24] um could work work well and
+[00:58:26] symbiotically with with you. I mean just
+[00:58:29] as your cortex works symbiotically with
+[00:58:31] your limbic system, your sort of a third
+[00:58:33] digital layer could work symbiotically
+[00:58:35] with the rest.
+[00:58:36] This is something that's
+[00:58:38] in surgically inserted or bred into the
+[00:58:41] species or what?
+[00:58:43] The the fundamental limitation is
+[00:58:45] input-output. So
+[00:58:47] uh we we already have uh we we're
+[00:58:50] already a cyborg. Um it's just that I
+[00:58:53] mean you have a digital
+[00:58:55] version of yourself or or
+[00:58:57] partial version of yourself online in
+[00:58:59] the form of your emails and your social
+[00:59:00] media and all the things that you do. Um
+[00:59:04] And and you have basically superpowers
+[00:59:07] in in that with your computer and your
+[00:59:08] phone and and the applications that are
+[00:59:10] there. Um you have more power than the
+[00:59:13] president of the United States had 20
+[00:59:14] years ago. You can answer any question.
+[00:59:17] Uh you can video conference with anyone
+[00:59:20] um Right. anywhere. You can send a
+[00:59:22] message to millions of people instantly.
+[00:59:24] Um
+[00:59:26] you know, you just do incredible things
+[00:59:28] and
+[00:59:30] um
+[00:59:32] but the constraint is is input out
+[00:59:35] output. So, we're we're IO bound.
+[00:59:37] Um
+[00:59:38] particularly output bound. I mean, like
+[00:59:40] the
+[00:59:41] your output level is so low. It's like
+[00:59:43] the particularly on a phone like your
+[00:59:45] two thumbs are sort of tapping away.
+[00:59:47] Um this is ridiculously slow.
+[00:59:49] Um
+[00:59:51] our input is much better cuz we have a
+[00:59:53] high bandwidth visual interface with the
+[00:59:55] brain. Like our eyes
+[00:59:57] take in a lot of a lot of data. Um
+[01:00:00] so, there's many orders of magnitude
+[01:00:01] difference between
+[01:00:03] um input and output. Um
+[01:00:07] So,
+[01:00:08] mostly
+[01:00:10] um
+[01:00:10] effectively merging in a symbiotic way
+[01:00:12] with
+[01:00:14] uh digital intelligence
+[01:00:16] revolves around
+[01:00:18] eliminating
+[01:00:20] the IO constraint.
+[01:00:22] Um
+[01:00:23] so, it's with some sort of direct
+[01:00:25] cortical interface.
+[01:00:27] Um
+[01:00:27] And you called it a neural Neural lace.
+[01:00:29] Neural lace. Yeah.
+[01:00:32] Um
+[01:00:34] It's totally not Google Glass, right?
+[01:00:36] No. I'm talking about something which
+[01:00:38] wear it or No. I mean, it would be uh
+[01:00:45] I mean,
+[01:00:46] I mean, there are a few ways to approach
+[01:00:47] this, but some sort of interface
+[01:00:49] directly with your cortical neurons
+[01:00:51] particularly. But doesn't that imply
+[01:00:53] surgical insertion?
+[01:00:54] Not necessarily. You could go through
+[01:00:55] the veins and arteries cuz that that
+[01:00:57] provides a a complete uh roadway to um
+[01:01:00] all of your neurons. Your neurons are
+[01:01:02] very heavy users of energy, so they need
+[01:01:05] high blood flow. So, you automatically
+[01:01:07] with your veins and arteries have um a
+[01:01:09] road network to your neurons. Still
+[01:01:11] search some kind of surgery, right? Um
+[01:01:14] yes, but you could insert something, you
+[01:01:16] know, basically
+[01:01:18] you know,
+[01:01:19] into the jugular and and have
+[01:01:22] It gets my car, but
+[01:01:24] really easy and It It doesn't involve It
+[01:01:27] doesn't It doesn't involve, you know,
+[01:01:28] like chopping your your your skull open
+[01:01:31] or anything like that. Yeah.
+[01:01:32] And plus you're not a house cat anymore,
+[01:01:34] right?
+[01:01:34] Not a house cat. So,
+[01:01:35] Right. um I mean, essentially if if we
+[01:01:37] can figure out how to
+[01:01:40] establish a high bandwidth neural
+[01:01:42] interface with ourselves. with with your
+[01:01:45] digital self effectively.
+[01:01:48] Um then
+[01:01:51] uh
+[01:01:52] then you're no longer a house cat. You
+[01:01:54] know.
+[01:01:54] All right. On that note. Now, on that Uh
+[01:01:56] well, well, I just one
+[01:01:59] closing thing.
+[01:01:59] it's probably
+[01:02:01] the best outcome. That's Are you Are you
+[01:02:02] Are you interested
+[01:02:03] you interested in exploring this
+[01:02:05] possibility
+[01:02:08] that you have just laid
+[01:02:09] got to do it.
+[01:02:12] I'm not saying that I will, but I'm
+[01:02:14] somebody's got to do it.
+[01:02:15] I mean, I I I I mean, I So, somebody
+[01:02:17] should do it. And I mean, if somebody
+[01:02:18] doesn't do it, then I then I think I
+[01:02:20] should probably do it, but uh
+[01:02:22] And and the goal of this is to prevent
+[01:02:24] there being an external
+[01:02:26] uh AI, particularly one controlled by a
+[01:02:30] small group of people that could Yeah.
+[01:02:32] be so much more powerful and intelligent
+[01:02:35] than we are that the house cat
+[01:02:36] would be godlike in its capabilities.
+[01:02:38] Yeah. Well, this has been really
+[01:02:40] cheerful. Thank you.
+[01:02:41] Yeah.
+[01:02:42] But But if we can establish
+[01:02:44] about asteroids at the beginning of
+[01:02:45] this.
+[01:02:47] I mean, ast- asteroids are a low
+[01:02:48] probability existential threat um on the
+[01:02:51] time scale that's relevant to us. Okay.
+[01:02:54] Okay. Um
+[01:02:55] This is different. This requires
+[01:02:56] urgency.
+[01:02:57] So, what do you do for fun?
+[01:02:58] Yes, this is much more
+[01:02:59] do you do for for fun fun? What do you
+[01:03:01] do? Anything?
+[01:03:03] I play video games with my kids. All
+[01:03:04] right. That sounds good. Let's get some
+[01:03:06] questions for Elon. Elon the house cat.
+[01:03:09] I watch movies, you know, that kind of
+[01:03:10] thing. Normal things.
+[01:03:11] Why don't we start over here? Yeah, hi.
+[01:03:13] I I think this last question by
+[01:03:16] uh Carl just just did that. Uh I want to
+[01:03:19] know how do you uh live through the
+[01:03:21] stress that kind of conversations we
+[01:03:23] just heard that you went through and um
+[01:03:26] kind of ambitions that you carry and
+[01:03:27] then how do you adjust to the everyday
+[01:03:30] work-life balance etc. things that in
+[01:03:32] your life. So, a little bit of your
+[01:03:33] personal side, actually.
+[01:03:35] You're very busy. How does that work?
+[01:03:37] Yeah, I mean, um
+[01:03:39] I am sort of in kind of work triage mode
+[01:03:42] um a lot of the time. So, I don't know.
+[01:03:44] It seems to be
+[01:03:46] as long as there's not like a crisis
+[01:03:48] simultaneously at SpaceX and Tesla, it's
+[01:03:50] okay. Um but you know, companies are I
+[01:03:54] mean,
+[01:03:55] the situation in any given company,
+[01:03:56] particularly when, you know, if if if
+[01:03:58] it's sort of growing fast and sort of
+[01:03:59] quasi startup, it's it's somewhat
+[01:04:01] sinusoidal. So, that I mean, it's okay
+[01:04:03] if if you don't if the if the waves
+[01:04:05] don't crest together. You know, um
+[01:04:08] when that does happen, it then that's a
+[01:04:10] huge strain. Um
+[01:04:12] But right now, things are like, you
+[01:04:13] know, motoring along okay. Um
+[01:04:16] and I have like the context loaded
+[01:04:19] for both companies. I can look sort of
+[01:04:21] see a path to a good outcome. So, I feel
+[01:04:24] pretty good right now. Uh but there've
+[01:04:26] been super stressful times in the past.
+[01:04:29] Um
+[01:04:31] and uh and then,
+[01:04:32] you know, and then I I always try to
+[01:04:34] reserve time for my kids cuz I love
+[01:04:36] hanging out with them. Like
+[01:04:38] I mean, kids are really great. I mean,
+[01:04:39] they're like the
+[01:04:41] 99%
+[01:04:43] um of the time they they they they make
+[01:04:45] you happier. They're kids are awesome,
+[01:04:47] you know.
+[01:04:47] Yeah. Um Then there's that 1%.
+[01:04:50] 1% you know, like yeah, 1%. But But like
+[01:04:53] it's it's of anything in my life, I
+[01:04:54] would say
+[01:04:56] kids by far make me the happiest. I
+[01:04:58] mean, I don't know if
+[01:04:59] you know,
+[01:04:59] I agree. Yeah. It's great.
+[01:05:01] I agree. Yeah.
+[01:05:03] At this Um so so I hang out with them
+[01:05:04] like so like now the like things like a
+[01:05:07] lot of times kids are kind of in their
+[01:05:08] own world, so you don't need to like
+[01:05:10] they don't want to like talk to their
+[01:05:10] dad for hours on end generally.
+[01:05:12] I've noticed that.
+[01:05:13] Yeah. Um
+[01:05:14] so like um so I can be in the same room
+[01:05:16] with them. They can talk to me from time
+[01:05:18] to time, but I you know, I can get you
+[01:05:19] know, some emails done. Just get some
+[01:05:21] work done. And then whenever they want
+[01:05:22] to talk to me, they can. Um
+[01:05:25] and then uh we uh we try to do things
+[01:05:28] like um
+[01:05:30] you know, travel places and uh
+[01:05:33] like I said, we we play video games
+[01:05:35] together or uh
+[01:05:37] um actually on Monday, we went to the
+[01:05:40] new Harry Potter land um at Universal.
+[01:05:42] It was quite fun.
+[01:05:44] Yeah. So, I think that Somebody from
+[01:05:46] Universal is clapping. Yeah.
+[01:05:48] I mean, whoever was in charge of Harry
+[01:05:50] Potter land did a great job. It's really
+[01:05:52] good.
+[01:05:52] is good. I highly recommend it. Yeah.
+[01:05:54] The butter beer is amazing.
+[01:05:56] Yeah, I was just saying the butter The
+[01:05:57] butter beer is amazing. Yeah. Okay.
+[01:06:00] Over here. Hi. Uh my name is Evan Burns
+[01:06:02] and the founder of Odyssey and I hope in
+[01:06:04] to the future to be in something the
+[01:06:05] space industry. And my curiosity is
+[01:06:08] you've talked about SpaceX getting in
+[01:06:10] many different businesses, for example,
+[01:06:12] um global Wi-Fi through launching many
+[01:06:13] satellites. Um do you hope SpaceX
+[01:06:16] becomes a platform for others to launch
+[01:06:17] businesses or you see SpaceX being a
+[01:06:19] business that launches many business
+[01:06:20] lines?
+[01:06:23] Um
+[01:06:24] well, I mean, the general or strategy of
+[01:06:26] SpaceX is to like we we clearly need a
+[01:06:29] lot of money in order to develop the
+[01:06:31] transport system to establish a city on
+[01:06:33] Mars. Um So, you know, we're we're like
+[01:06:36] kind of gathering revenue
+[01:06:39] uh
+[01:06:40] like
+[01:06:41] ear- earth-based revenue that's
+[01:06:43] um
+[01:06:46] we're we're we're we're we're we're
+[01:06:47] trying to maximize earth
+[01:06:48] other
+[01:06:48] earth revenue. Well, right now it's only
+[01:06:50] earth. So, we're going to maximize earth
+[01:06:52] revenue as it relates to space, you
+[01:06:54] know, as it relates to rockets and
+[01:06:55] spacecraft. So,
+[01:06:57] um
+[01:06:58] but I think like what assuming SpaceX is
+[01:07:01] able to transport large numbers of
+[01:07:02] people and and goods to Mars, it will be
+[01:07:04] an enormous enabler for entrepreneurial
+[01:07:07] activity on Mars. Um because there's
+[01:07:09] going to be so much to do. Um
+[01:07:11] you know, everything from creating like
+[01:07:13] the first iron ore refinery to the first
+[01:07:15] pizza joint to
+[01:07:17] um you know, something that doesn't even
+[01:07:18] exist on earth. Um you know, it's kind
+[01:07:21] of like when the Union Pacific uh
+[01:07:22] crossed crossed, you know, and like ev-
+[01:07:25] everyone thought Union Pacific, what a
+[01:07:26] stupid idea.
+[01:07:27] You know, like there's nobody living in
+[01:07:29] in California.
+[01:07:31] Well, okay. Now, there's quite a lot of
+[01:07:32] people living in California.
+[01:07:34] Um so so just uh
+[01:07:37] having a You need the transport link. Um
+[01:07:40] and so what SpaceX is trying to do is is
+[01:07:41] establish a transport link
+[01:07:43] um and then try to create a fertile
+[01:07:45] environment for entrepreneurs on Mars
+[01:07:48] uh to flourish.
+[01:07:50] Um and and I think that will be an
+[01:07:51] amazing
+[01:07:53] um expansion of entrepreneurial
+[01:07:55] would it take to deliver a pizza from
+[01:07:56] Mars?
+[01:07:57] Ha. Well, it's going to be a little cold
+[01:07:59] if it
+[01:08:01] But I mean,
+[01:08:03] we
+[01:08:04] we we can certainly see a way to get to
+[01:08:05] Mars in under three months.
+[01:08:07] Um and I think ultimately you'll be able
+[01:08:09] to get to Mars in under a month. It does
+[01:08:10] get exponentially difficult as you
+[01:08:12] reduce the time.
+[01:08:13] Um but um
+[01:08:14] but you know, three three months is a is
+[01:08:16] a way to think of it. Um and I think
+[01:08:18] that's probably
+[01:08:20] you know, that's that's really where
+[01:08:21] where SpaceX will I think create a a
+[01:08:23] great
+[01:08:24] environment for entrepreneurial
+[01:08:26] potential.
+[01:08:27] Thanks.
+[01:08:29] Nilay.
+[01:08:30] I hope Domino's does not get to Mars.
+[01:08:33] Please don't let it. Have a special
+[01:08:35] special Mars pizza.
+[01:08:36] going to be I'm assuming you're going to
+[01:08:37] be king of Mars.
+[01:08:38] Nilay.
+[01:08:39] Yeah.
+[01:08:40] Uh uh so, you're obviously very
+[01:08:41] ambitious. Um
+[01:08:43] that's led to some really ambitious
+[01:08:46] deadlines have been missed. So, Falcon
+[01:08:47] Heavy was originally 2012. Um the Model
+[01:08:50] X was a little bit delayed. The Model 3
+[01:08:53] The Model X was delayed. The Model 3
+[01:08:55] seems to be stretching. But the Model 3
+[01:08:56] in particular is a consumer product.
+[01:08:59] You're taking money from people
+[01:09:02] against a really aggressive production
+[01:09:04] schedule and a huge amount of orders.
+[01:09:07] What are you going to do to hit your
+[01:09:09] deadlines on that because it's real
+[01:09:11] consumers this time in a big class of
+[01:09:12] people?
+[01:09:14] Sure. Um
+[01:09:16] the
+[01:09:17] uh I I think the the biggest thing is
+[01:09:19] just designing the car for um
+[01:09:22] for for manufacturing. So, in the case
+[01:09:25] of Model S, like the Model S was the
+[01:09:27] first time we'd really built a car, um a
+[01:09:29] whole car. Like with the Roadster, Lotus
+[01:09:31] did the body and chassis, we did the
+[01:09:33] powertrain, and we did the sort of final
+[01:09:34] installation of the powertrain to the to
+[01:09:36] the chassis, but the Model S was the
+[01:09:37] first time we made a car. So, we're just
+[01:09:39] trying to make a a great car, um
+[01:09:42] and but we had no idea like what it
+[01:09:44] meant to design something to be
+[01:09:45] manufacturable. So, the Model S is super
+[01:09:47] hard to make, and then the Model X is
+[01:09:49] built off of the Model S platform,
+[01:09:51] except it's got a bunch of other
+[01:09:52] wiz-bang technologies that make it even
+[01:09:54] harder to build. So,
+[01:09:56] um
+[01:09:57] and uh you know, so
+[01:10:00] um
+[01:10:01] like that I mean, definitely we want to
+[01:10:03] do the opposite of what we did with the
+[01:10:05] with the X, um
+[01:10:07] which is make something that is is going
+[01:10:08] to be
+[01:10:09] a lot simpler, um but still a car that
+[01:10:12] people will love, um and where every
+[01:10:15] design decision is factoring in the
+[01:10:17] manufacturability.
+[01:10:19] Uh in fact,
+[01:10:20] and making sure that when we design
+[01:10:22] something,
+[01:10:23] um that you can manufacture it at volume
+[01:10:25] at an affordable price in the schedule
+[01:10:27] that we're that we're on the schedule
+[01:10:29] that we're that we're targeting. Um
+[01:10:32] One of the things that makes a car very
+[01:10:34] difficult, particularly if it's a new
+[01:10:35] car, uh is
+[01:10:37] is that it's an integrated product with
+[01:10:39] several thousand unique components. Um
+[01:10:41] so, we are somewhat at the mercy of
+[01:10:44] whatever the slowest component is,
+[01:10:45] whatever basically I mean, if you say go
+[01:10:48] to tier two and three suppliers, they
+[01:10:50] end up being several thousand suppliers.
+[01:10:52] So, so things move as fast as the least
+[01:10:55] lucky and least competent supplier.
+[01:10:58] Um
+[01:10:59] you know, but but just and you can think
+[01:11:01] of like
+[01:11:02] like any natural disaster you care to
+[01:11:04] name, all of those things have happened
+[01:11:05] to our suppliers. Their factory has
+[01:11:07] burnt down, there's been an earthquake,
+[01:11:08] there's been a you know, tsunami,
+[01:11:10] there's been
+[01:11:11] uh
+[01:11:12] massive hail,
+[01:11:13] uh there's been a tornado,
+[01:11:16] uh the ship sank,
+[01:11:17] uh
+[01:11:18] there was a shootout at the Mexican
+[01:11:20] border,
+[01:11:21] um no kidding.
+[01:11:22] Um
+[01:11:24] that that delayed trunk carpet at one
+[01:11:26] point.
+[01:11:27] Well, like and we couldn't get and like
+[01:11:28] the and like the border patrol wouldn't
+[01:11:30] give us the truck cuz it had a bullet
+[01:11:32] holes in it. Um
+[01:11:35] We just wanted our trunk carpet. Um
+[01:11:38] like it's pretty safe. There's like no
+[01:11:40] cocaine or anything. It's just a good.
+[01:11:42] Um
+[01:11:44] but you know, that shut down the
+[01:11:45] production line as an example for
+[01:11:46] several days. Um so, so there's
+[01:11:49] that's the biggest issue is like the
+[01:11:50] supply chain stuff is really tricky. Um
+[01:11:53] We're trying to
+[01:11:55] anticipate as much of that as possible,
+[01:11:57] um increase our optionality so
+[01:12:00] that there's more internal capability at
+[01:12:02] Tesla. Not that we want to do things
+[01:12:03] internally, but if um if a supplier is
+[01:12:06] unable and unwilling to
+[01:12:08] uh deliver the part, we can quickly make
+[01:12:11] that internally.
+[01:12:12] Um
+[01:12:14] So, I think the whole company is is
+[01:12:16] geared geared
+[01:12:17] geared for that, um
+[01:12:19] and um
+[01:12:22] I mean, right now it looks like, you
+[01:12:23] know, we should be able to do that. Uh
+[01:12:26] we expect to I mean, we we
+[01:12:28] almost all of the Model 3 design is
+[01:12:30] done, um
+[01:12:32] and we're aiming for pencils down
+[01:12:34] basically uh
+[01:12:37] about 6 weeks, complete pencils down. Um
+[01:12:41] And um
+[01:12:42] and we're tabling all, you know, like if
+[01:12:44] there are ideas for future cool things,
+[01:12:47] we'll we'll have it in version two,
+[01:12:48] version three, you know, in future years
+[01:12:50] type of thing. So,
+[01:12:51] um overall, I feel feel pretty good
+[01:12:52] about it. Um
+[01:12:55] And um our supplier um particularly our
+[01:12:57] major supplier partners have been um
+[01:13:01] very supportive and are are on board. Um
+[01:13:04] But um
+[01:13:07] you know, uh I mean,
+[01:13:08] one thing I
+[01:13:09] I should say is like the
+[01:13:11] like when when I when I sort of cite a
+[01:13:13] schedule, it is actually the schedule I
+[01:13:15] think is true. It's it's not some fake
+[01:13:18] schedule that I don't think is true. Um
+[01:13:21] So, I mean, uh
+[01:13:24] you know,
+[01:13:25] it's never until you know, I it's
+[01:13:28] um
+[01:13:29] maybe delusional. That is entirely
+[01:13:32] you know, possible. Maybe it's happened
+[01:13:34] from time to time.
+[01:13:36] Um but it's it's it's never um
+[01:13:39] you know, some knowingly fake deadline
+[01:13:41] ever.
+[01:13:43] So, is there an event in 6 weeks where
+[01:13:45] you're going to announce autonomous
+[01:13:46] driving is included in the pencils down
+[01:13:47] plan for the Model 3?
+[01:13:54] We're We're not expecting any event in 6
+[01:13:56] weeks. All right.
+[01:13:59] Uh Josh.
+[01:14:00] Hi. Um so, I have a this is a kind of a
+[01:14:03] weird question. I feel like you would be
+[01:14:05] the guy with the right answer for it.
+[01:14:07] There's a
+[01:14:08] um
+[01:14:09] sort of a philosophic concept that a
+[01:14:11] sufficiently advanced civilization would
+[01:14:13] be able to create uh
+[01:14:15] So, simulation.
+[01:14:17] Yeah. Maybe you've answered this before.
+[01:14:19] A simulation.
+[01:14:20] simulation discussions, it's crazy.
+[01:14:22] Okay. Um So, cuz cuz In fact, it it got
+[01:14:24] to the point where basically every
+[01:14:25] conversation was was the AI
+[01:14:27] AI/simulation conversation,
+[01:14:30] um and my brother and I finally agreed
+[01:14:32] that um we would ban such conversations
+[01:14:34] if we're ever in a hot tub. That was
+[01:14:36] like
+[01:14:38] Yeah, cuz that really kills the magic.
+[01:14:40] So,
+[01:14:41] So, so the idea is, right, any
+[01:14:43] sufficiently advanced civilization would
+[01:14:44] create could create a simulation that's
+[01:14:47] like our existence. And so, the theory
+[01:14:50] follows that may maybe we're in the
+[01:14:52] simulation.
+[01:14:54] Have you thought about this? A lot. Are
+[01:14:56] we
+[01:14:59] Are we Even in hot tub. So much so it
+[01:15:01] had to be banned from a hot tub.
+[01:15:06] Okay. It's not the sexiest conversation.
+[01:15:08] Are we in Are we in? Um
+[01:15:10] The the the I mean,
+[01:15:12] I think here's
+[01:15:13] in my view, like the the the strongest
+[01:15:15] argument for
+[01:15:16] the for us being in a simulation,
+[01:15:17] probably being in a simulation, I think
+[01:15:19] it's the following.
+[01:15:20] Um
+[01:15:21] That that 40 called 40 40 years ago, we
+[01:15:25] had Pong, like two rectangles and a dot.
+[01:15:28] That was what games were.
+[01:15:30] Um now, 40 years later, we have
+[01:15:32] photorealistic 3D simulations with
+[01:15:36] millions of people playing
+[01:15:36] simultaneously, and it's getting better
+[01:15:38] every year.
+[01:15:39] And soon we'll have you know, virtual
+[01:15:41] reality, augmented reality.
+[01:15:44] Um
+[01:15:45] If you assume any rate of improvement at
+[01:15:48] all, um then the games will become
+[01:15:51] indistinguishable from reality. Just in
+[01:15:54] indistinguishable. Um even if that rate
+[01:15:56] of advancement drops by a thousand from
+[01:15:59] what it is right now,
+[01:16:01] um then you just say, "Okay, well, we'll
+[01:16:03] let's imagine it's a
+[01:16:04] 10,000 years in the future." Uh which is
+[01:16:06] nothing in the evolutionary scale.
+[01:16:08] Um so,
+[01:16:10] um
+[01:16:12] So, so given that we're clearly on a
+[01:16:14] trajectory to have games that are
+[01:16:16] indistinguishable from reality, and
+[01:16:18] those games could be played on any set
+[01:16:20] up box or on a PC or whatever, and they
+[01:16:23] would probably be
+[01:16:24] you know, billions of such
+[01:16:26] uh
+[01:16:27] you know,
+[01:16:28] computers or set up boxes.
+[01:16:32] It would
+[01:16:34] seem to follow that the odds that we're
+[01:16:36] in base reality is one in billions.
+[01:16:41] Tell me what's wrong with that argument.
+[01:16:42] Is the answer yes?
+[01:16:44] The argument is probably
+[01:16:46] I just like is there Is there a flaw in
+[01:16:47] that argument?
+[01:16:48] someone but someone
+[01:16:49] sure what the error in All right, no,
+[01:16:50] no. The argument makes sense. So, the
+[01:16:52] assumption then is that
+[01:16:54] some we beat us to it.
+[01:16:56] And this is a game. No, no. There's a
+[01:16:59] one in billions chance that this is base
+[01:17:01] reality. Oh, okay.
+[01:17:03] What do you think?
+[01:17:05] Well, I think it's one in billions.
+[01:17:06] Okay.
+[01:17:08] I mean, this that seems to be like
+[01:17:10] clearly
+[01:17:12] what the you know, what the what it what
+[01:17:14] it suggests. And and actually, I mean,
+[01:17:16] ideally we should hope that that's true
+[01:17:18] because
+[01:17:19] otherwise, if if civilization stops
+[01:17:22] advancing, then that may be due to some
+[01:17:24] cataclysmic event that erases
+[01:17:26] civilization.
+[01:17:27] So, maybe we should be hopeful that this
+[01:17:29] is a simulation cuz
+[01:17:32] otherwise Cuz they could reboot it.
+[01:17:35] Well, otherwise
+[01:17:36] ei- either we're going to create
+[01:17:37] simulations that are indistinguishable
+[01:17:39] indistinguishable from reality or
+[01:17:40] civilization will cease to exist. Those
+[01:17:42] are the two options.
+[01:17:44] I like those odds.
+[01:17:47] Okay. All right.
+[01:17:49] We're going to it's it's unlikely to go
+[01:17:50] into some like, you know, multi-million
+[01:17:52] year stasis. So, it's either going to
+[01:17:53] increase or decrease.
+[01:17:56] Hi, I'm Jeetu Patel from Box. Uh
+[01:17:58] two-part question for you. One is um
+[01:18:01] if you think about fully autonomous
+[01:18:02] vehicles, um
+[01:18:04] which have passed through regulatory
+[01:18:06] approvals, have passed through in-city
+[01:18:09] driving in traffic conditions, how far
+[01:18:11] do you think from a time frame
+[01:18:13] perspective we are for that hap- that
+[01:18:14] becoming reality? And number two would
+[01:18:17] be the second part of that question is
+[01:18:20] how far before how long before you think
+[01:18:22] it's either illegal or extremely pro-
+[01:18:25] prohibitively expensive for humans to
+[01:18:26] drive on the road?
+[01:18:31] Well, I I mean, I think I mean, I really
+[01:18:33] would consider autonomous driving
+[01:18:36] to be basically a solved problem.
+[01:18:39] Um
+[01:18:41] Even in cities like Beijing and Yeah.
+[01:18:44] Yeah. Actually, there's
+[01:18:46] the
+[01:18:47] There's really only one um area where
+[01:18:50] it's like a little dodgy, and that's
+[01:18:51] basically if you're at roughly the 30 30
+[01:18:54] to 40 mph
+[01:18:55] um
+[01:18:56] in
+[01:18:57] in urban environments, which is that's
+[01:18:59] difficult to achieve in Beijing. Um
+[01:19:02] It's like heavy traffic. Uh in in in in
+[01:19:04] dense traffic situations, uh autonomy is
+[01:19:06] really easy um cuz you can just maintain
+[01:19:09] a set distance from various cars. It's
+[01:19:11] actually quite quite easy. Um you're un-
+[01:19:13] very unlikely to drive to run anyone
+[01:19:14] over cuz you're just not moving fast
+[01:19:16] enough, and you can brake in time.
+[01:19:18] Um on highways, particularly highways
+[01:19:20] that are um
+[01:19:22] that that are barriers so that you you
+[01:19:24] don't have pedestrians. That's also
+[01:19:26] relatively easy and like a Model S and
+[01:19:28] Model X at this point
+[01:19:30] can drive autonomously with greater
+[01:19:32] safety than a person. Right now. Last
+[01:19:34] question. My my point is when does it
+[01:19:36] get to be where you don't need to be
+[01:19:38] sitting behind a vehicle and it actually
+[01:19:40] the the way that society starts
+[01:19:42] expecting this is I can have my
+[01:19:44] 75-year-old mother who doesn't speak any
+[01:19:46] English or doesn't drive
+[01:19:48] be able to be transported from point A
+[01:19:50] to point B by just sitting in a car by
+[01:19:51] herself and being taken. I know it's
+[01:19:54] technically possible, but how far do you
+[01:19:55] think the regulatory approvals are for
+[01:19:57] that happening?
+[01:19:59] I I think we're basically
+[01:20:02] um
+[01:20:04] less than 2 years away from complete
+[01:20:06] autonomy.
+[01:20:07] Wow. Wow, complete. Safer than a human.
+[01:20:10] Um however, regulators will take um
+[01:20:14] I think at least another year, at least
+[01:20:16] another year and it I guess it going to
+[01:20:18] depend on which what part of the world
+[01:20:20] you're in.
+[01:20:21] Um
+[01:20:22] because they'll want to see billions of
+[01:20:24] miles of data to show that it is
+[01:20:26] statistically true that there is a
+[01:20:29] substantial improvement in safety if
+[01:20:31] something's autonomous versus not
+[01:20:32] autonomous. I don't think that
+[01:20:34] regulators will accept something that's
+[01:20:35] close to
+[01:20:37] that's that's that's sort of
+[01:20:38] approximately as good as a person. I
+[01:20:39] think they'll have to be
+[01:20:41] at least twice as good as a person,
+[01:20:43] maybe
+[01:20:44] five or 10 times
+[01:20:46] um
+[01:20:47] you know, better in terms of
+[01:20:49] uh safety.
+[01:20:50] Um
+[01:20:51] and and and that will have to be have to
+[01:20:53] be a statistically relevant data set.
+[01:20:55] So, like billions of miles over widely
+[01:20:58] differing
+[01:20:59] uh roads and and situations.
+[01:21:02] Um
+[01:21:04] So,
+[01:21:06] yeah, you know, that So, I think it's
+[01:21:08] like probably 3 years before it's from a
+[01:21:10] regulatory standpoint, but less than two
+[01:21:12] before it is
+[01:21:14] uh technically possible.
+[01:21:16] And do you think there's a day when it's
+[01:21:17] illegal to drive for humans or uh you
+[01:21:20] know, Well, I mean, we live in a
+[01:21:21] democracy, so it's presumably that would
+[01:21:23] be a function of the population
+[01:21:25] deciding.
+[01:21:26] Um
+[01:21:29] I mean, I'm not I I mean, I'm not in
+[01:21:30] favor of banning people from driving
+[01:21:32] cars. Um like I'm in favor of freedom.
+[01:21:36] Um
+[01:21:36] and and not restricting what people do.
+[01:21:40] Um
+[01:21:43] Yeah, but maybe the requirements for a
+[01:21:45] license will get more stringent. I think
+[01:21:48] that seems like maybe a good move, you
+[01:21:49] know, so you have to demonstrate a
+[01:21:51] higher level of skill to drive in order
+[01:21:54] to be allowed to manually drive.
+[01:21:56] Okay, very last question.
+[01:21:57] Okay, this is the last question.
+[01:21:58] one. Sorry, we you have to go.
+[01:22:00] has to go. You're going to make it a
+[01:22:01] great question. All right.
+[01:22:03] Thinking about life on Mars again, how
+[01:22:06] do you how do you think about cultural
+[01:22:08] unification, systems of government,
+[01:22:11] uh rules of law, establishing those uh
+[01:22:14] very early on?
+[01:22:16] Well, I think I'll just declare king of
+[01:22:17] Mars and I'm going to go.
+[01:22:19] Um
+[01:22:20] I like that. Yeah. Take it. Yeah, thank
+[01:22:22] you. Thank you. Thank you.
+[01:22:24] Um so, the the uh
+[01:22:27] I I think most likely the form of
+[01:22:30] government on Mars would be a democ-
+[01:22:32] direct democracy, um not representative.
+[01:22:35] So, it would be people voting directly
+[01:22:37] on on issues.
+[01:22:39] Um
+[01:22:40] and I think that's probably better cuz
+[01:22:42] like the potential for corruption is
+[01:22:45] substantially diminished in a direct
+[01:22:47] versus a representative democracy.
+[01:22:49] Um
+[01:22:51] so, I think that's probably what will
+[01:22:52] occur.
+[01:22:53] Um
+[01:22:54] the I I think there's some
+[01:22:57] I think so I would recommend like some
+[01:23:00] adjustment for the inertia of laws is
+[01:23:03] what would be wise in that it should
+[01:23:06] probably be easier to remove a law than
+[01:23:08] create one.
+[01:23:10] Um
+[01:23:11] I think you know,
+[01:23:13] the this is I would just be like let's
+[01:23:15] just I mean, I think I think that's
+[01:23:16] probably probably good cuz just laws
+[01:23:18] laws are have infinite life unless
+[01:23:20] they're
+[01:23:21] taken away.
+[01:23:22] Um so, I think
+[01:23:23] I my recommendation would be like like
+[01:23:25] something like let's say 60% of people
+[01:23:27] need to
+[01:23:29] uh vote in a law, but at any point
+[01:23:31] greater than 40% of people can remove
+[01:23:32] it.
+[01:23:33] Um and any law should come with a sunset
+[01:23:36] with a built-in sunset provision. If
+[01:23:38] it's not good enough to be voted back
+[01:23:39] in, maybe it shouldn't be there.
+[01:23:42] So, that's that's the framework for the
+[01:23:44] government on Mars. I mean, those that
+[01:23:46] would be my those would be my
+[01:23:47] recommendations. The democ- direct
+[01:23:49] democracy where
+[01:23:51] where it's slightly harder to to
+[01:23:53] put laws in place than
+[01:23:55] to take them away and where laws don't
+[01:23:59] just automatically live forever. You'll
+[01:24:00] be a good king. Thank you, Elon Musk.
+[01:24:03] Thank you.
+[01:24:04] Thank you.
+[01:24:06] Thank you so much.

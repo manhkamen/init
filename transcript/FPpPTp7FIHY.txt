@@ -1,0 +1,913 @@
+[00:00:00] hi hi hi everyone and the big thanks for
+[00:00:03] taking the time on you know we've been
+[00:00:04] trying to get you on the podcast since
+[00:00:06] we started it two years ago so we are
+[00:00:07] super pleased that we that we have you
+[00:00:09] on and indeed on your xplatform how cool
+[00:00:13] yeah it's pretty cool yeah I mean you
+[00:00:14] have like lots of people from all around
+[00:00:16] the world simultaneously do effectively
+[00:00:19] a real-time podcast and it works pretty
+[00:00:22] well good well we have so much to talk
+[00:00:24] about so love to kick off with with AI
+[00:00:27] now what's your take on where we are in
+[00:00:29] the a race just now wow that's a long
+[00:00:31] answer there there's so much happening
+[00:00:33] in AI is the fastest advancing
+[00:00:36] technology ever seen of any kind and
+[00:00:37] I've seen a lot of Technology it barely
+[00:00:39] a week goes by without some new
+[00:00:41] announcement so and and if you look at
+[00:00:44] the amount of AI Hardware the computers
+[00:00:47] coming online that are dedicated to AI
+[00:00:48] that is increasing what looks like at
+[00:00:51] least by a factor of 10 every year if
+[00:00:54] not every 6 to 9 months so when you
+[00:00:56] combine the hardware coming online
+[00:00:59] really of magnitude increase every you
+[00:01:01] know call at least every 9 months and
+[00:01:04] many many software breakthroughs if if
+[00:01:07] you look at that that curve it looks
+[00:01:08] insane so I think we'll my my guess is
+[00:01:10] that we we'll have ai that is smaller
+[00:01:13] than any any one human probably around
+[00:01:16] the end of next year and then AI the
+[00:01:18] total amount of sort of sentient compute
+[00:01:21] of AI I think will probably exceed all
+[00:01:24] humans in five years what what is the
+[00:01:26] race about just now is it algorithm is
+[00:01:28] it people is it computing power what
+[00:01:31] what is it about just now is it the
+[00:01:32] supply of chips what is it yeah last
+[00:01:35] year it was Chip constrained and the
+[00:01:37] hardware deployment break it down to the
+[00:01:40] three areas of people data and Hardware
+[00:01:42] that's starting with Hardware last year
+[00:01:44] it was about a chip Supply people could
+[00:01:46] not get enough nid chips particularly
+[00:01:48] this year it's starting to transition to
+[00:01:50] a voltage Transformer Supply so actually
+[00:01:53] getting enough voltage Transformers put
+[00:01:55] in place so my sort of very Niche joke
+[00:01:58] is Transformers for Trans Transformers
+[00:02:00] CU a lot of the AI That's run is called
+[00:02:03] a Transformer you need Transformers to
+[00:02:04] run Transformers and then next in the if
+[00:02:07] you look out a year or two or certainly
+[00:02:09] 3 years it's just electricity
+[00:02:11] availability so that's those are those
+[00:02:14] constraints in the hardware side so many
+[00:02:16] of the SM World smartest people are are
+[00:02:18] doing AI people that would have done
+[00:02:20] physics before in fact or had have done
+[00:02:23] physics for example have moved into AI
+[00:02:26] because it's just the fastest moving
+[00:02:28] field so we're seeing a lot of the best
+[00:02:30] talent a lot of the smartest humans
+[00:02:31] going into Ai and then uh we see along
+[00:02:34] with that algorithmic breakthroughs and
+[00:02:36] then then you start hitting the the wall
+[00:02:39] with the the data problem so the you can
+[00:02:41] fit all books ever written just the text
+[00:02:45] the the text in compressed form on one
+[00:02:47] hard drive or call one one computer so
+[00:02:50] when you when you're looking at like
+[00:02:51] tokens to train on yeah and and you
+[00:02:54] because you still think of like all the
+[00:02:55] books ever written in every in in all
+[00:02:57] languages by All Humans sounds like a
+[00:02:59] lot certainly it's far more than any one
+[00:03:01] human could could ever read it actually
+[00:03:04] is a small it's a small number of train
+[00:03:06] training tokens it's just not enough so
+[00:03:08] then you you start having to look at all
+[00:03:10] the videos of I created you know all the
+[00:03:13] podcasts all the everything and and you
+[00:03:16] start even running out of data there
+[00:03:18] well hopefully they hopefully they will
+[00:03:19] include this podcast definitely will
+[00:03:21] include this podcast what's the biggest
+[00:03:22] challenge you have with with xai well X
+[00:03:25] is still relatively new so it's not you
+[00:03:27] know like the limiting factor right now
+[00:03:29] is just training our Gro version two
+[00:03:32] model which should be do we think better
+[00:03:34] than GPD 4 and that's we're hoping to
+[00:03:38] complete that in May so that's that's
+[00:03:40] training right now so it's just really
+[00:03:42] we're just trying to get enough gpus
+[00:03:43] online to train it fast enough to get
+[00:03:45] that done in May which I think it
+[00:03:47] probably will happen and then and and
+[00:03:49] that's with roughly 20,000 h100s and and
+[00:03:53] doing I think very efficient training
+[00:03:56] then the next step would be for Gro 3
+[00:03:58] which would be I guess gv5 or Beyond
+[00:04:01] would you know requires uh 100,000
+[00:04:04] Nvidia h100s training coherently so
+[00:04:07] that's you know a half order of
+[00:04:09] magnitude basically more training and
+[00:04:11] then you really start to have running
+[00:04:13] into this data problem where you you
+[00:04:14] have to either create synthetic data or
+[00:04:17] use real world video those the the two
+[00:04:19] sources of kind of like unlimited data
+[00:04:21] synthetic data and real world video
+[00:04:24] which I should say Tesla has a pretty
+[00:04:25] big advantage in real world video Tesla
+[00:04:28] has by far the most real world video If
+[00:04:29] anywh one yeah you got a huge Library
+[00:04:31] there so when do you think so when do
+[00:04:32] you think we'll see proper AGI well
+[00:04:34] depends on how you define AGI if you
+[00:04:36] define AGI as smarter than the smartest
+[00:04:38] human I think it's probably end of next
+[00:04:41] year like like within two years but but
+[00:04:43] that's that there's still there's still
+[00:04:44] a pretty big leap beyond that to say
+[00:04:46] smarter than the the machine augmented
+[00:04:49] human Collective so like is it smarter
+[00:04:52] than all humans working together who are
+[00:04:55] also using computers to augment their
+[00:04:58] output and that that I think it's
+[00:05:00] probably 5 years away one one way to
+[00:05:02] look at it is is is to try to assess
+[00:05:04] like roughly what is the ratio of
+[00:05:06] digital to biological compute and so
+[00:05:09] biological comput are all the human
+[00:05:10] brains that are thinking last question
+[00:05:12] on on AI any new thoughts on regulation
+[00:05:15] and how we should be structured well I I
+[00:05:17] think we probably do need some sort of
+[00:05:18] regulatory authority to look at the
+[00:05:20] safety of AI just as we have regulatory
+[00:05:23] authorities and other Arenas to you know
+[00:05:25] o oversee aircraft and the safety of
+[00:05:28] aircraft and cars and and other things
+[00:05:31] you know medication so the rate at which
+[00:05:33] AI is progressing is fast is faster than
+[00:05:36] probably any regulatory agency can keep
+[00:05:38] up with but I I do have a comment on
+[00:05:40] what I think is very important before
+[00:05:42] achieving safe AI which is that uh it's
+[00:05:44] very important to train the AI to be as
+[00:05:46] truthful as possible and not to yeah
+[00:05:49] just to be as truthful as
+[00:05:52] possible I think you can get some very
+[00:05:54] dangerous at things when you program an
+[00:05:56] AI to be politically correct think that
+[00:05:59] things that may seem relatively
+[00:06:01] innocuous now but will not be so in in
+[00:06:04] the future if AI has immense power you
+[00:06:07] can take the Google Gemini example where
+[00:06:10] it refused to publish to produce a
+[00:06:12] picture of George Washington as a white
+[00:06:15] man and and any in fact any historical
+[00:06:19] figure would automatically be made
+[00:06:21] diverse because it's been programmed to
+[00:06:23] insist on diversity which sounds you
+[00:06:25] know perhaps okay at first but not if
+[00:06:28] the AI has so much power that it can
+[00:06:30] actually enforce diversity and decide
+[00:06:32] there's too many of one kind of people
+[00:06:34] or too many of one sex and kill off the
+[00:06:37] just just kill off enough until the the
+[00:06:40] diversity number is is what is
+[00:06:41] programmed to believe is correct but do
+[00:06:43] you think this will be sorted out in the
+[00:06:44] next version no you don't think so where
+[00:06:47] is China where is China now relative to
+[00:06:49] the US the next version no they'll make
+[00:06:51] it more subtle okay and less obvious but
+[00:06:54] it will still be there okay well we'll
+[00:06:56] see but where is China where do you
+[00:06:57] where is China now in relative to the US
+[00:06:59] I I don't know exactly what China is
+[00:07:01] except there are a lot of very smart
+[00:07:03] people in China and they they won't be
+[00:07:06] they won't be far behind the rest of the
+[00:07:07] world far behind the US I mean the ai ai
+[00:07:11] right now is very concentrated in San
+[00:07:13] Francisco and London and then you know
+[00:07:16] there's there's you know a lot happening
+[00:07:17] in in China but I I'm I don't have
+[00:07:20] insight into what they're doing except
+[00:07:22] that they I'm confident they will not be
+[00:07:23] far behind what is developed in the west
+[00:07:26] yeah so but but but mark my words the if
+[00:07:29] if if we do not program an as truthful
+[00:07:32] as possible that that is where it will
+[00:07:35] go by that is where the danger lies
+[00:07:37] moving T here moving to to Tesla is is
+[00:07:40] the EV conversion now going slower than
+[00:07:42] you had expected just where is the speed
+[00:07:45] of conversion now relative to your
+[00:07:46] expectations I think it's going quite
+[00:07:48] fast actually especially in Norway um
+[00:07:50] absolutely well it's pretty much all
+[00:07:51] there is is your Teslas yeah there's a
+[00:07:54] lot of Teslas in Norway it's crazy
+[00:07:55] thanks I'd once again like to thank
+[00:07:56] Norway for the support of electric
+[00:07:58] vehicles so much appreciate
+[00:08:01] it
+[00:08:04] so I think it's we will the that that
+[00:08:08] electric that all vehicles will go fully
+[00:08:10] electric it's only a matter of time that
+[00:08:12] includes aircraft ultimately and boats
+[00:08:15] obviously trains the only thing that is
+[00:08:17] ironically difficult to where you can't
+[00:08:19] really make it electric is Rockets
+[00:08:21] because you need you can't get away from
+[00:08:23] having to expel Mass sort of Newton
+[00:08:25] third law but but all cars will be
+[00:08:28] electric it's only matter time and we'll
+[00:08:29] look back on combustion caus in the same
+[00:08:32] way that we look at back on steam
+[00:08:34] engines that that it was it was
+[00:08:35] inevitable that there would be internal
+[00:08:37] combustion cars and is just as
+[00:08:39] inevitable that all cars will go
+[00:08:40] electric and there will be some e you
+[00:08:43] know so like it going to be a completely
+[00:08:45] straight up line there will be some EV
+[00:08:47] and flow in how how far electric cars go
+[00:08:50] but that but the ultimate victory of
+[00:08:53] electric cars is inevitable and I think
+[00:08:55] the sooner we get there the better yeah
+[00:08:57] how do you see the Chinese competition
+[00:08:58] here now we generally find that the
+[00:09:01] companies in China are the most
+[00:09:02] competitive in the world and certainly
+[00:09:03] in electric vehicles or cars in general
+[00:09:06] the Chinese car companies are by far the
+[00:09:08] most competitive yeah that's where where
+[00:09:10] we find the most tough toughest compet
+[00:09:12] competitive challenges that they make
+[00:09:14] great cars and they work very hard so
+[00:09:16] when you ride in one of the Chinese cars
+[00:09:18] what do you think I mean you're an
+[00:09:18] engineer you know what about it what do
+[00:09:20] you what do you think I haven't R it I
+[00:09:22] have not ridden in one lately but cuz
+[00:09:24] they're not all available here you know
+[00:09:26] in the US or very few are available in
+[00:09:28] the US some are available in Europe but
+[00:09:30] from what my team tells me they are very
+[00:09:33] good now you are moving into IND your
+[00:09:35] hair as well in terms of production what
+[00:09:36] are your what are your thoughts here s
+[00:09:38] moving into where to India Oh India yeah
+[00:09:41] yeah I think it's you know India is sort
+[00:09:43] of a India is now the most populous
+[00:09:45] country in the world you know the
+[00:09:46] biggest population and I think there we
+[00:09:50] India just should have electric cars
+[00:09:52] just like every other country has
+[00:09:53] electric cars and so it's a natural
+[00:09:56] progression to provide electric Tes
+[00:09:59] electric vehicles in India yeah uh
+[00:10:01] moving moving out out in space what what
+[00:10:04] would it take to be self-sufficient at
+[00:10:06] Mars to be selfish on Mars it's really
+[00:10:08] about the the total tonnage that is
+[00:10:10] delivered to the surface of Mars so you
+[00:10:12] can say like well um I I think it's
+[00:10:15] probably on the order of a million tons
+[00:10:17] maybe it maybe more but somewhere
+[00:10:18] between probably a million tons and 10
+[00:10:20] million tons are needed to make Mars
+[00:10:22] self-sufficient and how many Rockets is
+[00:10:23] that well I gave a presentation on this
+[00:10:25] recently if people look at my my recent
+[00:10:27] SpaceX talk but if you if you have
+[00:10:30] really if you have 100 tons per flight
+[00:10:33] you need 10,000 flights to get to a
+[00:10:34] million million tons and that's 100 tons
+[00:10:36] landed to the surface of Mars so in
+[00:10:38] order to get 100 tons land to the
+[00:10:40] surface of Mars you need five five times
+[00:10:42] that number in Earth orbit so we're do a
+[00:10:45] lot of orbital refilling so launching
+[00:10:48] sort of rockets tanker ships over and
+[00:10:51] over again that that would replenish the
+[00:10:52] propellant of the ships that would go to
+[00:10:55] Mars and then you'd need roughly an
+[00:10:57] order of 10,000 of them to get to a
+[00:10:59] million tons and but we we plan to do
+[00:11:02] that that that's that's we we think we
+[00:11:04] can get that done within 20 years really
+[00:11:07] so and when do you think so when do you
+[00:11:08] think we'll be there for the first time
+[00:11:10] first well the first Starship that will
+[00:11:12] land on Mars which obviously will not
+[00:11:14] have people at first I think it's
+[00:11:16] probably within about 5 years and then
+[00:11:18] it would probably launch several ships
+[00:11:20] and just confirm that they can land okay
+[00:11:22] on Mars we'll also be doing the moon
+[00:11:24] simultaneously with that so got taking I
+[00:11:27] think I think we'll get people back to
+[00:11:28] the Moon I should say within 5 years and
+[00:11:30] we'll get uncrewed ships landed on Ms
+[00:11:33] within 5 years and and then we be
+[00:11:35] building up the production rate and
+[00:11:37] improving the design of the booster in
+[00:11:39] the ship so in the first peep lawn Mars
+[00:11:42] I think within 7 years or so 7 to n
+[00:11:46] years and from from there we need to
+[00:11:48] rapidly increase we need massive numbers
+[00:11:50] of ships going and Earth and Mars Only
+[00:11:53] in the same quadrant of the solar system
+[00:11:56] roughly for six months every two years
+[00:11:59] or or at least it's only possible to
+[00:12:01] really transfer efficiently from Earth
+[00:12:03] to Mars I say every six months but
+[00:12:05] really there's about there's a couple
+[00:12:06] months where where it's ideal every 26
+[00:12:10] months so every two years that you would
+[00:12:12] see a basically a fleet depart Mars I
+[00:12:14] think re quite a spectacular thing to
+[00:12:16] see a thousand ships depart for Mars all
+[00:12:18] at once like Battle Star Galactica what
+[00:12:20] kind of new technology do we need before
+[00:12:23] we'll be self-sufficient here actually I
+[00:12:24] think we have all the tech we already
+[00:12:26] know all the technology that's necessary
+[00:12:28] for that it just needs to we just need
+[00:12:29] to build no new physics is needed for
+[00:12:31] this why is it so important for you I
+[00:12:33] think it's important for Consciousness
+[00:12:34] in general so if wish to maximize the
+[00:12:37] lifespan of Consciousness then being a
+[00:12:40] multi of species will result in a much
+[00:12:42] longer existence of Consciousness
+[00:12:44] Consciousness than if we're on one
+[00:12:45] planet if we're on one planet we're
+[00:12:47] simply biting our time until there's
+[00:12:50] eventually a Calamity it could be soon
+[00:12:51] it could be a long time but eventually
+[00:12:53] something will happen it could be you
+[00:12:55] Global th nuclear war it could be simply
+[00:12:57] That civilization merely sides our
+[00:13:00] civilization may not die with a bag it
+[00:13:02] may die with a whimper just just
+[00:13:03] gradually falling into obsolescence but
+[00:13:06] if we're a multi Planet species then
+[00:13:08] we've got two planets and the and they
+[00:13:10] can support each other and we can go
+[00:13:12] beyond two planets ultimately to moons
+[00:13:14] of Jupiter to the to the Beyond to the
+[00:13:18] the outer parts of the solar system and
+[00:13:19] ultimately to other star systems so this
+[00:13:22] tiny this tiny candle of Consciousness
+[00:13:24] that we have in this vast Darkness can
+[00:13:27] be extended and Amplified and we're just
+[00:13:30] far more likely to survive as for for
+[00:13:33] Consciousness survive if we are a
+[00:13:35] multiplet species you don't think it'd
+[00:13:37] be better to use all these resources and
+[00:13:39] try to sort out Earth well just to put
+[00:13:42] this into perspective the amount of
+[00:13:43] resources I'm talking about for making
+[00:13:45] life multiplanetary would be less than
+[00:13:46] 1% of all resources on Earth so I really
+[00:13:48] can think of it as resource allocation
+[00:13:50] do you think it's worth spending half a
+[00:13:52] percent of Earth Resources to ensure
+[00:13:54] that we have redundancy in Consciousness
+[00:13:57] and that we extend Consciousness Beyond
+[00:13:59] on Mars to other planets to to Mars and
+[00:14:02] other planets and ultimately other star
+[00:14:04] systems and then also take into account
+[00:14:06] the fact that there are certain inevit
+[00:14:08] there are certain things we simply
+[00:14:09] cannot avoid on earth like is it within
+[00:14:12] your power of mind to stop World War II
+[00:14:14] I don't think so if it happens and if we
+[00:14:16] have Global theral Warfare our
+[00:14:18] technology level will drop to the stern
+[00:14:20] age and we may never survive and then
+[00:14:22] there are we maybe get hit like by a
+[00:14:25] comet like the dinosaurs and you know if
+[00:14:28] the dinosaurs had spaceship they they'll
+[00:14:29] probably still be around so and then if
+[00:14:31] if you wait long enough the Earth the
+[00:14:33] the sun will continue to expand and
+[00:14:35] eventually engulf Earth and destroy it
+[00:14:38] and destroy all life so just give amount
+[00:14:41] a certain amount of time no matter what
+[00:14:43] you do on Earth no matter how careful
+[00:14:44] you are Earth will life all life on
+[00:14:46] Earth will die that it will happen is a
+[00:14:48] certainty it's B gloomy this no so on a
+[00:14:50] slightly less gloomy note X Twitter yeah
+[00:14:53] what is your vision now what do you how
+[00:14:55] do you see the the vision of X our goal
+[00:14:57] of X is to be the best source of truth
+[00:14:59] on the internet and I think we're making
+[00:15:01] a good you know good progress there and
+[00:15:03] I mean this we had to be like I call the
+[00:15:05] everything app like if anything you want
+[00:15:07] to do you can do on the X platform
+[00:15:09] whether it's text audio video payments
+[00:15:12] Financial stuff Communications of all
+[00:15:14] kinds and then but but then also where
+[00:15:16] there is publicly disseminated
+[00:15:18] information just to be the best source
+[00:15:19] of Truth and I think it I think it
+[00:15:21] already is that now people may say oh
+[00:15:23] there's some piece of misinformation
+[00:15:24] disinformation I say yes but look look
+[00:15:26] at the replies the repli is correct that
+[00:15:28] misinformation and look at Community
+[00:15:29] notes and and how good the batting
+[00:15:31] average of community notes is it's
+[00:15:33] extremely good it's by far the best
+[00:15:34] factchecking system on the internet so
+[00:15:36] and and and a lot of people still labor
+[00:15:37] under the illusion that the the the
+[00:15:39] Legacy newspapers that they read are
+[00:15:41] actually true there's so much nonsense
+[00:15:43] in them I mean Nico how many times when
+[00:15:46] do you read an article in a newspaper
+[00:15:48] where you know the circumstances of what
+[00:15:50] that article is and how often is it spot
+[00:15:53] on no of course it's normally no no of
+[00:15:55] course we all know it's normally wrong
+[00:15:57] but but how do you look not sure but how
+[00:15:59] do you look at the situation now for
+[00:16:00] instance with with Russia you know the
+[00:16:02] work Russia does in Germany with fake
+[00:16:04] accounts on it's pretty pretty huge
+[00:16:06] activity right I mean we don't see a lot
+[00:16:08] of Russian activity to be frank on the
+[00:16:11] system so we we see very little we do we
+[00:16:15] do see a lot of lot of ter to influence
+[00:16:17] things but they seem to be coming from
+[00:16:19] from the West not from from Russia right
+[00:16:21] what about what about things like the
+[00:16:23] latest developments in in Brazil and so
+[00:16:26] on sure yeah so but the we we kept
+[00:16:29] getting these demands from this Judge
+[00:16:31] Alexander that's his that's his name on
+[00:16:33] Twitter Alexander and there would be to
+[00:16:37] suspend accounts immediately were given
+[00:16:40] typically two hours to suspend an
+[00:16:41] account or face massive fines and the F
+[00:16:44] the final sto we were were being given
+[00:16:47] demands to suspend sitting sitting
+[00:16:49] members of the parliament and major
+[00:16:52] journalists and moreover we could not
+[00:16:53] tell them that it this was at the behest
+[00:16:57] ofer Morales we had to pretend that it
+[00:16:59] was due to our rules of service and that
+[00:17:02] was the final straw and we said no now
+[00:17:04] when you when you bought Twitter now
+[00:17:06] renamed X did you expect that you would
+[00:17:08] end up in these type of situations so
+[00:17:09] it's is all unexpected well I knew it
+[00:17:12] wouldn't be just a total B of roses you
+[00:17:15] know and it's talk I wouldn't no I mean
+[00:17:17] I thought it would be since we're just
+[00:17:20] like rigorously trying to pursue the the
+[00:17:25] the goal of being the most accurate and
+[00:17:26] truthful place in the internet and that
+[00:17:28] that doesn't mean that what is said is
+[00:17:30] always true or accurate but it's it is
+[00:17:32] perhaps another way to frame it is as
+[00:17:33] the least inaccurate place on the
+[00:17:34] internet do you do you secretly do you
+[00:17:36] secretly think this is a bit fun it's
+[00:17:38] fun yeah yeah it's fun at times it's
+[00:17:40] stressful at times and it's fun at times
+[00:17:42] but overall we're trying to serve the
+[00:17:43] people of Earth and and and this is sort
+[00:17:46] of an es sort of maybe an esotar way of
+[00:17:48] vieing it but to try to be kind of like
+[00:17:50] the the group consciousness of Earth so
+[00:17:52] you can think of like if each person is
+[00:17:55] like a neuron contributing to like the
+[00:17:56] collective brain of Earth and you want
+[00:17:58] to try to minimize the noise and
+[00:18:00] maximize the signal of every neuron
+[00:18:02] that's connected to the the X Network
+[00:18:05] that that's basically what what is what
+[00:18:06] is the collective will of of humanity
+[00:18:09] and and how and and and how to yeah just
+[00:18:13] serve the collective will of humanity
+[00:18:15] and so serve the greater good that
+[00:18:16] that's our goal now you know there's
+[00:18:18] there's definitely going to be people
+[00:18:20] who want to manipulate that information
+[00:18:22] and so we have to fight that and try to
+[00:18:24] have you know be it be the most accurate
+[00:18:26] place as to the best of our ability and
+[00:18:29] have it be kind of a Marketplace of
+[00:18:30] ideas where people can propose ideas and
+[00:18:33] you know debate them and I think so far
+[00:18:35] it's working reasonably well in that
+[00:18:37] regard now people that don't like the
+[00:18:39] truth will not like the x or or if they
+[00:18:41] want to manipulate things they will not
+[00:18:42] like it but only but a few years ago you
+[00:18:44] were you were a guy using electric
+[00:18:46] vehicles now you are you know through
+[00:18:49] starlink you've had some you know I mean
+[00:18:52] some big impact in in Ukraine with
+[00:18:55] Twitter you are kind of into some issues
+[00:18:57] in you know bra brail India turkey you
+[00:19:00] know you're becoming like a real
+[00:19:01] geopolitical force and a really
+[00:19:03] important one how do you how do you look
+[00:19:05] at that well like I said really just I'm
+[00:19:07] trying to take the set of actions that
+[00:19:09] maximize the probability the future is
+[00:19:11] good I mean we have to keep civilization
+[00:19:14] going onward and upward as much as
+[00:19:15] possible and and try to minimize the
+[00:19:18] civilizational threats that occur like
+[00:19:20] you know we we we can't get to Mars if
+[00:19:22] civilization collapses it's not going to
+[00:19:24] happen so you know we've got to we've
+[00:19:26] got to keep keep civilization going and
+[00:19:28] I think I think we should view our
+[00:19:30] civilization as being much more fragile
+[00:19:32] than we think we kind of take for
+[00:19:34] granted it's always going to be there
+[00:19:35] but actually if you study history you
+[00:19:37] realize that there Rise you know there's
+[00:19:39] rise and P civilizations I mean I was I
+[00:19:41] was reading in depth about the ancient
+[00:19:43] samarians who were arguably the first
+[00:19:46] civilization if you call civilization
+[00:19:48] like writing and stuff you know they
+[00:19:49] were the first to develop writing and
+[00:19:51] but eventually they died out and they
+[00:19:53] were gone so and then nobody could read
+[00:19:55] their writing at all and and they they
+[00:19:57] just faded out as a civil ation but
+[00:19:59] they're pretty impressive in their time
+[00:20:01] the ancient Egyptians the same thing and
+[00:20:03] you one sort of one after another
+[00:20:05] ancient Greek had re out its day you
+[00:20:07] know China and India had it will have
+[00:20:10] incredibly impressive populations but
+[00:20:11] there's been EVs and flows in the CH
+[00:20:14] China and Indian civilizations over the
+[00:20:16] the the aons you know the blet as well
+[00:20:19] so you know I I guess I'm just trying
+[00:20:21] and take this this set of the steps that
+[00:20:24] increase the scope and scale of
+[00:20:25] Consciousness that's that's what I'm
+[00:20:27] trying to do it's but it's not that I'm
+[00:20:29] trying to have a political thumb on the
+[00:20:30] scale or anything like that but I I I
+[00:20:33] think I'm trying to have the political
+[00:20:34] will go where the people want it to go
+[00:20:36] yeah you know you you mentioned some
+[00:20:39] some really smart people here and kind
+[00:20:41] of just moving t a bit here to copal
+[00:20:43] culture now you manage a lot of geniuses
+[00:20:45] in your in your companies what is the
+[00:20:47] key to manage really smart people you
+[00:20:50] think I don't don't think I manage smart
+[00:20:52] people they manage themselves I I think
+[00:20:54] you well I guess with really smart
+[00:20:56] people you know I don't really think of
+[00:20:57] it like managing them I think that if
+[00:20:59] somebody's very SWAT and talented they
+[00:21:01] they can go anywhere and do anything
+[00:21:03] anytime like if they they don't have to
+[00:21:05] work with me they could go anywhere so I
+[00:21:07] I really just say like look this is the
+[00:21:08] the goal we're after and this is what
+[00:21:10] we're trying to achieve and do you agree
+[00:21:12] with this goal and if you do then let's
+[00:21:14] try to get it done and you know provide
+[00:21:16] my opinion along the way and but I it's
+[00:21:19] very rare for me to actually sort of
+[00:21:21] insist on on on a particular thing once
+[00:21:24] in a while I'll say look guys you just
+[00:21:25] got to trust me on on this one we got to
+[00:21:28] do this thing and if it turns out to be
+[00:21:29] a bad decision you we can can all hold
+[00:21:32] that against me in the future but you
+[00:21:33] have an incredible eye for detail right
+[00:21:35] I mean when we read the is book it's
+[00:21:37] pretty clear that you I mean you really
+[00:21:40] are are deep into detail and know what
+[00:21:41] you talk about so how do you how do you
+[00:21:42] balance this kind of micromanagement of
+[00:21:45] some areas and then delegate other areas
+[00:21:47] I would I wouldn't call it
+[00:21:48] micromanagement it's just insisting on
+[00:21:50] attention to detail that if you're
+[00:21:52] trying to make a perfect product you
+[00:21:53] must have attention to atten attention
+[00:21:56] to details essential and I haven't
+[00:21:59] actually read the Ison book you should
+[00:22:00] it's very good actually I love it well I
+[00:22:03] I asked Walter Ison if I should read it
+[00:22:05] and he said I shouldn't so so
+[00:22:07] then I should read it so okay well I'll
+[00:22:10] I'll ask you some questions from the
+[00:22:11] book then they you it talks about you
+[00:22:13] know you the kind of the hardcore and
+[00:22:15] Ultra Hardcore culture what is an Ultra
+[00:22:18] Hardcore culture I guess it's work I
+[00:22:20] mean it's working culture right I mean
+[00:22:22] how how I mean Ultra hard work how hard
+[00:22:25] is that well when things get really
+[00:22:26] intense you're basically just working
+[00:22:28] every way waking hour and how and how
+[00:22:30] long can you do that for I've done that
+[00:22:31] for well continuously for sometimes like
+[00:22:35] a few years what is it what does it do
+[00:22:37] to you it really it's pain and and every
+[00:22:39] waking hour maybe it's exaggeration
+[00:22:41] because there are a few hours obviously
+[00:22:43] with friends and family and critical
+[00:22:45] other things but 100 hour weeks would be
+[00:22:47] I I've done many many stretches of 100
+[00:22:49] hour weeks like true 100 hour weeks
+[00:22:51] where roughly 6 hours per day is
+[00:22:52] sleeping I would not recommend that this
+[00:22:54] is not that's for emergencies you know
+[00:22:56] it's not all the time during Direct
+[00:22:58] difficult times at Tesla I've had to do
+[00:23:00] that and sometimes at the beginning of
+[00:23:02] my earliest startups I did that where I
+[00:23:04] just wouldn't leave the office I would
+[00:23:05] just sleep under my desk and just work
+[00:23:07] seven days a week sometimes it's
+[00:23:09] necessary for success or to avoid
+[00:23:11] failure but but do you you do you enjoy
+[00:23:13] being in this crisis mode no I don't it
+[00:23:16] sucks okay no I I don't want to be there
+[00:23:19] it's pain but sometimes it's the
+[00:23:20] difference between success and failure
+[00:23:22] when you make decisions how important is
+[00:23:24] speed actually he just gave me an idea
+[00:23:26] which is I'm going to invite the Judge
+[00:23:29] Alexander to do a spaces and then he can
+[00:23:32] explain why what I'm doing is bad and
+[00:23:35] and and maybe he's right I challenge I
+[00:23:38] challenge him to a spaces sounds good
+[00:23:40] yeah but what about spe when you make
+[00:23:42] when you when you make decisions how how
+[00:23:44] important is speed and how do you how do
+[00:23:46] you balance analysis with your gutfield
+[00:23:48] I think the the the best offense and
+[00:23:51] defense is speed if you think of
+[00:23:53] something like the SR71 Blackbird it
+[00:23:55] really had almost no defenses except
+[00:23:57] accelerate and it was never shot down
+[00:23:59] even once like I think over 3,000
+[00:24:01] missiles were shot at the sof 71
+[00:24:03] blackboat and none hit and and really
+[00:24:06] what it did was just go faster so the
+[00:24:09] the power of speed
+[00:24:10] is uh underappreciated as a competitive
+[00:24:13] Dimension is that why you know SpaceX
+[00:24:15] for instance has been so successful
+[00:24:17] because you've been mean and lean as an
+[00:24:19] organization and fast think speed speed
+[00:24:22] is definitely a factor now I should say
+[00:24:24] you want to go in the case of a company
+[00:24:26] you you need to be a vector not a scaler
+[00:24:29] so it can't be you need to go at high
+[00:24:31] speed in the right direction sure so it
+[00:24:33] can't just so and no company's going to
+[00:24:35] be going in the right direction all the
+[00:24:36] time so you have to do course
+[00:24:37] Corrections like a guided missile you
+[00:24:39] qued course Corrections and uh but in
+[00:24:42] the case of SpaceX it's like okay our
+[00:24:44] goal is to extend Humanity beyond Earth
+[00:24:47] and we didn't even know how to even
+[00:24:49] frame the question correctly like what
+[00:24:51] what which knew that that was the
+[00:24:52] General goal we didn't know what pent
+[00:24:54] we' use or what the raw materials would
+[00:24:57] be or for the how would the rocket be
+[00:24:59] built how would it be designed what's
+[00:25:00] actually important and you know so for
+[00:25:03] example going from our Falcon
+[00:25:06] architecture which is uses to refine jet
+[00:25:08] fuel and liquid oxygen in a open cycle
+[00:25:11] gas generator architecture engine to a
+[00:25:14] to Starship which is a liquid methane
+[00:25:18] liquid oxin propellant the staged
+[00:25:20] combustion very high pressure engine
+[00:25:23] that that that's that's a big
+[00:25:24] architectural change but we didn't know
+[00:25:26] that we we needed to make that
+[00:25:27] architectural change
+[00:25:28] until we're pretty far down the road
+[00:25:30] like about halfway took us about 10
+[00:25:32] years to figure out that was even the
+[00:25:33] right architecture now I think SpaceX is
+[00:25:35] one of the best example I know about
+[00:25:37] what we call failing well right learning
+[00:25:39] from mistakes and moving on what
+[00:25:41] generally how do you how do you look at
+[00:25:42] mistakes I mean which which ones do you
+[00:25:44] tolerate and which ones don't you
+[00:25:45] tolerate well I I think i' really think
+[00:25:47] of that way the first three flights of
+[00:25:49] SpaceX failed the fourth one succeeded
+[00:25:51] and if if the fourth one had not
+[00:25:52] succeeded we would have gone bankrupt we
+[00:25:54] would had no money left so it was a very
+[00:25:56] close call but since then space has done
+[00:25:58] very well it's now the the falcine you
+[00:26:01] know knock on wood is the most reliable
+[00:26:03] rocket in the world and launches about
+[00:26:05] every 2 to three days now last question
+[00:26:07] on risk what are the types of risk you
+[00:26:09] would not want to take well I I think in
+[00:26:11] in terms of risks you don't you you
+[00:26:13] don't want to take risks that where if
+[00:26:15] if you only want to take bet the company
+[00:26:16] risks if they're absolutely necessary so
+[00:26:19] there have been a few times where say in
+[00:26:21] the with Tesla we we just had no choice
+[00:26:23] but to bet the company because if we're
+[00:26:25] if we're in if we're doing a new vehicle
+[00:26:26] program that is in order of magnitude
+[00:26:28] larger than the past one then we're just
+[00:26:30] unequally betting the company because
+[00:26:32] the new vehicle would be 90% of
+[00:26:34] production so going from the original
+[00:26:36] Roadster to the model S original
+[00:26:39] Roadster was only you know about 600 6
+[00:26:42] 700 per year then Model S was 20,000 per
+[00:26:45] year and and then model 3 is sort of
+[00:26:48] half is sort of half a million per year
+[00:26:50] model y over a million per year so these
+[00:26:53] are bet the company vehicles but the the
+[00:26:56] reason we could do for example the
+[00:26:57] sabage truck which was kind of a a
+[00:26:59] radical new design was because it wasn't
+[00:27:01] a bet the company decision so I was like
+[00:27:03] okay look let's try something I want to
+[00:27:05] try something totally crazy it's like
+[00:27:07] what what truck would Blade Runner Drive
+[00:27:09] set them when you're going to drive on
+[00:27:10] yeah I think it would be perfect for Ms
+[00:27:12] but like we could try something that
+[00:27:13] where there's some chance that people
+[00:27:15] might not like it but it's it's radical
+[00:27:17] and new and it's aesthetic aesthetically
+[00:27:20] it's not derivative it doesn't look like
+[00:27:21] anything else on the road whereas all
+[00:27:23] the other sort of pickup trucks look
+[00:27:24] like vague copies of one another there
+[00:27:26] we could afford to take a chance
+[00:27:28] on failure and say like and talk it up
+[00:27:30] to you know well we tried you know we
+[00:27:33] tried to do something interesting but
+[00:27:34] but actually by the way cyber truck's
+[00:27:35] doing great so but one of the things
+[00:27:38] that I think is important for Innovation
+[00:27:40] is that you do accept failure like like
+[00:27:43] necessarily you have to always look at
+[00:27:44] the incentive structure of an
+[00:27:46] organization and say you know is that is
+[00:27:48] that organization properly incenting
+[00:27:50] Innovation and in with if you do
+[00:27:52] Innovation you're necessarily going to
+[00:27:54] Uncharted Territory so they going to be
+[00:27:56] some mistakes they going to be some fail
+[00:27:58] and you have you have to like like
+[00:28:00] actually like for for SpaceX uh rocket
+[00:28:03] engine development like I keep telling
+[00:28:05] the team look if we're not occasionally
+[00:28:06] blowing up an engine on the test stand
+[00:28:08] we're not trying hard enough you know
+[00:28:10] how important are the P how important is
+[00:28:11] research and phds and that kind of stuff
+[00:28:13] think I've said seen somewhere you you
+[00:28:16] think most phds are useless well I think
+[00:28:18] most PhD thesis are useless which I
+[00:28:21] think is actually objectively true if
+[00:28:23] you look at how many
+[00:28:25] PhD look at all how many PhD are created
+[00:28:28] every year and how many of those papers
+[00:28:30] are actually used in anything then
+[00:28:31] objectively most PhD Theses are have
+[00:28:34] very low utility or maybe zero because
+[00:28:37] nobody uses them or so once in a while
+[00:28:40] you get something that is spectacular
+[00:28:41] but it's pretty rare perhaps something
+[00:28:43] more useful and in the books that you
+[00:28:44] haven't read talks about your love for
+[00:28:47] gaming in particular like strategic
+[00:28:49] ability gaming and I've been thinking
+[00:28:50] quite a lot about it what have you
+[00:28:52] learned from from those games and have
+[00:28:55] that learning and wisdom been helpful
+[00:28:58] when you have been planning your
+[00:28:59] companies yeah I it's hard to say
+[00:29:01] exactly what I've learned from video
+[00:29:02] games ex said that I I do like playing
+[00:29:04] video games as if I want to take my mind
+[00:29:06] off work I'll typically play a very hard
+[00:29:08] video game such as which one well over
+[00:29:10] the years it's been many many different
+[00:29:11] video games so you know when I was a
+[00:29:14] little kid I was like you know pong and
+[00:29:16] the little tank games and things and but
+[00:29:18] if you take a game like for example
+[00:29:20] civilization it's actually quite a good
+[00:29:22] it tells you how how civilizations are
+[00:29:24] formed like I remember I remember
+[00:29:25] playing the original civilization with
+[00:29:27] the techn tree and and how you invent
+[00:29:30] different things you'd like invent
+[00:29:31] literacy and invent democracy and invent
+[00:29:34] gunpowder all all these things like and
+[00:29:36] you start to realize oh wow there are
+[00:29:37] stages to technology like you can't you
+[00:29:39] know you can't actually get to democracy
+[00:29:42] without literacy and you know so there's
+[00:29:44] these these stages of of Technology
+[00:29:47] development or stages of ideas that you
+[00:29:50] know that's that's a helpful framework
+[00:29:51] for a company and I guess in in like
+[00:29:55] like I say in recent years there there
+[00:29:57] game play that was actually developed in
+[00:29:59] Sweden called polyopia which is actually
+[00:30:02] quite a good game people like playing
+[00:30:03] chess but I think chess is not not a
+[00:30:05] great there's not a lot of transfer
+[00:30:07] learning from chess to the real world
+[00:30:08] because in chess you've got only 64
+[00:30:11] squares uh it's a setpiece battle same
+[00:30:13] pieces every time there are no terrain
+[00:30:15] differences there's no technology tree
+[00:30:18] uh there's no fog of War but say a game
+[00:30:20] like polyopia has all of those things uh
+[00:30:22] random Terin generation you know the
+[00:30:24] differences in attack and defense
+[00:30:26] bonuses depending on what type of train
+[00:30:28] you've got 16 tribes I think each with
+[00:30:30] different abilities you've got a
+[00:30:32] technology tree that you can choose to
+[00:30:33] develop in different ways and and you've
+[00:30:35] got of course fog of War so that I think
+[00:30:37] is much more much closer to reality so I
+[00:30:40] think Foria I mean I I was I was playing
+[00:30:43] Diablo for a while it's pretty fun
+[00:30:46] Diablo as high levels gets very
+[00:30:47] complicated they you could call it like
+[00:30:49] a a spreadsheet with a game attached so
+[00:30:52] so that's that's and I briefly got the
+[00:30:55] the for about a day the world record in
+[00:30:57] this Avatar of Z on on a four person
+[00:30:59] team of of clearing the the hardest
+[00:31:01] level which was you know not bad for
+[00:31:04] someone who's like 50 three basically
+[00:31:07] will be 50 soon there is still some
+[00:31:09] twitch element to it and it's hard to
+[00:31:11] beat kids at games with a twitch element
+[00:31:13] but yeah I like I find these games
+[00:31:14] interesting if you can be fully immersed
+[00:31:16] in a game it's great now what is the
+[00:31:18] score now of in terms of the Union in
+[00:31:21] Sweden and the collective bargaining
+[00:31:23] actually I I think I think the storm has
+[00:31:25] passed on that front I think things are
+[00:31:26] in reasonably good shape shape in Sweden
+[00:31:29] so yeah I think things are good overall
+[00:31:31] yeah I feel pretty good about the future
+[00:31:33] I mean you know there's going to be
+[00:31:35] bumpy quarters from you know here and
+[00:31:36] there but I think the long-term future
+[00:31:38] of Tesla is extremely strong for example
+[00:31:40] just a last question here what do you
+[00:31:42] want your legacy to be I I don't I don't
+[00:31:44] mind if my legacy is accurate or
+[00:31:48] inaccurate provided that I I di feeling
+[00:31:50] that I've done the right thing for the
+[00:31:52] future of Consciousness so just trying
+[00:31:54] to trying to have this light of
+[00:31:56] Consciousness last as long as possible
+[00:31:58] and maybe understand more about the
+[00:32:00] nature of the universe or simulation or
+[00:32:02] whatever this is I have ail philosophy
+[00:32:04] of curiosity which is to understand the
+[00:32:06] universe understand the nature of the
+[00:32:07] universe or even what questions to ask I
+[00:32:09] I would say I would subscribe to the
+[00:32:11] Douglas Adams Hest guys of the Galaxy
+[00:32:13] School of philosophy that we're trying
+[00:32:15] to understand what questions to ask
+[00:32:17] about the answer that is the universe
+[00:32:19] okay I think that's a good place to end
+[00:32:21] for sure the life and life on on this
+[00:32:22] planet would have been a lot more boring
+[00:32:24] without you and so well I'm glad to
+[00:32:26] it up a little totally all well good
+[00:32:28] talking

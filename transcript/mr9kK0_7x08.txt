@@ -1,0 +1,404 @@
+[00:00:01] [Music]
+[00:00:05] hey what is up guys I'm kbd here and
+[00:00:06] welcome to the sequel to the previous
+[00:00:08] video so the part two which is the mini
+[00:00:11] factory tour with Elon I want to preface
+[00:00:14] it just with the intro by saying first
+[00:00:16] of all it is really difficult to shoot
+[00:00:19] good video in that factory as you'll
+[00:00:22] both see in here it's Extremely Loud and
+[00:00:25] extremely busy so this is more of just
+[00:00:26] like a walking around and having fun and
+[00:00:28] checking things out uh it's it's
+[00:00:30] actually probably just like 15 or 20% of
+[00:00:33] the actual model snx Factory process
+[00:00:36] it's not the whole thing it's mostly
+[00:00:37] just Elon showing us around and uh in
+[00:00:40] fact I didn't even really say much
+[00:00:41] during this interview it was more just
+[00:00:43] like a I was kind of like a kid in the
+[00:00:45] Matrix just kind of absorbing everything
+[00:00:47] and then it also kind of cuts abruptly
+[00:00:48] at the end when Elon basically gets
+[00:00:49] pulled into his next meeting but I still
+[00:00:51] thought it was a ton of fun and worth
+[00:00:53] sharing and also I should mention this
+[00:00:55] entire video shoot this production would
+[00:00:57] not be possible without my buddy John
+[00:00:59] from the TLD Channel and his crew who
+[00:01:02] helped with audio who wear the muscle
+[00:01:04] with the steady cam he has an entire
+[00:01:06] behind the-scenes video of this process
+[00:01:08] on his channel I'll link that right
+[00:01:09] below so if you want to check that out
+[00:01:11] after watching this in part one feel
+[00:01:13] free but until the next one this is your
+[00:01:16] mini tour of the Tesla Factory with Elon
+[00:01:19] enjoy one that Loops back and like I
+[00:01:21] said just gives gives us access to the
+[00:01:23] central caror yeah um so it's really
+[00:01:25] just like lifting it up and over so the
+[00:01:28] the car that ends up here came all the
+[00:01:29] way way down this previous yeah yeah
+[00:01:31] exactly so these robots are really just
+[00:01:34] to give us uh like through through
+[00:01:35] access okay yeah so so it's going to
+[00:01:38] pick it up and transfer it to the other
+[00:01:40] robot yeah um but I I think like you
+[00:01:43] know like a design Improvement we should
+[00:01:44] do is like really just the one robot you
+[00:01:46] just pass it to the other robot um just
+[00:01:48] pick it up oh there's a third one above
+[00:01:50] us yeah it's like it puts it on a table
+[00:01:52] the table rotates it's like like if we
+[00:01:54] do if we did this overa we would just
+[00:01:55] have that giant robot pass it to that
+[00:01:57] giant robot Fair yeah hand off yeah
+[00:02:01] there like a thousands of like little
+[00:02:03] things like that that help improve
+[00:02:04] production General Sly kind of operates
+[00:02:06] in kind of a u so it goes cars coming
+[00:02:08] over there go all the way down here and
+[00:02:10] then all the way that way um and uh you
+[00:02:13] can see the car get progressively more
+[00:02:15] complex as it goes down the general
+[00:02:16] assembly line what does it look like
+[00:02:18] when it starts this side of the assembly
+[00:02:19] line oh we can go there we go there
+[00:02:22] should we start there start at the
+[00:02:23] beginning or might as
+[00:02:25] well but here you can get a good sense
+[00:02:28] for there's like like general assembly
+[00:02:31] is what I was spoken about as being
+[00:02:32] really well suited to people okay uh
+[00:02:35] because you got a lot of weird things
+[00:02:36] that you got to put together like you
+[00:02:38] like look at some of these um you know
+[00:02:40] assemblies that like like it's pretty
+[00:02:42] hard for a robot to like connect this on
+[00:02:45] that makes sense yeah it's you know like
+[00:02:48] depending upon how it comes out of the
+[00:02:50] box it could be like in a little
+[00:02:51] different position but it's pretty easy
+[00:02:53] for somebody like oh it's it's like I
+[00:02:55] just need to move it like an inch you
+[00:02:57] know bolt it in it's probably really
+[00:02:58] hard to write software to
+[00:03:02] alls yeah you try to if you try to have
+[00:03:05] the robot do this you got have like a
+[00:03:06] complicated Vision system and then like
+[00:03:08] Vision system fols out it's like it's
+[00:03:10] not quite right that's the hard part we
+[00:03:13] we have a robot in our studio that moves
+[00:03:15] the camera around and the hardest part
+[00:03:17] is when it faults yeah you need a person
+[00:03:19] there to know what to do exactly so
+[00:03:21] hopefully that doesn't happen much um
+[00:03:24] like for for parts that are that are
+[00:03:27] complicated and fiddly like like wiring
+[00:03:29] Hound is especially difficult you see
+[00:03:31] how like the wiring hus kind of meets
+[00:03:32] the snake uh through the car yeah it's
+[00:03:35] it's literally like like winding like a
+[00:03:37] snake through the car you got to like
+[00:03:39] poke it through holes and and do do
+[00:03:41] various things that's super difficult
+[00:03:42] for a robot see like how they're like
+[00:03:44] putting the
+[00:03:46] uh part of the air conditioning system
+[00:03:48] there right um so you use like a little
+[00:03:51] bit of mechanical assistance with the
+[00:03:53] winch and whatnot but then it's pretty
+[00:03:55] straightforward for the guys to just
+[00:03:57] like get that in there and they like if
+[00:03:59] they see there an issue with ap part
+[00:04:00] then like they say oh this part's got a
+[00:04:01] problem like we'll put it over here for
+[00:04:04] to you know um to get fixed like this is
+[00:04:07] like sem line is like moving slowly yeah
+[00:04:09] so like moves along um and then if um
+[00:04:13] you know it givs to like time to to get
+[00:04:15] things done like you can like stand on
+[00:04:16] this and I think you mentioned like the
+[00:04:18] the speed of the car coming out the
+[00:04:20] other side is like 1 mph or something
+[00:04:22] like that yeah super slow you want to
+[00:04:23] speed this up right yeah it's not it's
+[00:04:25] not even 1 mph it's even slower than
+[00:04:26] that right now but for SX but for but
+[00:04:29] three it's like getting close to a mph
+[00:04:31] okay okay um but walking speed is 3 m
+[00:04:34] hour so it's like only 1/3 walking speed
+[00:04:36] at 1 mph all right you can see like when
+[00:04:38] you look on the inside of the car you
+[00:04:40] can see like how many little complicated
+[00:04:42] little pieces there are a lot um you
+[00:04:45] know the things that are meant to uh for
+[00:04:49] insulation Corrosion
+[00:04:51] Protection um
+[00:04:53] airbags uh uh road noise like it's all
+[00:04:57] the stuff that gets put in here you can
+[00:04:59] see like these are like the side airbags
+[00:05:00] here okay um like most people I think
+[00:05:04] it's like pretty cool like most people
+[00:05:05] never see like the inside of the car
+[00:05:06] yeah there's a million things you never
+[00:05:07] see driving the car every day this is
+[00:05:09] like sorry guys start
+[00:05:11] [Music]
+[00:05:14] interrupt you don't mind being on like
+[00:05:17] on like you know the internet and stuff
+[00:05:19] is that cool all right YouTube's cool
+[00:05:21] and I actually don't interrupt your work
+[00:05:22] but um you know it's like you see like
+[00:05:24] how like there's like a lot of tricky
+[00:05:26] pieces and like if for a person like
+[00:05:30] this is like durable straight yeah you
+[00:05:32] know takes a bit of training get of
+[00:05:33] speed whatever but like once once you
+[00:05:36] like um basically like like a pro human
+[00:05:39] can do this super well and it's like
+[00:05:41] hard for the robots to do that but I
+[00:05:43] when we go to the like the body welding
+[00:05:45] I'll show you like what's like what's a
+[00:05:47] robot good at and you'll see like
+[00:05:48] there's tons of robots like tons of
+[00:05:50] people here tons of robots there um but
+[00:05:52] there's so much complexity and variation
+[00:05:54] here um you got like thread those wires
+[00:05:57] when it comes through especially here
+[00:05:59] yeah with this so so like this is the
+[00:06:03] car with like less stuff in it and then
+[00:06:04] it goes it's you know and we'll see the
+[00:06:06] beginning of it right and then that then
+[00:06:08] it goes all the way around gets more and
+[00:06:10] more stuff added and does it end at the
+[00:06:11] end well General Assembly ends probably
+[00:06:13] somewhere down there yeah okay so um but
+[00:06:17] you can it's interesting to see the car
+[00:06:19] get progressively more complex as we add
+[00:06:20] more parts to it you know this place uh
+[00:06:23] used to employ like about 5,000 people
+[00:06:25] and now we got like we got we got 10,000
+[00:06:27] people just in this location yeah so
+[00:06:29] what we do is we have like tons of
+[00:06:31] shuttles and like uh we Cars ride
+[00:06:33] sharing yeah uh we got the barer rapid
+[00:06:36] transit station finally like went went
+[00:06:38] up um so just like trying to get people
+[00:06:41] here is is not easy a big challenge what
+[00:06:44] is this oh this is uh
+[00:06:47] actually like this is one of my favorite
+[00:06:49] dumb robots Okay yeah I'm a fan right
+[00:06:52] now it's pretty cool um so like there's
+[00:06:54] a lot of fancy
+[00:06:56] robots uh that like but they have like
+[00:06:58] lots of issues and they break down a
+[00:06:59] little time cuz these little guys are
+[00:07:01] super great they're like they follow
+[00:07:04] this magnetic stripe uhhuh see basically
+[00:07:06] it's like super easy to program you
+[00:07:08] don't even need to be a programmer cuz
+[00:07:10] you just like lay down the the the mag
+[00:07:12] stripe and it'll follow it yeah it just
+[00:07:13] follows the mag stripe and then it's got
+[00:07:16] uh proximity sensors in the front so if
+[00:07:18] if it sees an obstacle or sees like
+[00:07:20] something in the way it just stops and
+[00:07:22] then soon as something moves out of the
+[00:07:23] way it just keeps going and it just like
+[00:07:26] does this like a little thing all day
+[00:07:27] long like a little train like you're
+[00:07:28] were talking about robot folting out and
+[00:07:31] one of the it's like that's like where
+[00:07:34] like actually um doing things manually
+[00:07:37] can can can actually be more um more
+[00:07:41] efficient because if you have like a lot
+[00:07:43] of complicated robots particularly if
+[00:07:44] you have a 24/7 operation like we have
+[00:07:46] with model 3 uh then if the robot bols
+[00:07:49] out you got to have 24/7 like Advanced
+[00:07:51] robot technicians makes sense and then
+[00:07:53] if the robot like accidentally crashes
+[00:07:55] and like breaks a fixture then it's like
+[00:07:57] man okay now now we've got the line got
+[00:07:59] lined down it's like red alert and then
+[00:08:01] I get pulled on my cell phone at 2: in
+[00:08:03] the morning and it's like like trying to
+[00:08:05] fly apart from Germany it's like we
+[00:08:07] literally had that two days ago do you
+[00:08:08] have to when you get new robots do you
+[00:08:11] build the robots or do you order them in
+[00:08:13] and program them
+[00:08:15] so uh there's like different classes
+[00:08:18] there's many many different types of
+[00:08:20] robots so the like the giant robot that
+[00:08:23] we still lifting the car it's like
+[00:08:25] that's that that is a catalog item but
+[00:08:27] then we have to program the the motion
+[00:08:30] and then and the end effector is that is
+[00:08:33] custom so the end effector that picks up
+[00:08:34] the car drops it off that's a custom
+[00:08:36] made thing okay so it's kind of like you
+[00:08:38] kind of like buy this like powerful arm
+[00:08:41] but it's just like having an arm stuck
+[00:08:43] in the ground and then you're like okay
+[00:08:44] what does the arm do you got to tell it
+[00:08:46] everything to do yeah and then you got
+[00:08:47] to put sensors on it and put fixtures
+[00:08:50] but that's like kind of uh like that
+[00:08:52] robot over there uh that's also one of
+[00:08:54] like the ones that picks up the car oh
+[00:08:56] uh by the way these are like named after
+[00:08:58] X-Men oh oh yeah I forgot about that um
+[00:09:01] just
+[00:09:02] X-Men mob it's like mob and X-Men like
+[00:09:05] to start to run out of Nam yeah yeah
+[00:09:06] this like actually turns out a lot of X
+[00:09:07] by the way yeah okay so you can see like
+[00:09:09] this is like quite a beast of a robot
+[00:09:11] you can just buy that robot you know in
+[00:09:14] this case this a Fu robot um and uh you
+[00:09:18] can buy the robot but then the end
+[00:09:19] effector that's carrying the car um is
+[00:09:22] something that's custom and then you got
+[00:09:24] to do the programming and the like wire
+[00:09:27] in the sensors and that kind of thing so
+[00:09:29] the the level of precision of this
+[00:09:31] massive robot is it to like as far as
+[00:09:34] repeatable action is it literally the
+[00:09:36] same path every s yeah plus or minus an
+[00:09:38] inch oh no it's uh centimeter it's it's
+[00:09:41] better than that for a big robot there's
+[00:09:43] a little less Precision than a smaller
+[00:09:45] robot yeah but say a mediumsized robot
+[00:09:48] will be accurate to 2.3 mm oh okay what
+[00:09:53] is the most popular paint color coming
+[00:09:56] through here that's black black yeah it
+[00:10:00] actually varies by country um oh
+[00:10:04] interesting
+[00:10:06] like um watch out there's a dumb robot
+[00:10:08] coming through oh yeah this guy's like
+[00:10:10] pretty pretty cool like
+[00:10:14] what all right this could go wrong I
+[00:10:16] don't know you trust them more than I do
+[00:10:19] yeah okay okay all right good job good
+[00:10:22] job robot yeah know I I see a lot of
+[00:10:25] silver and I see a lot of white model X
+[00:10:28] yeah just New Jersey uh black and white
+[00:10:30] are the two most colors two most popular
+[00:10:32] colors um the white and black are are
+[00:10:36] like black slight is is slightly more
+[00:10:38] popular than white in the US but in like
+[00:10:40] Europe it's way more popular like white
+[00:10:42] is a very rare color in Europe for a car
+[00:10:44] okay um in us it's like it's it's about
+[00:10:47] even with with black black and white are
+[00:10:48] the two most common colors got it yeah
+[00:10:50] and here you can
+[00:10:51] see battery
+[00:10:54] pack this is like be like a mating
+[00:10:57] station CL the battery pack oh this is
+[00:10:59] literally connecting the battery to the
+[00:11:08] car here you can see it's like a
+[00:11:10] combination of manual and automatic so
+[00:11:13] it's it's like they're lining it up it's
+[00:11:15] like yeah exactly it's
+[00:11:16] a it's it's done primarily by the robot
+[00:11:19] system by the automated system but then
+[00:11:21] you got a person just making sure that
+[00:11:23] the fine tuning is there gotcha how do
+[00:11:25] you feel about matte matte or satin
+[00:11:28] colors ask about that a lot I actually
+[00:11:30] like the Aesthetics of mat it's really
+[00:11:33] tricky to to repair a mat so like with
+[00:11:37] you can polish it out with M um if you
+[00:11:40] get like a little ding it's really hard
+[00:11:43] to then rematch the so it looks like an
+[00:11:45] even mat you can't just like you know
+[00:11:48] that's fair point yeah um so it's it's
+[00:11:49] doable it's it's something actually we
+[00:11:52] would like to do that in the future um
+[00:11:55] but um like right now for example like
+[00:11:58] the paint Shop's really operating at
+[00:11:59] Full Tilt so adding any complexity to
+[00:12:02] the paint shop would not be wise right
+[00:12:03] now but I think it' be a cool thing to
+[00:12:05] do in the future but these are sub
+[00:12:06] assemblies so you can see like the front
+[00:12:08] rear drive units being built up and the
+[00:12:10] sub assemblies then feed the main
+[00:12:11] assembly line these are long assembly
+[00:12:14] lines
+[00:12:15] oh well it's and it's it's integrating
+[00:12:18] uh snx okay and it's making about 2,000
+[00:12:21] cars a week it's model 3 entirely
+[00:12:24] completely separate I guess inside the
+[00:12:26] same building but separate whole
+[00:12:29] the only place where model 3 uh and SN X
+[00:12:32] come together is in the paint shop so
+[00:12:33] the paint shop is processing S3 and X um
+[00:12:38] simultaneously down the same line U but
+[00:12:40] otherwise General s separate Bud
+[00:12:43] separate um yeah everything else is
+[00:12:45] different so just the paint shop where
+[00:12:46] they come together you've mentioned
+[00:12:48] you've slept in the factory to be able
+[00:12:50] to immediately like diagnose problems
+[00:12:53] and Hands-On fix what's not right what
+[00:12:58] type of things happen that you can
+[00:12:59] immediately fix or immediately take
+[00:13:02] action on actually last last three
+[00:13:04] months last year I mostly spent at
+[00:13:06] gigafactory um uh trying to uh help fix
+[00:13:10] the battery production it's a modular
+[00:13:13] production um and it's just it's a lot
+[00:13:17] of little things like looking at at at
+[00:13:20] each uh at each little little tiny part
+[00:13:23] each process say is the process
+[00:13:25] necessary like because the best part is
+[00:13:27] no part best part process is no process
+[00:13:30] and occasionally at the design level you
+[00:13:32] think something's necessary but then
+[00:13:33] turns out it's not so it's just like
+[00:13:35] making sure connect connecting between
+[00:13:37] design um and Manufacturing uh make sure
+[00:13:40] making sure we're close to loop on that
+[00:13:43] um
+[00:13:44] uh just saying like hey is this if let's
+[00:13:47] say it's a it's like it's a lot of real
+[00:13:49] simple stuff but it's like times times a
+[00:13:52] thousand so if we have like a automated
+[00:13:54] volt driver going in like watch's the
+[00:13:56] RPM and talk settings for the volt
+[00:13:57] driver um can we make that go faster uh
+[00:14:01] usually usually can unnecessary
+[00:14:03] movements um like like for example
+[00:14:07] actually don't really like the fact that
+[00:14:08] we lift the cars over and and and back
+[00:14:11] um ideally that would be a robot handoff
+[00:14:14] yeah ifting rid of a middle stage yeah
+[00:14:17] exactly cuz the Middle St what is like
+[00:14:18] putting it on a turntable and then the
+[00:14:20] turntable is rotating and other robots
+[00:14:23] picking it up it's actually problem is
+[00:14:25] like sometimes the tun table breaks down
+[00:14:26] ow and and so okay so it's like okay
+[00:14:29] let's eliminate the turntable and just
+[00:14:31] have robot go to robot um and then you
+[00:14:33] don't have like uh turntable Breakers to
+[00:14:35] consider so it's a lot of minimizing
+[00:14:39] things that can go wrong and maximizing
+[00:14:41] the efficiency of the simple things that
+[00:14:44] go right it's like um like design
+[00:14:47] necessity of of every part of and every
+[00:14:49] process uh the speed at which um
+[00:14:53] especially the robots are going um are
+[00:14:55] there um are there any is is there any
+[00:14:59] unnecessary movement in the production
+[00:15:01] line that that isn't value added like
+[00:15:03] we're actually doing something yeah
+[00:15:05] um like
+[00:15:08] replacing elements of the production
+[00:15:09] system that are not um not needed or
+[00:15:13] redundant exactly

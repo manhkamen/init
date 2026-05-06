@@ -1,0 +1,1415 @@
+[00:00:02] our next guest is somebody that I think
+[00:00:04] is familiar to all of us so not much of
+[00:00:06] an introduction needed here but it's my
+[00:00:07] pleasure to invite on stage the Techno
+[00:00:10] king of Tesla the CEO of SpaceX and the
+[00:00:13] owner of the boring company neuralink
+[00:00:15] and Twitter please join me in welcoming
+[00:00:17] Elon Musk
+[00:00:18] [Applause]
+[00:00:21] [Music]
+[00:00:21] [Applause]
+[00:00:25] [Music]
+[00:00:32] Elon it is really a pleasure to have you
+[00:00:34] here yeah thanks for having me yeah Mr
+[00:00:36] Tony it was funny uh history kind of
+[00:00:38] repeats itself the last time you spoke
+[00:00:39] with us my predecessor Ted Craver was in
+[00:00:43] the role in him in now and he got to
+[00:00:46] interview you and so now we're kind of
+[00:00:47] at New Orleans repeating history here
+[00:00:49] and I would say reminiscing with you I
+[00:00:51] think the last time I we saw each other
+[00:00:53] SE had just done a large deal for
+[00:00:56] storage at one of our substations so you
+[00:01:00] were kind enough to host me at SpaceX a
+[00:01:02] great conversation but I have to admit
+[00:01:04] it was pretty cool sitting on that
+[00:01:05] mezzanine cafeteria looking under the
+[00:01:07] rocket Fab so thank you for that well a
+[00:01:10] lot has happened at Tesla over the last
+[00:01:13] few years and uh you you confirm
+[00:01:16] delivering fifty thousand yeah
+[00:01:20] fifty thousand cars in 2015 more than
+[00:01:22] 1.3 million carats last year that's a
+[00:01:24] whole lot of growth and so you look back
+[00:01:27] over these last eight years since we
+[00:01:28] chatted with you last
+[00:01:30] this faster or slower adoption than you
+[00:01:32] expected any any big surprises that you
+[00:01:34] weren't expecting
+[00:01:36] well it's actually gone reasonably close
+[00:01:38] to what I thought would happen which is
+[00:01:41] from that point roughly a 50 year over
+[00:01:44] year compound annual growth
+[00:01:47] uh which is a compliments that the Tesla
+[00:01:50] team it's the fastest growing
+[00:01:52] um large manufactured object ever which
+[00:01:55] I think the second is Like the Model T
+[00:01:58] back in the day so about 100 years ago
+[00:02:01] so the the Tesla team are very proud to
+[00:02:04] work with them they've executed
+[00:02:05] incredibly well
+[00:02:07] um
+[00:02:08] and we anticipate uh something close to
+[00:02:10] you know 50 growth
+[00:02:13] um to continue so
+[00:02:15] uh that is uh very exciting
+[00:02:19] um
+[00:02:19] and it means that uh we should expect
+[00:02:22] electrification of Transport especially
+[00:02:25] passenger vehicles
+[00:02:27] um
+[00:02:28] you know quite quite quickly is it
+[00:02:30] because the normal human instinct is to
+[00:02:33] extrapolate on a linear basis
+[00:02:35] um but really if you look at the curves
+[00:02:37] uh electric vehicles are growing
+[00:02:40] exponentially so
+[00:02:43] um I think that's great news for those
+[00:02:44] in the room
+[00:02:46] um you have a lot of customers uh uh
+[00:02:50] well you have a lot of EB customers
+[00:02:51] ready and and soon you'll have many more
+[00:02:54] um
+[00:02:55] you know and uh thank you forgive me for
+[00:02:58] waxing on a little bit here but uh I
+[00:03:00] sometimes have asked well when will
+[00:03:02] um EBS be
+[00:03:04] most of the cars
+[00:03:07] the important thing to remember is that
+[00:03:09] you've got two two billion cars and
+[00:03:10] trucks out there so
+[00:03:13] um and about 100 million of uh per year
+[00:03:16] new vehicle production which kind of
+[00:03:17] makes sense so sort of a life of about
+[00:03:18] 20 years before a vehicle finally goes
+[00:03:21] to the scrap yard
+[00:03:22] um so even if
+[00:03:25] um 100 of electric vehicles were our new
+[00:03:28] vehicle production was was electric
+[00:03:30] today would still take 20 years to
+[00:03:32] replace the fleet so just important to
+[00:03:34] bear that in mind
+[00:03:36] um percentage of new vehicle production
+[00:03:38] versus versus total Fleet
+[00:03:41] um
+[00:03:42] but uh I think we're moving quickly to
+[00:03:44] the point where
+[00:03:46] I know probably half of all new vehicles
+[00:03:48] made will be electric
+[00:03:51] um
+[00:03:52] and I think that's
+[00:03:54] that's like that's likely to happen I
+[00:03:55] think before the end of this decade
+[00:03:58] um but then there's still you know quote
+[00:04:00] another
+[00:04:01] 20 years beyond that before that the
+[00:04:04] fleet really uh becomes majority even
+[00:04:08] so yeah and it's interesting because as
+[00:04:11] we've done the analysis for California
+[00:04:13] right we have uh uh an executive order
+[00:04:16] that calls for all new vehicle sales
+[00:04:19] being zero emission by 2035. that's in
+[00:04:22] line with the forecasts that we've had
+[00:04:24] in our own scenario analysis that still
+[00:04:26] puts us at about three quarters of
+[00:04:28] passenger vehicles being Electric in
+[00:04:30] 2045 when the state gets sent at zero it
+[00:04:32] could be off by a little bit but I mean
+[00:04:34] I think the the largest point is that um
+[00:04:37] demand for electricity is going to be
+[00:04:39] extremely high
+[00:04:41] so so I I you know hope this is good
+[00:04:44] news
+[00:04:45] um
+[00:04:48] the you know the you've just do the
+[00:04:51] rough back the envelope uh math
+[00:04:54] um you need to roughly triple
+[00:04:56] electricity
+[00:04:58] um to get to equally electric economy
+[00:05:02] um you know roughly a third of power is
+[00:05:05] electric and then uh you know right
+[00:05:08] these are very rough numbers roughly a
+[00:05:10] third is spent in transportation
+[00:05:13] um of various kinds uh with the fossil
+[00:05:17] fuels or hydrocarbons um and then
+[00:05:19] roughly a third is heating
+[00:05:21] um so
+[00:05:24] um even assuming the the sort of current
+[00:05:27] economy economic usage electricity per
+[00:05:30] capita being uh constant you're looking
+[00:05:32] at roughly a tripling of electricity
+[00:05:34] demand
+[00:05:35] um
+[00:05:36] and the
+[00:05:37] um so it's really going to take a
+[00:05:39] tremendous effort to address this demand
+[00:05:42] um this is a
+[00:05:43] sort of
+[00:05:45] you know I think
+[00:05:46] very very good news for those producing
+[00:05:49] electricity uh but but also impels a
+[00:05:52] tremendous amount of work ahead
+[00:05:54] um in new production capacity and
+[00:05:56] production capacity that is as
+[00:05:57] sustainable as possible
+[00:05:59] well I mean in fact it requires a whole
+[00:06:00] uh you know system to be ramping up it's
+[00:06:04] you know you you are dealing with the
+[00:06:07] storage side and the vehicle side and
+[00:06:10] the charging side and we'll talk a bit
+[00:06:11] more about that a bit yeah we have the
+[00:06:13] wires but you know we need we need
+[00:06:15] support from all across the economy
+[00:06:16] absolutely it's really it's really very
+[00:06:18] much a joint effort
+[00:06:19] um I think it's it's a it's a very
+[00:06:21] positive very positive uh future for the
+[00:06:24] producers and Distributors of
+[00:06:25] electricity
+[00:06:27] um really couldn't ask for a better you
+[00:06:28] know they're growing Market that's going
+[00:06:31] to grow in a better way than this but it
+[00:06:33] is a trans amount of hard work as
+[00:06:35] everyone here knows uh to actually uh
+[00:06:37] put that generation in place and then
+[00:06:40] transport it to where where it gets used
+[00:06:42] uh and then dealing with the the Peaks
+[00:06:45] um uh and and and and and then taking
+[00:06:48] advantage of The Valleys of power
+[00:06:49] production
+[00:06:51] um I mean that's really where like the
+[00:06:53] Tesla mega pack that you're just
+[00:06:54] learning to
+[00:06:56] um is is actually incredibly helpful is
+[00:06:58] in
+[00:06:59] um sort of peak shaving the grid
+[00:07:02] basically charging up when you have
+[00:07:03] Excess power production and then and
+[00:07:06] then releasing it when you have
+[00:07:08] um insufficient power production or you
+[00:07:10] want a peak shave it's the you know I
+[00:07:13] really believe that stationary battery
+[00:07:15] packs are absolutely the way the way to
+[00:07:17] go
+[00:07:18] um
+[00:07:19] and um it is actually the fastest
+[00:07:22] growing portion of the entire Tesla
+[00:07:24] business so we're
+[00:07:26] um so our vehicle is growing at 50 a
+[00:07:28] year but our stationary storage is
+[00:07:30] growing at two to three hundred percent
+[00:07:32] a year um so it's really
+[00:07:36] um
+[00:07:37] you know it's it's really a big deal and
+[00:07:38] really helpful
+[00:07:40] um it's like it's just a obviously it's
+[00:07:43] a battery that scale and it buffers
+[00:07:45] electricity
+[00:07:47] if you need electricity buffered then uh
+[00:07:50] that's a good product well I don't well
+[00:07:52] uh we'll get back to uh electric vehicle
+[00:07:55] set in a minute but I remember when you
+[00:07:57] and I spoke a number of years ago you
+[00:08:00] already had that vision of global
+[00:08:02] electrification yeah
+[00:08:04] um and I think you've positioned your
+[00:08:05] company right with storage fees with
+[00:08:08] solar so this integrated view of where
+[00:08:10] the market is going and how Tesla fits
+[00:08:12] into it yeah yeah well there's I mean
+[00:08:15] there's fundamentally
+[00:08:16] um three three
+[00:08:18] pillars to a sustainable energy future
+[00:08:23] um one you know one is sustainable
+[00:08:24] energy generation which is a solar wind
+[00:08:28] um Hydro actually you know a fan of of
+[00:08:31] nuclear of good good old Vision um I
+[00:08:33] think is underrated
+[00:08:35] um
+[00:08:38] I mean we could easily supply all of the
+[00:08:40] world's electricity with vision but we
+[00:08:42] will
+[00:08:43] I don't know some of that sometimes
+[00:08:45] they're understanding of physics is not
+[00:08:47] amazing and so they get scared of things
+[00:08:49] they shouldn't be scared of
+[00:08:51] um
+[00:08:51] so
+[00:08:54] um
+[00:08:55] so I'm very much Pro anyway basically
+[00:08:57] any electricity we say okay this is not
+[00:08:59] going to meaningfully change the
+[00:09:00] chemistry of the climate Notions you
+[00:09:03] know the atmospheric oceans and so
+[00:09:06] um
+[00:09:07] anyway so you've got sustainable
+[00:09:08] electricity generation one side then
+[00:09:09] you've got
+[00:09:11] um stationary batteries as the third
+[00:09:13] second pillar uh which uh is needed for
+[00:09:17] any kind of intermittent electricity
+[00:09:19] production and by its nature uh solar
+[00:09:21] and wind are intermittent so batteries
+[00:09:24] and solar wind go together extremely
+[00:09:26] well
+[00:09:27] um
+[00:09:27] and uh
+[00:09:29] and then the third pillar is electric
+[00:09:31] transport so
+[00:09:34] get all three of those pillars going and
+[00:09:36] we have a sustainable uh futurist as
+[00:09:39] long as the sun shines and the wind
+[00:09:40] blows which will give me a long time
+[00:09:42] well I think you know this idea of
+[00:09:45] having a balance across these resources
+[00:09:47] it takes a lot of tools in the toolbox
+[00:09:49] let me get back to electric vehicles
+[00:09:51] though because left to go a couple
+[00:09:54] levels deeper here sure
+[00:09:55] um we're talking some you know a few
+[00:09:57] minutes ago I think that was more on
+[00:10:00] passenger vehicles uh but let's talk a
+[00:10:02] bit about about bigger ones so you know
+[00:10:05] we're all excited to see the first Tesla
+[00:10:06] semi trucks on the road in California
+[00:10:10] um and that means a lot in terms of the
+[00:10:12] viability of trucking systems uh in the
+[00:10:14] future you also have the U.S EPA you
+[00:10:16] know proposed vehicle standards it could
+[00:10:18] accelerate the medium and heavy duty
+[00:10:19] electrification you have California
+[00:10:21] doing its thing as well it's a number of
+[00:10:23] other states
+[00:10:24] um but ultimately the vehicles need to
+[00:10:26] be economical for Fleet operators and
+[00:10:28] particularly in Southern California
+[00:10:30] where we have all the uh the traffic
+[00:10:33] coming up from the ports a lot of those
+[00:10:34] truck operators are not big fleets right
+[00:10:36] they're small mom-and-pop owner so
+[00:10:38] absolutely so how how quickly are you
+[00:10:41] thinking that Freight movement really
+[00:10:43] goes electric and and in a way that's
+[00:10:45] affordable so that you can really serve
+[00:10:47] that mix of ownership
+[00:10:50] yeah well I think I'd certainly
+[00:10:52] encourage people to look at our
+[00:10:55] semi-truck presentations
+[00:10:57] um because in fact the
+[00:10:59] one of the things we emphasize with
+[00:11:01] electric semi truck is that it's it's
+[00:11:03] much more energy efficient than a diesel
+[00:11:06] truck you know so
+[00:11:08] um and I mean you get things like
+[00:11:10] regenerative braking so like let's say
+[00:11:12] you're you know going over a mountain
+[00:11:15] range
+[00:11:15] um well in diesel truck you actually
+[00:11:17] don't capture that the energy of height
+[00:11:20] or potential energy uh you you have to
+[00:11:23] actually spend a lot of money on
+[00:11:24] expensive brakes going down the other
+[00:11:26] side so you don't run out of control so
+[00:11:29] whereas an electric semi truck
+[00:11:31] um is able to recapture the the energy
+[00:11:34] the gravitational potential energy and
+[00:11:36] and actually when it goes down the other
+[00:11:38] side uh does not overheat the brakes and
+[00:11:41] in fact puts the energy back in the pack
+[00:11:42] so things like that are incredibly
+[00:11:45] helpful for the Energy Efficiency and
+[00:11:49] then just it generally looks the entire
+[00:11:51] chain from electricity production
+[00:11:54] um to take into account the the
+[00:11:56] efficiency of energy produced the energy
+[00:12:00] loss during transmission energy
+[00:12:01] lustering charging and then see how many
+[00:12:04] miles we're driven you could take the
+[00:12:06] same diesel that is used to
+[00:12:09] um
+[00:12:09] power a
+[00:12:12] a truck use it and burn it for
+[00:12:15] electricity and still be at least 50 to
+[00:12:18] 100 better
+[00:12:20] with an electric
+[00:12:22] uh semi-truck than with many people put
+[00:12:24] that diesel directly in the truck
+[00:12:27] yeah Frank that's in line we were
+[00:12:28] talking earlier in our board meeting
+[00:12:29] about just the official security
+[00:12:32] you know it's efficiency of electric
+[00:12:34] Technologies right so it's a big part of
+[00:12:36] the uh of the story here yeah just
+[00:12:38] fundamentally um combustion engines in
+[00:12:41] in a vehicle are constrained in mass
+[00:12:43] volume so uh you you have to you're
+[00:12:48] therefore Limited in how much efficiency
+[00:12:50] how much useful energy you can extract
+[00:12:53] from a fuel when you have a very
+[00:12:56] constrained massive volume for the truck
+[00:12:59] um whereas a power plant does not have
+[00:13:02] the constraints of massive volume it can
+[00:13:03] be heavier and bigger obviously and you
+[00:13:06] can take the waste heat and run a steam
+[00:13:08] turbine so you can your sort of Carno
+[00:13:11] efficiency of a power plant is
+[00:13:14] dramatically greater than if it's grown
+[00:13:15] in a mobile application like vehicle and
+[00:13:18] even when taking into account uh
+[00:13:20] transmission losses and charging losses
+[00:13:22] they better still don't account for the
+[00:13:23] massive difference in efficiency of even
+[00:13:26] a hydrocarbons being put at a power
+[00:13:29] plant versus being used in a car yeah
+[00:13:31] which sets up you know thinking about
+[00:13:33] well what's a transition there and but
+[00:13:35] ultimately though looking at a feature
+[00:13:37] that's electric so we're all we're all
+[00:13:39] agreeing on the efficiency of the the
+[00:13:41] trucks uh let me State something that's
+[00:13:44] plainly obvious bigger and more trucks
+[00:13:46] bigger and more batteries right so let's
+[00:13:48] talk about the supply chain for
+[00:13:49] batteries and I want to say thank you
+[00:13:51] because a number of the folks here were
+[00:13:54] able to get a tour of the gigafactory uh
+[00:13:56] here in Austin yes yeah and actually I
+[00:13:58] apologize I don't probably answer your
+[00:13:59] question with respect to trucks because
+[00:14:00] so semi trucks because they do uh use a
+[00:14:04] large battery
+[00:14:05] um we'll be um
+[00:14:07] will be later than other vehicles
+[00:14:10] um because we need to have excess
+[00:14:11] sufficient battery supply in order to um
+[00:14:15] have a battery that's you know maybe
+[00:14:17] four or five times larger there would be
+[00:14:18] in a passenger car
+[00:14:20] um have that be in a in a semi truck
+[00:14:23] that's the reason why we haven't gone to
+[00:14:25] scale production of semi truck yet is
+[00:14:27] because there just weren't enough
+[00:14:28] batteries now as the battery problem is
+[00:14:31] solved we will go to volume production
+[00:14:34] with the semi truck and I I'm pretty
+[00:14:36] sure it sounds will be first on this but
+[00:14:39] we're expecting to reach volume
+[00:14:40] production probably sometime
+[00:14:41] um next noon end of next year is you
+[00:14:45] know we're waiting for and and again
+[00:14:48] it's not going to be overnight all the
+[00:14:50] trucks become electric because you you
+[00:14:52] have to uh reach a certain percentage of
+[00:14:55] new semi trucks built then replace the
+[00:14:57] fleet the fleet is you know at least 10
+[00:14:59] years old
+[00:15:00] um in the semi-truck case and so
+[00:15:04] um
+[00:15:05] you know but I think it probably gets to
+[00:15:08] 50 of new semi trucks built within
+[00:15:09] probably three or four years
+[00:15:11] maybe five years
+[00:15:13] um and then it's another 10 15 years
+[00:15:15] before you see most trucks be electric
+[00:15:17] so that's I don't know depending on on
+[00:15:20] your perspective that's either really
+[00:15:21] soon or far away
+[00:15:24] or a little bit of both right yeah yeah
+[00:15:25] yeah so
+[00:15:27] um
+[00:15:28] that's uh that helps get a sense of the
+[00:15:31] time scale here I think a one level
+[00:15:33] level deeper though and when you think
+[00:15:35] about the actual underlying challenges
+[00:15:37] in getting that battery scale again a
+[00:15:39] gigafactor here seems like it's a great
+[00:15:41] advancement in terms of the
+[00:15:42] manufacturing side yeah but how do you
+[00:15:44] think about the supply chain behind that
+[00:15:46] the rare earth materials are you
+[00:15:48] thinking about different chemistries
+[00:15:49] over time or other ways to make sure
+[00:15:52] you're getting the support supply of
+[00:15:54] batteries you need for that kind of
+[00:15:55] scale growth
+[00:15:57] yeah so the raw materials are not really
+[00:15:59] an issue here um
+[00:16:01] especially when you consider
+[00:16:03] iron-based uh
+[00:16:06] um cathodes so we think probably the
+[00:16:10] most of the batteries made will be
+[00:16:12] um with an iron cathode iron is
+[00:16:14] extremely common it's actually the most
+[00:16:15] common element on Earth by mass is iron
+[00:16:18] second is oxygen everything else is in
+[00:16:21] the remaining roughly 38
+[00:16:25] um
+[00:16:25] so we we have more iron that we were
+[00:16:28] basically a rusty well that's what Earth
+[00:16:31] is
+[00:16:33] iron oxide iron and oxygen
+[00:16:36] and a little some silicon and a few
+[00:16:39] other things
+[00:16:40] um but it's it's funny that Earth is by
+[00:16:43] mass almost two-thirds uh iron and
+[00:16:45] oxygen yeah
+[00:16:46] um
+[00:16:47] so
+[00:16:48] uh We're not gonna run out of iron
+[00:16:50] that's for sure
+[00:16:51] um and uh especially for stationary
+[00:16:55] storage where mass and volume are not
+[00:16:57] that important
+[00:16:59] um an iron-based uh lithium ion cell so
+[00:17:02] the thing about lithium-ion cells is
+[00:17:03] like it's a lot of folk of lithium but
+[00:17:05] actually lithium is like the salt on the
+[00:17:07] salad it's not the salad itself um
+[00:17:09] so
+[00:17:11] um the the costs tend to be predominate
+[00:17:14] and certainly the mass of the fact that
+[00:17:16] nominates in the cathode which is a it's
+[00:17:19] going to be a metal
+[00:17:20] um and the higher energy
+[00:17:24] chemistries are tend to be a nickel and
+[00:17:27] then the lower end lower energy density
+[00:17:29] chemistry will be Iron so to use nickel
+[00:17:32] for kind of long-range stuff uh where
+[00:17:35] where mass and volume uh really matter
+[00:17:37] and you'd use iron where it's less
+[00:17:39] important so medium range cars
+[00:17:42] stationary storage iron long-range cars
+[00:17:45] and aircraft would definitely be a
+[00:17:48] nickel
+[00:17:49] interesting so well let's uh let's talk
+[00:17:52] about how we actually charge all those
+[00:17:53] batteries and uh again back in 2015 you
+[00:17:57] described the need for fast charging to
+[00:17:59] help long-distance travel work
+[00:18:02] um even as most of the charging we think
+[00:18:03] you know ends up happening at home so we
+[00:18:06] built the supercharger Network I think
+[00:18:08] it's still the end of The Benchmark in
+[00:18:09] terms of public EV charging out there
+[00:18:11] you've made some really big
+[00:18:12] announcements recently you've been you
+[00:18:14] know fun to watch with the uh with Ford
+[00:18:17] and more recently with GM
+[00:18:20] just curious you know
+[00:18:22] why are you opening up the network you
+[00:18:24] know how do you see this creating
+[00:18:25] competitive advantage and working with
+[00:18:27] uh with others
+[00:18:29] well I don't know if it is a competitive
+[00:18:31] Advantage
+[00:18:31] um but it might be actually
+[00:18:34] competitive disadvantage but the the the
+[00:18:36] purpose of Tesla from the beginning has
+[00:18:39] been to accelerate the Advent of
+[00:18:40] sustainable energy
+[00:18:42] um and so
+[00:18:44] you know we're and I've been very clear
+[00:18:46] with that even when we went to IPO I
+[00:18:48] said hey look some of the things we do
+[00:18:49] may not be you know
+[00:18:52] super profit maximizing so don't invest
+[00:18:56] if that's a problem
+[00:19:00] encourage people to sell our stock if
+[00:19:03] that's a problem
+[00:19:04] um on the other hand we'll make up for
+[00:19:06] it with some epic products so I think on
+[00:19:08] balance we'll be okay
+[00:19:11] um and um
+[00:19:13] we went public at uh I think one point
+[00:19:16] roughly just over one and a half billion
+[00:19:18] dollars so
+[00:19:20] it's improved since then
+[00:19:22] um a bit yeah you know made some
+[00:19:24] progress
+[00:19:26] um but you know some of the things I
+[00:19:28] maybe we could have done that were
+[00:19:31] not totally profit optimizing I mean
+[00:19:34] we've open sourced all of our patents so
+[00:19:36] anyone can use our patents
+[00:19:38] which is uh
+[00:19:40] pretty unusual yeah
+[00:19:42] um
+[00:19:44] um so you know it's and I mean once you
+[00:19:47] do the patents just to stop like that
+[00:19:50] and trolls and people are doing blocking
+[00:19:52] actions so we'll do a patent and then
+[00:19:55] make it open so that there's because
+[00:19:57] like patents are like a Minefield you
+[00:19:58] know it's just like you don't want those
+[00:19:59] you want a clear path to the future of
+[00:20:02] sustainability
+[00:20:04] um and then you know as far as opening
+[00:20:05] up our Network I actually don't even
+[00:20:07] know if this is a
+[00:20:08] actually you know a good thing for Tesla
+[00:20:12] or bad thing I mean I think it's morally
+[00:20:15] right but it's uh whether it's naturally
+[00:20:17] smart or means to be seen
+[00:20:19] um
+[00:20:20] but it was uh you know it was something
+[00:20:24] that would help the rest of the industry
+[00:20:26] go electric so
+[00:20:28] we opened it up and so we don't want to
+[00:20:30] use it as kind of a wall Garden or
+[00:20:32] competitive weapon
+[00:20:34] um it's if it's something that would
+[00:20:35] help advance
+[00:20:37] sustainable energy we'll do it
+[00:20:39] let's say a powerful statement about the
+[00:20:42] commitment to sustainability
+[00:20:49] I'm I'm curious Elon in doing taking
+[00:20:51] that step
+[00:20:53] might it also influence how you think
+[00:20:55] about the evolution of your own charging
+[00:20:57] Network so for example I think some of
+[00:20:58] the other charging networks might have
+[00:20:59] higher uh you know voltages for for fast
+[00:21:02] charging is that something that you
+[00:21:04] think would then lead you to migrators
+[00:21:06] at or do you think you're in the right
+[00:21:07] sweet spot
+[00:21:10] well um it depends on which cars we're
+[00:21:13] talking about here there's a maximum
+[00:21:15] rate at which you can charge a pack so
+[00:21:17] you know if you once you see that rate
+[00:21:19] it's not it's not relevant to that
+[00:21:21] particular vehicle
+[00:21:22] um
+[00:21:23] you know our latest superchargers will
+[00:21:26] do
+[00:21:26] over 300. yeah
+[00:21:29] um 300 kilowatts I should say very big
+[00:21:32] one
+[00:21:33] yeah we had to go back to some more
+[00:21:36] planning yeah yeah exactly so
+[00:21:38] big big cable or very high voltage
+[00:21:43] we just cranked it up to a million volts
+[00:21:45] look at the same cable
+[00:21:46] [Laughter]
+[00:21:48] we'll start working on that okay yeah
+[00:21:53] um so yeah if you um I mean that I
+[00:21:59] squared r heating is real it can really
+[00:22:01] get you but you just crank up the
+[00:22:02] voltage
+[00:22:04] um
+[00:22:05] so
+[00:22:06] yeah I mean it's 350 kilowatts I mean
+[00:22:08] you really are exceeding the rate at
+[00:22:11] which
+[00:22:12] um almost any battery Can it can take
+[00:22:14] like can actually charge without
+[00:22:16] damaging the battery so
+[00:22:18] um I think we'll be fine on that front
+[00:22:20] our
+[00:22:22] voltage for a long time has been roughly
+[00:22:24] 400 volts
+[00:22:26] um plus minus 30.
+[00:22:28] um and with the Next Generation we're
+[00:22:31] doubling that to the uh 800 volts
+[00:22:35] um
+[00:22:37] so I mean there's there's it's not it's
+[00:22:39] not as big again as it may seem but it's
+[00:22:42] um
+[00:22:43] you know it's uh slightly better so
+[00:22:47] that our superchargers will be able to
+[00:22:49] operate it either 400 or 800 volts
+[00:22:51] um and just you know impedance match to
+[00:22:54] whatever the vehicle is that's uh wants
+[00:22:56] to be charged
+[00:22:57] well again it's a really fascinating
+[00:23:00] move and it'll be interesting to see how
+[00:23:01] other oems you know approach the Ford
+[00:23:04] and GM announcements yeah like I said
+[00:23:06] we're you know really just trying to do
+[00:23:07] the right thing here
+[00:23:09] um and uh you know I was there with uh
+[00:23:11] Jim Folly and Mary Barra that you know
+[00:23:13] we will support uh GM and Ford cars on
+[00:23:16] equal footing no you know special status
+[00:23:18] for for Tesla vehicles that kind of
+[00:23:20] thing
+[00:23:20] um it's got to be fair
+[00:23:22] um so yeah let's talk a bit more we'll
+[00:23:24] stick to it sounds like it's in line
+[00:23:26] with uh making your patents open source
+[00:23:28] right yeah yeah well
+[00:23:31] um all of those Chargers are going to
+[00:23:33] drive the need for a lot of
+[00:23:35] infrastructure on our side of the grid
+[00:23:36] yes I actually I I can't emphasize
+[00:23:38] enough we need more electricity
+[00:23:43] much electricity you think you need is
+[00:23:45] more than that is needed I assure you
+[00:23:48] you if you're thinking should I build
+[00:23:51] this incremental production capacity of
+[00:23:53] electricity yes
+[00:23:55] definitely as fast as possible
+[00:23:59] amen so you have a room full of folks
+[00:24:01] here some of folks are you know members
+[00:24:03] of eei regulated utility folks there's
+[00:24:06] suppliers here vendors it's a whole
+[00:24:08] Community that's that's needed here to
+[00:24:10] make this happen we also need the
+[00:24:12] support of government right and so it's
+[00:24:13] been exciting to see the IRA funding
+[00:24:15] we're talking about this earlier today
+[00:24:16] Ira iija transformational for the U.S
+[00:24:20] yeah but we still need more help right
+[00:24:23] than getting permitting and citing
+[00:24:25] reform for example to get the steel in
+[00:24:27] the ground I feel I feel the same way
+[00:24:29] yeah like it's it's man I mean we're
+[00:24:32] like practically making construction
+[00:24:33] illegal in this country
+[00:24:35] um and especially in California I mean
+[00:24:38] you know no offense like I lived there
+[00:24:40] for a long time and I still suppose I
+[00:24:42] still spend a lot of time in California
+[00:24:43] FYI and I'm slow Pro California not easy
+[00:24:46] sometimes
+[00:24:48] [Laughter]
+[00:24:57] try getting a permit to radio Kitchen in
+[00:25:00] L.A I mean it's a pretty good no deal
+[00:25:02] but you know what but Elon that that is
+[00:25:05] it it is really something we're all
+[00:25:07] dealing with across all states it's
+[00:25:09] Federal permitting it's state level
+[00:25:12] we're just like you know Gulliver's
+[00:25:14] Travels and each one of those
+[00:25:15] regulations by themselves maybe not so
+[00:25:18] bad but it's like a like you've got a
+[00:25:19] thousand ten thousand little strings you
+[00:25:22] know holding the giant of America down
+[00:25:23] frankly from a regulatory standpoint so
+[00:25:25] that so that's one part that we need to
+[00:25:27] solve and appreciate Tesla's engagement
+[00:25:29] and policy space what you've done yeah
+[00:25:32] there's another part of this there which
+[00:25:34] is the collaboration between utilities
+[00:25:37] and our customers whether it's Tesla or
+[00:25:39] somebody else I was out in a in Barstow
+[00:25:42] California recently at CE territory and
+[00:25:45] I was seeing the upgrades that our team
+[00:25:46] was making yeah accommodate a large
+[00:25:49] supercharger station because you know
+[00:25:50] Barstow for those of you who don't know
+[00:25:51] smack between the drive between LA and
+[00:25:55] Las Vegas right so popular spot for
+[00:25:57] Charter yeah I've charged there
+[00:26:00] so I think this one's going to open uh
+[00:26:02] you know right right the following
+[00:26:04] weekend or something but so many
+[00:26:05] superchargers are like major powered
+[00:26:06] role like serious right yeah and so so
+[00:26:10] they are and that means we need good
+[00:26:12] collaboration one of the things that eei
+[00:26:14] has done is reach out to the customer
+[00:26:16] Community whether it's charging
+[00:26:17] companies whether it's large Fleet
+[00:26:19] operators to to get that collaboration
+[00:26:22] but um I'm curious from your perspective
+[00:26:24] what more do we need to be doing to
+[00:26:27] collaborate better with you and with the
+[00:26:30] oems and you know with frankly you're
+[00:26:32] charging competitors because we need
+[00:26:34] everybody to get this ecosystem going
+[00:26:36] well I I guess uh anything we can do to
+[00:26:39] making it grow faster would be would be
+[00:26:41] great
+[00:26:42] um and um it's obviously it's not all in
+[00:26:45] your hands there's there's um a lot of
+[00:26:47] Permitting and whatnot that has to
+[00:26:48] happen
+[00:26:50] um but but I I really can't emphasize
+[00:26:52] enough where we're at like I think a
+[00:26:54] very exciting juncture for
+[00:26:56] electricity providers uh which is that
+[00:26:59] the amount of electricity is going to go
+[00:27:01] is is going exponential
+[00:27:03] um and we'll like I said roughly roughly
+[00:27:05] triple uh where it is today to get to a
+[00:27:09] fully sustainable
+[00:27:10] economy
+[00:27:12] um
+[00:27:12] so so I think I would just be cautious
+[00:27:15] about extrapolating from the past
+[00:27:16] because the future is not like the past
+[00:27:18] if the future is is a massive increase
+[00:27:22] in electricity demand and it's going to
+[00:27:24] take everything
+[00:27:26] we've got to just keep up with it
+[00:27:29] um
+[00:27:29] so I think speed like just figure out
+[00:27:32] like how to remove faster how do we have
+[00:27:35] um faster deployment of electricity and
+[00:27:38] that's the whole everything matters from
+[00:27:40] generation to transmission to the local
+[00:27:42] substation
+[00:27:43] um
+[00:27:44] and um and I understand there's like a
+[00:27:47] quite a long lead time on like step down
+[00:27:48] Transformers
+[00:27:50] um so man I hope Tesla doesn't have to
+[00:27:53] make those too
+[00:27:55] um
+[00:27:56] but uh
+[00:27:59] um look forward to it we need more of
+[00:28:00] them yeah well well I mean my my
+[00:28:03] challenge to this the mega pack team is
+[00:28:06] like okay guys look let's try to get it
+[00:28:07] to where you just take the the big
+[00:28:11] cables the power cables and you just
+[00:28:14] plug them in you know no substation you
+[00:28:17] know that'll be sweet
+[00:28:18] you know you just just take the big
+[00:28:21] metal wire and uh can I put down here
+[00:28:24] and um you're done
+[00:28:27] uh what about our Engineers talk a
+[00:28:29] little bit about that I mean it's it's
+[00:28:30] totally doable uh you know if you don't
+[00:28:32] go too crazy on the voltage it's totally
+[00:28:34] doable
+[00:28:35] um you know you do start having these
+[00:28:37] like you know can't have the wires too
+[00:28:38] close together because we're arcing
+[00:28:39] limits and stuff
+[00:28:41] um but um
+[00:28:43] but but generally like uh if they look
+[00:28:45] at mega pack uh deployments uh one of
+[00:28:49] the limiting factors is the substation
+[00:28:51] equipment uh to do voltage step up you
+[00:28:54] know
+[00:28:55] um and um and so we're just looking at
+[00:28:57] like okay how can we make what are all
+[00:28:59] the things that uh slow us down to
+[00:29:01] getting to a sustainable energy economy
+[00:29:03] and then we just tackle whatever appears
+[00:29:06] to be the biggest issue
+[00:29:07] um and um and I think as we'll know we
+[00:29:11] also have this sort of consumer side uh
+[00:29:13] Power wall which is obviously it's very
+[00:29:15] tiny compared to the mega pack
+[00:29:17] um but it's also uh very can be very
+[00:29:20] helpful in a neighborhood for balancing
+[00:29:22] power
+[00:29:23] um and after having having the power
+[00:29:24] walls operate collectively uh to to
+[00:29:27] smooth out the power in a neighborhood
+[00:29:29] which we've got working quite well in
+[00:29:31] Australia at this point
+[00:29:32] um and I believe we've got some uh test
+[00:29:35] efforts in California as well no in fact
+[00:29:37] we do with SCE virtual power plant
+[00:29:40] efforts I think PG e has some as well
+[00:29:42] that's a it's a good transition tour I
+[00:29:44] wanted to go next which is when you
+[00:29:46] think about that interaction with the
+[00:29:49] customer right now clearly we are
+[00:29:50] interacting with a customer you are as
+[00:29:52] well it can be through virtual power
+[00:29:55] plants uh I'll throw in bi-directional
+[00:29:57] charging into the equation too right so
+[00:29:59] you put all these things together
+[00:30:00] technology is enabling some different
+[00:30:02] relationships with the customer what's
+[00:30:04] your vision for you know how how that
+[00:30:06] evolves over that experience
+[00:30:09] well like so I can't emphasize enough
+[00:30:11] that
+[00:30:12] um we're just going to hit
+[00:30:14] um
+[00:30:15] constraints on electricity production
+[00:30:17] and and uh transmission
+[00:30:21] um on mass okay across the board so
+[00:30:24] that's why I'm like I know obviously it
+[00:30:26] takes time to uh plan for and permit and
+[00:30:29] build
+[00:30:30] um a New Power Generation Plant but but
+[00:30:33] I that's why I'm encouraging everyone to
+[00:30:35] start now
+[00:30:37] um I'm not sure what your plans are for
+[00:30:39] future
+[00:30:40] electricity demand but it's going to be
+[00:30:42] I I'm pretty sure it's gonna be much
+[00:30:44] higher than what what you currently
+[00:30:45] think
+[00:30:46] um electricity man is going to be well I
+[00:30:50] mean necessarily must be three times
+[00:30:52] what it is today in order for us to have
+[00:30:53] a sustainable energy future so that
+[00:30:56] means power plants transmission
+[00:30:58] um I mean there's always some some I
+[00:31:00] think there's not this this some to some
+[00:31:02] degree we can improve
+[00:31:04] um the power throughput of some of the
+[00:31:06] lines by jacking up the voltage
+[00:31:08] um you know may require separating
+[00:31:12] tables a bit more but
+[00:31:14] um and also need to step up step down
+[00:31:16] Transformers
+[00:31:17] um
+[00:31:18] so the different cables too so just we
+[00:31:20] have an area here called the Hub uh with
+[00:31:23] a number of companies that have
+[00:31:25] different Technologies we had Bill Gates
+[00:31:26] join us yesterday and you know with a
+[00:31:28] number of the companies uh that
+[00:31:30] breakthrough uh energy Ventures is uh
+[00:31:33] supporting one of those was a company
+[00:31:35] that's making a you know cable that can
+[00:31:38] carry a lot more uh you know capacity
+[00:31:40] right so I agree that all those
+[00:31:42] technologies will be important by the
+[00:31:43] way as we do the analysis for California
+[00:31:46] why yeah
+[00:31:47] um we do see a future where California
+[00:31:49] gets in at zero in 2045
+[00:31:51] and it's not quite fully electrified
+[00:31:54] it's mostly electrified yeah right
+[00:31:55] there's other other tools in the toolbox
+[00:31:58] that's at least a 60 increase in load
+[00:32:01] whereas mode has been flat for decades
+[00:32:03] now so it's coming we agree okay so I I
+[00:32:06] like I think that's that's basically
+[00:32:09] that's it will be much more low than
+[00:32:11] that it may be yeah
+[00:32:14] uh but I like a lot
+[00:32:17] um
+[00:32:19] uh like
+[00:32:22] um
+[00:32:25] it's just everything's gonna be electric
+[00:32:28] and I think the actually the average
+[00:32:30] power usage per person is going to
+[00:32:31] increase
+[00:32:32] a fair bit
+[00:32:34] um I mean it's an interesting thing to
+[00:32:36] consider is like he is
+[00:32:39] um total power used by humans on average
+[00:32:44] um over time you know and you say like
+[00:32:47] you go from not that long ago when the
+[00:32:49] best we could do is kind of make a
+[00:32:51] campfire
+[00:32:52] um so you say in a token like
+[00:32:54] electricity and thermal energy for for
+[00:32:57] human was extremely tiny
+[00:33:00] um if you even go back 200 years we
+[00:33:03] literally had to you know burn
+[00:33:06] what are called locally uh ticket Heats
+[00:33:10] there was no electricity
+[00:33:12] uh
+[00:33:14] you know the so and even if you take all
+[00:33:17] of the like all the steam engines and
+[00:33:19] everything and divide that by total
+[00:33:20] number of humans
+[00:33:22] um power usage per human uh thermal
+[00:33:24] electrical otherwise was a minuscule 200
+[00:33:27] years ago and even less uh 300 years ago
+[00:33:30] now it is
+[00:33:32] incredibly high and it is rising
+[00:33:36] um and and this is and you're going to
+[00:33:39] see I think a lot of electricity usage
+[00:33:42] by
+[00:33:43] um
+[00:33:44] the sort of neural net data centers as
+[00:33:46] well those are heavy powered drawers
+[00:33:50] so
+[00:33:52] in fact I think one of the scaling
+[00:33:54] constraints for
+[00:33:56] AI is going to be power availability
+[00:33:59] um
+[00:34:00] that they are quite far-hungry so you've
+[00:34:03] got you've got
+[00:34:04] basically that average energy usage for
+[00:34:09] a person increasing
+[00:34:10] dramatically and a transition from uh
+[00:34:14] running hydrocarbons to things that are
+[00:34:17] more sustainable
+[00:34:18] anyways the point is is it's going to be
+[00:34:20] 3x current and I think that 3x number is
+[00:34:24] probably
+[00:34:25] it probably happens around 2045 ish so
+[00:34:31] this is the thing about exponential
+[00:34:33] growth is it it really is
+[00:34:36] counterintuitive and you know actually
+[00:34:41] exponentials are it tend to be
+[00:34:43] kind of um
+[00:34:48] sort of underestimated just you know
+[00:34:51] just um
+[00:34:52] there's a long tradition of that it's
+[00:34:54] cell phones other technology instead yes
+[00:34:57] you know humans have not been able to
+[00:34:58] see escalating
+[00:34:59] you know this brings up a different
+[00:35:03] question area around some of the other
+[00:35:05] places where electrification is going to
+[00:35:06] play a role so we know we spent a long
+[00:35:08] time talking about cars but you know
+[00:35:10] building electrification maybe another
+[00:35:12] important uh you know tool to help
+[00:35:14] reduce emissions over time
+[00:35:17] um you know again California different
+[00:35:18] from other states but we think that
+[00:35:20] we're going to see something like uh you
+[00:35:22] know 30 percent of all buildings uh
+[00:35:24] needing heat bumps to get to the 2030
+[00:35:26] targets of the state has 90 by 2045.
+[00:35:30] um how much Focus are you putting on the
+[00:35:34] building side of electrification right
+[00:35:36] now and is that a place where you think
+[00:35:37] testimonica
+[00:35:39] uh well I mean we have the power wall
+[00:35:42] which is but that's that's somewhat more
+[00:35:44] of a supports it yeah that's like a for
+[00:35:46] for homes
+[00:35:49] um homes and small businesses it's
+[00:35:50] powerwall
+[00:35:52] um I would certainly appreciate support
+[00:35:54] from utilities uh with bringing power
+[00:35:56] walls online
+[00:35:58] um and uh one of the you know selling
+[00:36:02] points of a power wall is to give
+[00:36:04] um
+[00:36:05] uh the homes like some amount of uh
+[00:36:09] protection against brownout blackout
+[00:36:10] type of thing but sometimes we we do get
+[00:36:14] some uh pushback from utilities about
+[00:36:17] enabling a sort of a cut-off switch
+[00:36:21] because if you if you don't cuddle power
+[00:36:23] to the grid if you if the grid loses
+[00:36:25] power then this pointless you just end
+[00:36:26] up say if you've got if you've got
+[00:36:28] you're not pushing electricity
+[00:36:30] you know back onto the grid and it's
+[00:36:31] kind of pointless it doesn't doesn't
+[00:36:34] work
+[00:36:34] um so we would appreciate some support
+[00:36:37] in uh approving and installing the
+[00:36:40] backup switch which really just enables
+[00:36:43] um homeowners to have power if for
+[00:36:45] whatever reason this this goes down for
+[00:36:48] some reason
+[00:36:49] um so that would be most most
+[00:36:52] appreciated
+[00:36:53] um
+[00:36:55] and it will continue to engage on that
+[00:36:57] also from the Utility side I want to
+[00:36:59] make sure we're managing you know safety
+[00:37:01] reliability issues but you know it's
+[00:37:03] making sure we're understanding the
+[00:37:05] technology and engaging with your team
+[00:37:06] to work through to the details yeah yeah
+[00:37:09] so but I mean it can be pretty helpful
+[00:37:11] and then like I said the the power walls
+[00:37:14] um you know operating collectively can
+[00:37:16] help to stabilize the Grid in a
+[00:37:18] particular neighborhood
+[00:37:20] um I I do think like local uh Power
+[00:37:23] Generation uh you know basically rooftop
+[00:37:25] solar
+[00:37:26] um and and uh with an accompanying
+[00:37:29] battery pack is is a helpful part of
+[00:37:31] solving the energy problem because
+[00:37:34] there's a lot of neighborhoods where
+[00:37:36] it's hard to get incremental power to
+[00:37:39] that neighborhood like because you need
+[00:37:40] like more substations you need more you
+[00:37:43] know uh overhead wires and then you know
+[00:37:46] in a lot of places that can be extremely
+[00:37:49] difficult to achieve
+[00:37:51] um you know because just from opposition
+[00:37:52] from people not wanting additional
+[00:37:55] interesting wires overhead and not
+[00:37:58] wanting to expand substation so so it's
+[00:38:02] a sort of a solution to this is where
+[00:38:05] local solar and local storage helps uh
+[00:38:08] alleviate uh some some very thorny uh
+[00:38:12] situations where you just can't it's
+[00:38:14] extremely difficult to get more power to
+[00:38:15] that neighborhood so a little bit of
+[00:38:18] local power generation is is pretty
+[00:38:20] helpful well in fact when when we do our
+[00:38:22] lab our analysis for California we see
+[00:38:24] the state needing to add something like
+[00:38:26] 80 gigawatts of both power Renewables
+[00:38:28] and 30 gigawatts a volt power storage
+[00:38:30] but we're also counting on 30 gigawatts
+[00:38:32] of distributed Renewables and 10 gigs of
+[00:38:34] distributed uh storage okay great we see
+[00:38:37] we need all the tools in the toolbox for
+[00:38:39] what for what's coming in exactly yeah
+[00:38:41] well you know one other touch point
+[00:38:43] you've had with our sector has been the
+[00:38:45] work that you're doing
+[00:38:47] um here in uh in Texas where as I
+[00:38:50] understand that you're you announce an
+[00:38:52] energy retail business uh with a
+[00:38:55] subscription program right that allows
+[00:38:56] powerful customers to uh a 30 monthly
+[00:39:00] flat fee yeah I mean we're trying
+[00:39:02] different experiments yeah so
+[00:39:05] um we're just we don't know what what
+[00:39:06] actually makes sense but we're trying
+[00:39:08] different experiments to see what
+[00:39:10] why it might work
+[00:39:12] um
+[00:39:12] so yeah for sure trying to figure out
+[00:39:14] like 10 power walls
+[00:39:16] all working together uh help uh
+[00:39:20] stabilize the grid which they can we've
+[00:39:22] actually done that many times now
+[00:39:24] um and um and then of course our mega
+[00:39:27] pack which is is great at the
+[00:39:29] sort of utility or heavy industry level
+[00:39:32] um so
+[00:39:34] uh yeah it seems you know we're
+[00:39:40] Foster a sustainable energy future
+[00:39:43] and it's going to take many
+[00:39:46] many different Technology Solutions in
+[00:39:49] different Arenas to to solve this kind
+[00:39:53] of
+[00:39:54] tripling of electricity
+[00:39:56] demand and provision problem
+[00:39:59] well let me um let me shift topics a
+[00:40:03] little bit and you mentioned AI earlier
+[00:40:05] in the context of being one of those
+[00:40:06] drivers of electricity uh load increases
+[00:40:10] but
+[00:40:12] you've also been pretty outspoken about
+[00:40:15] both the potential and the risk of AI I
+[00:40:17] think a number of us are actually moving
+[00:40:19] really quickly right now with use cases
+[00:40:21] and how we use it I'll give one example
+[00:40:23] at Edison last year we did almost 200
+[00:40:27] 000 asset inspections in high Wildfire
+[00:40:29] risk areas you've seen drones it's
+[00:40:30] generating terabytes of data you know
+[00:40:32] great ability to capture images all
+[00:40:34] around there's no way humans could
+[00:40:36] process all those images so we've been
+[00:40:37] using an AI enabled tool to down select
+[00:40:40] the images that we're going to look at
+[00:40:41] looking at other use cases right now but
+[00:40:43] what we recognize there's risk too so
+[00:40:45] love your thoughts about you know
+[00:40:48] broadly across the industry and then if
+[00:40:50] you think about our sector how should we
+[00:40:53] be thinking about AI from your
+[00:40:54] perspective and both the uh the
+[00:40:56] opportunities and the risks there
+[00:41:00] well I mean
+[00:41:01] I've had many sleepless nights thinking
+[00:41:03] about AI
+[00:41:05] so
+[00:41:06] I am worried about AI
+[00:41:08] on the downside
+[00:41:10] you know I just it's sort of a
+[00:41:12] technology like like nuclear um it's
+[00:41:14] extremely powerful
+[00:41:16] um
+[00:41:17] but it could get out of hand
+[00:41:19] um
+[00:41:20] and um
+[00:41:23] so I have been struggling with this
+[00:41:24] question for a long time of what to do
+[00:41:29] AI existential risk
+[00:41:32] um
+[00:41:33] and I've been a big proponent actually
+[00:41:35] of regulation of at least some having
+[00:41:38] some oversight by
+[00:41:40] the government uh you know acting as
+[00:41:42] kind of a referee to make sure that AI
+[00:41:45] companies don't
+[00:41:47] do super dangerous things
+[00:41:49] um and nobody's even watching them or
+[00:41:51] there's no there's no sort of uh agent
+[00:41:54] of the public which is really you know
+[00:41:57] regulation when it's done done right is
+[00:42:00] there
+[00:42:01] uh trying to oversee the good of the
+[00:42:03] public
+[00:42:04] um and make sure that companies don't
+[00:42:06] kind of cut corners or break rules or do
+[00:42:09] things that would endanger the public
+[00:42:10] and this is the origin of the FAA and
+[00:42:13] it's in
+[00:42:15] um various regulatory organizations that
+[00:42:17] exist
+[00:42:18] um
+[00:42:19] and and now those Regulatory Agencies
+[00:42:21] only came into being after a lot of
+[00:42:23] people died you know a lot of things
+[00:42:25] went wrong so
+[00:42:27] uh with the AI I don't think we can
+[00:42:29] afford the luxury of like waiting until
+[00:42:30] it goes wrong you know
+[00:42:32] um so I think we need to be preemptive
+[00:42:36] on this run so
+[00:42:38] um I've had a number of conversations
+[00:42:41] with world leaders
+[00:42:43] um
+[00:42:43] you know with including you know pricing
+[00:42:47] your uh people in China and around the
+[00:42:50] world Europe I'm actually heading to
+[00:42:52] Europe
+[00:42:53] tomorrow I have some AI safety
+[00:42:56] conversations uh with with some of the
+[00:42:59] um country leaders there
+[00:43:02] um
+[00:43:03] yes because I think I think this is the
+[00:43:05] kind of thing where the world needs to
+[00:43:07] work together uh
+[00:43:09] on AI safety it's a really big deal
+[00:43:12] um
+[00:43:13] I can't emphasize this enough
+[00:43:15] so
+[00:43:17] uh I was somewhat encouraged by
+[00:43:20] uh
+[00:43:22] China's willingness to
+[00:43:25] um
+[00:43:25] engage in AI regulation
+[00:43:28] um
+[00:43:29] and I did point out that um you know if
+[00:43:31] you get some digital super intelligence
+[00:43:34] it might be in charge of China instead
+[00:43:35] of you
+[00:43:36] and I'm not sure you would like that
+[00:43:38] [Laughter]
+[00:43:41] that argument seemed to resonate
+[00:43:44] [Laughter]
+[00:43:47] well you know since you're bringing up
+[00:43:50] China you know and you're you're very
+[00:43:52] active there you're also active with
+[00:43:54] government leaders
+[00:43:56] um a little off script here but as you
+[00:43:59] think about U.S China relationship and
+[00:44:01] how it helps navigate or hurts you know
+[00:44:04] try to navigate whether it's AI whether
+[00:44:06] it's technically competitiveness for
+[00:44:08] your products uh both in the US and in
+[00:44:10] Chinese markets uh how are you thinking
+[00:44:13] about how that evolves and what's the
+[00:44:15] end game here in terms of being able to
+[00:44:17] work at both markets
+[00:44:24] I don't know what the end game is but um
+[00:44:26] I can say the mid game is going to be
+[00:44:28] spicy
+[00:44:36] have you
+[00:44:38] um with your operations in China
+[00:44:41] have you you feel like you've enjoyed
+[00:44:43] good support and are you comfortable
+[00:44:44] with intellectual property
+[00:44:48] um
+[00:44:49] yeah we've actually gotten very good
+[00:44:51] sport in China uh Tesla has the only uh
+[00:44:54] fully foreign Owned Car Factory in China
+[00:44:58] um and we do very well in
+[00:45:01] the domestic Market in China
+[00:45:04] and our you know our Shanghai Factory is
+[00:45:07] our highest performing Factory globally
+[00:45:09] so
+[00:45:10] it's a
+[00:45:12] very impressive team that Tesla has in
+[00:45:13] China and
+[00:45:15] um the work ethic there is incredible
+[00:45:17] um
+[00:45:18] so
+[00:45:20] you know I think
+[00:45:21] it's gonna be interesting future
+[00:45:24] um
+[00:45:25] the
+[00:45:27] you know we are entering a phase where
+[00:45:30] U.S will will not be the biggest economy
+[00:45:32] in the world
+[00:45:33] um
+[00:45:34] and there's nobody alive today who can
+[00:45:36] remember when the United States was not
+[00:45:37] the biggest economy in the world so it
+[00:45:39] is a it's going to be a little
+[00:45:42] um probably discomforting at first uh to
+[00:45:45] a lot of people to have uh trying to be
+[00:45:48] probably
+[00:45:50] you know two or three times the size of
+[00:45:52] the US economy so
+[00:45:55] it's already higher the industrial
+[00:45:58] output manufactured output is already
+[00:46:00] significantly higher than the us and
+[00:46:02] that will increase
+[00:46:03] and they've had a significant investment
+[00:46:05] focus in electric vehicles uh yes um
+[00:46:09] the China is actually of any large
+[00:46:11] country the most board-leaning uh with
+[00:46:13] sustainable energy
+[00:46:15] um so they have massive solar projects
+[00:46:17] wind projects and have done the most
+[00:46:20] with respect to electric vehicles of any
+[00:46:22] uh large country of smaller countries
+[00:46:25] Norway is uh the leader but for any
+[00:46:28] logic very large economy it's China is
+[00:46:31] by far the most forward-leaning for
+[00:46:33] sustainability
+[00:46:34] well let me pull up from Tesla and you
+[00:46:37] do have a few other places where you
+[00:46:39] spend your time yeah so
+[00:46:43] so you know again I mention and
+[00:46:45] introducing you have a SpaceX twitter a
+[00:46:47] boring company neural link which is
+[00:46:49] really exciting I saw you at some uh
+[00:46:51] approvals recently offering free brain
+[00:46:54] shipping as you leave the
+[00:46:56] conference can I suggest a few folks to
+[00:46:59] go first
+[00:47:01] um Sarah yeah you won't feel a thing
+[00:47:02] yeah
+[00:47:03] you know joking aside you
+[00:47:07] you're making a personal choice to spend
+[00:47:10] time across these is there is there a
+[00:47:12] Common Thread in terms of mission across
+[00:47:15] all of these and uh you know and what
+[00:47:17] what excites you most about your
+[00:47:19] portfolio
+[00:47:20] well I mean the the aspiration with
+[00:47:23] these various things is to
+[00:47:25] maximize the probability of the future
+[00:47:26] is good for civilization so it's um
+[00:47:30] you know the future is just a set of
+[00:47:31] probabilities like we don't know you
+[00:47:33] know for sure what's going to happen
+[00:47:35] um but to the degree we can check the
+[00:47:36] probabilities towards
+[00:47:38] um a positive future for civilization I
+[00:47:41] think we want to do that
+[00:47:43] um
+[00:47:45] and
+[00:47:46] to me this is really just you know if
+[00:47:49] you're sort of long-term thinker at all
+[00:47:51] it's this is
+[00:47:53] uh naturally what one should want to do
+[00:47:56] because you know how can we really exist
+[00:47:58] in the absence of civilization I mean
+[00:48:00] you can see what it's like just watch
+[00:48:01] you know Naked and Afraid is what is
+[00:48:04] this when you don't have civilization
+[00:48:06] [Laughter]
+[00:48:09] it's a civilization pretty great
+[00:48:12] um so
+[00:48:15] um
+[00:48:15] I think we want to keep it going and um
+[00:48:18] you know and and uh keep advancing
+[00:48:21] civilization so
+[00:48:23] um I think we can
+[00:48:26] we should try to expand the scope and
+[00:48:27] scale of Consciousness such that we are
+[00:48:29] better able to understand the universe
+[00:48:31] and not place in it
+[00:48:33] um so I would call
+[00:48:34] you know my philosophy of philosophy of
+[00:48:36] curiosity
+[00:48:38] um
+[00:48:39] and um
+[00:48:40] and while we will all die as individuals
+[00:48:42] civilization
+[00:48:44] um can continue
+[00:48:46] a theory for a very very long time
+[00:48:48] millions of years or more
+[00:48:50] uh so we should try to make sure that
+[00:48:53] happens
+[00:48:54] um so the these various things that I'm
+[00:48:56] doing are trying to
+[00:48:57] trip the probability of future being
+[00:49:00] good now I hope that's it may turn out
+[00:49:02] that some of these things uh the road to
+[00:49:04] hell is paved with good intentions uh so
+[00:49:07] hopefully you know those good intentions
+[00:49:10] do not translate to something bad but I
+[00:49:11] think the road to hell is mostly paved
+[00:49:13] by Bad Intentions
+[00:49:15] um
+[00:49:15] and uh you know once in a while there's
+[00:49:17] a good intention of Paving stone in
+[00:49:18] there
+[00:49:19] um
+[00:49:21] but the intent is to maximize probably
+[00:49:22] the future is good for civilization
+[00:49:25] um so with in the case of say neural
+[00:49:27] link it's like well how does that affect
+[00:49:28] things it's like well
+[00:49:30] um
+[00:49:31] if we are to link
+[00:49:34] um
+[00:49:35] the sort of the path of the AI to
+[00:49:39] human well then what are the what what
+[00:49:42] could act to impair that that linkage
+[00:49:45] and
+[00:49:47] we're getting pretty esoteric there but
+[00:49:49] one of the issues is the bandwidth
+[00:49:51] between your cortex and your computer or
+[00:49:55] your AI the AI extension extension of
+[00:49:57] yourself
+[00:49:58] um
+[00:49:59] and if that bandwidth is too low then
+[00:50:03] the computer will simply be bored you
+[00:50:06] will
+[00:50:08] you know as a matter of it gets very low
+[00:50:10] you you effectively
+[00:50:13] um have a very thin straw between
+[00:50:15] yourself and the AI extension of
+[00:50:18] yourself now now we're already cyborgs
+[00:50:20] when you think about the fact that your
+[00:50:22] phone and your computer are an extension
+[00:50:24] of yourself
+[00:50:25] and probably you know what I think most
+[00:50:28] people if you forget your phone
+[00:50:30] somewhere it's like having missing limb
+[00:50:32] syndrome you know any like sort of
+[00:50:35] padding your pockets and it's like the
+[00:50:38] phone is basically an extension of
+[00:50:39] yourself starting with you don't know
+[00:50:41] anybody's phone number anymore yes right
+[00:50:43] exactly I had this like
+[00:50:45] nightmare like
+[00:50:47] where I was stuck at a party and someone
+[00:50:50] else had taken my phone and and and so I
+[00:50:54] had the iPhone but I couldn't use it
+[00:50:55] and
+[00:50:58] and then they were like so well well who
+[00:51:00] should we call them like I don't know
+[00:51:02] anyone's number
+[00:51:02] [Laughter]
+[00:51:05] so New Orleans you don't even know who
+[00:51:07] to call or how do you especially having
+[00:51:09] to must happen a lot you know it's like
+[00:51:12] you don't know anyone's number and you
+[00:51:13] have they've got your phone and you you
+[00:51:16] can't call whatever an Uber or anything
+[00:51:19] um and uh
+[00:51:21] you're just stuck
+[00:51:23] so I like that idea of increasing the
+[00:51:27] bandwidth between the computer assistant
+[00:51:28] and the brand but apparently we also
+[00:51:30] need a safety lock to make sure we don't
+[00:51:32] lose the computer in the process Elon
+[00:51:35] um this has been terrific and I hope
+[00:51:37] that it's not another eight years before
+[00:51:40] we see you here
+[00:51:41] appreciate all the efforts you have and
+[00:51:43] frankly the the sentiment you provided
+[00:51:46] around trying to improve humanity and
+[00:51:47] recognizing that the collaboration that
+[00:51:50] we have between our sector and your
+[00:51:52] company is critical to helping Humanity
+[00:51:55] deal with climate to help thank you so
+[00:51:57] much for doing and please know we're all
+[00:52:00] stand ready to continue to partner to
+[00:52:02] make this transition a real thing sounds
+[00:52:04] good everybody let's thank Elon very
+[00:52:06] much
+[00:52:10] and
+[00:52:12] thank you so much
+[00:52:15] foreign

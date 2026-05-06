@@ -1,0 +1,462 @@
+[00:00:00] Hi, it's me, Tim Dodd, the Everyday Astronaut. Welcome to Starbase, Texas.
+[00:00:04] Today, I'm gonna be taking you up SpaceX's launch tower,
+[00:00:06] otherwise known as stage zero, with Elon Musk.
+[00:00:09] We'll get the ultimate view of Starbase and learn more about just how exactly
+[00:00:13] SpaceX plans to catch the world's largest flying object with giant
+[00:00:18] robotic chopsticks.
+[00:00:20] This is part two of our spring 2022 Starbase Tour with Elon.
+[00:00:24] In the first part,
+[00:00:25] we got up close and personal with the high bay and Starship prototypes.
+[00:00:29] And in the next part,
+[00:00:30] we'll get really in depth with Raptor 2 and Merlin rocket engines.
+[00:00:34] So stay tuned. And if you happen to find this video valuable,
+[00:00:38] consider dropping a "Super Thanks" as a tip below here on YouTube,
+[00:00:41] or become a channel member or Patreon supporter for early access and to show
+[00:00:46] your support. That being said, let's get up in there.
+[00:01:03] I feel like you always talk about, you know,
+[00:01:04] how you just wanna build an exciting future,
+[00:01:07] a world where people get excited about stuff, wake up and wanna do cool things.
+[00:01:10] And I gotta tell you standing right here, man. That's, that's
+[00:01:17] pretty hard to not get excited about this.
+[00:01:21] Yeah. I mean, this is pretty crazy. I mean,
+[00:01:24] there's a custom built tower with arms that' are designed to catch the
+[00:01:30] largest and heaviest flying object ever made and pluck it outta the
+[00:01:35] air.  I mean, that's the theory anyway, so.
+[00:01:43] Yeah,
+[00:01:43] I think it's funny people actually forget now that they're actually built to
+[00:01:46] lift and stack the rocket, that cranes have such bad wind capability,
+[00:01:49] but one time the booster legs were gonna weigh a lot, Elon just said, you know,
+[00:01:53] delete the legs, delete. We're like, well, what is he? Like? You just,
+[00:01:56] just use the arms and then say it again, and we were like, "Oh wow,
+[00:01:59] he's serious?" Okay. We better get on this. And now it seems normal.
+[00:02:03] Or we think at least seems plausible. Yeah.
+[00:02:08] I mean, it's still super crazy  but the more you talk about it...
+[00:02:14] At SpaceX we specialize in converting things from
+[00:02:18] impossible too late.
+[00:02:21] .
+[00:02:24] So, But it's pretty nutty because you're gonna have this gigantic,
+[00:02:30] you know, booster coming back.
+[00:02:36] I mean that's nine meters in diameter, not counting the chines,
+[00:02:39] or roughly 30 feet in diameter. It'll
+[00:02:45] weigh about
+[00:02:48] 250 tons just a bit on the heavy side we'll make that lighter over time.
+[00:02:54] Weighs about 250 now, is that what you said?
+[00:02:56]  This is way heavier than... I think we can get the...
+[00:03:01] Well there's there's the weight at different points.
+[00:03:04] So it's like say like weight when the landing tanks are full
+[00:03:09] versus weight when the landing tanks are empty is also
+[00:03:14] what, how much ullage mass do you have..
+[00:03:17] Dry, weight's kind of floating, you know, there's dry weight is yes.
+[00:03:20] Kind of irrelative when it's actually in the air.
+[00:03:22] Yeah. I mean there's several tons of air mass in the vehicle.
+[00:03:25] If you just say like what's the mass of one atmosphere in
+[00:03:30] that volume. It's several tons. Anyway,
+[00:03:37] but
+[00:03:40] I think we'll be able to get the mass well under 200 tons over time,
+[00:03:44] but still pretty heavy. So you gotta like, you know,
+[00:03:47] call it a couple hundred tons
+[00:03:50] plummeting at you know,
+[00:03:56] Let's see... well, I think our... the velocity at which we,
+[00:04:01] we start up the engines is more than half the speed of sound.
+[00:04:04] So this thing is still coming in really fast.
+[00:04:09] Pretty much down in a downward direction. So then we light, the engines like
+[00:04:15] I said, I think around Mach 0.5, give or take
+[00:04:20] but it's only, you know, several hundred meters in the air,
+[00:04:24] so it's gonna slow itself down very fast then,
+[00:04:28] and correct any error. So like wherever the,
+[00:04:32] whatever the X,Y error is when the engine's land it's gotta,
+[00:04:36] take out the X,Y error and
+[00:04:40] drop the last three of basically zero come in between the arms.
+[00:04:46] The arms will be wide and as it's coming in, the arms will,
+[00:04:49] will close go flush against the side of the vehicle and the vehicle will be
+[00:04:53] descending through the arms. Those tiny little,
+[00:04:58] you can barely see the little nubs,
+[00:05:00] those kind of lifting lugs will touch the top of the arms and
+[00:05:06] then it will hopefully not sheer off and crumple. Joe,
+[00:05:11] is there anything you wanna add that, I dunno if you caught that,
+[00:05:13] but I was just describing the landing sequence.
+[00:05:16] Yep. That was accurate. .
+[00:05:21] We really hope it doesn't hit the tower.
+[00:05:24] Yeah, exactly. And especially not that launch ring,
+[00:05:27] which is really difficult to make that launch ring is very complicated.
+[00:05:33] We have not found a reason yet why it will not work.
+[00:05:36] Yes. Success is one of the possible outcomes. The probability is uncertain,
+[00:05:41] but the, it is above zero. So the part of the, you know,
+[00:05:46] like the arms are off to the side. So in theory,
+[00:05:48] the booster is gonna come back and then when the engines start up,
+[00:05:52] it'll translate over,
+[00:05:54] slow down and translate over and get in between the arms,
+[00:06:00] arms need to close and when they close,
+[00:06:02] they need to close in such a way that they don't crush the rocket as well.
+[00:06:07] Or score it all the way up the whole thing, just , .
+[00:06:11] Yeah. There's a lot of ways for this to fail.
+[00:06:13] How quickly... Is it gonna close almost at the last second, like,
+[00:06:18] or will it be mostly closed and there's a small tolerance there and it skirts
+[00:06:22] the whole thing by, you know...
+[00:06:23] It's intended to close on the methane tanks of the smooth,
+[00:06:26] upper section about the top third of the rocket,
+[00:06:29] and then you can keep translating down. And,
+[00:06:32] and catch on those nubs that stick out the rocket.
+[00:06:35] Yeah. I mean, if things are going right,
+[00:06:38] it will actually look like the rocket is descending between the arms for quite a
+[00:06:43] while. You know, cuz you gotta...
+[00:06:47] The length of the thing is like basically around 70 meters.
+[00:06:51] So you know, if you've got a descent rate of,
+[00:06:56] I don't know, let's say two or three meters per second and you have,
+[00:07:01] you know, 20 meters or something like that. It's okay.
+[00:07:05] You're waiting for like 10 seconds. You know,
+[00:07:08]  So it'll actually be like actually this is taking a while .
+[00:07:13] And now you gotta clear those chines too, you know,
+[00:07:16] you can't have it be so close down on the...
+[00:07:18] The chines will be clocked kind of away from the tower.
+[00:07:21] So they won't be increasing...
+[00:07:23] Oh, got it. The opposite way from the clamps. Got it. So as the, yeah,
+[00:07:28] that makes sense. That's cool.
+[00:07:32] But you still need to get the rocket has to still fit in between these arms.
+[00:07:38] So, you know, it's still gotta come in
+[00:07:44] and ...
+[00:07:45] It has to center up and the arms will slew in...
+[00:07:47] Yeah.
+[00:07:48] ...To meet it wherever it is.
+[00:07:49] So if it's off to one side, it's gonna hit one of the arms,
+[00:07:52] which will be quite bad.
+[00:07:54] Yeah. .
+[00:07:56]  yeah.
+[00:07:59] .
+[00:08:00] Or cook the arm or, you know, a bunch of bad things can happen.
+[00:08:04] It's just insane though. I mean,
+[00:08:06] it looks big from far away,
+[00:08:10] but it looks even bigger when you're underneath it and you start to see almost
+[00:08:14] the atmospheric distortion and the hazE  make it fade into
+[00:08:19] the distance there.
+[00:08:21] Yeah. I'm told this is the tallest thing south of San Antonio.
+[00:08:26] Yeah. Because I think the other tallest was on South Padre.
+[00:08:29] They have the hotel was the other tallest thing in the whole area here, so.
+[00:08:34] And that's quite a bit taller.
+[00:08:37] Actually booster and rocket are almost identical.
+[00:08:40] At least the 120 meter version was like exactly the size of the Sapphire over
+[00:08:44] there. So people need to know what that feels like.
+[00:08:47] Just go up in the Sapphire and know that's how big this rocket is. ,
+[00:08:52] which is insane to think about.
+[00:08:54] Obviously you're not too worried about like the Human Landing System right now,
+[00:08:59] compared to just getting things into orbit.
+[00:09:01] But how is that has any of that stuff solidified yet?
+[00:09:05] Like any of the Human Landing System?
+[00:09:09] Uh, well, I mean, there's a lot of sort of design done on the computer level,
+[00:09:14] but and there's some hardware, but, and our focus is getting to orbit, you know,
+[00:09:19] if we can...
+[00:09:20] Because human landing won't work without getting to orbit obviously.
+[00:09:22] Yeah. We need Starship to get to orbit 'cause
+[00:09:28] it's the only thing that can carry the Starlink 2.0 satellites. So,
+[00:09:31] we've already produced the first, and we have on site,
+[00:09:35] the first Starlink 2.0 satellite and it's seven meters long and Falcon has
+[00:09:41] neither the volume nor the mass to orbit capability required for Starlink 2.0.
+[00:09:46] So even if we shrunk the Starlink 2.0 satellite down,
+[00:09:48] the total up mass of Falcon is not nearly enough to
+[00:09:53] do Starlink 2.0.
+[00:09:54] How heavy does one version 2.0 weigh?
+[00:09:57] Well it's, it's about one and a quarter tons.
+[00:10:00] There's so volumetrically huge that.
+[00:10:03] Um, but if you just say
+[00:10:08] like there's...
+[00:10:09] A lot of people talk a lot about how many launches per year there are to orbit,
+[00:10:12] but this is not really what matters.
+[00:10:14] I think what really matters is what's the total useful
+[00:10:18] payload to orbit per year. Cause otherwise you could say if this were
+[00:10:24] ocean ships, you'd be like comparing a dinghy to a super tanker and it's like,
+[00:10:28] they're not the same.
+[00:10:35] For a satellite constellation,
+[00:10:36] the thing that really matters is what is your total useful
+[00:10:40] max mass flux to orbit. You know, so mass, you know, mass to orbit.
+[00:10:44] So we need Starship to work and to fly frequently or
+[00:10:50] Starlink 2.0 will be stuck on the ground.
+[00:10:53] Wow. So that's your big motivator at this point is like get these things going.
+[00:10:55] I
+[00:10:57] assume because they're bigger will there have to be fewer of those to service
+[00:11:01] the same amount of like area? Like is it gonna be,
+[00:11:04] is version two gonna be in a higher orbit,
+[00:11:06] servicing more people like with per satellite or is it just bigger so it has
+[00:11:10] higher capacity, more bandwidth, more like all of that, I guess,
+[00:11:14] compared to version one?
+[00:11:17] Um,
+[00:11:17] the Starlink 2.0 satellites are almost an order of magnitude more capable than
+[00:11:20] Starlink 1.0.
+[00:11:21] Bandwidth wise or total like throughput.
+[00:11:23] I just think of it like how
+[00:11:26] many useful bits of data can each satellite do Starlink 2.0
+[00:11:32] in terms of useful
+[00:11:36] bits of data is almost an order of magnitude,
+[00:11:41] better than a Starlink 1.0.
+[00:11:44] Are those different user terminals too, compared to...?
+[00:11:47] The user terminals are on a separate upgrade path.
+[00:11:51] Although user terminals will work with Starlink 1.0. or Starlink 2.0 satellites,
+[00:11:56] but the Starlink 2.0s are just much more capable.
+[00:12:03] Um, is it possible to go up in the tower, and do some or...?
+[00:12:06] Um, I don't know. Can we go up in the tower? Is the elevator working?
+[00:12:10] As long as the generator gone? Yeah. I can fire it up.
+[00:12:11] Okay.
+[00:12:14] I mean just might not be a bad place to watch a sunset at this point.
+[00:12:18] Yeah.
+[00:13:16] Where are y'all going to?
+[00:13:16] Men's department!
+[00:13:21] I guess we could stop at the QD arm and then, you know,
+[00:13:26] then continue up.
+[00:13:28] That will be and then...
+[00:13:39] Yeah.
+[00:13:49] This views gonna be insane. I can already get little sneak peaks through the...
+[00:13:54] Danggg.
+[00:14:21] Wow, this is epic.
+[00:14:23] This is so epic.
+[00:14:24] We're not even at the top.
+[00:14:26] .
+[00:14:30] Better enough. It's worth. This is where the QD arm is.
+[00:14:35] Oh, hey.
+[00:14:37] The top has a better view.
+[00:14:39] Look at how beefy all this stuff is though.
+[00:14:42] Yeah. I mean, this is insane, custom designed gigantic
+[00:14:48] hardware. I mean it's hard to believe this is real.
+[00:14:52] It genuinely is.
+[00:14:58] Oh man. Geez.
+[00:15:10]  That's... It's quite the view.
+[00:15:14] It's beautiful.
+[00:15:16] Yeah. It's beautiful.
+[00:15:19] We're even above the booster even right now.
+[00:15:23] And we are in the sky.
+[00:15:31] We can't even see South Padre.
+[00:15:34] Oh, wow. Yeah. Really hazy.
+[00:15:41] Well, should we go up?
+[00:15:41] Yeah. .
+[00:15:45] Even better when there's a vehicle on the OLM.
+[00:15:47] Oh, I know. I know. I can't imagine.
+[00:15:51] Up close and personal. You gotta come back.
+[00:15:54] Oh yeah. I missed the one... I came
+[00:15:59] out here I think the day after you guys stacked. Well,
+[00:16:02] I guess I came out for last event,
+[00:16:04] but I think they stacked on like the 4th or not, don't know something.
+[00:16:07] I don't what day it was. I was like next day. That's right.
+[00:16:29] Emergency escape ladder thing?
+[00:16:31] You can hand crank all the way down if you really lost power.
+[00:16:32] I
+[00:16:45] maybe want to do that once. It'd probably take like an hour. I feel like you...
+[00:16:53] Holy crap. We're really getting up here though.
+[00:17:01] The craziest thing to me is that none of this was here a year ago. You know,
+[00:17:05] that's just hard to fathom is like,
+[00:17:07] especially if you were out here three years ago and saw quite literally nothing
+[00:17:12] but a field and a little R2D2 man. Wow, look
+[00:17:25] at that.
+[00:17:31] I mean it's far down there.
+[00:17:45] If this isn't surreal. I don't know what is.
+[00:17:46] Yeah, totally. It's insane. I mean, the Ship looks small from here.
+[00:17:51] The ship looks tiny from here.
+[00:17:55] Even people are like tiny. It's like, "Whoa".
+[00:17:59] How tall is this again at this point?
+[00:18:01] 143 Meters at the top. Or about
+[00:18:06] 138 maybe?
+[00:18:14] Oh my God. And look at how how hazy even the production site is right now.
+[00:18:19] Yeah.
+[00:18:28] This is not a good place if you have a fear of heights, that's for sure.
+[00:18:31]  You better go get over 'em real quick.
+[00:19:12] Yeah. We should get like a hang glider and jump off or something.
+[00:19:15]  That'd be sweet.
+[00:19:18] .
+[00:19:19] You could sell rides as a zip line over to the High Bay.
+[00:19:23] You could probably zip line pretty far.
+[00:19:28] I can't believe how small the boosters look from here even. That
+[00:19:35] just looks... It looks so fake right now. This is insane.
+[00:19:42] And just, we  how's that feel?
+[00:19:44] Whoa. Vertigo.
+[00:19:48] Oh my God.
+[00:19:52] You see the ocean out there.
+[00:19:54] We really lucked out on the on the night.
+[00:19:57] The Gulf, I guess
+[00:20:03]  Insane.
+[00:20:05] It is insane. .
+[00:20:08] It is gorgeous.
+[00:20:10] I think this is the time to be philosophical almost.
+[00:20:13] It's just so inspiring out here, you know, it's... Do you,
+[00:20:18] I mean, in your heart of hearts, like in the very depths of your soul,
+[00:20:21] do you really believe this is like the start of making human Multi-planetary?
+[00:20:26] I believe we have... I
+[00:20:29] think for the first time it is possible.
+[00:20:32] There's a possible outcome to make life multi-planetary.
+[00:20:36] The key to making life multi planetary is a fully
+[00:20:42] reusable rocket. That's the key.
+[00:20:44] So full and rapid reusability, like an aircraft.
+[00:20:51] So it's just very hard to achieve full reusability given
+[00:20:56] the strength of Earth's gravity field and the density of the atmosphere.
+[00:21:01] Full reusability would be, well,
+[00:21:04] like relatively easy on Mars which has around
+[00:21:09] 37-38% of Earth's gravity and about 1% atmospheric density.
+[00:21:15] It's just barely possible to achieve reusability on Earth. Like
+[00:21:20] it's not as though, you know, all the, the rocket engineers in the past..
+[00:21:24] It's not as though reusability never occurred to them. They, I mean,
+[00:21:28] they're well aware of aircraft and other things. It's just that it's
+[00:21:33] an incredibly difficult technical problem and
+[00:21:40] they just thought it was
+[00:21:43] impossible or the probability of success was so low that it was not worth doing.
+[00:21:50] I
+[00:21:53] feel like you almost had a bit of a Noah's Ark-esque you know,
+[00:21:56] if you're gonna get Biblical, aspect at the last talk was saying how, you know,
+[00:22:00] if you care about life and
+[00:22:03] the true continuation of life on Earth and continuation of life as a
+[00:22:06] consciousness, then you have to have a sustained planet, you know,
+[00:22:11] another sustained planet off of Earth.
+[00:22:13] Exactly. I mean, I think you know,
+[00:22:18] if you think really long term, then you realize that eventually there
+[00:22:23] will be some natural disaster even if it is not made by humans
+[00:22:28] that destroys all life on Earth.
+[00:22:31] So eventually the sun will expand and evaporate the oceans and
+[00:22:35] and will be like Venus you know, just
+[00:22:40] so hot that no life can really exist or maybe some chemotrophic
+[00:22:45] bacteria, but eventually even they will, they will die.
+[00:22:48] So the only way to prolong life,
+[00:22:51] as we know it is for us to become multi-planetary and ultimately
+[00:22:56] multi-stellar. And if
+[00:23:00] we do not do that all life on Earth will die.
+[00:23:05] So those who care about life on Earth should really care a lot about life
+[00:23:10] becoming multi-planetary and ultimately multi-stellar.
+[00:23:13] Well,
+[00:23:13] I think there's a lot of people get attached to this idea that for some reason,
+[00:23:17] you know,
+[00:23:18] SpaceX or other aerospace companies are trying to escape Earth and escape
+[00:23:22] Earth's problems. And I think you put it into a really good perspective that,
+[00:23:26] you know, currently specifically like NASA's budgets, you know, 0.3% of the,
+[00:23:31] you know, of the federal budget and then let alone, you know,
+[00:23:35] the entire cost of how much we're investing so far in, you know, making,
+[00:23:40] you know,
+[00:23:41] getting humans off of Earth and protecting our planet even with asteroid defense
+[00:23:44] and stuff is still relatively small. I think people don't understand that the...
+[00:23:48] Oh yeah. So the Earth does not currently have any ability to stop
+[00:23:53] asteroids now with Starship that we
+[00:23:59] then have some ability to stop an asteroid. Actually,
+[00:24:02] technically a comet would be the real danger because there are billions
+[00:24:07] if not more than billions,
+[00:24:08] maybe trillions of objects that are in the outer solar
+[00:24:13] system some of them with that are very long period comments.
+[00:24:20] An example that most people are probably aware of is Halley's Comet.
+[00:24:23] So I forget the exact period is today but it's slightly under once per century
+[00:24:27] that Halley's comment comes by. So
+[00:24:32] there are probably many objects,
+[00:24:36] many comments that have very long periods that we simply don't know exist and
+[00:24:42] for example, the comet Shoemaker-Levy when that hit Jupiter,
+[00:24:49] it made a hole in Jupiter, the size of Earth.
+[00:24:52] So if that did hit Earth, that's "Game Over" everything's dead.
+[00:24:59] So anyways,
+[00:25:03] there's always some risk of such a thing occurring and the
+[00:25:12] probable lifespan of life is just much greater if we're a multi-planet and
+[00:25:17] ultimately multi-stellar civilization.
+[00:25:21] Well, I think people also don't tend to realize that it's not a zero sum game,
+[00:25:24] that if we're working on rockets and space flight and aerospace technology and
+[00:25:29] all of these things, life support for these things, it's not just that you,
+[00:25:33] you know,
+[00:25:33] as company spend a hundred million dollars on a rocket and that a hundred
+[00:25:35] million dollars went into space,
+[00:25:37] it's that a hundred million went into the economy, you know,
+[00:25:41] invested in our own technology, our terrestrial technology, you know.
+[00:25:45] Look at all the spinoffs of NASA and what, you know,
+[00:25:47] what NASA had done in the 60s and 70s to create the society that we live in
+[00:25:51] today. You know, I mean, I think people are shortsighted sometimes on, you know,
+[00:25:56] on the implications that you don't immediately see those things that you don't
+[00:26:00] immediately grasp, because we they're just kind of unknowns at this point,
+[00:26:03] you know?
+[00:26:04] I mean, in general, the you know, the economy is
+[00:26:10] very much a positive sum game, a kind of a growing the pie situation.
+[00:26:15] When
+[00:26:20] people examine their understanding or beliefs of the economy, if
+[00:26:25] they have an implicit assumption that
+[00:26:30] the economy is zero sum,
+[00:26:34] then the only way for one person to get ahead is by taking things from another.
+[00:26:38] But obviously the economy today is much,
+[00:26:42] much greater than it was in the past. And we have the
+[00:26:49] economic output per person is massively greater than the
+[00:26:54] past. And
+[00:26:57] so obviously what has happened is that the pie has grown and has grown much
+[00:27:01] faster than the population has grown. You
+[00:27:07] know, essentially if one creates wealth or creates
+[00:27:14] great products and services that,
+[00:27:17] that is something that should be applauded. That is, we've
+[00:27:24] effectively increased the standard of living of,
+[00:27:31] you know, of the country and perhaps of the world.
+[00:27:36] The, you know, and sometimes people will conflate or you know,
+[00:27:41] essentially
+[00:27:43] they think of consumption and wealth as the same thing,
+[00:27:46] but they're obviously not the same thing. You
+[00:27:51] know, this is sort of a long argument of sort of capital allocation is
+[00:27:56] a job consumption is fun, but capital allocation is a job.
+[00:28:02] So anyway,
+[00:28:05] I don't think a ton of people want say Warren Buffet's job,
+[00:28:08] which is to read through very tedious annual reports of companies,
+[00:28:12] including the minutia of the accounting and decide whether to
+[00:28:17] invest in Coke or Pepsi. I don't want that job.
+[00:28:22] .
+[00:28:25] I think aerospace in general kind of still follows the same, like, you know,
+[00:28:29] if back in the day at one point, no one had electricity, running water,
+[00:28:33] air conditioning, all of modern life's conveniences.
+[00:28:36] And of course at first it started off as something that only a few people could
+[00:28:39] get. And now it's, you know,
+[00:28:41] a pretty common standard of living across the world. And, you know,
+[00:28:44] you gotta start somewhere, same with air travel, you know?
+[00:28:46] Yeah. Exactly air travel used to be accessible to almost no-one,
+[00:28:50] to very few people. It was insanely expensive and dangerous.
+[00:28:53] And now it is commonplace to fly somewhere. TVs
+[00:29:01] used to be rare and expensive. And then, you know,
+[00:29:05] big flat screen, plasmas used to be extremely expensive. And now you can buy,
+[00:29:10] you know, go to Walmart and buy an amazing flat screen plasma for 500 bucks.
+[00:29:15] It's amazing.
+[00:29:17] Yeah, it really is.
+[00:29:19] Yeah.
+[00:29:22] Oh man. I don't wanna end the conversation on Walmart plasmas,
+[00:29:25] but at the same time .
+[00:29:28] Yeah.
+[00:29:30] Wow.
+[00:29:33] It's a hell of a lot of progress.
+[00:29:36] I mean, again, not to bring up the past, but three years ago,
+[00:29:38] I think the first time I ever came out here was March, 2019.
+[00:29:42] So almost exactly three years ago. And all you had was little hoppy.
+[00:29:47] He had just made it out here and was starting to do some of the initial static
+[00:29:50] firing. That was  that was three years ago.
+[00:29:53] That's amazing that the, the hopper is still there.
+[00:29:56] Yeah. Looking over us, all the grandfather, we all need.
+[00:30:01] Yeah.
+[00:30:03] But even, I mean, even the tank farm was like three tanks of those smaller,
+[00:30:07] you know, for the first test,
+[00:30:08] it was so tiny and there was literally just a dirt mound and three tanks.
+[00:30:13] And now, you know,
+[00:30:14] it's  and there was a tent out there and that was about it.
+[00:30:18] Yeah.
+[00:30:19] The propellant storage for the whole vehicle was actually,
+[00:30:24] that was a really, that was a quite difficult,
+[00:30:28] just put a lot of effort into the propellant storage.
+[00:30:33] How? So if you have to scrub,
+[00:30:38] if you're trying to do like the first static fires and stuff,
+[00:30:40] how long does it take to recycle because you're probably...
+[00:30:43] What's that look like?
+[00:30:44] Because you have to drain the propellants back into the tanks and say,
+[00:30:48] you have to come out here and wrench on something and you know,
+[00:30:50] you have 33 engines that all have to work harmoniously.
+[00:30:53] What's a scrub and recycle look like with this system right now?
+[00:30:58] Well, first is gonna take us long time to scrub and recycle, but
+[00:31:03] over time it should be very fast and we really shouldn't be scrubbing.
+[00:31:06] It should just take off for it's like a normal thing.
+[00:31:08] Yeah. But I mean, obviously the first,
+[00:31:10] the first booster static fires will be probably...
+[00:31:13] Yeah, no, I mean, it is gonna be very bumpy at first. I mean,
+[00:31:17] for Falcon 9 in the beginning
+[00:31:21] we'd have like a dozen recycles, like we'd scrub the launch like a dozen times.
+[00:31:24] I mean, for a while there I was living out at the Cape,
+[00:31:29] basically just working on,
+[00:31:32] getting the damn rocket to take to, you know,
+[00:31:35] getting all nine engines to start and take off and,
+[00:31:37] and 'cause we would just have one launch abort after another.
+[00:31:43] And I brought the kids with me and I went to,
+[00:31:45] went to DisneyWorld a lot and Harry Potter land.
+[00:32:10] Thanks again to Elon for all of your generous time and thanks to Ryan Chylinski
+[00:32:14] with Cosmic Perspective, for helping to capture and share this conversation.
+[00:32:17] And I owe a huge thank you to my Patreon supporters for helping make this and
+[00:32:20] everything we do at Everyday Astronaut possible. If you want to help support us,
+[00:32:23] head on over to patreon.com/everydayastronaut and while you're online,
+[00:32:27] be sure and check out our awesome merch store for shirts like this,
+[00:32:30] the RD-171 shirt and lots of other cool nerdy rocket stuff at
+[00:32:33] everydayastronaut.com/shop. Thanks everybody. That's gonna do it for me.
+[00:32:38] I'm Tim Dodd, the Everyday Astronaut,
+[00:32:40] bringing space down to Earth for everyday people.

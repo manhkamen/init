@@ -1,0 +1,1075 @@
+[00:00:00] [Applause]
+[00:00:09] okay wait I'll just I'll just read off
+[00:00:12] all of your companies Elon I know them
+[00:00:14] but I'm just going to read them to make
+[00:00:15] sure I don't miss one because there's so
+[00:00:16] many now uh founder CEO chief engineer
+[00:00:19] of SpaceX uh CEO product architect and
+[00:00:22] chairman of Tesla uh owner chairman CTO
+[00:00:26] of uh x uh x.com uh founder of boring
+[00:00:30] company co-founder of neurolink and open
+[00:00:32] Ai and president of the mus Foundation
+[00:00:35] did I get
+[00:00:36] everything let your Winner's
+[00:00:43] ride and we open source it to the fans
+[00:00:47] and they've just gone crazy
+[00:00:48] [Music]
+[00:00:52] with where are you me it is
+[00:00:56] coming it's kind of absurd where are you
+[00:00:58] at Star base
+[00:01:00] um I'm in FL currently so this is this
+[00:01:04] is a starlink and Flake connection are
+[00:01:07] you kidding me that that's oh yeah that
+[00:01:08] works pretty well
+[00:01:10] huh I think there's only
+[00:01:13] one wait I think it's one of of how
+[00:01:16] stalling Works uh in an
+[00:01:18] airplane at altitude there's only one of
+[00:01:22] those in existence right it's on your
+[00:01:23] plane that's it 101 there are a number
+[00:01:26] of airliners that have stalling and
+[00:01:28] there will be a lot more in the future
+[00:01:31] Starling connection when you're assuming
+[00:01:33] it's working properly is you would even
+[00:01:35] be able to tell you you're on the ground
+[00:01:36] or in the air um because unlike Jo
+[00:01:40] satellit the latency is you know really
+[00:01:44] be less than 20 millisecs so
+[00:01:48] um it's a in fact for a lot I think for
+[00:01:52] some people the Sonic connection on the
+[00:01:53] plane will be better than their
+[00:01:54] connection at their house that would be
+[00:01:57] pretty great um H how is um
+[00:02:00] the Starship doing it was incredible to
+[00:02:02] see the first uh launch but I understand
+[00:02:05] you're closing in on the second I know
+[00:02:06] you've been working really hard on that
+[00:02:07] and the team's working hard on it um
+[00:02:10] when do you think you're going to get
+[00:02:11] the next one up and um what are the
+[00:02:13] chances it makes it to orbit uh well we
+[00:02:16] have the second one stacked at Star base
+[00:02:19] so it's ready to go um and uh we
+[00:02:22] finished that up in the last
+[00:02:24] week we believe we've we've completed
+[00:02:26] the rain um I had an requested by the
+[00:02:29] FAA so we should get our license
+[00:02:31] hopefully soon um but really the only
+[00:02:34] thing holding back second plan of
+[00:02:36] Starship at this point is Right fire
+[00:02:38] approval wow what's your
+[00:02:42] expectation uh or your hope in terms of
+[00:02:45] the probability that it gets to orbit
+[00:02:47] it's just a question of timing yeah how
+[00:02:49] long it does take to get the approval
+[00:02:52] paperwork whatnot um so that's really up
+[00:02:54] to the FAA at this point yeah but but
+[00:02:57] what about making it to orbit do you
+[00:02:59] think oh
+[00:03:02] we are doing a new staging technique
+[00:03:03] called hot staging uh where
+[00:03:07] um you light the up the upstage engines
+[00:03:10] or the ship engines while the um boost
+[00:03:13] stage is still firing and um this is the
+[00:03:17] kind of the most efficient way to do is
+[00:03:19] stage separation of rocket going orbit
+[00:03:21] um but we did not try that on the last
+[00:03:23] mission and and we're trying on this
+[00:03:24] Mission we think it will be overall
+[00:03:26] better um but I think this I think
+[00:03:29] probably have a
+[00:03:30] I hope well over 50% chance of getting
+[00:03:33] to Stage separation um and maybe at
+[00:03:36] close to 50% chance of getting to Orit
+[00:03:39] if the hot staging um the new separation
+[00:03:43] method uh is it works so I'd say maybe
+[00:03:45] it's like a you know above i' say
+[00:03:47] probably above 30% chance of getting
+[00:03:50] toor with the sign whereas previously I
+[00:03:51] said below
+[00:03:52] 50 uh is this in terms of
+[00:03:56] complexity how complex is this of a
+[00:03:59] problem compared to the other problems
+[00:04:00] you've worked on in your
+[00:04:03] career uh well so I mean making a rocket
+[00:04:07] that is more the twice the size of the
+[00:04:09] SAT 5 um you know it's a in fact with an
+[00:04:15] extra of the rocket it'll have roughly
+[00:04:16] three times the thrust of a Saturn 5
+[00:04:18] Moon rocket um whever it's signed to be
+[00:04:21] fully rapidly reusable whereas the you
+[00:04:23] know the SAT was completely Expendable
+[00:04:27] and with baline we
+[00:04:30] we still expand the upper stage uh but
+[00:04:32] we we bring back the boo stage as people
+[00:04:34] have probably seen the The Rocker liing
+[00:04:36] videos and we are also able to recover
+[00:04:39] the varant um with the with falc but
+[00:04:43] these things do land toly out to sea so
+[00:04:45] it takes a while to bring them back to
+[00:04:47] board and get them ready for figh G the
+[00:04:51] the thing that you know so so this's a
+[00:04:53] scale of Starship but then also the fact
+[00:04:55] that it is designed for full and R re
+[00:04:57] usability so both the booster and the
+[00:04:59] ship come back launch site they get
+[00:05:00] caught by these giant meaz arms youve
+[00:05:03] see in
+[00:05:04] congress's Godzilla uh it's basically
+[00:05:08] bad uh catches this giant rocket out of
+[00:05:11] you know B air and puts it back on the
+[00:05:14] launch stand and gets ready for launch
+[00:05:16] so it will be capable of you know
+[00:05:19] basically aircraft level flight rates um
+[00:05:23] but but it's much bigger than say a 747
+[00:05:25] or
+[00:05:27] 8380 um you want can we um talk about
+[00:05:31] the events of was it last weekend the
+[00:05:33] whole Ukraine Starling thing can you
+[00:05:36] give us like a the Tik Tok of like
+[00:05:39] what's going on and like how you're
+[00:05:41] being forced to
+[00:05:45] decide but like what is it like in that
+[00:05:48] decision room if there was one or
+[00:05:49] wherever you were where you're trying to
+[00:05:51] figure out am I keeping this on do I
+[00:05:53] turn it off what is going on people must
+[00:05:54] have been bombarding you whatever you
+[00:05:56] can share about what that was like how
+[00:05:58] you made the decision
+[00:06:00] um yeah I I so I was actually mistaken a
+[00:06:04] little bit in understanding the
+[00:06:06] situation
+[00:06:08] um you know obviously we St sex have
+[00:06:11] provided uh starlink connectivity for
+[00:06:15] you know to Ukraine um really since the
+[00:06:17] beginning of the war uh really within a
+[00:06:20] I think a few days of the war starting
+[00:06:23] um and as the Ukrainian uh Governor said
+[00:06:26] the S was instrumental in the FS of
+[00:06:30] Ukraine so you know they've said that
+[00:06:32] really many times although the media
+[00:06:34] forgets to mention that um so and in
+[00:06:38] fact they've said it on Twitter you X
+[00:06:41] only know on his
+[00:06:42] Twitter it's going to take a while to
+[00:06:45] get that right yeah take a little time
+[00:06:52] [Laughter]
+[00:06:54] um so you know you don't have to you
+[00:06:57] don't have to take my words for it you
+[00:06:58] just read what what they put
+[00:07:00] um you know uh
+[00:07:02] so uh so son has been incredibly helpful
+[00:07:06] to the Ukraine war eff um we' have gone
+[00:07:09] out of pocket very significantly uh to
+[00:07:11] help them um and
+[00:07:15] um at at the time this happened the uh
+[00:07:18] region around Crimea um was actually
+[00:07:22] turned off now the reason it was turned
+[00:07:24] off was actually originally was because
+[00:07:26] United States had sanctions against
+[00:07:28] Russia um and we're not allowed to
+[00:07:31] actually and that includes Crimea and
+[00:07:34] the
+[00:07:34] sanctions and we're not allowed to
+[00:07:36] actually turn on uh connectivity to
+[00:07:39] sanction the country without explicit
+[00:07:41] government approval um we did not have
+[00:07:44] from the US government so
+[00:07:48] um so so basically the uh uh you know
+[00:07:52] Ukraine didn't they didn't give us any
+[00:07:53] any advanced warning or heads up or
+[00:07:55] anything um we just got the the sort of
+[00:07:58] uh urgent calls from the Ukrainian
+[00:08:01] government saying that we needed to turn
+[00:08:02] on primier it's like in the middle of
+[00:08:04] the night basically and we're like what
+[00:08:06] are you talking about you know
+[00:08:09] you which's it
+[00:08:11] four um you know and
+[00:08:15] then you know we basically um figured
+[00:08:19] out that this was kind of like a bhit
+[00:08:21] type attack on um Sasol on the Russian
+[00:08:26] fet Sasol so they're really asking us
+[00:08:28] for to to really for actually take part
+[00:08:30] in a major act War
+[00:08:33] um and um you know well we so certainly
+[00:08:38] have huge EMP support for the Ukrainian
+[00:08:39] government um the Ukrainian government
+[00:08:42] is not in charge us uh people or
+[00:08:47] companies that's not how it
+[00:08:51] works and and Elon if if I could just
+[00:08:55] but I should say that you know although
+[00:08:57] I'm not President Biden's biggest fan if
+[00:08:59] if I had received a Presidential
+[00:09:01] Directive to turn it on I would have
+[00:09:03] done so because I do regard the
+[00:09:05] president as the chief executive officer
+[00:09:07] of the country whether I want that post
+[00:09:10] to the president or not I S respect the
+[00:09:13] office and so if if you know if we
+[00:09:16] gotten if I gotten a request from the
+[00:09:18] president type of thing from the
+[00:09:20] American president to be clear
+[00:09:24] um then I I I would have turned it on
+[00:09:27] you know so but no such requests came
+[00:09:29] through
+[00:09:30] that that's a really that's a really
+[00:09:31] interesting point and um you're I mean
+[00:09:34] the what jamas is referring to is you're
+[00:09:36] now being attacked I saw there was a you
+[00:09:38] know there was Jake Tapper uh the other
+[00:09:40] day on CNN interviewing our secretary
+[00:09:42] state was just he was all lathered up
+[00:09:45] basically attacking you for this uh
+[00:09:47] David David I mean to his credit
+[00:09:51] secetary Lincoln was actually quite
+[00:09:53] supportive despite the Absurd uh you
+[00:09:56] know accusations and leading questions
+[00:09:58] of the Jake taper at CN yeah he didn't
+[00:10:02] take the bait credit to sery Lincoln in
+[00:10:05] this regard for not um you know taking
+[00:10:09] the bait at all yeah well I to me this
+[00:10:12] is an example of no good deed goes
+[00:10:14] unpunished because if you had never
+[00:10:16] given I hope I hope some good deeds back
+[00:10:19] go
+[00:10:21] unpunished I mean if you if you had
+[00:10:24] never given
+[00:10:26] Starling that you know
+[00:10:29] but yeah I mean my point is just if if
+[00:10:31] you had never given Starling to the
+[00:10:32] Ukrainian government for free
+[00:10:34] voluntarily you just volunteered it then
+[00:10:37] no one be attacking you right now for
+[00:10:39] not turning it on so they could do their
+[00:10:41] attack on Crea yeah um also one other
+[00:10:44] thing I'll note is that your reason for
+[00:10:46] not turning it on which is you don't be
+[00:10:48] part of what could be a major escalation
+[00:10:50] was exactly was exactly the reason that
+[00:10:53] Biden Administration did not give attam
+[00:10:56] attam missiles to Ukraine at that point
+[00:10:59] in the War now they may be changing
+[00:11:00] their minds but they were very worried
+[00:11:03] about an attack the administration was
+[00:11:05] an attack on Crea triggering some huge
+[00:11:08] escalation of this war so not only did
+[00:11:11] you not receive a directive from
+[00:11:14] President Biden your thinking was very
+[00:11:16] much in line with theirs at the time and
+[00:11:19] and you're being attacked for that
+[00:11:21] now there there's something you
+[00:11:23] mentioned which is that you did this at
+[00:11:25] a lot of economic cost to SpaceX can you
+[00:11:28] just can you just talk about that for a
+[00:11:30] second because I'm not sure people
+[00:11:31] understand who's paying for what right
+[00:11:33] now and who hasn't been paid and you
+[00:11:35] know
+[00:11:37] Etc there is um well as you say like a
+[00:11:40] lot of people are contributed to the
+[00:11:42] effort uh staring is the fundamental
+[00:11:45] communication backbone of the Ukrainian
+[00:11:47] uh government and and essential services
+[00:11:49] like First Responders and that kind of
+[00:11:50] thing um and you know is is used we we
+[00:11:54] hope peacefully relatively peacefully on
+[00:11:56] the warfront it is the only thing that
+[00:11:57] works on the warfront everything else is
+[00:11:59] been jamed by the Russians so it the
+[00:12:02] only thing that works not not one of the
+[00:12:05] [Applause]
+[00:12:10] things you know but but I think you have
+[00:12:13] to sort of think of say the you know um
+[00:12:17] you know taking the actual example of
+[00:12:18] Paul har and say like well how did that
+[00:12:21] work out for Japan it didn't work out
+[00:12:24] well at all right um because it was a a
+[00:12:28] tactical victory a strategic defeat it
+[00:12:31] enraged the American public um who sort
+[00:12:35] of naturally wanted Vengeance for for
+[00:12:37] the Z you know the Zach and I think that
+[00:12:40] that you know while I don't think it's
+[00:12:42] on the same scale that there was
+[00:12:43] certainly that potential of sort of a
+[00:12:46] many P Hava with results in a mass
+[00:12:49] escalation of uh hostilities um but not
+[00:12:54] this would this would not this would not
+[00:12:55] defeat Russia it would enrage Russia do
+[00:12:58] you Don do you donate the network or do
+[00:13:00] they pay you for
+[00:13:02] it
+[00:13:04] sorry yeah so um I'm actually not sure
+[00:13:07] what the final accounting is at this
+[00:13:09] point but uh I I I think at one point at
+[00:13:12] one point you calculated our sort of
+[00:13:15] cost of supporting things that roughly
+[00:13:16] $100 million now the $100 million does
+[00:13:18] not count um the mass of risk to the
+[00:13:21] entire Starling constellation uh because
+[00:13:24] uh Russia would like to have the entire
+[00:13:26] thing
+[00:13:27] deleted um
+[00:13:29] so uh you know nobody's compensating us
+[00:13:32] for that um and uh so if we were to get
+[00:13:36] say uh our control center were uh take
+[00:13:39] down and Cyber attack they you know they
+[00:13:42] command satellites to the
+[00:13:44] over um and destroy the entire system uh
+[00:13:47] or use anti satellite weapons um so you
+[00:13:52] know the these are this is a pretty
+[00:13:54] significant
+[00:13:56] risk um for which we have not received
+[00:13:58] any compensation and obviously would be
+[00:14:01] catastrophic to the entire stalling
+[00:14:03] system which is you know approaching $10
+[00:14:07] billion Elon do you think the current
+[00:14:09] government Administration saying hey 10
+[00:14:11] mil million and then actually I say one
+[00:14:14] of the BR meing things was as you as
+[00:14:18] you've seen there's there's a very large
+[00:14:20] amount of money that's been appropriated
+[00:14:21] for uh Ukraine you know I'm not sure
+[00:14:24] what the the total is at this point but
+[00:14:27] must be 100 close billion or somewhere
+[00:14:30] between 80 and 100 billion um you know
+[00:14:34] now all of the you know other sort of
+[00:14:37] providers us providers of support to
+[00:14:40] Ukraine are being paid so then why
+[00:14:43] should SpaceX be excluded that doesn't
+[00:14:45] make sense we we're doing one of the
+[00:14:48] most valuable things and yet are getting
+[00:14:50] the least money this
+[00:14:51] iser um but you know despite that we're
+[00:14:55] still happy to keep keep going and um
+[00:15:00] Elon does the Biden Administration have
+[00:15:02] it out for you and
+[00:15:04] why H what have gave you that idea
+[00:15:07] [Laughter]
+[00:15:09] yeah but let me ask you own and control
+[00:15:13] I don't if the whole Administration has
+[00:15:14] it out me I think there probably aspects
+[00:15:17] of the administration that are not uh or
+[00:15:21] or you know as aspects of you know
+[00:15:24] interests aligned with uh with with with
+[00:15:27] resent Biden who probably do not um wish
+[00:15:33] good things for me
+[00:15:35] um I don't know you know really what
+[00:15:37] their issue is but there does seem to be
+[00:15:41] um a significant increase in the
+[00:15:42] weaponization of government um
+[00:15:46] and
+[00:15:47] um I say really sort of misuse of
+[00:15:51] prosecutorial discretion in a many many
+[00:15:54] areas where and I think this is this is
+[00:15:56] really a dangerous thing for
+[00:16:00] um you know for I don't
+[00:16:05] know for that to be potis and politics
+[00:16:08] with with with government agencies it's
+[00:16:10] it's just
+[00:16:11] really and then I think from you know
+[00:16:15] from from say
+[00:16:17] uh you know Democratic party standpoint
+[00:16:20] or or say B Biden Administration
+[00:16:23] standpoint I think this is this the
+[00:16:25] danger here is that if
+[00:16:27] there's significant uh um must use
+[00:16:30] prosecutorial discretion let's say one
+[00:16:32] says okay everyone's equal under the law
+[00:16:34] yes but who are you who are you choosing
+[00:16:36] to
+[00:16:36] pursue um and if if you if you're
+[00:16:39] pursuing what what appeared to
+[00:16:41] Independent voters to be
+[00:16:44] uh trivial cases while ignoring serious
+[00:16:49] crimes um it's hard to imagine that a
+[00:16:52] lot of independent voters that's going
+[00:16:54] to win over thoughtful independent
+[00:16:56] voters did this did things change when
+[00:16:58] you bought
+[00:17:01] X yeah I think that they did change
+[00:17:04] somewhat um you know I I'll go with the
+[00:17:08] with with the sort of you know the
+[00:17:10] xplatform is really to be uh a Level
+[00:17:14] Playing Field a public square that is
+[00:17:18] supportive of um you know most of the
+[00:17:21] country let's say that the middle 80% or
+[00:17:23] something like that um
+[00:17:26] now um that's not been the case really
+[00:17:29] for all social media that all social
+[00:17:31] media have been really very very left
+[00:17:33] leading far left leading and really
+[00:17:35] Twitter was far left leading um you know
+[00:17:38] the the suspensions of of um s
+[00:17:41] Republican candidates or interests or
+[00:17:44] voices was was uh really at least 10
+[00:17:47] times the rate of of um suppression of
+[00:17:51] left left bring voices on you know on
+[00:17:54] all Twitter
+[00:17:56] um so so what what I'm trying to do is
+[00:18:00] move it to the middle which from
+[00:18:01] standpoint of say the left appears it is
+[00:18:05] moving to the right Everything's
+[00:18:07] Relative if you're standing on the
+[00:18:09] left but it's not it's simply moving to
+[00:18:12] the middle that's all um in an attempt
+[00:18:15] to actually represent the whole country
+[00:18:19] um and and not just um here half the
+[00:18:22] country or even maybe less than half the
+[00:18:24] country so that's it really so I think
+[00:18:27] there's like there's really to be
+[00:18:29] alarmed about here it's you know it's
+[00:18:31] just that it's intended to be a Town
+[00:18:34] Square inclusive of the whole country
+[00:18:36] and else you know and and the world
+[00:18:38] that's all it it's been um I guess you
+[00:18:41] took over um X Twitter on Halloween
+[00:18:45] weekend if I remember correctly uh when
+[00:18:48] you got to the building you got the keys
+[00:18:51] um and David and I were lucky to be
+[00:18:52] there with you when you got the keys and
+[00:18:54] we got to um check things out um this is
+[00:18:57] 10 months into a
+[00:18:59] turnaround uh and it wasn't a high
+[00:19:01] functioning organization I think when
+[00:19:03] you took it over where is the company at
+[00:19:05] now and are you pleased with I guess the
+[00:19:08] progress because it looks like new
+[00:19:10] features are getting launched the
+[00:19:11] product velocity is great uh obviously
+[00:19:14] advertising's been challenging but it
+[00:19:16] feels like there's some green shoots so
+[00:19:18] so how do you feel about the purchase
+[00:19:21] now yeah well I should say we recently
+[00:19:23] seen a significant increase in
+[00:19:25] advertising which is great um so that's
+[00:19:29] a you know if that Trend continues um I
+[00:19:32] think the company will be in in very
+[00:19:33] good Financial shape on the advertising
+[00:19:35] front um so that in terms of positive
+[00:19:38] developments that that seems to be one
+[00:19:40] of them um and um from a feature
+[00:19:45] standpoint I think those who are look
+[00:19:48] using the system I think we' I think we
+[00:19:51] might have delivered more new features
+[00:19:53] you know in the last I know a year than
+[00:19:55] in the last you know all tter did in 5
+[00:19:58] years
+[00:19:59] you know there there
+[00:20:00] really feature the feature development
+[00:20:03] pace is very
+[00:20:05] rapid um and this is being done with
+[00:20:07] really about 15% of the original company
+[00:20:12] um maybe a little more 15 20% um so it's
+[00:20:16] it's really you know efficient you know
+[00:20:20] at the end of the day you have to say
+[00:20:21] you know how complicated is a system uh
+[00:20:25] like the X Twitter platform um you know
+[00:20:29] how different is it from a group chat
+[00:20:31] frankly it's like a group chat at scale
+[00:20:33] um so he I don't think you need an army
+[00:20:37] to maintain a group chat
+[00:20:43] yeah
+[00:20:44] yeah I mean it's it's not the
+[00:20:47] self-driving platform and it had maybe
+[00:20:50] 10 times as many people working on it as
+[00:20:53] the self-driving platform at Tesla which
+[00:20:56] seems crazy the entire self-driving AI
+[00:21:00] software team is 200
+[00:21:02] people and the what they're doing is
+[00:21:04] much more complex than Twitter or you
+[00:21:07] know much a lot
+[00:21:09] more so you now there's other things
+[00:21:13] that obviously need to be done like
+[00:21:15] advertising sales um OB network
+[00:21:19] operations and um how can you talk to
+[00:21:22] it's really not it's not a it's not a
+[00:21:25] huge I don't like I said don't even know
+[00:21:27] me for for for what we're here and I
+[00:21:30] think you know the people that that are
+[00:21:32] um still the company are obviously being
+[00:21:35] very productive in uh creating and
+[00:21:38] deling new features um and um you know
+[00:21:42] we keep seeing sort of RedBoard usage
+[00:21:44] and the the know the most prous number
+[00:21:47] is really the is user seconds as
+[00:21:49] reported by the mobile device especially
+[00:21:52] iOS the the iOS uh what iOS reports as
+[00:21:57] the screen time is the
+[00:21:59] is the least gameful metric um and and
+[00:22:02] those numbers are exem are very good um
+[00:22:06] so you know I think I'm course justly
+[00:22:09] optimistic about where things are headed
+[00:22:11] and I I feel like the company's turned
+[00:22:14] just you know just recently turned turn
+[00:22:15] a corner um tell us about you know said
+[00:22:19] um at least moderate prosperity and and
+[00:22:21] hopefully significant tell us about um
+[00:22:25] the success of sharing Revenue why did
+[00:22:26] you do it and then just the the vision
+[00:22:29] you have for just the Creator economy
+[00:22:30] and what you want that to evolve into
+[00:22:32] and build
+[00:22:34] into yeah I mean it sounds to reason
+[00:22:36] that if if you're a Creator and you need
+[00:22:39] to um need to make a Livy for what
+[00:22:42] you're doing um so there's got to
+[00:22:45] be
+[00:22:47] um you know Fair compensation
+[00:22:49] competitive compensation for a Creator
+[00:22:52] whether they're doing you know WR their
+[00:22:55] writing or pictures video whatever the
+[00:22:57] case may be
+[00:22:59] um and uh so we're and we're so we're
+[00:23:03] not really in you know inventing
+[00:23:04] anything new here we're just you know as
+[00:23:06] YouTube does with creators they will do
+[00:23:08] rev show um with advertising and so
+[00:23:11] we're doing rev show with advertising um
+[00:23:14] we're also to have enabled direct
+[00:23:17] subscription to accounts where whatever
+[00:23:21] somebody you know you could be doing
+[00:23:23] audio video long form text anything and
+[00:23:25] you can subscribe to someone and um
+[00:23:28] that's you know OB that's way for a
+[00:23:30] subscriber to make a living as as well
+[00:23:32] you know for a Creator to make a living
+[00:23:34] so the intent is for the ACT platform to
+[00:23:37] be the best home for creators uh where
+[00:23:40] if you've got interesting content then
+[00:23:43] you you want to put it on a platform and
+[00:23:45] um you know there's a lot of questions
+[00:23:48] about like sort of the algorithm and
+[00:23:50] whatnot I I should mention like the the
+[00:23:51] algorithm is uh I think almost all of it
+[00:23:55] is open sourced and and we will uh I
+[00:23:57] think quite soon have the entire open
+[00:23:59] source uh the only reason I it really
+[00:24:01] hasn't been done entirely open source
+[00:24:03] yet is because we're somewhat
+[00:24:04] embarrassed with the code and need to
+[00:24:06] just clean it up before uh putting
+[00:24:09] something extremely embarrassing out
+[00:24:10] there but the point is that like we want
+[00:24:13] transparency boths trust and if you've
+[00:24:15] got um uh if you if you can recreate the
+[00:24:19] results um on the
+[00:24:21] xform of how viral a post is going to be
+[00:24:25] independently using the uh you know the
+[00:24:28] the public algorithm you know the H
+[00:24:30] algorithm um that that's really where we
+[00:24:32] want to get to um so you you kind of you
+[00:24:36] kind of know what to expect um and and
+[00:24:39] why something happened um now now I
+[00:24:42] should say the we are we are trying to
+[00:24:44] optimize for uh user time um on the
+[00:24:50] platform what this naturally means is
+[00:24:53] that um
+[00:24:55] posting content that someone looks at
+[00:24:57] longer
+[00:24:59] is going to get higher priority than
+[00:25:01] content that is
+[00:25:03] short uh just because the system is
+[00:25:05] trying
+[00:25:06] to Max it's it's aspiring to maximize uh
+[00:25:12] you unreg user remittance is what I call
+[00:25:14] it so like basically how do we um if
+[00:25:18] we're succeeding you want to spend more
+[00:25:20] time on the platform and you want to and
+[00:25:23] after having spent that time you don't
+[00:25:24] want to regret it um I mean speaking of
+[00:25:27] Tik Tok um
+[00:25:29] you know that's I've had a lot of people
+[00:25:31] tell me they spend a lot of time on Tik
+[00:25:32] Tok and they regret it um we don't want
+[00:25:35] to be we want it to be that you spend a
+[00:25:38] lot of time on the
+[00:25:39] xplatform and you learned a lot uh you
+[00:25:43] you're entertained and you don't regret
+[00:25:45] it so when you're optimizing for you
+[00:25:49] know user minutes and like I said
+[00:25:51] aspirationally under regretted use
+[00:25:52] minutes uh uh if you the more content
+[00:25:56] that you post on the system the more
+[00:25:58] reach that uh thing will get because the
+[00:26:01] system is saying oh those user is
+[00:26:04] spending more time in the platform
+[00:26:06] because they're they're you know seeing
+[00:26:07] say your podcast or uh reading um a long
+[00:26:11] form article or watching some video um
+[00:26:16] that's going to get a lot more time than
+[00:26:17] say if you if you link to a video
+[00:26:19] elsewhere or you link to an article
+[00:26:23] elsewhere that that that's just that
+[00:26:25] that that that means you'll you will be
+[00:26:26] on that post for a very short period of
+[00:26:28] time
+[00:26:29] and so the the system will be like okay
+[00:26:30] that did not increase uh user time so it
+[00:26:33] will it won't be excluded it it will get
+[00:26:35] less attention that than actually
+[00:26:38] posting content natively on the system
+[00:26:40] do you want to talk um
+[00:26:43] about uh the ADL and you uh sort of
+[00:26:47] where what the status of that is whether
+[00:26:49] you're pursuing a lawsuit or not or
+[00:26:51] where that
+[00:26:52] stands um I think we'll have to see
+[00:26:54] about that I
+[00:26:56] mean um
+[00:26:58] yeah I mean the fact of matter is that
+[00:27:00] ad did initiate a boycott they don't
+[00:27:03] call it a boycott they call it a pause
+[00:27:05] but you know po that is never ending
+[00:27:11] isot so and and and we just we saw a
+[00:27:15] massive drop in uh us advertising we saw
+[00:27:20] basically no change in advertising in
+[00:27:22] Asia but domestically with ADL is strong
+[00:27:25] we saw uh 60% drop in advertising so you
+[00:27:29] know that's uh pretty intense
+[00:27:32] um and um and this is despite you know
+[00:27:36] showing repeated uh analyses of the
+[00:27:39] system including third party analysis of
+[00:27:41] the system which actually showed that uh
+[00:27:44] the number of uh views of hateful
+[00:27:47] content uh
+[00:27:49] declined so you know the third parties
+[00:27:53] who have all the data analyz and said
+[00:27:55] actually there's less safe speech
+[00:27:58] um the issue I think with the ADL is not
+[00:28:01] a question of hate speech it's not a
+[00:28:03] question of any semitism obviously uh
+[00:28:06] it's that the ad um and a lot of other
+[00:28:08] organizations have become activist
+[00:28:11] organizations um which are acting far
+[00:28:14] beyond their uh stated mandate or their
+[00:28:17] original mandate and and I think far
+[00:28:19] beyond what donors to those
+[00:28:20] organizations think they are
+[00:28:22] doing um you know one of the things that
+[00:28:26] the a was extremely opposed to and in
+[00:28:29] fact was instrumental in in happening
+[00:28:31] was there the ad was instrumental in
+[00:28:32] getting um Donald Trump the platformed
+[00:28:36] um and then when we we you know we
+[00:28:38] restored the account um they they made
+[00:28:42] it super clear that they regarded simply
+[00:28:44] restoring his account on you know
+[00:28:47] Twitter now uh that that that
+[00:28:50] constituted hateful speech like he
+[00:28:52] hasn't even said anything you know um he
+[00:28:56] has to at least say something or post
+[00:28:58] something for there to be incremental
+[00:29:01] painful painful content this is absurd
+[00:29:04] um and what's this got to do with
+[00:29:05] anti-Semitism like you know Donald
+[00:29:08] Trump's son-in-law is Jewish his Jewish
+[00:29:09] gr I'm pretty sure he's not anti-semitic
+[00:29:12] okay um you know he's at the
+[00:29:15] wedding so um this this so so the
+[00:29:20] problem is that a lot of these um
+[00:29:22] organizations like said they've really
+[00:29:24] been captured by the W agenda and
+[00:29:25] they're they're pushing um you know
+[00:29:27] serious of beliefs and values that I
+[00:29:29] think are often contrary to their what
+[00:29:32] what they're done as belief and that's
+[00:29:35] uh that's what we have in the situation
+[00:29:37] well yeah I I'll note that the the two
+[00:29:39] positions that you've taken that have
+[00:29:41] brought the most heat on you number one
+[00:29:44] defending Free Speech number two
+[00:29:46] advocating peace and how dare
+[00:29:50] you how dare you how dare you and
+[00:29:54] there's there's an article like the
+[00:29:57] opposite world or something yeah we're
+[00:29:58] living in upside down World there
+[00:30:00] there's an article in today's New Yorker
+[00:30:02] calling you a super villain because
+[00:30:04] you're advocating peace and protecting
+[00:30:06] the first amendment I mean it's like
+[00:30:07] completely upside
+[00:30:10] down do you want people to eat their
+[00:30:13] vegetables you at this point you
+[00:30:15] literally cannot tell actual press from
+[00:30:19] parody
+[00:30:20] no like if that was a bon be or
+[00:30:24] onion no literally you're doing a you're
+[00:30:27] doing and and change the banner to you
+[00:30:30] know Babylon b or whatever onion or
+[00:30:31] something like that par some parody
+[00:30:33] thing and be like oh that's a good joke
+[00:30:36] you know um yeah super bones normally
+[00:30:38] advocate for peace that's you know of
+[00:30:40] course
+[00:30:42] um we want to get rid of all the nuclear
+[00:30:45] weapons hey um
+[00:30:49] hold that's uh what the funniest the
+[00:30:54] funniest skit that didn't make it on SNL
+[00:30:57] that we were worksh Shing was probably
+[00:30:59] woke James Bond and we wanted to do like
+[00:31:03] this woke James Bond
+[00:31:05] and Eli will tell you some of the jokes
+[00:31:08] it was pretty hilarious but then we were
+[00:31:10] just talking about a story that broke in
+[00:31:12] the guardian about the new James Bond
+[00:31:14] novel and short story is to woke and
+[00:31:17] it's literally the parody we did two
+[00:31:20] years ago uh Elon speaking of Peace we
+[00:31:24] had we had a grais reality also like the
+[00:31:28] you know the
+[00:31:30] uh you know conspiracy theories that
+[00:31:33] that that haven't come true list is you
+[00:31:35] know quite short
+[00:31:40] um sees that turn out quite short um and
+[00:31:43] we really need more conspiracies
+[00:31:45] generated because we're running out of
+[00:31:47] to find the
+[00:31:47] [Laughter]
+[00:31:50] truth okay check off is accurate um so
+[00:31:55] uh I don't know who's the you know
+[00:31:57] responsible these conspiracy theories
+[00:31:59] but but you know we just need some more
+[00:32:02] material paging Alex Jones Elon we had
+[00:32:05] Graham Alison here today I know you
+[00:32:06] talked about his book we had Ray Doo
+[00:32:09] here we had Ro kna um and we talked a
+[00:32:12] lot about China the US relationship with
+[00:32:14] China you are you have several
+[00:32:16] businesses that have deep supplier and
+[00:32:18] customer relation uh ships in China
+[00:32:21] given what's going on and clearly the
+[00:32:22] tenor has changed the the mood has
+[00:32:25] changed with respect to US policy
+[00:32:27] towards China
+[00:32:28] what it's like in DC what it's like in
+[00:32:29] Silicon Valley and how everyone talks
+[00:32:31] about the relationship with China today
+[00:32:33] it's pretty crazy how quick things have
+[00:32:34] changed um as a business leader with all
+[00:32:38] these business relationships with China
+[00:32:40] how do you make decisions and and how
+[00:32:41] things are changing and how do you think
+[00:32:43] about where this is
+[00:32:45] headed sure well I mean let's just
+[00:32:47] clarify here um you know SpaceX has no
+[00:32:51] uh SpaceX of Starling have no in China
+[00:32:55] whatsoever they're not they're not
+[00:32:56] allowed you know SpaceX does launch uh
+[00:33:00] China satellites and starlink is abandon
+[00:33:04] in China so to be clear SpaceX starlink
+[00:33:06] zero business in China um uh in the case
+[00:33:11] of of Tesla uh one of our of our four
+[00:33:15] vehicle factories uh one is in uh China
+[00:33:20] so um you know it's a it's a significant
+[00:33:23] car market uh but it is uh you know so
+[00:33:27] what I'm trying to say is like the by
+[00:33:29] far the bulk of of my business interests
+[00:33:31] if if I I would peing MTI which I Aspire
+[00:33:34] not to be um are Outsider China let's
+[00:33:37] just be clear about that um then with
+[00:33:40] respect to now that said I think I
+[00:33:43] understand China well I've been there
+[00:33:45] many times I've met with uh the senior
+[00:33:47] leadership um at many levels of China
+[00:33:50] for for many years and so I I think I've
+[00:33:53] got a pretty good understanding um at
+[00:33:56] least as an outsider of ch so and and
+[00:33:59] Tesla has been very successful
+[00:34:00] domestically in China
+[00:34:03] so
+[00:34:04] um you know the fundamental thing here
+[00:34:07] is is really Taiwan um
+[00:34:11] the China has well really since uh for
+[00:34:16] like half a century or so uh maybe
+[00:34:19] longer at this point longer at this
+[00:34:20] point their policy has been to to um s
+[00:34:25] reunite Taiwan with China uh from this
+[00:34:28] standpoint you know it may be just
+[00:34:29] analogous to like Hawaii or or something
+[00:34:31] like that like an integral part of China
+[00:34:34] that is arbitrarily not part of China um
+[00:34:38] mostly because of the US stop has us
+[00:34:42] Pacific Fleet has stopped uh any any
+[00:34:45] sort
+[00:34:46] of um reunification effort force um so
+[00:34:52] now really things getting to the point
+[00:34:55] um increasingly year-over year uh where
+[00:34:58] China's military strength is increasing
+[00:35:00] and ours is more or less uh
+[00:35:02] static and strategically you know you
+[00:35:05] can imagine trying to defend Taiwan is
+[00:35:09] not not easy because it's it's very
+[00:35:11] close to the coast of China um so there
+[00:35:15] will come a point if you know Pro
+[00:35:18] probably not not too distant future
+[00:35:20] where China's military strength in that
+[00:35:23] region far ex exceeds US military
+[00:35:25] strength in that region and
+[00:35:28] if one is to take uh China's policy
+[00:35:31] literally and probably one should um
+[00:35:34] then there will be some
+[00:35:36] forceful uh for forceful beuse for you
+[00:35:41] know uh to incorporate Taiwan into
+[00:35:44] China this is what they've said um that
+[00:35:48] if if there is not a diplomatic solution
+[00:35:50] there will be a solution by force let me
+[00:35:54] um if I can and so really what's going
+[00:35:57] on here you've seen you know this in in
+[00:35:59] many areas and I think this Tempo is
+[00:36:01] going to increase is that you know both
+[00:36:05] China and the US are preparing for a
+[00:36:10] potential
+[00:36:12] Showdown uh you know in the South China
+[00:36:14] CA
+[00:36:16] so um that's why you're seeing
+[00:36:19] increasing restrictions on export of us
+[00:36:21] technology to China uh but such as the
+[00:36:24] the Nvidia you know the Nvidia h100s
+[00:36:27] being and you not allow to ship to China
+[00:36:30] um and I think there'll be more and more
+[00:36:31] you you also not not allow to ship
+[00:36:33] Advanced ship making equipment to China
+[00:36:36] um
+[00:36:37] so and I suspect you know you know China
+[00:36:39] is going to respond with some reciprocal
+[00:36:41] sanctions um and you'll I think you'll
+[00:36:43] see this kind of a TI T reciprocal
+[00:36:46] sanctions increasing in the next next
+[00:36:48] few years so I think quite a very uh hot
+[00:36:52] temperature um and then we'll see this
+[00:36:56] is there going to be a a diplomatic
+[00:37:00] solution to uh re reunification or a
+[00:37:04] non- diplomatic solution you uh but has
+[00:37:08] made it clear that there will one way or
+[00:37:10] another be a solution from their
+[00:37:12] standpoint Yeah you mentioned uh Nvidia
+[00:37:14] so let me just talk about Ai and bring
+[00:37:17] it back to that for a second can you
+[00:37:18] tell us um your regrets but also the
+[00:37:24] positives of the experience you had with
+[00:37:26] open Ai and then what your goals are
+[00:37:27] with
+[00:37:33] X well the AI discussion is is certainly
+[00:37:36] a long one or could be a long one
+[00:37:46] um you know digital super
+[00:37:49] intelligence that might be the most
+[00:37:51] significant technology that Humanity
+[00:37:53] ever creates um and and it has the
+[00:37:56] potential to be more dangerous than and
+[00:37:58] um nuclear weapons
+[00:38:01] so
+[00:38:06] um you know in the case of creating
+[00:38:07] opening eye it was to have there not be
+[00:38:10] a unipolar world where um Google with
+[00:38:14] its subsidary deat mine uh you know
+[00:38:17] would control an overwhelming amount of
+[00:38:19] AI talent and compute and and resources
+[00:38:24] um which then is somewhat dependent on
+[00:38:27] basically how
+[00:38:28] how Larry paage U and serge BR um and
+[00:38:33] Eric believe things should go because
+[00:38:35] they they between three of them or two
+[00:38:36] out of three have control over alphabet
+[00:38:40] because they've got super voting rights
+[00:38:42] and um you know I was quite based on
+[00:38:45] some conversations I had with lar paig
+[00:38:47] uh where um you know you call me a
+[00:38:51] species for being pro
+[00:38:53] humanity and
+[00:38:55] um so I'm like what side of you on there
+[00:38:58] you know
+[00:39:00] uh
+[00:39:02] um you know I think and uh so so I felt
+[00:39:05] like
+[00:39:06] uncomfortable um having the entire
+[00:39:09] future of digital super intelligence be
+[00:39:11] in the hands of someone who equ a
+[00:39:12] species for being pro Humanity
+[00:39:15] um you know how can it not be uh so
+[00:39:20] that's opening eye was originally
+[00:39:22] created as an open source nonprofit and
+[00:39:25] now is a close to be it should be
+[00:39:28] renamed closed for Max no profit AI
+[00:39:32] um it is it is closed um and they are
+[00:39:35] aiming to I think make try to make a100
+[00:39:37] billion I think according to
+[00:39:40] S get $100 billion from somewhere for
+[00:39:43] some vast amount of compute uh to create
+[00:39:46] digital god um apparently all the waste
+[00:39:50] are stored in a common separated value
+[00:39:51] file by the way so our dig God will be a
+[00:39:54] CSV
+[00:39:55] file how do we import
+[00:39:58] it file
+[00:40:01] import um see what happens um
+[00:40:06] so so anyway so so now
+[00:40:11] opening uh is also very closely line
+[00:40:14] with Microsoft you know Microsoft is
+[00:40:16] really you um the open servers are
+[00:40:19] running on in Azure and Microsoft data
+[00:40:21] centers you know so really what you have
+[00:40:24] is I think at the end of day Microsoft
+[00:40:26] having more control than open AI they
+[00:40:28] have access to all the source code they
+[00:40:30] have access to all the weights of the um
+[00:40:33] you know gb4 and future versions so they
+[00:40:36] have all rights to this to to thing it's
+[00:40:38] not
+[00:40:40] um at any point really they could cut
+[00:40:42] off open AI I don't think open AI quite
+[00:40:44] realizes that the dependence on on
+[00:40:48] Microsoft and even if Microsoft does
+[00:40:49] break some contract they'll just be tied
+[00:40:51] up in litigation for you know for years
+[00:40:54] um so really you've got
+[00:40:57] a contest between kind of like Google
+[00:41:01] and Microsoft Google as mentioned I'm
+[00:41:04] concerned about you know uh sorry not
+[00:41:07] not caring enough about AI safety and um
+[00:41:11] good reason and then Microsoft just is
+[00:41:14] is a I think you know a profit seeking
+[00:41:17] organization um and I you know I think
+[00:41:20] such is great but um I I can't say like
+[00:41:24] you know that it would difficult to to
+[00:41:26] say that that m has a has an amazing
+[00:41:28] track record and moral decision-
+[00:41:32] making so um
+[00:41:38] diplomatic anyway so so so was like okay
+[00:41:41] look let's just so I think let's try to
+[00:41:44] create a third company that is
+[00:41:47] competitive I I I do think Tesla is
+[00:41:49] underated from an AI standpoint in terms
+[00:41:51] of real world AI Tesla has the best real
+[00:41:54] world AI
+[00:41:56] so uh you know hopefully between uh xai
+[00:42:00] and Tesla there's kind of a third
+[00:42:03] Contender or would you look you've done
+[00:42:07] you open source your patents at Tesla
+[00:42:10] you are very Pro open source your source
+[00:42:12] code at X would you ever considering
+[00:42:14] releasing dojo and FSD more as a
+[00:42:17] platform substrate for everybody else or
+[00:42:19] that's sort of off the table right
+[00:42:21] now
+[00:42:23] well I don't know if that's uh you know
+[00:42:26] in the case of say Dojo or our inference
+[00:42:31] Hardware that's in the car our inference
+[00:42:33] inference computer which is actually a
+[00:42:35] lot lot more comp than Dojo by the way
+[00:42:38] um you know we've got I know somewhere
+[00:42:41] in the order of 4 million cars that have
+[00:42:43] um highp speeded Ai and Par computers in
+[00:42:46] them
+[00:42:48] um like open sourcing chip designs
+[00:42:51] doesn't mean you you suddenly get that
+[00:42:52] thing yeah you know
+[00:42:55] so um
+[00:43:00] you can open open source the software
+[00:43:02] but I think chip designs
+[00:43:03] it's only ones that could actually use
+[00:43:07] those chips or really kind of yeah would
+[00:43:11] be some someone that's willing to spend
+[00:43:14] many billions of dollars on um on a
+[00:43:18] computer development
+[00:43:21] so anyway I think I think in the case of
+[00:43:24] uh you know don't saying Optimus is
+[00:43:26] really
+[00:43:27] interesting um any I think just in
+[00:43:31] general Tesla is uh one of the most
+[00:43:35] leading AI companies um and in some
+[00:43:37] respects the leading AI company when it
+[00:43:39] comes to real real world AI
+[00:43:42] understanding the real world and and
+[00:43:44] actually reacting to that with
+[00:43:46] self-driving
+[00:43:48] um and so and I think that will become
+[00:43:50] part of the the solution for AGI or
+[00:43:53] general super intelligence so
+[00:43:58] um in the case of Tesla I think we've
+[00:44:00] got a sort of a good governance
+[00:44:03] structure in that there's no super
+[00:44:04] voting rights or anything like that so
+[00:44:06] if I'm you know go crazy the CH of Tesla
+[00:44:10] can vote me out um you know I have
+[00:44:14] enough vote to be you know I think
+[00:44:16] moderately influential but not enough to
+[00:44:18] stay in even if I'm doing crazy stuff so
+[00:44:21] I think that's actually good
+[00:44:25] um great
+[00:44:27] um I was told we have to wrap him at oh
+[00:44:29] okay uh just on FSD before we wrap I'll
+[00:44:31] let you go um we were talking earlier
+[00:44:34] this year and you said uh hey maybe chat
+[00:44:37] GPT 4.0 like moment for self-driving was
+[00:44:41] coming and uh I've I've been playing
+[00:44:43] with the beta and um yeah how how close
+[00:44:47] does it feel to you because it it some
+[00:44:50] of the rides it's been doing for me are
+[00:44:52] pretty darn impressive the latest beta
+[00:44:55] is pretty incredible yeah it's pretty
+[00:44:57] pretty neat I you know I used to love it
+[00:44:58] on the highways and on the streets I'd
+[00:45:00] be like okay but now I'm using it
+[00:45:02] increasingly on the streets so where do
+[00:45:04] you how do you feel about it right now
+[00:45:06] and I I guess you made a lot of
+[00:45:08] predictions on it over the years um but
+[00:45:11] it it does feel like it's getting pretty
+[00:45:13] close yeah I think it's I think it's
+[00:45:15] very close to uh you know being in a
+[00:45:18] situation where even if there's no human
+[00:45:20] oversight or intervention that the
+[00:45:21] probability of uh a safe journey is is
+[00:45:24] higher with FSD and no supervision like
+[00:45:28] even if you're seep of the car than if
+[00:45:30] the person is driving um we're very
+[00:45:33] close to that you know those that have
+[00:45:36] the FSD beta which really anyone could
+[00:45:39] get at this point um
+[00:45:42] so
+[00:45:43] the the the miles we see driven under
+[00:45:46] the FSD beta currently are much safer
+[00:45:49] than the miles that are driven without
+[00:45:50] it so um that's uh you know that's
+[00:45:54] that's already very good milestone
+[00:45:58] um but you know you can just see that
+[00:46:01] it's getting better and better like um
+[00:46:03] if you see if you compare the uh you
+[00:46:06] know FS beta today versus 6 months ago
+[00:46:09] versus you know a year ago versus 18
+[00:46:12] months ago it's really the Improvement
+[00:46:14] is
+[00:46:14] dramatic um and um we've got the final
+[00:46:19] piece of the puzzle which is to have the
+[00:46:22] control part of the car uh transition
+[00:46:24] from about 300,000 lines of C++ code to
+[00:46:28] also neural network so the you know the
+[00:46:31] whole system will be neural net in your
+[00:46:33] network um phons into controls out and
+[00:46:38] and that that that's kind of the final
+[00:46:39] piece of the puzzle for fullop driving
+[00:46:42] being significantly better than human W
+[00:46:44] awesome uh thanks for taking the time
+[00:46:46] buddy uh fly safe and I'll see you
+[00:46:48] shortly uh ladies and gentlemen Elon
+[00:46:52] mus thanks bud
+[00:46:55] [Applause]
+[00:46:55] [Music]
+[00:47:02] and instead we open sources to the fans
+[00:47:04] and they've just G
+[00:47:06] [Music]
+[00:47:14] crazy
+[00:47:17] Bes myg taking
+[00:47:20] [Music]
+[00:47:22] driveway oh
+[00:47:24] man we should all just get a room just
+[00:47:27] have one big huge orgy cuz they're all
+[00:47:29] useless it's like this like sexual
+[00:47:30] tension that they just need to release
+[00:47:33] [Music]
+[00:47:38] Som we need to get
+[00:47:41] [Music]
+[00:47:47] merch I'm going all
+[00:47:50] [Music]

@@ -1,0 +1,768 @@
+[00:00:00] [Music]
+[00:00:01] welcome to FYI the four-year Innovation
+[00:00:04] podcast this show offers an intellectual
+[00:00:07] discussion on technologically enabled
+[00:00:09] disruption because investing in
+[00:00:10] Innovation starts with understanding it
+[00:00:13] to learn more visit ark-invest
+[00:00:17] [Music]
+[00:00:23] docomo this podcast is for informational
+[00:00:26] purposes only and should not be relied
+[00:00:28] upon as a basis for investment decisions
+[00:00:30] it does not constitute either explicitly
+[00:00:32] or implicitly any provision of services
+[00:00:34] or products by Ark all statements made
+[00:00:36] regarding companies or Securities are
+[00:00:37] strictly beliefs and points of view held
+[00:00:39] by Arc or podcast guests and are not
+[00:00:41] endorsements or recommendations by Arc
+[00:00:43] to buy sell or hold any security clients
+[00:00:46] of Arc Investment Management May
+[00:00:47] maintain positions in the Securities
+[00:00:49] discussed in this
+[00:00:51] [Music]
+[00:00:53] podcast welcome back to FYI today we're
+[00:00:55] thrilled to be here in Fremont with Elon
+[00:00:57] Musk I have with me Kathy Wood AR invest
+[00:01:00] OG innovator and CEO and I'm that was
+[00:01:04] until
+[00:01:05] today like that's yeah it's your new
+[00:01:08] title and I'm I'm Tasha keeni I'm an
+[00:01:12] analyst and I cover autonomous cars at
+[00:01:13] ARC Elon thanks for joining us today
+[00:01:16] you're welcome get to join you have a
+[00:01:18] great radio voice doesn't she this is
+[00:01:21] why we CH her it's like Eerie she has no
+[00:01:24] it's we chose Tasha to be our
+[00:01:28] introduction for FY this is called FYI
+[00:01:31] for your Innovation that's our weekly
+[00:01:33] podcast and Tasha there was a
+[00:01:35] competition in the office and Tasha won
+[00:01:38] as the best radio voice okay makes sense
+[00:01:41] maybe I should I'll try talking in a
+[00:01:43] radio voice see if that
+[00:01:46] works I also want to thank you Elon
+[00:01:49] we're very excited to do this uh one of
+[00:01:51] the reasons I started Arc is because
+[00:01:54] Innovation is being completely mispriced
+[00:01:57] in the public markets as the public
+[00:01:59] markets go passive yeah totally agree
+[00:02:03] Anis totally John Bogel who's awesome
+[00:02:06] May rest in peace uh like when it's last
+[00:02:08] comment was like the there there's too
+[00:02:10] much the passive index funds are too big
+[00:02:12] and he was a guy that really you know
+[00:02:14] obviously came up with the you know the
+[00:02:15] low fee Index Fund yes so it's and the
+[00:02:19] other thing that's happening again a
+[00:02:21] problem for innovation in the public
+[00:02:23] markets is the big public asset managers
+[00:02:27] they started looking for innovation in
+[00:02:29] the pre IPO space right so you know
+[00:02:33] where we operate is inefficiently priced
+[00:02:36] like I've never seen in my career most
+[00:02:40] people looking at our portfolios would
+[00:02:41] not agree because our PE ratios to this
+[00:02:44] year next year look very high but we
+[00:02:47] want companies like Tesla to be
+[00:02:49] investing aggressively to capitalize on
+[00:02:53] the massive opportunities we see ahead
+[00:02:55] so we thank you for not going private
+[00:02:59] yeah
+[00:03:00] because we do think if you are going to
+[00:03:03] achieve your goals you need to be public
+[00:03:06] to scale that quickly and to enjoy the
+[00:03:09] kind of exponential growth that you will
+[00:03:12] enjoy because you're on the right side
+[00:03:13] of change so we're really excited to be
+[00:03:16] here now what we're not going to talk
+[00:03:17] about too much is electric vehicle sales
+[00:03:21] and certainly not production right right
+[00:03:23] because we believe and just want to get
+[00:03:25] your highlevel reaction to this based on
+[00:03:28] and this is based on Sam is battery work
+[00:03:31] cost decline some of the um amazing
+[00:03:34] things you're doing with battery pack
+[00:03:35] systems new chemistries and so forth the
+[00:03:38] cost declines if we were relying on that
+[00:03:40] analysis alone we would see ev sales
+[00:03:44] given the price elasticity of demand
+[00:03:46] increased from 1.3 million last year to
+[00:03:49] 26 million in 2023 so in five years so
+[00:03:54] that's a 20-fold increase if the battery
+[00:03:57] capacity were there and so and
+[00:03:58] production capacity
+[00:04:00] what do you think about that that would
+[00:04:02] be the high Lev assumption top down
+[00:04:06] sounds about right sounds about right
+[00:04:08] wow so that's a about a third of total
+[00:04:11] Global sales at that time I mean you
+[00:04:14] might be off by a year or two but not by
+[00:04:17] much that's huge now for our bottomup
+[00:04:20] modeling we we're very conservative so
+[00:04:23] the range that we are out there in terms
+[00:04:26] of our bare bull range 700 to 4,000 that
+[00:04:29] is is based on 1 Point Tesla selling
+[00:04:33] 1.6 million units in that year which
+[00:04:37] given our top- down analysis and given
+[00:04:40] how far you are ahead of any other auto
+[00:04:44] manufacturer and any other technology
+[00:04:46] company that 1.6 million is increasingly
+[00:04:51] looking way too conservative if you can
+[00:04:54] scale to take the proper amount of share
+[00:04:58] or the share you should take given how
+[00:05:00] advanced you are so maybe you could give
+[00:05:02] us some of your thoughts there yeah I
+[00:05:03] want to emphasize that if I give
+[00:05:05] estimates these are really there's a lot
+[00:05:07] of guess work here and especially on an
+[00:05:09] exponential curve a year or two
+[00:05:11] difference makes is is enormous O say we
+[00:05:13] got a lot of criticism for the number of
+[00:05:16] cars we delivered in 2017 because if you
+[00:05:18] say like the area under the curve of
+[00:05:21] production in 2017 was quite small
+[00:05:24] because it was the beginning of an
+[00:05:26] exponential ramp but then once that got
+[00:05:28] going the area under the C was enormous
+[00:05:30] and that's why people were so shocked I
+[00:05:32] I kept trying to say this but they
+[00:05:34] people didn't understand I guess what an
+[00:05:35] exponential means or they don't they're
+[00:05:38] all linear thinkers yes yes exactly so
+[00:05:42] like last year we basically doubled our
+[00:05:44] Global
+[00:05:45] Fleet cumulatively we made and delivered
+[00:05:48] more as about about as many cars as we
+[00:05:51] had made in our entire history I know
+[00:05:53] right exactly you guys know but I'm just
+[00:05:56] put the audience out there most people
+[00:05:58] thought it was impossible yeah yes and
+[00:06:00] if you do a linear extrapolation it
+[00:06:02] certainly would be but when making
+[00:06:04] estimates against an exponential small
+[00:06:07] changes in the the calendar breakpoint
+[00:06:11] um have enormous percentage differences
+[00:06:15] the time difference is small but the
+[00:06:17] percentage difference is enormous I'm
+[00:06:19] just I'm saying things that you guys
+[00:06:20] know but it's this is for the broader
+[00:06:23] audience out there yes yes no we want
+[00:06:25] this yes we want people to understand
+[00:06:27] this right like getting to 5,000 cars
+[00:06:30] Peak production per week was offset by
+[00:06:33] approximately six months from my initial
+[00:06:35] estimate last year so I thought we'd be
+[00:06:37] there end 2017 it took us 6 months
+[00:06:40] longer in the grand scheme I think 6
+[00:06:42] months late uh for a massive new program
+[00:06:44] is not much but this was characterized
+[00:06:47] in the press in terms of the percentage
+[00:06:49] of units and instead of a calendar shift
+[00:06:51] and so it was perceived as a massive
+[00:06:54] shortfall where in fact it was merely a
+[00:06:56] six-month delay and when I give these
+[00:06:58] say my yes is for the future if you move
+[00:07:02] 6 months or 12 months these numbers are
+[00:07:05] can be 50 to 100% different so but if
+[00:07:08] you say like what's my guess for 2021 is
+[00:07:12] one and a half million cars for Tesla
+[00:07:14] something like that1 and 2023 which is
+[00:07:17] that 26 million if we knew only the cost
+[00:07:20] decline associated with batteries 2023
+[00:07:23] number if we're right could be 26
+[00:07:26] million but it really it's it's actually
+[00:07:28] dependent on what you do more than
+[00:07:30] almost any and what China does and what
+[00:07:33] you do in China again just guess
+[00:07:36] probably we do 3
+[00:07:38] million so very exciting times ahead
+[00:07:41] that's way above what anyone is thinking
+[00:07:44] out there and even above what we have
+[00:07:46] assumed bottom up just to remain
+[00:07:49] conservative because we already seem a
+[00:07:51] little out there in terms of our
+[00:07:53] expectations so what we wanted to do
+[00:07:56] with this podcast is spend more time on
+[00:07:59] your autonomous strategy we're very
+[00:08:02] happy that retail investors are asking
+[00:08:05] questions about this on your call we
+[00:08:07] wish more institutional institutional
+[00:08:10] investors would understand how important
+[00:08:13] this is not only to your model but how
+[00:08:15] it's going to change your valuation from
+[00:08:17] that of from today to really software as
+[00:08:21] a service almost so yes so maybe sorry
+[00:08:24] did you yeah no absolutely you can sort
+[00:08:26] of think of uh our cars maybe long term
+[00:08:29] as is being effectively carriers for the
+[00:08:31] autonomy this autonomy software yes so
+[00:08:34] it's like they a vehicle literally and
+[00:08:36] figuratively for
+[00:08:38] autonomy the software that rides on them
+[00:08:41] yes yes so Tasha has been doing a lot of
+[00:08:44] our work on uh autonomous taxi networks
+[00:08:47] we've been working on these models for
+[00:08:49] five years and it's extended into
+[00:08:52] autonomous truck platoon into partiel
+[00:08:55] drones and uh passenger drones so so
+[00:08:59] we're very focused on this and would
+[00:09:02] love to explore it a little bit more
+[00:09:04] with you in terms of what you're doing
+[00:09:06] Tasha yeah so my first question is you
+[00:09:08] know Tesla wasn't always pursuing fully
+[00:09:10] autonomous driving if you look back in
+[00:09:12] 2013 there's a couple quotes from you
+[00:09:14] saying you know that last 10% is
+[00:09:16] incredibly hard and you need to keep a
+[00:09:18] human in the loop what's changed your
+[00:09:20] mind I still think the last 10% is of
+[00:09:23] autonomy is extremely difficult or or
+[00:09:24] even the last 1% of autonomy is really
+[00:09:26] difficult I think there's like a couple
+[00:09:27] things that would be helpful to
+[00:09:28] calibrate uh with with the audience and
+[00:09:30] if I may go back to to one thing like
+[00:09:32] generally like for example if I say we
+[00:09:35] will reach 5,000 cars a week what I mean
+[00:09:37] is that's that's the peak production but
+[00:09:39] then just just reference when if you
+[00:09:42] have Peak production of X then you're
+[00:09:43] going to be like somewhere between 80
+[00:09:45] and 85% of of that for average
+[00:09:47] production through the quarter uh when
+[00:09:49] taking public holidays um and equipment
+[00:09:52] maintenance into account then also for
+[00:09:54] in defining autonomy or for self-driving
+[00:09:58] I I think we will be feature complete
+[00:10:00] full self-driving this year meaning the
+[00:10:02] car will be able to find you in a
+[00:10:05] parking lot pick you up take you all the
+[00:10:08] way to your destination without an
+[00:10:11] intervention this year I would say that
+[00:10:13] I am certain of that that is not a
+[00:10:15] question mark however people sometimes
+[00:10:18] will extrapolate that to mean now it
+[00:10:21] works with 100% certainty requiring no
+[00:10:24] observation perfectly this is not the
+[00:10:26] case once it is feature complete then
+[00:10:28] you're sort of of kind of the march of
+[00:10:31] nines like how many nines of reliability
+[00:10:34] do you do you want it to be and then
+[00:10:35] when do Regulators agree that it is that
+[00:10:38] that is that reliable so there's feature
+[00:10:41] complete with full self-driving this
+[00:10:43] year with certainty this is something
+[00:10:45] that we control and I manage autopilot
+[00:10:47] engineering directly every week in
+[00:10:50] detail so I'm I'm certain of this then
+[00:10:53] when will Regulators allow us even to
+[00:10:56] have these features turned on with uh
+[00:10:59] human oversight that that's a variable
+[00:11:01] which we we have limited control over
+[00:11:03] then it's when will Regulators agree
+[00:11:05] that that these things could be done
+[00:11:06] without human oversight that is another
+[00:11:10] level beyond that so these are
+[00:11:12] externalities we don't quite control and
+[00:11:15] the conservatism of regulators varies
+[00:11:17] cons a lot from one jurisdiction to
+[00:11:20] another my guess as to when we would
+[00:11:23] think it's safe for somebody to
+[00:11:26] essentially fall asleep and wake up the
+[00:11:28] destination probably towards the end of
+[00:11:30] next year that's that's when when I
+[00:11:33] would think it's most likely it will be
+[00:11:34] safe enough for that I don't know when
+[00:11:36] Regulators will agree do you think
+[00:11:38] they'll agree in China first could you
+[00:11:41] imagine that happening China really
+[00:11:43] wants to Leap Frog the rest of the world
+[00:11:46] and as you've said the the mayors of
+[00:11:49] cities and presumably The Regulators are
+[00:11:52] techsavvy because that's what's going to
+[00:11:54] get them there we've generally found The
+[00:11:57] Regulators in China to be very
+[00:11:59] thoughtful quite smart yeah I've really
+[00:12:01] found them to be very good we've also
+[00:12:03] found the us at a federal level to be
+[00:12:06] very good as well California can be a
+[00:12:08] little overzealous but US Federal China
+[00:12:11] Federal it's good Europe is a little
+[00:12:13] conservative in this regard yeah we
+[00:12:15] we've heard sort of similar things about
+[00:12:16] Europe that the environment's moving a
+[00:12:18] little bit slower there interesting so I
+[00:12:20] mean this is an amazing technological
+[00:12:22] feat what gives you the confidence that
+[00:12:23] this is a solvable problem and then why
+[00:12:26] should Tesla be the one to solve this
+[00:12:28] well I well I think it's helpful to
+[00:12:30] clarify with people think sometimes that
+[00:12:32] I'm like a business person or Finance
+[00:12:35] person or something like that I I'm an
+[00:12:36] engineer I do engineering always have so
+[00:12:39] I mean I wrote software for like 15
+[00:12:42] years 20 years and I understand
+[00:12:44] technology and software at quite a
+[00:12:45] fundamental level I know what we need to
+[00:12:47] solve to make full self driving future
+[00:12:49] complete I think we've got an extremely
+[00:12:52] good technical team I I think we really
+[00:12:55] have the best people it's an honor to
+[00:12:57] work with them I'm certain that we will
+[00:13:00] get this done this year so can I ask you
+[00:13:02] about autopilot so to what degree is
+[00:13:05] consumer use of autopilot important in
+[00:13:08] terms of furthering along the process
+[00:13:10] because it seems like you know not every
+[00:13:12] consumer is going to use it it might
+[00:13:14] vary person to person should you sort of
+[00:13:16] incentivize people to use it maybe Auto
+[00:13:18] initiate is that even possible well here
+[00:13:20] I think we're talking about quality of
+[00:13:22] the data is that what you're talking
+[00:13:23] about the data that you're getting
+[00:13:24] because you can monitor all the data but
+[00:13:26] the quality with autopilot is superior I
+[00:13:29] would imagine the advantage that we have
+[00:13:31] that I think is very difficult to
+[00:13:32] overcome is that we have just a vast
+[00:13:35] amount of data on interventions so
+[00:13:38] effectively the customers are training
+[00:13:40] the system on how to drive and there are
+[00:13:43] millions of corner cases they're so
+[00:13:45] obscure and weird you wouldn't believe
+[00:13:47] it I mean there's there's different Road
+[00:13:48] markings different rules in different
+[00:13:50] countries different expectations you've
+[00:13:52] got rain snow sleet hail you know
+[00:13:56] hurricanes floods fires smoke
+[00:14:00] dust it's insane I know but we've got
+[00:14:03] cars in almost all really in all those
+[00:14:05] environments and so we every time
+[00:14:08] somebody intervenes takes over from
+[00:14:10] autopilot it saves that information on
+[00:14:13] and uploads it to our system we don't
+[00:14:15] know which car it was or how what happen
+[00:14:17] you know there's no individual
+[00:14:19] attribution for the car we just know
+[00:14:20] that that intervention took place and
+[00:14:22] then we see what is required to fix that
+[00:14:24] intervention and and we're really
+[00:14:26] starting to get quite good at not even
+[00:14:28] requiring human labeling basically the
+[00:14:30] person say drives the intersection we
+[00:14:33] know then and is thereby training
+[00:14:36] autopilot what to do right right do you
+[00:14:40] think one of the questions we debate a
+[00:14:42] lot when we look at what wa happenings
+[00:14:45] what is happening at weo and cruise
+[00:14:47] automation is that it seems as though
+[00:14:51] the artificial intelligence or deep
+[00:14:53] learning or deep reinforcement learning
+[00:14:54] that you're using you know is
+[00:14:57] probabilistic they seem to be more
+[00:14:59] deterministic in their approach because
+[00:15:01] we're just looking at what's going wrong
+[00:15:03] there and that's what that suggests do
+[00:15:06] does that what yeah essentially an
+[00:15:08] heuristics approach to this uh will
+[00:15:11] result in a local maximum of capability
+[00:15:15] so not a global maximum I think you
+[00:15:18] really have to apply a sophisticated
+[00:15:20] neural net to achieve a global maximum
+[00:15:23] and this is why the Reliance on lar is
+[00:15:25] unwise it gets you to a certain point
+[00:15:26] but no further and so basically a series
+[00:15:28] of then L statements and light R is not
+[00:15:30] going to solve it forget it your game
+[00:15:32] over you have to solve Vision perception
+[00:15:35] essentially understanding and with
+[00:15:37] vision and then it's solved you don't
+[00:15:39] need anything else no other sensors at
+[00:15:42] all I mean we drive cars with basically
+[00:15:44] two cameras that aren't very good and on
+[00:15:47] a gimbal that doesn't move very fast and
+[00:15:49] a professional driver will almost NE
+[00:15:51] have almost never have an accent yeah
+[00:15:54] very interesting
+[00:15:56] yeah yeah you know a lot of the time we
+[00:15:58] get a lot of push back in this idea of
+[00:16:00] data and sort of what data is more
+[00:16:02] important than others I guess maybe
+[00:16:04] highlight for us like a I mean Tesla has
+[00:16:07] more real real world miles than anyone
+[00:16:09] else by far I think we must have more
+[00:16:12] than everyone else maybe 100 times more
+[00:16:15] than everyone else you said 5% I think
+[00:16:17] on you you said they have alt together
+[00:16:19] 5% of it's probably closer to 1% okay I
+[00:16:24] mean that's amazing so there must be
+[00:16:26] sort of events that are specific to
+[00:16:28] Tesla in there there that no one else
+[00:16:30] has I guess could you sort of talk about
+[00:16:31] some of that uniqueness I think it's
+[00:16:33] just really the the long tale of weird
+[00:16:35] events the million weird situations you
+[00:16:37] know all sorts of weather conditions all
+[00:16:39] kinds of road conditions situations
+[00:16:41] where the road rules aren't even
+[00:16:42] followed like they're not they don't
+[00:16:44] always followed like you know say
+[00:16:46] somebody working on the road might make
+[00:16:47] a mistake and then suddenly you've got a
+[00:16:50] situation where there no Road cones uh
+[00:16:52] or there's a big hole in the road or
+[00:16:53] something really nutty or completely
+[00:16:57] strange object that's on the road that's
+[00:16:58] not recognized so it's really the the
+[00:17:02] the reason TS I think is making rapid
+[00:17:04] progress is because we have vastly more
+[00:17:05] data and this is increasing
+[00:17:08] exponentially with as our Fleet is
+[00:17:10] increasing exponentially our data is
+[00:17:11] increasing exponentially then I think
+[00:17:14] we've got like say the best technical
+[00:17:15] team and although I've brought it up
+[00:17:17] before people don't seem to really be uh
+[00:17:19] taking note of the fact that the Tesla
+[00:17:21] autopilot AI computer is a about to role
+[00:17:24] into production you know anyone who's
+[00:17:26] ordered full self-driving will will get
+[00:17:28] that play we'll get that for free it's
+[00:17:30] really you know I've said it past like
+[00:17:32] maybe it's like a order of magnitude
+[00:17:34] improvement over the Nvidia system that
+[00:17:36] we have but it's really more like over
+[00:17:38] 2,000% yeah our analyst on AI deep
+[00:17:42] learning spent nine years at Nvidia and
+[00:17:46] concluded that you were at least three
+[00:17:48] years just looking initially at the
+[00:17:50] specs at least three years ahead of
+[00:17:52] anybody else out there any other auto
+[00:17:55] manufacturer yeah and we started the
+[00:17:57] chip program about three years ago
+[00:17:59] because it it just seems as though we we
+[00:18:00] would want to advance making things if
+[00:18:03] you want to have a complex neural
+[00:18:04] network you need a combination of
+[00:18:06] software and Hardware um and your
+[00:18:07] software needs to be that much better in
+[00:18:10] order to compensate for Hardware if the
+[00:18:12] hardware is weaker you know if feel like
+[00:18:13] sort of like say have video games and
+[00:18:14] how they've progressed It's a
+[00:18:15] combination of software and and Hardware
+[00:18:17] no amount of clever software could
+[00:18:19] produce a video game on Old Hardware
+[00:18:21] that you have today just doesn't matter
+[00:18:23] you know so same thing with neural Nets
+[00:18:25] so right now we can process on the order
+[00:18:28] of you know 100 frames a second and we
+[00:18:31] really need to do a lot of work in terms
+[00:18:33] of cropping the frames and sort of
+[00:18:36] bending the pixels and uh not going to
+[00:18:39] full resolution on all cameras and that
+[00:18:41] kind of thing with the current Hardware
+[00:18:43] we're at full frames full resolution
+[00:18:46] with the with the Tesla Hardware all
+[00:18:47] cameras at Full Resolution full frames W
+[00:18:50] that's crazy still hasn't Tapped Out
+[00:18:52] yeah so is the amount of compute
+[00:18:55] processing power that you need for full
+[00:18:57] autonomy fixed or would you have to
+[00:18:58] upgrade this every two years how do you
+[00:19:00] think about that well I mean I do think
+[00:19:02] that we could we can achieve we could in
+[00:19:05] principle achieve full autonomy with the
+[00:19:07] Nvidia Hardware but it's a much harder
+[00:19:09] software problem and like you like you s
+[00:19:11] really have to try to budget your
+[00:19:12] compute and do all sorts of tricks to
+[00:19:16] manage how you use your compute so it's
+[00:19:18] a harder software problem with um
+[00:19:21] Hardware that's you know 2,000% better
+[00:19:23] you just you don't have to do that that
+[00:19:24] constant budgeting and so the soft
+[00:19:26] software problem is much easier so like
+[00:19:28] I I think with the current hardware and
+[00:19:30] a lot of effort we could we could get to
+[00:19:31] full stop driving with maybe maybe being
+[00:19:34] like 50 to 100% safer than a person but
+[00:19:36] with Hardware 3 I think it's probably
+[00:19:38] like a th% safer than a person are you
+[00:19:41] presenting this to The Regulators do
+[00:19:43] they understand this do they want to
+[00:19:45] understand this I think they'll they
+[00:19:47] understand data so if we show you know
+[00:19:49] billions of miles with a given safety
+[00:19:51] level then they will they s appreciate
+[00:19:53] that I mean somebody saying like hey
+[00:19:54] we've got this really fast computer and
+[00:19:56] everything's going to work it's like
+[00:19:57] well you know that's just statement like
+[00:19:59] but if you got hard data billions of
+[00:20:01] miles and you can show the accident rate
+[00:20:03] and the intervention rate and that
+[00:20:05] essentially it's unsafe if you don't
+[00:20:07] have autopilot on right which I think
+[00:20:09] really it's unequivocal at this point no
+[00:20:12] matter how you slice slice the data it
+[00:20:14] is unequivocal that's this point that
+[00:20:16] it's safer to have autopilot on the the
+[00:20:18] data comment you just made we were uh
+[00:20:21] very interested that The Regulators
+[00:20:23] after they examined the first fatality I
+[00:20:26] think it was the the data the data
+[00:20:28] around the first fatality that they just
+[00:20:31] swung in your favor I think it was
+[00:20:33] shocking and I'm surprised more people
+[00:20:35] haven't uh really Tak a note of that
+[00:20:38] yeah there is a a phenomenon that we
+[00:20:40] that we noticed that would that would
+[00:20:41] happen essentially it's like if you yeah
+[00:20:44] people just get get overconfident with
+[00:20:46] the system even though we repeatedly
+[00:20:47] warn them you must pay attention to the
+[00:20:49] road like literally every time you use
+[00:20:51] autopilot it says You must pay attention
+[00:20:53] to the road you must keep your hands on
+[00:20:54] the wheel every single time you use it
+[00:20:56] it says this and if you take your hands
+[00:20:58] off the for too long it will start
+[00:21:00] beeping at you and then slow down and
+[00:21:01] that kind of thing so anyway so it's
+[00:21:03] just but really at this point this this
+[00:21:05] just flat out no question that it's
+[00:21:06] safer was you know like I would
+[00:21:09] recommend it to to anyone it's just
+[00:21:12] getting better so yeah so have you
+[00:21:14] noticed a change in the regulatory
+[00:21:16] environment are you feeling sort of more
+[00:21:17] confident than previously or is this
+[00:21:19] sort of you know it's still such an open
+[00:21:21] question that I mean Tesla's in a really
+[00:21:23] unique position because you have the
+[00:21:25] data to show them so it almost seems
+[00:21:27] like you know you could be having sort
+[00:21:28] of more advanced conversations about
+[00:21:30] sort of proving that safety level I
+[00:21:31] guess what are your what are your
+[00:21:33] thoughts right now we're with a few
+[00:21:35] exceptions we are not being held back by
+[00:21:38] Regulators is that a us comment or is it
+[00:21:41] Global I mean it's there are a few
+[00:21:44] jurisdictions in the world that are more
+[00:21:46] conservative right now it's it's I would
+[00:21:48] not uh say that we're held back by
+[00:21:50] Regulators in minor ways like for
+[00:21:52] example like we expect to I think get
+[00:21:55] the latest autopilot approval navigate
+[00:21:56] on autopilot I think is getting get
+[00:21:58] approved in Europe next week or
+[00:22:00] something like that but this is these
+[00:22:01] are tiny delays and the grand scheme of
+[00:22:03] things doesn't really matter yeah that's
+[00:22:05] great and so as you think about sort of
+[00:22:07] this development of autonomous driving
+[00:22:09] and and the rollout strategy you know
+[00:22:11] Tesla is not taking this other approach
+[00:22:12] that say weo and and others are doing
+[00:22:14] going City by City you're going to do a
+[00:22:16] wider roll out there's still sort of I
+[00:22:19] don't know if you want to call it Geo
+[00:22:20] fening but there's you know it's you
+[00:22:22] start with highways and then you go sort
+[00:22:23] of off Highway and then are you going to
+[00:22:25] go country by country or or sort of how
+[00:22:27] are you thinking of this evolving in
+[00:22:29] terms of sort of the full steps to I
+[00:22:32] guess to get to full autonomy you know
+[00:22:33] are you then tackling intersections are
+[00:22:35] you sort of adding Feature Feature
+[00:22:36] Feature and then country by country yeah
+[00:22:39] we start off with with highr because
+[00:22:41] that tends to be the what actually
+[00:22:42] matters the most if like if particularly
+[00:22:44] if you're stu stuck in traffic and stop
+[00:22:46] and go traffic it's very painful and it
+[00:22:49] has the most benefit to have autonomy on
+[00:22:52] freeways which are usually congested in
+[00:22:54] almost every city in the world so in
+[00:22:56] fact myself and others doing is that
+[00:22:59] even if there's a shorter way home you
+[00:23:01] still take the highway because you can
+[00:23:03] use autopilot I stopped using ways for
+[00:23:05] example just like you know was take the
+[00:23:07] highway cuz then I have autopilot on you
+[00:23:08] know going through a bunch of windy
+[00:23:10] streets versus which is kind of like a
+[00:23:13] lot of mental overhead as opposed to
+[00:23:15] just sitting in the highway and cruising
+[00:23:16] along is is is better so we're generally
+[00:23:18] got gone with okay what's going to add
+[00:23:20] the most value to people also you know
+[00:23:22] highway accidents seems to be higher
+[00:23:24] velocity and so more potentially more
+[00:23:26] dangerous like fatalities is are very
+[00:23:27] proportionate to speed below as speed
+[00:23:30] it's very difficult to hurt yourself or
+[00:23:33] die in particularly in a Tesla b a speed
+[00:23:36] it's it's more dangerous so it's it's
+[00:23:37] like okay where where can it be most
+[00:23:39] helpful from a convenience and a safety
+[00:23:41] standpoint so we focus on highways for
+[00:23:43] that reason then intersections are the
+[00:23:46] next thing and some of them that they
+[00:23:48] have a lot of variance in
+[00:23:50] intersections so that's what you know
+[00:23:52] we're working right now and you know
+[00:23:53] it's it's working at a development level
+[00:23:55] no problem recognizing stop signs and
+[00:23:57] and traffic lights but you do get
+[00:23:59] ambiguity in some complex intersections
+[00:24:01] with traffic lights like which one's the
+[00:24:02] light the right light to focus on even
+[00:24:04] if you're a person it's not always clear
+[00:24:06] so that that's what we're working on
+[00:24:08] there so we'll try to make that work in
+[00:24:09] the US and then we'll extend that
+[00:24:11] functionality elsewhere so in like
+[00:24:14] highways in Europe are different
+[00:24:15] particularly when you deal with Corner
+[00:24:17] cases so we're kind of making it work in
+[00:24:20] like Norway is a priority for us because
+[00:24:22] we've got a lot of customers there and I
+[00:24:24] think we're close to having that ready
+[00:24:26] Netherlands Germany Switzerland and I
+[00:24:29] guess one general question what do you
+[00:24:30] think of letting other automakers build
+[00:24:32] on Tesla's platform I mean generally we
+[00:24:35] found it's like quite it's not it's not
+[00:24:37] easy to work with traditional automakers
+[00:24:39] it's not like first well they're not
+[00:24:40] exactly banging down our door to work
+[00:24:42] with us nobody took you up on your
+[00:24:43] patents your I think they have actually
+[00:24:46] really yeah on the patents they have
+[00:24:49] that's very different from say creating
+[00:24:50] an integrated system like like so you
+[00:24:53] know if there was a autom make there
+[00:24:55] that wanted to implement the same
+[00:24:58] hardare system as as Tesla and and use
+[00:25:00] our software I we would be very open to
+[00:25:02] it but we're not going to change it what
+[00:25:04] tend to happen is they want to work with
+[00:25:05] us but then they'll say oh but we want
+[00:25:06] you to change the following like six
+[00:25:08] things like no because it's going to
+[00:25:10] slow us down massively yeah and and so
+[00:25:12] we know it's like if you want to use
+[00:25:14] exactly our thing that's fine but then
+[00:25:15] they don't want to use exactly our thing
+[00:25:17] we're open to other automakers using a
+[00:25:19] supercharge Network we're open to them
+[00:25:21] to using using our autopilot system they
+[00:25:23] just need to make it work without a ton
+[00:25:25] of overhead on Tesla engineering
+[00:25:27] absolutely the right right thing to do I
+[00:25:29] have a little bit of a different
+[00:25:30] question for the it's a little bit off
+[00:25:32] topic but it's in the news or it's
+[00:25:35] becoming more in the news uh so it's
+[00:25:36] about crypto crypto assets crypto you
+[00:25:39] know um crypto seriously CH seriously
+[00:25:43] seriously very seriously I think you and
+[00:25:45] Jack dorsy have chatted a bit recently
+[00:25:48] about this right Bitcoin and ethereum
+[00:25:50] scammers were so rampant on on Twitter
+[00:25:53] that i i s of just join
+[00:25:55] in like said like 1.1 buy some
+[00:25:59] Bitcoin yeah and then I got my account
+[00:26:03] got
+[00:26:04] suspended cuz obiously had like some
+[00:26:06] automatic rule that if you try to sell
+[00:26:08] Bitcoin or something and I was just
+[00:26:11] joking yeah yeah so my question is a
+[00:26:15] little it's a it's a little different
+[00:26:17] from cryptocurrencies although given
+[00:26:19] your history in the payments ecosystem
+[00:26:21] it would be very interesting to know if
+[00:26:24] you agree with Jack and there is going
+[00:26:26] to be one native uh crypto CTO currency
+[00:26:29] when it comes to the internet he thinks
+[00:26:31] it's Bitcoin it's interesting I have
+[00:26:33] some friends of mine that are really
+[00:26:35] involved in crypto I mean I think like
+[00:26:37] the britcoin structure was quite
+[00:26:38] brilliant yeah it seems like there aarit
+[00:26:40] to ethereum as well and maybe some of
+[00:26:42] the others but you know I'm not sure
+[00:26:44] it's like I'm not sure that it's would
+[00:26:46] be a good use of T A resources to get
+[00:26:47] involved in crypto I mean we're really
+[00:26:50] just trying to accelerate the advance of
+[00:26:51] sustainable energy and I mean I think
+[00:26:54] actually one of the downsides of crypto
+[00:26:55] is that computationally it's like quite
+[00:26:57] energy intense
+[00:26:59] so like there had to be some kind of
+[00:27:00] constraint on the creation of crypto so
+[00:27:03] but it's very energy intensive to create
+[00:27:05] like the incremental Bitcoin at this
+[00:27:07] point yeah but at the by the same time
+[00:27:09] there were $1.3 trillion dollar worth of
+[00:27:12] transactions in Bitcoin and we don't see
+[00:27:15] it here because it's not for pizza or
+[00:27:17] Coke it's business to business in
+[00:27:21] Africa but we think it is business to
+[00:27:24] business in Africa where it is
+[00:27:26] prohibitively expensive to convert from
+[00:27:29] one nation's currency to another you
+[00:27:32] have to go through the dollar and that I
+[00:27:33] mean it really is very important to it's
+[00:27:36] money over IP for them it's free
+[00:27:38] transmission of money and that's really
+[00:27:40] important to opening up the world and
+[00:27:42] you know you know it bypasses currency
+[00:27:45] controls yes yeah yes yeah yes it's it's
+[00:27:50] well
+[00:27:51] and paper money is going away yes and
+[00:27:54] crypto is a far better way to transfer
+[00:27:57] value than than pieces of paper that's
+[00:27:59] for sure without a doubt that has its
+[00:28:01] pros and cons just to clarify Tesla's
+[00:28:04] not going to start selling Bitcoin
+[00:28:05] anytime not okay you heard it here first
+[00:28:08] even though everyone thought that no so
+[00:28:11] no well we we thank you so much for
+[00:28:13] doing this and thank you for just doing
+[00:28:16] what you're doing to change the world
+[00:28:17] and make it a better place you know
+[00:28:19] that's what we're doing in terms of it
+[00:28:20] no seriously I always think of Silicon
+[00:28:22] Valley that you know
+[00:28:24] comedy have you seen that that show
+[00:28:26] pretty funny I'm sure didn't it's like
+[00:28:29] literally every
+[00:28:31] company pretty often
+[00:28:33] yeah oh that's what people say like
+[00:28:35] literally every company okay well but
+[00:28:37] you're really doing it and you're really
+[00:28:38] doing making the world a better place by
+[00:28:40] Social Mobile crypto this is this is so
+[00:28:44] different this is so different we
+[00:28:46] totally agree with you yeah so yeah no
+[00:28:48] you're doing the real thing cool so
+[00:28:50] thank you
+[00:28:52] thanks Arc believes that the information
+[00:28:54] presented is accurate and was obtained
+[00:28:55] from sources that Arc believes to be
+[00:28:57] reliable however Arc does not guarantee
+[00:28:59] the accuracy or completeness of any
+[00:29:01] information and such information may be
+[00:29:03] subject to change without notice from
+[00:29:04] Arc historical results are not
+[00:29:06] indications of future results
+[00:29:10] [Music]

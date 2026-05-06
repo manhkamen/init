@@ -1,0 +1,1464 @@
+[00:00:00] - Hi, it's me, Tim Dodd, the Everyday Astronaut.
+[00:00:02] Welcome to part two of my tour of SpaceX's Starbase Factory
+[00:00:05] with the ultimate tour guide, Elon Musk.
+[00:00:08] If you haven't watched Part One,
+[00:00:09] you obviously need to watch that
+[00:00:11] because there's just gobs of information.
+[00:00:13] And in this part, we're actually going to go
+[00:00:15] inside the three main assembly tents,
+[00:00:18] which is incredible!
+[00:00:20] And just like last time, we have a map
+[00:00:22] that will occasionally pop up,
+[00:00:23] courtesy of Ring Watchers on Twitter,
+[00:00:25] that'll help you understand where exactly
+[00:00:27] we are in the factory.
+[00:00:29] We also have the YouTube play bar
+[00:00:30] broken up into certain sections.
+[00:00:32] We have links to those sections below, too.
+[00:00:34] And we have an article up on our website
+[00:00:36] that has some key points and takeaways of this conversation.
+[00:00:39] The link and the description is below for that
+[00:00:41] at www.everydayastronaut.com.
+[00:00:43] All right, let's go check out some Raptor engines.
+[00:00:45] So, by the way, I think there's a good chance
+[00:00:47] that ITAR and COMS might not want all this-
+[00:00:50] - Oh, yeah, just...
+[00:00:53] It just can't be any more than people
+[00:00:55] are already getting from- - [Tim] That's true.
+[00:00:57] - Telephoto lenses.
+[00:00:58] - [Tim] That, which is pretty much everything.
+[00:01:00] - And frankly, if some fool wants
+[00:01:01] to copy this design, go for it.
+[00:01:03] (Tim laughs)
+[00:01:06] I mean, Raptor 2 is a giant improvement over this.
+[00:01:09] - [Tim] What's the big simplifications
+[00:01:11] you're hoping to have?
+[00:01:15] - Well, maybe I shouldn't tell you all the secrets.
+[00:01:17] (Tim laughs)
+[00:01:20] We have funny things on the...
+[00:01:23] We've got Pikachu over there.
+[00:01:24] - [Tim] (laughs) I love that.
+[00:01:26] - [Elon] Hello again.
+[00:01:27] - [Tim] Hello again.
+[00:01:28] So that probably, I assume that means it's flown.
+[00:01:29] Is that a flown one? (Elon laughs)
+[00:01:32] - I don't know if this one's been flown.
+[00:01:35] - [Tim] Geez.
+[00:01:36] This really does look like
+[00:01:37] that thing with all the NK33s.
+[00:01:39] Those videos of- - Yeah, yeah, exactly.
+[00:01:41] Engines that came back from the cold.
+[00:01:43] - [Tim] Yes, seriously.
+[00:01:45] It literally looks like that.
+[00:01:46] This is insane.
+[00:01:49] Man, that wrap vent is big.
+[00:01:52] Geez.
+[00:01:53] - Yeah, I won't tell you all the secrets.
+[00:01:55] (Tim laughs)
+[00:01:56] You'll be able to see the difference very clearly.
+[00:01:59] - [Tim] Okay. - And I guess,
+[00:02:01] since the engines are...
+[00:02:03] It's hard to have people not see them.
+[00:02:04] - [Tim] Yeah. - They will...
+[00:02:08] The Raptor 2 is visibly cleaner than Raptor 1.
+[00:02:14] This sort of maze of plumbing and wiring
+[00:02:16] doesn't exist on Raptor 2. - [Tim] Although,
+[00:02:17] it's already slimmed down a ton from like-
+[00:02:19] - Yeah, it used to look like a frickin' Christmas tree.
+[00:02:22] - [Tim] (laughs) Yeah.
+[00:02:23] - You couldn't even see the engine
+[00:02:24] for all the stuff that was around it.
+[00:02:25] - [Tim] No, you really couldn't.
+[00:02:26] And now it's like, especially around the turbines and stuff,
+[00:02:28] and the free burners, I mean, that used to be a whole,
+[00:02:31] there's sensors every two millimeters.
+[00:02:34] - [Elon] Yes.
+[00:02:35] - [Tim] So, Rap-Vac or Raptor-Vac has it's own
+[00:02:39] regen channel on the extension, it looks like.
+[00:02:41] - [Elon] Yeah.
+[00:02:42] That's a steel tube wall, raised steel tube wall.
+[00:02:47] - [Tim] That looks great.
+[00:02:48] And it has a different profile, too,
+[00:02:49] that actually looks like the initial exit.
+[00:02:53] Is there a different throat in it and everything?
+[00:02:55] Or is it? - [Elon] No.
+[00:02:55] Throat's the same. - [Tim] Throat's the same?
+[00:02:56] - It's just the part after the throat.
+[00:03:01] The diverging section has different angles.
+[00:03:04] Basically it's following a rail counter
+[00:03:06] for a higher expansion ratio.
+[00:03:07] - [Tim] Yeah, yeah.
+[00:03:08] What is the expansion ratio again?
+[00:03:09] Is it like 150 or something?
+[00:03:10] - No.
+[00:03:13] Man, I think we were...
+[00:03:15] So this is actually,
+[00:03:17] I think we were around 80-ish.
+[00:03:20] - [Tim] Oh, okay.
+[00:03:22] - But we wanna get to, we wanna do a little bit better.
+[00:03:25] Maybe 90.
+[00:03:30] - [Tim] 'Cause you're already getting like,
+[00:03:31] 380 ISP out of that thing, aren't you?
+[00:03:33] Or I mean, sorry, yeah, 380.
+[00:03:36] - 380's the aspirational number.
+[00:03:38] - [Tim] Okay.
+[00:03:41] - But we should be able, I think we will get like 377
+[00:03:44] or 378. - [Tim] Okay, okay.
+[00:03:46] And how are those coming along?
+[00:03:48] It looks like obviously you've got a third one here.
+[00:03:51] You've obviously made at least three.
+[00:03:53] - [Elon] Yeah.
+[00:03:56] - [Tim] S-20's gonna have three.
+[00:03:59] - [Elon] Yes. - [Tim] Yes.
+[00:04:03] Geez.
+[00:04:06] - All the engines will have the same pumps
+[00:04:10] and thrust-chamber assembly.
+[00:04:13] It's really just building it one,
+[00:04:16] sort of one variant that has a big nozzle
+[00:04:18] and one variant that doesn't have
+[00:04:20] thrust vector control actuators.
+[00:04:22] - [Tim] Okay, okay.
+[00:04:24] And that's gonna be the difference between the R boost
+[00:04:27] and the? - Yeah.
+[00:04:28] I mean, it's basically the same engine,
+[00:04:31] minus PVC. - [Tim] Gotcha.
+[00:04:35] So, the outer shells that you're working on for the GSE
+[00:04:39] are 12 meters. - There's a Raptor
+[00:04:41] without the stuff; looks practically naked.
+[00:04:43] - [Tim] (laughs) you're like,
+[00:04:45] actually that's secretly version two.
+[00:04:46] It's super simple. No. - [Elon] Version two will look
+[00:04:48] a bit like that actually. - [Tim] Really?
+[00:04:49] - [Elon] It's very tight.
+[00:04:50] - [Tim] Really?
+[00:04:51] - [Elon] Yeah. - [Tim] I mean, again,
+[00:04:53] when you look at some of those Soviet engines,
+[00:04:54] they were also incredibly simple looking.
+[00:04:57] I'm guessing they just obviously didn't have 'em
+[00:04:58] wired to the gills with electronics, though, either.
+[00:05:00] You know? - They didn't.
+[00:05:02] They simply didn't, back in those days,
+[00:05:04] they did not have good electronics.
+[00:05:05] - [Tim] Right. - So there's nothing to-
+[00:05:07] - [Tim] There's nothing to wire up.
+[00:05:08] - Yeah. - [Tim] Yeah.
+[00:05:10] How much, I feel like you iterate this quite a bit
+[00:05:13] and remind people that it's,
+[00:05:15] failure kind of is an option.
+[00:05:18] Why do you think people are so afraid to fail?
+[00:05:20] And why do you embrace it?
+[00:05:21] How do you teach that culture even, that it's okay?
+[00:05:25] When you're not even trying to like...
+[00:05:26] You know, SN-8 is a perfect example.
+[00:05:28] You weren't trying to do a mission.
+[00:05:31] You're just trying to get data out of the thing.
+[00:05:32] - Yeah.
+[00:05:35] We have just a fundamentally different optimization
+[00:05:37] for Starship versus say, like the polar extreme
+[00:05:42] would be Dragon.
+[00:05:43] Dragon, there can be no failures ever.
+[00:05:45] Everything's gotta be tested
+[00:05:48] six ways to Sunday.
+[00:05:50] There has to be tons of margin.
+[00:05:53] There can never be a failure ever for any reason whatsoever.
+[00:05:56] - [Tim] Yeah.
+[00:06:01] - That's extreme conservatism.
+[00:06:05] Then Falcon is a little less conservative.
+[00:06:07] It is possible for us to have, say,
+[00:06:09] a failure of the booster on landing.
+[00:06:11] That's not the end of the world.
+[00:06:12] - [Tim] Right.
+[00:06:15] - And then for Starship, it's like the polar opposite
+[00:06:18] of Dragon: we're iterating rapidly in order to create
+[00:06:22] the first ever fully reusable rocket, orbital rocket.
+[00:06:28] And fully and rapidly reusable.
+[00:06:30] Reusable in a way that is like an aircraft.
+[00:06:35] Rapidly reusable rockets.
+[00:06:37] - [Tim] It's a big deal. - Yeah.
+[00:06:40] That's the fundamental Holy Grail
+[00:06:44] for
+[00:06:46] making life multi-planetary.
+[00:06:48] - [Tim] where do you think the Space Shuttle failed
+[00:06:50] in being, and definitely rapidly would be a word
+[00:06:53] you've got to scratch off the list-
+[00:06:56] - Yeah, definitely not rapid.
+[00:06:58] - [Tim] But where do you think it failed?
+[00:06:59] And where do you think...
+[00:07:00] What lessons have you learned that you know
+[00:07:02] you're not going to be making on Starship?
+[00:07:05] - The Space Shuttle had almost no room for iteration
+[00:07:07] because there were people on board.
+[00:07:10] So you couldn't be blowing up shuttles.
+[00:07:12] So that's a big problem.
+[00:07:16] - [Tim] They did very, very little.
+[00:07:18] - Very little.
+[00:07:19] In fact, a lack of iteration was the problem.
+[00:07:21] Because a lot of the issues they were aware of,
+[00:07:25] but people were too afraid to make change.
+[00:07:27] - [Tim] 'Cause the design froze.
+[00:07:29] - Yeah, 'cause it's like...
+[00:07:33] Yeah.
+[00:07:34] I mean, there was a risk/reward asymmetry.
+[00:07:38] So, big punishment for, if you make a change
+[00:07:41] and something goes wrong, big punishment.
+[00:07:43] If you make a change and it goes right, small reward.
+[00:07:46] - [Tim] Yup, yup.
+[00:07:47] - So, the issues with the O-ring
+[00:07:51] and then with the
+[00:07:55] insulation coming off and hitting the wing,
+[00:07:59] they had seen this before.
+[00:08:00] - [Tim] Yeah, they were known.
+[00:08:01] - They were known issues.
+[00:08:07] Because it had worked before,
+[00:08:08] they're like, well, it worked before.
+[00:08:12] Russian roulette works before.
+[00:08:15] - [Tim] Right.
+[00:08:16] (chuckles) Oh God.
+[00:08:17] - [Elon] Look, I've pulled the trigger so many times.
+[00:08:20] There must be no bullets
+[00:08:21] in this gun. - [Tim] It must be no problem.
+[00:08:22] - [Elon] Yeah.
+[00:08:23] Anyway, it's hard to iterate, though,
+[00:08:26] when people are on every mission.
+[00:08:28] You can't just be blowing stuff up
+[00:08:30] 'cause you're gonna kill people.
+[00:08:33] Starship does not have anyone on board
+[00:08:34] so we can blow things up.
+[00:08:36] That's really helpful.
+[00:08:37] - [Tim] Do you have any considerations yet
+[00:08:39] on any kind of launch escape?
+[00:08:41] Are you just hoping that by the time you put people on it,
+[00:08:42] you've flown it say 100, 200 times,
+[00:08:44] and you're familiar with all the failure modes,
+[00:08:46] and you've mitigated it to a high degree of confidence.
+[00:08:49] Or what's your? - Yeah.
+[00:08:51] Larger scale, I think is...
+[00:08:53] Yeah, you basically just need to fly a lot
+[00:08:58] and have a lot of redundancy.
+[00:09:00] So if you lose an engine on the booster,
+[00:09:03] it doesn't matter basically.
+[00:09:05] If you lose multiple engines it shouldn't matter.
+[00:09:10] And you should be able to lose an engine
+[00:09:11] on the ship and everything's okay.
+[00:09:17] Launch escape is basically just protecting you
+[00:09:20] for the ascent phase.
+[00:09:22] And actually most launch escape systems
+[00:09:24] only protect you for a small part of the ascent phase.
+[00:09:28] 'Cause the typical launch escape system
+[00:09:29] is a solid rocket motor on the tip of the capsule,
+[00:09:33] which then has to be...
+[00:09:36] - [Tim] It has to be jettisoned.
+[00:09:37] - It has to be jettisoned on every mission.
+[00:09:39] So, if it's not jettisoned, the crew dies.
+[00:09:41] - [Tim] That's a failure mode, right there.
+[00:09:42] - That's a failure mode.
+[00:09:43] So you have a state change post liftoff, which is bad.
+[00:09:47] Then because the damn thing's so heavy,
+[00:09:49] they also can't carry it all the way to orbit.
+[00:09:51] So, they'll typically jettison
+[00:09:54] the escape system shortly after second stage ignition
+[00:09:58] or final stage ignition.
+[00:10:02] So that you don't have escape all the way to orbit even.
+[00:10:04] Now, at least with Dragon,
+[00:10:06] we have escape all the way to orbit.
+[00:10:08] So that's, I think, a safety improvement.
+[00:10:12] There's no escape system coming back to Earth.
+[00:10:16] That's doesn't exist. - [Tim] Right.
+[00:10:18] - And then, you can't have an escape system
+[00:10:20] on the Moon or on Mars. - [Tim] Or on Mars.
+[00:10:22] Yep. - Yeah.
+[00:10:25] You can't have something pop off and then have shoots drop.
+[00:10:27] There's no atmosphere. - [Tim] Right, right, right.
+[00:10:29] - And then Mars has a very low density atmosphere.
+[00:10:32] So, it'll just hit the ground supersonic.
+[00:10:35] Not gonna save you.
+[00:10:37] So, the ship has to be safe enough
+[00:10:40] for people without an escape system,
+[00:10:43] because otherwise you can't go to the Moon,
+[00:10:45] can't go to Mars. - [Tim] Right, right.
+[00:10:46] So you might as well- - Kind of pointless
+[00:10:48] to do it on Earth.
+[00:10:49] Just fly it a lot. - [Tim] Right.
+[00:10:51] And I never really thought about that.
+[00:10:54] You're gonna be flying so much without fear
+[00:10:57] of retribution of failure,
+[00:10:58] that unlike the Shuttle, like you mentioned,
+[00:11:00] I just never really considered that, you know?
+[00:11:02] (tools whirring)
+[00:11:04] - [Elon] Yeah.
+[00:11:08] - [Tim] So, let's see.
+[00:11:12] What?
+[00:11:14] Oh, those are the vacuum mounts, aren't they?
+[00:11:17] - Yeah.
+[00:11:18] - [Tim] Wow, that's cool! - Yeah.
+[00:11:21] I mean, this sort of stuff,
+[00:11:24] it's very much version one. - [Tim] Yep.
+[00:11:29] - It'll be a lot better with the next iteration.
+[00:11:31] - [Tim] Well, a lot of people will ask me,
+[00:11:34] hey, I want to start a YouTube video.
+[00:11:35] Where do I start?
+[00:11:36] And I'll be like, start, you just have to start.
+[00:11:39] And I kind of feel like this is a similar philosophy.
+[00:11:42] It's like, you're not going to know what's wrong
+[00:11:44] or how to make it better until you do it
+[00:11:46] at least once anyway, you know?
+[00:11:49] - Yes. - [Tim] And you just simply
+[00:11:50] have to start, you have to force yourself to start.
+[00:11:53] - Yeah.
+[00:11:56] - [Tim] Then you improve from there.
+[00:11:59] - Exactly.
+[00:12:09] - [Tim] Man.
+[00:12:10] Are you pretty used to the heat?
+[00:12:12] I feel like it's,
+[00:12:14] it's pretty hot out here.
+[00:12:16] - It is hot.
+[00:12:18] I mean, this is the worst.
+[00:12:19] This is like summer, you know? - [Tim] Right.
+[00:12:22] - It's just the worst of it. - [Tim] Yeah.
+[00:12:22] - But it's not that bad.
+[00:12:24] Just pretend you're in Hawaii.
+[00:12:25] - [Tim] Right, there you go. (Elon chuckles)
+[00:12:28] So, speaking of Shuttle.
+[00:12:29] - I mean, I think it's a cool view.
+[00:12:31] - [Tim] Oh, it's a really cool view.
+[00:12:34] And thermal protection, it seems like you guys
+[00:12:36] have made some, I mean, it looks like
+[00:12:38] S-20 is gonna pretty well decked out in the stuff.
+[00:12:42] How are you feeling about the thermal protection system?
+[00:12:44] You feel like that's a pretty good solution?
+[00:12:47] - We'll find out. (Tim laughs)
+[00:12:49] - [Tim] Has it been holding up pretty good,
+[00:12:50] at least on the low altitude stuff?
+[00:12:52] - Yeah. - [Tim] As far as
+[00:12:54] the mounting points and stuff like that.
+[00:12:57] - I mean, it's still there.
+[00:12:59] I mean, you can see the videos.
+[00:13:00] - [Tim] Yeah. - It takes off with the tiles
+[00:13:03] and it lands with the tiles.
+[00:13:08] We have, I think, a good attach mechanism.
+[00:13:12] It seems like a good attach mechanism because it allows...
+[00:13:17] It's just mechanically attached
+[00:13:19] with some play in the tile,
+[00:13:20] so the tile can move a little bit.
+[00:13:22] It's quite a tricky thing with the tiles
+[00:13:24] 'cause the tiles are essentially a ceramic.
+[00:13:29] And they're attached to a metal substructure
+[00:13:32] that is changing in temperature dramatically.
+[00:13:37] It'll be a room temperature right now.
+[00:13:40] Then it'll drop to cryo temperature
+[00:13:43] when it's loaded with cryogenic propellants.
+[00:13:46] Then it will be heated up with hot Alish gas.
+[00:13:51] So, now it'll be way above room temperature.
+[00:13:54] Then it'll cool down.
+[00:13:56] Then the tiles will themselves will get hot on re-entry
+[00:13:58] and they also have some expansion.
+[00:14:01] There's a lot of expanding and contracting going on
+[00:14:04] all over the place.
+[00:14:06] I think one of the big questions is,
+[00:14:09] are these tiles, are we gonna have
+[00:14:11] a crack or a gap in the tiles?
+[00:14:13] Like, if they bang into each other,
+[00:14:14] they're ceramics, like a coffee cup is ceramic.
+[00:14:16] So, if you bang two coffee cups together
+[00:14:18] it's usually bad. - [Tim] It's not good, yeah.
+[00:14:26] - If the tiles bang each other and crack,
+[00:14:32] this could result in a failure on entry.
+[00:14:34] So, I think there's a huge question of like,
+[00:14:37] when we get the ship to orbit,
+[00:14:40] is it able to make it back through Earth's atmosphere?
+[00:14:43] 'Cause it's coming in like a meteor.
+[00:14:45] - [Tim] Right, right.
+[00:14:46] - It's like a blazing hot meteor.
+[00:14:51] Will the heat shield stand up to it?
+[00:14:52] Or if there's any crack in the armor, it's toast.
+[00:14:57] - [Tim] Yeah, yeah.
+[00:14:57] - So, hopefully we at least find out
+[00:14:59] where the crack in the armor is.
+[00:15:00] - [Tim] Right, right. - That would be great.
+[00:15:02] - [Tim] And then if you have to,
+[00:15:03] you can make some thicker or smaller,
+[00:15:04] or iterate to that degree of where you find
+[00:15:07] those failures again. - Yes.
+[00:15:10] - [Tim] How will you know?
+[00:15:11] What if something just goes...
+[00:15:13] What if the first orbital attempt just goes totally,
+[00:15:15] it doesn't even make it in for reentry
+[00:15:17] and it's just a million pieces of the bottom of the ocean?
+[00:15:20] How will you know where it failed?
+[00:15:26] - We have temperature sensors.
+[00:15:37] Probably need some thermal images inside the tanks.
+[00:15:42] So, just like IR cameras. - [Tim] So you can see
+[00:15:44] if a certain section's getting real hot.
+[00:15:47] - Yeah, our cameras on the inside
+[00:15:48] will show you what the backside temperature is.
+[00:15:50] - [Tim] Yeah, yeah, it'll let you know
+[00:15:51] if a leak propagated. - It's only gonna pop
+[00:15:52] if the backside temperature...
+[00:15:54] Frankly, I'm not sure.
+[00:15:55] In fact, I take that back.
+[00:15:56] If you just have a camera-camera-
+[00:15:57] - [Tim] Yeah, you'll know.
+[00:15:58] - Visual, you'll see if something's glowing white-hot,
+[00:16:02] okay, that's bad. (Tim laughs)
+[00:16:03] That's the bad part, right there.
+[00:16:05] So, you don't even need a thermal image, frankly.
+[00:16:07] The steel will glow white-hot before it melts.
+[00:16:09] - [Tim] Right, right, right.
+[00:16:11] (laughs) You'll know. - You'll know.
+[00:16:12] It's not subtle.
+[00:16:20] - [Tim] And the very first orbital test,
+[00:16:23] again, it kinda seems like...
+[00:16:26] There's been a lot of debate of like,
+[00:16:27] is it going to orbit and deorbiting?
+[00:16:29] Or is it just orbital velocity with a low perigee
+[00:16:31] that's inside the atmosphere?
+[00:16:33] And that's how it'll deorbit?
+[00:16:35] - No, it's getting to orbital velocity.
+[00:16:42] But it's not circularizing it's perigee.
+[00:16:44] - [Tim] Yes.
+[00:16:46] - It basically goes three-quarters of the way
+[00:16:49] around the Earth, but because we didn't raise the perigee,
+[00:16:51] the atmospheric drag will put it in.
+[00:16:52] - [Tim] Yup, and the velocity will probably be greater,
+[00:16:54] reentry velocity will be greater that way
+[00:16:57] or similar. - Similar.
+[00:16:59] It's not a huge difference.
+[00:17:04] It could easily, if you just puff
+[00:17:06] the attitude control thrusters or the aldris gas,
+[00:17:08] the aldris gas alone could put it into orbit.
+[00:17:11] So, raising perigee slightly is easy.
+[00:17:14] - [Tim] Yeah.
+[00:17:15] - It's remarkably easy.
+[00:17:17] If you just wanna raise it a little bit.
+[00:17:20] - [Tim] Are you hoping to actually recover the first one?
+[00:17:21] - No. - [Tim] Or try to even land.
+[00:17:24] I mean, is it gonna try
+[00:17:24] to fire its engines? - Our goal with the first one,
+[00:17:27] for the first orbital launch, our goal is
+[00:17:30] to make it to orbit without blowing up.
+[00:17:32] - [Tim] Yeah. - That's our goal.
+[00:17:32] - [Tim] Yep.
+[00:17:34] - And frankly,
+[00:17:36] if the booster even does its job
+[00:17:38] and something goes wrong with the ship,
+[00:17:40] I'll still count that as good progress.
+[00:17:42] - [Tim] Yeah.
+[00:17:43] - Basically, actually, to be totally frank,
+[00:17:45] if it takes off without blowing up-
+[00:17:46] - [Tim] (laughs) Right. - Blowing up the stand,
+[00:17:49] stage zero, which is much harder
+[00:17:51] to replace than the booster, that would be a victory.
+[00:17:54] But please do not blow up on the stand.
+[00:17:56] That's my number-one concern.
+[00:17:57] - [Tim] You keep calling it,
+[00:17:58] you're calling the stand stage zero?
+[00:18:00] - The launch system. - [Tim] Really?
+[00:18:05] The ground, GSE, the tower and all that stuff?
+[00:18:08] - Stage zero, yeah. - [Tim] Okay, yeah.
+[00:18:11] I got so spoiled now with, again, Soviet nomenclature.
+[00:18:14] It's like, there's zero for the boosters.
+[00:18:17] - Really? - [Tim] The core is one.
+[00:18:18] - Okay. - [Tim] And then what I
+[00:18:19] would call the, wait.
+[00:18:20] No, sorry, opposite: the boosters are one, core is two.
+[00:18:24] The next upper stage, or what I would consider stage two
+[00:18:26] is stage three, so it's really confusing.
+[00:18:29] And I kept being like, oh yeah, third,
+[00:18:30] second stage, and they're like, no, no, that's third stage.
+[00:18:32] You know?
+[00:18:34] - Well, stage zero, the launch system,
+[00:18:38] the launch mount,
+[00:18:42] flame diverter, sort of.
+[00:18:44] - [Tim] Yep, sort of.
+[00:18:46] - The big tower.
+[00:18:48] The propellant farm.
+[00:18:54] All the lines and everything, that's stage zero.
+[00:18:57] And it's very hard. - [Tim] Yeah.
+[00:18:59] - It's harder for us to make a stage zero
+[00:19:00] than to make a booster or a ship.
+[00:19:02] - [Tim] Okay. - So I hope.
+[00:19:04] - [Tim] Hopefully it doesn't blow up.
+[00:19:05] - Yes, that would be great. (Tim chuckles)
+[00:19:09] And then, the best-case outcome for the first flight
+[00:19:12] would be that
+[00:19:15] the booster does its job and also is able
+[00:19:17] to relight the engines,
+[00:19:19] and it's gonna splash down in the Gulf.
+[00:19:23] - [Tim] Only 20 miles out or something, right?
+[00:19:24] - Yeah, not far. - [Tim] Relatively.
+[00:19:27] - And then
+[00:19:30] the ship or upper stage is gonna come in
+[00:19:33] just off the coast of Hawaii, near a military base there.
+[00:19:38] And so, we'll splash down in the Pacific.
+[00:19:42] - [Tim] Yup, yup.
+[00:19:45] So, again, to reiterate, on the first launch you won't,
+[00:19:48] the booster, you're gonna just use the gas venting
+[00:19:51] to orient it for re-entry.
+[00:19:55] You will do boost-back burn on the first one too, right?
+[00:20:00] - Let's just say it's an evolving situation.
+[00:20:02] - [Tim] Yeah.
+[00:20:04] - In order to be 20 miles away,
+[00:20:05] we definitely would have to do some kind of boost back,
+[00:20:07] otherwise it's gonna be way further.
+[00:20:08] - [Tim] Yeah.
+[00:20:09] - So, yeah, I mean, probably it's a boost back.
+[00:20:15] Basically you want to stimulate the landing but not,
+[00:20:20] not have it be too close to land,
+[00:20:22] so it doesn't take out stage zero.
+[00:20:24] - [Tim] Right.
+[00:20:25] Yep, yep.
+[00:20:27] - We want to say, basically, can we position the booster
+[00:20:29] precisely such that if it had landed
+[00:20:35] next to the tower, or if it come to a halt next to the tower
+[00:20:38] could the arms have grabbed it?
+[00:20:39] - [Tim] Yes.
+[00:20:40] - Mech-zilla.
+[00:20:41] - [Tim] Mech-zilla?
+[00:20:42] - Mega-zilla.
+[00:20:43] - [Tim] Mega-zilla?
+[00:20:44] - Mecha. - [Tim] Mecha-zilla, okay.
+[00:20:45] Yeah, like a giant mech. - Yeah kinda like mecha-zilla.
+[00:20:48] - [Tim] What's the plan?
+[00:20:49] It just comes and sits then on the grid fins
+[00:20:52] and or that little arrester thing?
+[00:20:54] - No, those little tiny arms.
+[00:20:56] - [Tim] That tiny little T-Rex arm
+[00:20:57] is gonna hold the whole- - Yes, there's two of them.
+[00:21:01] But those things can take a lot of load.
+[00:21:03] - [Tim] And then it's just literally a flat,
+[00:21:05] a flat arm kind of like this that?
+[00:21:07] - I mean, this is one of those things,
+[00:21:09] it's hard to keep a secret when it's right there.
+[00:21:11] People can just take zoomed up photos.
+[00:21:13] Drive past it and take a high-res photo close up.
+[00:21:17] So, it's not exactly gonna be top secret.
+[00:21:19] - [Tim] Right, right.
+[00:21:21] - This is the first real big rocket development
+[00:21:23] that's been so close to a public road,
+[00:21:25] that people are literally driving to the beach
+[00:21:26] right past the launch site.
+[00:21:29] So, it's hard to keep a secret around here.
+[00:21:31] - [Tim] That brings up, I always keep wondering,
+[00:21:33] we're seeing this insane pace,
+[00:21:34] we're seeing all these crazy things happen.
+[00:21:36] How much of that is normal, at least as far as SpaceX goes?
+[00:21:40] Or how much of that is just
+[00:21:41] because we're actually seeing it?
+[00:21:42] Like, for instance, when you were developing Merlin
+[00:21:44] and Falcon 9, were you blowing stuff up this much
+[00:21:47] doing things so crazy fast paced?
+[00:21:49] Or is this also fast-paced, but now we're also
+[00:21:52] seeing it all so it's hard to compare?
+[00:21:54] - Well, I mean, this is definitely a case
+[00:21:56] where we are washing out laundry in public.
+[00:21:58] - [Tim] Yeah, yeah.
+[00:22:00] - There's always dirty laundry in any program.
+[00:22:03] It's really a question of whether it is seen or not.
+[00:22:06] Not is there dirty laundry. - [Tim] Right, right.
+[00:22:09] Yeah. (Elon laughs)
+[00:22:11] - Every program's got dirty laundry.
+[00:22:12] But in this case, it's in public.
+[00:22:16] But this is also a case where
+[00:22:17] we're intentionally iterating the design rapidly.
+[00:22:21] And basically, ships and boosters will either be
+[00:22:26] amazing lawn ornaments- - [Tim] Right.
+[00:22:29] - Which then have to be stored and they look awesome,
+[00:22:31] but you know, we don't want 12 of them.
+[00:22:34] It's gonna look bizarre and where will we put them?
+[00:22:37] - [Tim] Yeah.
+[00:22:38] - So, since we were making a rapid iterations with each...
+[00:22:44] Basically every single ship and booster
+[00:22:46] has had significant iterations.
+[00:22:50] You either either want it to blow up or,
+[00:22:54] the early ones, you want them to blow up,
+[00:22:56] or you're gonna have to find a place to store them.
+[00:22:58] - [Tim] Right. - So we actually want
+[00:22:59] to push the envelope.
+[00:23:02] And frankly, if you don't push the envelope,
+[00:23:05] you cannot achieve the goal of a fully
+[00:23:08] and rapidly reusable rocket. - [Tim] Yeah.
+[00:23:10] - It's not possible. - [Tim] Yeah.
+[00:23:12] - You have to go close to the edge on margins.
+[00:23:15] - [Tim] Right, right.
+[00:23:17] - And there's a recursive factor to mass.
+[00:23:19] So, if you add, say an extra ton of heat shielding,
+[00:23:24] now you also need more propellant to get it to orbit,
+[00:23:28] and you need more propellant to deorbit it,
+[00:23:30] and you need more propellant to land it.
+[00:23:33] And the structure now has more load,
+[00:23:35] 'cause it's carrying that extra ton of heat shield.
+[00:23:38] So, this applies at any given time,
+[00:23:41] there's a recursive value.
+[00:23:44] So, in order to achieve the same payload, you have to...
+[00:23:50] Each ton is basically almost like adding two tons,
+[00:23:54] when it's fully considered. - [Tim] Definitely.
+[00:23:58] - So, I think we've calculated it to be like a 1.8
+[00:24:04] factor, but I think it's probably we're forgetting something
+[00:24:06] so it's closer to two. - [Tim] Yeah.
+[00:24:08] - So, every one ton of mass begets an extra ton.
+[00:24:12] - [Tim] Yeah, yep.
+[00:24:14] For instance, what's S-20's dry mass?
+[00:24:17] Kind of looking like, where are you at right now?
+[00:24:19] Are you like, 120 tons?
+[00:24:21] Or are you?
+[00:24:23] - I actually don't know the exact mass of 20.
+[00:24:27] We'll know it when we weigh it.
+[00:24:28] - [Tim] Yeah.
+[00:24:34] - There's a lot of parts that have not been weighed.
+[00:24:37] (Elon laughs) - [Tim] Yeah.
+[00:24:38] - So, what is it actually?
+[00:24:40] I mean, I hope it's not too insane.
+[00:24:43] Ideally it's...
+[00:24:46] It's dry mass is hopefully not much more than a 100 tons.
+[00:24:50] - [Tim] Really?
+[00:24:52] - Yes, but then if you say dry,
+[00:24:53] do you mean not counting the air inside it?
+[00:24:56] - [Tim] (chuckles) Right, right.
+[00:24:57] - Which by the way, the air,
+[00:24:58] actually air mass is non-trivial.
+[00:25:00] - [Tim] No, it's not.
+[00:25:02] - (chuckles) 'Cause it's such a giant volume.
+[00:25:04] And then do you mean dry?
+[00:25:06] Do you mean with propellant residuals?
+[00:25:08] And Alvis gas, which is at several atmospheres?
+[00:25:11] - [Tim] Right.
+[00:25:12] - Which mass are you referring to?
+[00:25:13] - [Tim] Which dry mass, right. - Sometimes in these things,
+[00:25:14] they'll play games with the,
+[00:25:15] when you say thruster weight of a rocket engine,
+[00:25:17] so the thruster weight of the rocket engine
+[00:25:18] with or without residuals?
+[00:25:19] That's a big change.
+[00:25:21] - [Tim] Or with or without gimbal
+[00:25:22] is something else that I've heard people debate.
+[00:25:25] - Yeah. - [Tim] Yeah.
+[00:25:28] - Merlin is, I'm pretty sure by any standard,
+[00:25:32] you know, I think it's probably the best
+[00:25:34] thruster weight of any engine.
+[00:25:35] Because it's just so far,
+[00:25:37] we really pushed the GG cycle engine to the...
+[00:25:40] It's like A-plus for GG cycle architecture.
+[00:25:43] But GG cycle architecture is not an A-plus architecture.
+[00:25:45] - [Tim] Architecture, right.
+[00:25:48] - Full flow stage combustion, A-plus architecture.
+[00:25:51] But with the new architecture,
+[00:25:53] we won't get it an A-plus within that.
+[00:25:54] It's like in gymnastics, you know,
+[00:25:56] you'd like to say, how hard is your program?
+[00:25:58] And then what grade do you get in the program?
+[00:25:59] - [Tim] In the program, yeah.
+[00:26:00] - That's kind of how
+[00:26:03] things work here.
+[00:26:05] - [Tim] What would you say version two's gonna come in at?
+[00:26:07] If you were to rate 'em? - I don't know.
+[00:26:09] I'd say it's like, B-plus. - [Tim] Okay.
+[00:26:12] - Something like that. - [Tim] Yeah.
+[00:26:13] So, good enough for now.
+[00:26:14] But of course, reiterate. - Yeah.
+[00:26:15] Raptor 3, Raptor 4, Raptor 5.
+[00:26:18] By Raptor 5, it'll be an A-plus.
+[00:26:20] - [Tim] Yeah, yeah.
+[00:26:23] Should we walk through here
+[00:26:24] and check out what's going on in here?
+[00:26:26] This is just a nose cone being assembled.
+[00:26:29] It's not that it's showing?
+[00:26:31] - [Elon] This is our new and improved nose cone.
+[00:26:35] - [Tim] Oh yeah, it's just straight.
+[00:26:37] There's no cross section.
+[00:26:40] - If you look at that nose cone over there,
+[00:26:42] that's made from stamped sections.
+[00:26:47] You can see that's three rows of stamped sections.
+[00:26:52] This will be made of two rows of stretch formed.
+[00:26:55] - [Tim] Wow.
+[00:26:56] - [Elon] And you can see it's just way smoother.
+[00:26:58] - [Tim] Yeah.
+[00:26:59] - This is stretched over like a big mandrel.
+[00:27:02] So just take a big sheet of steel.
+[00:27:05] And if you just stretch it over this giant tool.
+[00:27:09] - [Tim] Right, right, right.
+[00:27:11] - And then you can have things that are way bigger.
+[00:27:13] Like you can't fit this in a stamping press.
+[00:27:15] This is way too big.
+[00:27:16] That's like basically about as long
+[00:27:18] as you can fit in a stamping press.
+[00:27:21] You cannot fit something this giant.
+[00:27:23] Well, you can technically make some totally special case
+[00:27:25] stamping machine that doesn't exist.
+[00:27:29] But since you only need a single sided,
+[00:27:31] it doesn't have indentations or anything.
+[00:27:35] You couldn't make a car body side this way.
+[00:27:38] But you can make something with this level of symmetry
+[00:27:42] that is, basically you can do a one-sided die.
+[00:27:45] So you can just stretch form it over a big mandrel.
+[00:27:48] - [Tim] And this isn't the cargo.
+[00:27:50] It's not complete yet,
+[00:27:51] but it had that opening on the one side.
+[00:27:53] That's not because you were working on the door.
+[00:27:55] The jaws yet, right?
+[00:27:58] - Yeah, I actually stopped work on the door,
+[00:28:00] the faring door. - [Tim] Okay.
+[00:28:01] - We're gonna focus on getting to orbit.
+[00:28:03] We don't need a door.
+[00:28:06] It's like, we need to be super focused on getting to orbit
+[00:28:10] then super focused on getting the ship back,
+[00:28:12] then we can worry about doors.
+[00:28:13] - [Tim] Okay.
+[00:28:15] - It's just an unnecessary complexity.
+[00:28:17] Is the door necessary to solve the problem?
+[00:28:19] No.
+[00:28:20] Will we use this,
+[00:28:23] the first
+[00:28:25] 10 or more that get back from orbit,
+[00:28:28] we probably won't fly them again.
+[00:28:30] Or maybe once or twice, but they're not gonna be in storage.
+[00:28:34] For Falcon 9, and even the Block 5,
+[00:28:38] So for Block 5, which is more like version 7 really.
+[00:28:44] But we don't even want to use the early Block 5s.
+[00:28:48] Even those were a pain in the ass.
+[00:28:49] And we prefer to retire them.
+[00:28:51] So when we have a mission that requires
+[00:28:53] an expandable booster, we'll put an early Block 5
+[00:28:56] because the early Block 5s are not as good
+[00:28:57] as the later Block 5s.
+[00:29:00] And they're more of a pain in the ass
+[00:29:01] to get ready for flight.
+[00:29:03] - [Tim] Wow.
+[00:29:05] - Reality is,
+[00:29:08] the early ones are gonna be amazing lawn ornaments.
+[00:29:12] I mean, as good as a lawn ornament gets.
+[00:29:14] But they will not be
+[00:29:18] nearly as good as the ones that follow.
+[00:29:19] So then why keep them flying?
+[00:29:22] - [Tim] They're not gonna be putting any payload up.
+[00:29:24] You don't even need to worry
+[00:29:26] about it yet. - Yeah, so we're just gonna
+[00:29:26] retire the early ones anyway.
+[00:29:28] Why have a door on a thing that's never
+[00:29:31] gonna fly satellites anyway.
+[00:29:34] - [Tim] How is the butt to butt refueling going?
+[00:29:38] 'Cause that's gotta be a pretty early consideration.
+[00:29:40] 'Cause you're probably gonna want to start testing that.
+[00:29:42] - No. - [Tim] No?
+[00:29:42] - No, we're gonna get to orbit and back first.
+[00:29:44] - [Tim] Okay.
+[00:29:47] - We don't need orbital refueling.
+[00:29:50] Unless you're going to the Moon,
+[00:29:52] you need orbital refueling.
+[00:29:54] Going to Mars, you need orbital refueling.
+[00:29:56] Delivering satellites to Earth orbit,
+[00:29:58] you do not need orbital refueling.
+[00:29:59] - [Tim] Right, right.
+[00:30:00] - So just punt that 'til later.
+[00:30:02] - [Tim] Okay.
+[00:30:03] - I'm not sure it'll be the butt to butt.
+[00:30:04] It might be something different.
+[00:30:10] We switched the propellant
+[00:30:13] full drain lines to be side.
+[00:30:16] So, coming from the side.
+[00:30:17] - [Tim] Not up through the booster anymore?
+[00:30:18] - No.
+[00:30:19] It was adding a bunch of stuff to the booster.
+[00:30:21] And then we're flying it every time.
+[00:30:24] If you can move mass to the ground side,
+[00:30:25] it's better to move mass to the ground side.
+[00:30:27] - [Tim] Right, right.
+[00:30:28] - That's why we took the legs off the booster
+[00:30:29] and just have the tower catch it.
+[00:30:32] - [Tim] Are you thinking about doing a tower catch?
+[00:30:34] - Which sounds mad. - [Tim] Yeah, I know!
+[00:30:35] - I know it sounds insane.
+[00:30:38] But when I suggested that, people thought I lost my mind.
+[00:30:41] Which I'm like, maybe I have.
+[00:30:43] But I think it might take a few kicks of the can,
+[00:30:47] but we'll get it right.
+[00:30:49] It's just, the work that you have to do
+[00:30:51] to pick up the booster and put it on the launch stand,
+[00:30:57] this gigantic skyscraper thing, in high wind,
+[00:31:01] windy situations; it's very windy around here.
+[00:31:04] - [Tim] Yeah it is.
+[00:31:05] - So, you're gonna pick up this booster,
+[00:31:06] you're gonna put it onto a stand with precision.
+[00:31:10] Then you've gotta pick a ship up
+[00:31:12] and put it up on top of that.
+[00:31:15] That means you've got to have a secondary arm
+[00:31:17] to steady the booster so it's not moving around
+[00:31:20] all over the place.
+[00:31:21] And then while the sort of mech is armed,
+[00:31:24] pick up the ship and put it on the booster.
+[00:31:28] - [Tim] Okay.
+[00:31:30] The mech-zilla arms are the ones that are gonna be
+[00:31:31] picking up the ship, not the crane?
+[00:31:35] - Okay, so...
+[00:31:38] (Elon chuckles)
+[00:31:41] Very important to appreciate that everything you see here
+[00:31:45] is a work in progress. - [Tim] Right.
+[00:31:46] - And what is said last week may be untrue next week.
+[00:31:49] - [Tim] We've seen that a few times.
+[00:31:51] - Yes, it could be that we're actually
+[00:31:53] just literally mistaken, a miscommunication.
+[00:31:57] Any one of a number of things.
+[00:32:00] We just found a better, had a better idea.
+[00:32:03] In the case of like for the first stacking,
+[00:32:05] we're we're gonna do that with a crane.
+[00:32:06] - [Tim] Yeah.
+[00:32:11] - Yeah. (Tim laughs)
+[00:32:12] Marvin the Martian right there.
+[00:32:14] - [Tim] I love that.
+[00:32:16] - The first one we're gonna stack with a crane.
+[00:32:19] 'Cause otherwise we'd have to wait for
+[00:32:22] all the mechanisms to work.
+[00:32:24] We're assembling the arms
+[00:32:26] and basically putting mech-zilla together.
+[00:32:31] But in the meantime we could be launching.
+[00:32:35] So let's not wait for the tower to be completed.
+[00:32:39] We've got the second-biggest crane on Earth.
+[00:32:44] We don't necessarily want to have the second-biggest crane
+[00:32:45] on Earth just sitting there forever.
+[00:32:47] But it can be there for the first stacking.
+[00:32:49] And then from the first stacking, then we can figure out,
+[00:32:54] you know,
+[00:32:56] just like, do we have the hull downs work?
+[00:32:59] Or the launch mounts, I should say.
+[00:33:03] It's really quite a complicated launch mount.
+[00:33:06] It's got basically 20 mount points.
+[00:33:11] And you've got to line those things up
+[00:33:13] and then put the booster on it
+[00:33:14] and have the, you know, does it fit?
+[00:33:17] Okay, it won't fit, basically.
+[00:33:20] Now we gotta adjust it.
+[00:33:22] That launch ring is 370 tons.
+[00:33:25] - [Tim] Oh my God!
+[00:33:27] - And it's gonna tweak,
+[00:33:28] you move it from one place to another, it tweaks.
+[00:33:31] It doesn't stay exactly the same.
+[00:33:34] So we're gonna have to like jiggle it around a little bit,
+[00:33:38] put in some shims and stuff
+[00:33:40] and fit the booster.
+[00:33:42] So, we wanna do that soon.
+[00:33:47] We should be done with this booster,
+[00:33:48] I don't know, next week.
+[00:33:51] - [Tim] Yep.
+[00:33:52] Wow.
+[00:33:54] - [Elon] So then we want to mount the booster next week.
+[00:33:58] - [Tim] That's gonna be insane to see.
+[00:34:01] - Yeah.
+[00:34:03] We're gonna try to put the ring on
+[00:34:05] the stand, the launch ring on the stand tomorrow.
+[00:34:10] - [Tim] Wow.
+[00:34:12] - But we may not succeed, we'll see.
+[00:34:18] Probably the second
+[00:34:22] flight we'll use, I mean,
+[00:34:24] it's probably like the second flight we'll use the tower.
+[00:34:26] - [Tim] Okay.
+[00:34:27] Second flight, oh, so the first flight
+[00:34:29] might still just use the suborbital pad?
+[00:34:31] - No, it's gonna use the,
+[00:34:32] it has to use the orbital pad.
+[00:34:35] The suborbital pad cannot take the full weight of the stack.
+[00:34:38] It's gonna get crushed and it doesn't have enough height.
+[00:34:40] So the rocket would blast itself in the face.
+[00:34:43] It's too low and too weak.
+[00:34:48] We gotta launch it from the super beefy stand.
+[00:34:53] But we don't want to wait until everything's ready
+[00:34:55] with the tower, just to stack.
+[00:34:57] - [Tim] Okay, so, how will you secure it then
+[00:35:00] when it's stacked?
+[00:35:02] Just drop the Starship on top? - Have the crane hold it.
+[00:35:05] - [Tim] Until it's launch time and then?
+[00:35:09] - We do need the QD arm to work.
+[00:35:12] - [Tim] Oh right.
+[00:35:13] So that can be a stability thing.
+[00:35:16] - Exactly, it holds it, it stabilizes it,
+[00:35:18] and transports propellant.
+[00:35:20] If we don't have that, we can't load a prop
+[00:35:21] on the ship. - [Tim] Right, right, okay.
+[00:35:23] So that has to be complete,
+[00:35:25] but not necessarily the arms and everything else
+[00:35:27] going on at that point. - [Elon] Yeah.
+[00:35:30] - [Tim] Dang.
+[00:35:32] - [Elon] Yeah, exactly. - [Tim] At this point-
+[00:35:35] - I mean, like I said,
+[00:35:37] there's a lot of moving pieces here.
+[00:35:38] So some of this could be ready in time.
+[00:35:40] It's possible that the tower could be ready in time,
+[00:35:43] in which case we'll use the tower.
+[00:35:45] But if the tower's not ready in time, we'll use the crane.
+[00:35:47] - [Tim] Okay. - Yeah.
+[00:35:49] - [Tim] So at this point in development,
+[00:35:52] what things are you being kept up by at night?
+[00:35:55] Like, what's the thing you're like,
+[00:35:56] oh, we just need to do this or this better.
+[00:36:00] Or we really, I can't sleep 'cause I'm not,
+[00:36:03] we haven't figured this out yet.
+[00:36:16] - I'm sorry?
+[00:36:17] - [Tim] Yeah, so, what things are
+[00:36:19] just totally keeping you up at night at this point?
+[00:36:20] What's the thing that you feel like
+[00:36:22] you still have to solve at this point?
+[00:36:26] - I mean, there's a long list.
+[00:36:31] - [Tim] What's at the top of that right now?
+[00:36:32] For you at least personally.
+[00:36:43] - This is really all just measured as,
+[00:36:46] in terms of time, like,
+[00:36:46] what is the time risk associated with something?
+[00:36:50] The one thing you cannot replace is time.
+[00:36:53] And I do have a habit of being optimistic with schedules.
+[00:36:58] I mean, if I wasn't optimistic,
+[00:36:59] I wouldn't be doing the crazy things that I'm doing.
+[00:37:02] - [Tim] Right. - [Elon] So I must have like,
+[00:37:04] I don't know just pathologically optimistic, I suppose.
+[00:37:07] (Tim laughs)
+[00:37:09] - [Tim] Wow, that actually, just look at that.
+[00:37:10] - [Elon] Yeah, it looks like dragon scales.
+[00:37:12] - [Tim] That is incredible.
+[00:37:13] - [Elon] Doesn't that look cool?
+[00:37:14] - [Tim] It's actually coming together a lot cleaner than-
+[00:37:17] - [Elon] It totally looks like dragon scales,
+[00:37:18] I think. - [Tim] It really does.
+[00:37:19] - [Elon] Yeah.
+[00:37:20] - [Tim] And it's so much tidier and cleaner
+[00:37:23] looking than I thought. - [Elon] Yeah.
+[00:37:24] There's a few broken tiles,
+[00:37:25] but overall it looks cool.
+[00:37:27] - [Tim] That's incredible, wow.
+[00:37:31] So, I guess, the joints is one of those things
+[00:37:33] that the community has always wanted to know about.
+[00:37:36] I guess the good thing is the flaps,
+[00:37:38] will for mostly take most of the wind
+[00:37:40] from this area that you see.
+[00:37:41] So, I guess you don't really have to cool
+[00:37:43] the inside of the flap joint itself
+[00:37:46] 'cause it's kind of already-
+[00:37:47] - No, actually, unfortunately we do.
+[00:37:50] I think we have significant...
+[00:37:54] Take a lot of what I'm saying with a grain of salt.
+[00:37:59] I often am wrong.
+[00:38:02] Sometimes I'll say something and it's wrong.
+[00:38:04] (Tim laughs)
+[00:38:11] I think we have a design error with the,
+[00:38:17] with the non-moving portion of the forward flaps.
+[00:38:20] - [Tim] Okay.
+[00:38:21] - Because the reason we have...
+[00:38:24] The flaps and the static arrow,
+[00:38:27] basically the unmoving portion of the flaps
+[00:38:31] are there to do two things:
+[00:38:33] to balance, rebalance the ship
+[00:38:36] so it doesn't come in engines first.
+[00:38:38] Otherwise, the center of mass is quite low.
+[00:38:41] - [Tim] Yeah.
+[00:38:42] - And it will come in engines first
+[00:38:43] and burn up the engines.
+[00:38:44] - [Tim] Yep.
+[00:38:46] - So, first you have to rebalance it so that
+[00:38:48] in a hypersonic stream, you're doing roughly
+[00:38:51] sort of like, a 60 to 70-degree angle of attack.
+[00:38:56] Because you're flying a trajectory that minimizes-
+[00:38:59] - [Tim] Peak heat. - Peak heat.
+[00:39:02] But you don't care about total heat load.
+[00:39:04] You just care about minimizing your peak heat.
+[00:39:06] - [Tim] Because you have a good insulator here.
+[00:39:08] And you're not ablating. - Yes, exactly.
+[00:39:12] So, if you have an ablative heat shield like Dragon.
+[00:39:15] Technically Dragon is fairly reusable actually,
+[00:39:18] 'cause it's sort of like a brake pad.
+[00:39:20] You can fly it many times
+[00:39:21] 'cause it's got so much margin.
+[00:39:24] But PICA literally means
+[00:39:26] phenolic impregnated carbon ablator.
+[00:39:27] - [Tim] Yep.
+[00:39:29] - That's the Dragon heat shield.
+[00:39:30] So, Dragon was like, hey, let's have a,
+[00:39:33] give me high-peak heating, but don't make
+[00:39:36] my total heat load high because
+[00:39:39] what Dragon is trying to optimize for
+[00:39:41] is what is the heat pulse when it's under parachutes?
+[00:39:48] The heat pulse moves through the tile
+[00:39:50] and then reaches the back to where it's bonded
+[00:39:53] to the carbon fiber composite sandwich structure.
+[00:39:56] - [Tim] Yep.
+[00:39:58] - If the heat is too high, it will melt the glue
+[00:40:01] and the heat shield tiles will start falling off.
+[00:40:03] And then they will potentially, you know,
+[00:40:07] damage the parachute.
+[00:40:09] - [Tim] Really?
+[00:40:10] Okay. - You start having
+[00:40:10] these things like- - [Tim] Right, flying off.
+[00:40:13] - Potentially, 'cause they're low density.
+[00:40:14] So they they're pretty...
+[00:40:19] Intermittently it's kind of a corner case.
+[00:40:23] The graying heat shield tiles are way over thick,
+[00:40:27] not because of how much of the heat shield
+[00:40:29] will be ablated, but because of the heat pulse
+[00:40:33] that will reach the back of the heat shield
+[00:40:34] that might melt the glue while it's under parachutes.
+[00:40:36] - [Tim] Wow.
+[00:40:38] Yeah, interesting constraint at the end of it all.
+[00:40:41] - Yeah, so if you just have a lot of heat suddenly,
+[00:40:44] that's actually better for Dragon.
+[00:40:46] High peak, low total heating. - [Tim] Yep, yep, yep.
+[00:40:49] So its reentry profile is totally different, too.
+[00:40:51] - Yeah. - [Tim] It can come in steeper
+[00:40:52] as opposed to this- - It's gonna come in,
+[00:40:53] Dragon wants to come in real steep.
+[00:40:57] The lift over drag ratio is low for Dragon.
+[00:41:00] A lot of people look at it and say it doesn't have any lift
+[00:41:02] but it does.
+[00:41:03] If you have a gumdrop-shaped thing,
+[00:41:06] and you have off-centered center of mass,
+[00:41:09] then you can control it because it has a small lift vector
+[00:41:12] because the gumdrop is tilting into the wind slightly.
+[00:41:15] It's quite low.
+[00:41:17] And actually, L over D is a function of mach number.
+[00:41:20] People always go, well, quote an L over D number.
+[00:41:22] But like, okay, what mach is that?
+[00:41:24] And it's usually some sort of reference mach number.
+[00:41:27] But your L over D is complete trash at mach 20.
+[00:41:30] It's garbage, nothing basically.
+[00:41:33] So it's like, L over D at what mach number?
+[00:41:37] Anyway, it's got a very low L over D.
+[00:41:40] But it does have a lift vector.
+[00:41:41] And then because it is symmetric,
+[00:41:43] or more or less symmetric, with little thrusters
+[00:41:45] you can rotate the capsule as it's coming in
+[00:41:48] and change that lift vector.
+[00:41:53] You have a landing ellipsoid because
+[00:41:57] your accuracy longitudinally
+[00:41:59] is less than your accuracy left to right.
+[00:42:01] So, you're changing lift vector, you say well,
+[00:42:03] how do you change the point where you land?
+[00:42:05] If you can turn left or right
+[00:42:07] but how do you change lift point?
+[00:42:09] You do a series of S turns.
+[00:42:11] So, you S turn and depending upon how much you bank
+[00:42:14] during the S turns, that affects your longitudinal points
+[00:42:18] and then your lateral point is pretty easy to tune
+[00:42:21] because you have a lift vector going left and right.
+[00:42:22] - [Tim] 'Cause it's not so much,
+[00:42:23] people might think, oh, you're going up and down.
+[00:42:25] That really doesn't work in the grand scheme
+[00:42:27] of orbital velocities and everything.
+[00:42:28] It's really about your actual velocity.
+[00:42:31] And where you end up arresting your velocity
+[00:42:33] is where you're gonna drop it to the ground
+[00:42:34] pretty much, more or less. - Yeah, I mean,
+[00:42:38] I think it's just very important for people
+[00:42:39] to appreciate that there's a very gigantic difference
+[00:42:42] between orbit and space. - [Tim] Right.
+[00:42:48] - It is actually relatively easy to get to space.
+[00:42:51] But it is very hard to get to orbit.
+[00:42:53] - [Tim] Right.
+[00:42:53] - And then you say you want to get to orbit and come back.
+[00:42:57] This is easily 100 times harder than getting to space,
+[00:43:00] maybe 1000; so much harder.
+[00:43:04] That hardly anyone's even,
+[00:43:06] you know, only a few countries have been able to do it.
+[00:43:08] - [Tim] Right.
+[00:43:11] - You know, whereas Burt Rutan went to space twice.
+[00:43:15] What was it, like, 12 years ago?
+[00:43:17] I don't know, it was a while.
+[00:43:18] What, 15 years ago? - [Tim] Yeah, 2004, 2005.
+[00:43:20] - Yeah, it was like 15 years ago.
+[00:43:22] He went to the border of space twice,
+[00:43:27] and didn't even scorch the paint.
+[00:43:32] It's really not very hot if you didn't even burn the paint.
+[00:43:35] - [Tim] Right, that's true. - Yeah.
+[00:43:37] - [Tim] That's true.
+[00:43:38] (machine beeping)
+[00:43:40] - Whereas, this needs really intense heat shielding
+[00:43:43] or it's gonna get to,
+[00:43:45] you know, blow up basically.
+[00:43:46] - [Tim] Yeah, yeah.
+[00:43:49] It's crazy to see now, honestly.
+[00:43:51] So, is there some considerations to make the fixed?
+[00:43:54] Can we go out this way or is it?
+[00:43:55] - Yeah, I mean, just don't let anything drop on your head.
+[00:43:58] - [Tim] All right, deal.
+[00:44:02] So there's another barrel section of S-20.
+[00:44:06] - I mean, it looks
+[00:44:08] a little garage shop, to be frank.
+[00:44:10] But it's like weirdly super advanced technology
+[00:44:13] with garage shop. (Tim laughs)
+[00:44:15] - [Tim] Well, it is very unique of you guys
+[00:44:17] to basically build the rockets first
+[00:44:19] and then start building a factory around it.
+[00:44:21] You know? - Yeah.
+[00:44:23] The production system is the actual hard thing.
+[00:44:25] - [Tim] Right.
+[00:44:26] - The rocket design
+[00:44:29] is relatively easy compared to the factory.
+[00:44:32] And these tiles are actually made in Florida
+[00:44:36] at a SpaceX factory we call the Bakery.
+[00:44:42] In Florida, it's next to a Ron Jon's.
+[00:44:45] (Tim laughs)
+[00:44:47] - [Tim] What's the future for Florida with Starship?
+[00:44:49] Are you gonna get it flying 100%,
+[00:44:51] get it all figured out basically?
+[00:44:53] At least get orbital version ready
+[00:44:55] and then start setting up shop in Florida?
+[00:44:57] - Yeah, I think we wanna kind of iron out
+[00:45:01] the major issues here.
+[00:45:04] We'll certainly be launching Starship from the Cape.
+[00:45:07] We might do more at the Cape.
+[00:45:09] But we'll certainly be launching Starship from the Cape.
+[00:45:13] And like I said, we make the heat shield tiles,
+[00:45:15] which is actually quite a big factory
+[00:45:17] to make these heat shield tiles; not a small factory.
+[00:45:21] - [Tim] Next to Ron Jon's?
+[00:45:23] - Well, technically it's next to
+[00:45:24] a Ron Jon's distribution warehouse.
+[00:45:27] Literally, I was like, is that a surf shop?
+[00:45:31] Yeah, well, maybe it's a factory, I don't know,
+[00:45:32] but I just got a Ron Jon's logo.
+[00:45:35] But the factory,
+[00:45:37] the SpaceX heat shield tile factory is quite big.
+[00:45:40] It's not tiny.
+[00:45:42] 'Cause you need to make a lot of these tile.
+[00:45:46] - [Tim] And for the most part, I'm surprised at the taper.
+[00:45:49] It looks like they're all still uniform tiles,
+[00:45:51] which obviously is a huge improvement
+[00:45:52] compared to the Shuttle.
+[00:45:53] Instead of having 24,000 unique tiles.
+[00:45:55] - [Elon] (laughs) Yeah.
+[00:45:56] And you can see we're figuring it out.
+[00:45:57] - [Tim] But I'm surprised, though,
+[00:45:59] even as the area tapers, it's not,
+[00:46:02] I would have thought-
+[00:46:04] - Mara's head of heat shield engineering.
+[00:46:09] It's like, I'm gonna text him like, yo man, what's going on?
+[00:46:15] - [Tim] It doesn't seem like there's a ton of unique.
+[00:46:18] They mostly look uniform, which obviously will help with-
+[00:46:21] - [Elon] Yeah, they're not all uniform.
+[00:46:24] - [Tim] A lot more than the Shuttle.
+[00:46:27] What's your expected,
+[00:46:28] what are you hoping to get for reuse out of these things?
+[00:46:39] - Oh, I mean, no meaningful limit.
+[00:46:44] As many as you want.
+[00:46:46] (machines beeping)
+[00:47:19] - [Tim] There we go.
+[00:47:20] We got right back into camera-ception
+[00:47:21] for you there for a second.
+[00:47:23] Camera inside of camera.
+[00:47:28] (machines beeping)
+[00:47:36] - Yeah.
+[00:47:36] There are different shapes of tiles.
+[00:47:38] You can see some of them at the border there
+[00:47:41] are square instead of hexagons.
+[00:47:43] - [Tim] Yep.
+[00:47:45] - And then, because the static arrow is,
+[00:47:49] it's still seeing actually a lot of heat,
+[00:47:53] basically the plasma is hitting the surface
+[00:47:57] and then it's moving around.
+[00:47:58] It's got to somehow get past it.
+[00:48:02] You've got super heated plasma hitting that thing,
+[00:48:04] then riding up the side of the vehicle,
+[00:48:07] hitting that static arrow.
+[00:48:08] So, you actually have a heat concentration there.
+[00:48:12] And then you've got a hinge that's,
+[00:48:14] you have to protect the hinge.
+[00:48:15] This is if you said like, okay, what's
+[00:48:18] highest probability of failure on reetry?
+[00:48:22] It's probably the hinge of the flaps.
+[00:48:25] So, the rear hinge and the forward hinge of the flaps.
+[00:48:29] 'Cause you have to have a rotating thing,
+[00:48:32] but you can't just make everything out of tiles.
+[00:48:35] So, you have to have a seal.
+[00:48:37] So we have to seal against,
+[00:48:39] against the tiles.
+[00:48:40] So, the tiles are ceramic, like a seal against dinner plates
+[00:48:43] that are super hot.
+[00:48:44] So you can't use rubber. - [Tim] Right.
+[00:48:46] - So it's gotta be a metal seal,
+[00:48:48] and with a torturous path.
+[00:48:50] - [Tim] Have you thought about,
+[00:48:52] back in the day, you talked about transpirational cooling.
+[00:48:54] - Yes, so, that's one of the things you could throw at it
+[00:48:56] is transpiration cool the joint.
+[00:48:58] - [Tim] That would be so cool.
+[00:48:59] I just want to see it bleeding methane, honestly.
+[00:49:02] - It'll definitely help.
+[00:49:04] - [Tim] 'Cause you can kind of purge that joint
+[00:49:06] with a higher-pressure gas.
+[00:49:08] As long as it's higher than the ambient air stream
+[00:49:11] or the plasma stream,
+[00:49:14] it will create a thermal barrier.
+[00:49:20] - It's definitely one of the things,
+[00:49:23] if you really want to nail the heating on the hinge,
+[00:49:27] is bleed
+[00:49:29] fuel gas into the thing.
+[00:49:31] 'Cause actually,
+[00:49:33] even the burning methane is like,
+[00:49:36] with air, because air is only like,
+[00:49:39] 21% oxygen.
+[00:49:42] If you ask me, what are you breathing,
+[00:49:44] they think they're breathing oxygen.
+[00:49:46] You're breathing nitrogen with some oxygen.
+[00:49:48] - [Tim] A little argon.
+[00:49:49] - And some argon and some trace gases.
+[00:49:54] But essentially,
+[00:49:56] methane with air,
+[00:49:58] which is mostly not oxygen, doesn't get that hot.
+[00:50:02] So even if it burns, it's not that big of a deal.
+[00:50:04] - [Tim] Right, right, 'cause it's already detached from
+[00:50:05] the vehicle at that point. - It's not as hot
+[00:50:06] as the plasma that's hitting it.
+[00:50:07] - [Tim] Right.
+[00:50:11] - Yeah. - [Tim] Wow.
+[00:50:12] - All right, well, let's see.
+[00:50:13] I guess the car is?
+[00:50:15] (woman speaks off mic) Okay.
+[00:50:17] (machines beeping)
+[00:50:28] - [Tim] So, each tent's kind of a designated...
+[00:50:30] One's barrel section, one's nose cones, and one's,
+[00:50:35] one's just kind of
+[00:50:39] the thrust pucks and stuff?
+[00:50:44] - Yeah, like I said, it is
+[00:50:47] a constantly evolving thing.
+[00:50:50] We've changed what occurs in each production tent
+[00:50:53] and in the high bay and mid bay, multiple times.
+[00:50:56] But this certainly currently is focused on the nose.
+[00:51:02] - [Tim] You're working on a new high bay, too, right?
+[00:51:05] - Yeah, we're building a higher high bay.
+[00:51:08] - [Tim] Uber high?
+[00:51:09] - It's only a little bit higher than the current one,
+[00:51:11] but it's much wider, and it has two gastric cranes
+[00:51:15] that run full width and depth. - [Tim] Okay.
+[00:51:20] - I mean, it will feel like the lap of luxury
+[00:51:22] compared to our current high bay.
+[00:51:24] - [Tim] Like how about tall, do you know?
+[00:51:27] - Sorry?
+[00:51:28] - [Tim] About how tall?
+[00:51:33] - I dunno, probably, oh, like 100 meters.
+[00:51:35] - [Tim] Okay, and this one's?
+[00:51:39] Like 80 or something. - Yeah.
+[00:51:40] This one's about 80.
+[00:51:43] The booster height's about 70.
+[00:51:45] Although it's kind of funny.
+[00:51:47] Like technically we deleted half a barrel section
+[00:51:50] from the booster, so it's technically 69 point something.
+[00:51:53] (Tim laughs) Like 69 and 1/2.
+[00:51:55] - [Tim] You did that on purpose.
+[00:51:57] - No, it wasn't even me.
+[00:51:58] I was like, the guy's like, hey,
+[00:52:00] just let me know, at 70 meters you have a half barrel,
+[00:52:04] which is a pain in the ass.
+[00:52:05] So, they just deleted it,
+[00:52:06] and I was like, cool, sounds good.
+[00:52:09] I mean, I randomly set the length of 70 meters.
+[00:52:11] It's not like any special about it.
+[00:52:13] - [Tim] Right.
+[00:52:15] - I guess fate loves, I don't know.
+[00:52:17] I don't know what's going on.
+[00:52:19] But these certain numbers just seem to be recurring
+[00:52:21] all the time. - [Tim] Yes.
+[00:52:24] - So the booster is actually 69 point something.
+[00:52:27] And then it's Booster 4 and Ship 20.
+[00:52:31] - [Tim] 20. (laughs)
+[00:52:32] - And this is all happenstance.
+[00:52:34] - [Tim] Right, right.
+[00:52:37] I love that. - What the hell is going on?
+[00:52:38] (Tim laughs)
+[00:52:41] - [Tim] Oh yeah, someone had figured out that,
+[00:52:44] oh, what was it?
+[00:52:46] Oh, I don't even remember
+[00:52:47] but it was something like you were 69,420
+[00:52:52] days old or minutes old or something
+[00:52:54] when you went on SNL or something.
+[00:52:56] - What? - [Tim] It was some
+[00:52:57] ridiculous. - Are you serious?
+[00:52:58] - [Tim] Yes, it was the weirdest-
+[00:53:00] - You know I was born 69 days after 4/20, by the way.
+[00:53:02] - [Tim] Oh yeah. (laughs)
+[00:53:05] Come on! - Come on.
+[00:53:07] - [Tim] This is ridiculous. - It's ridiculous.
+[00:53:09] - [Tim] That's so funny.
+[00:53:10] - I mean, what the hell?
+[00:53:14] - [Tim] Oh man.
+[00:53:17] This is insane.
+[00:53:20] - It's like, am I an avatar in someone's video game?
+[00:53:23] - [Tim] Yes.
+[00:53:24] - Oh really?
+[00:53:25] - [Tim] Statistically, yeah.
+[00:53:26] - Okay. (Tim laughs)
+[00:53:28] - [Tim] You're probably doing
+[00:53:29] pretty good at the game, though.
+[00:53:29] I bet you're like, the top ranked player.
+[00:53:31] - Okay.
+[00:53:32] Well, that's something. (Tim laughs)
+[00:53:36] - [Tim] Do you have a name for the high-bay bar yet?
+[00:53:39] - [Elon] No, I guess we've bounced around different names.
+[00:53:42] We still haven't really made much use of it
+[00:53:44] because it wasn't really a critical path.
+[00:53:47] So it's kind of just sat there.
+[00:53:52] And the elevator, we need an upgraded elevator
+[00:53:55] 'cause we have this construction elevator.
+[00:53:56] - [Tim] Right.
+[00:53:58] - We don't yet have a name.
+[00:54:00] Nor have we used it.
+[00:54:02] But we're making good progress there
+[00:54:03] installing the grid fin.
+[00:54:05] - [Tim] Yeah, looks like the grid fin's up.
+[00:54:08] And I like how they're now...
+[00:54:13] Let me try and guess why you're gonna put 'em
+[00:54:15] closer together and not at 90-degree intervals.
+[00:54:17] Is it because you can just change your role
+[00:54:20] to change whatever axis you're trying to...
+[00:54:21] If you're trying to pitch the vehicle,
+[00:54:23] you're really only most of the time
+[00:54:24] probably either doing pitch or yaw.
+[00:54:27] You're likely not doing pitch and yaw
+[00:54:29] when it's coming in for reentry.
+[00:54:31] - Well, actually no.
+[00:54:32] We're controlling on three axes all the time.
+[00:54:36] Now, technically you only need three fins
+[00:54:38] to control on three axes.
+[00:54:43] - [Tim] But you can also roll if need to change your yaw
+[00:54:45] and roll 90 degrees, it would be pitch.
+[00:54:48] - Well, the control authority you need
+[00:54:49] is much more in pitch than any of the other axes.
+[00:54:52] Like, the amount of control authority you need for roll
+[00:54:54] is practically nothing. - [Tim] Right.
+[00:54:59] - But for pitch, you've got to basically
+[00:55:01] push the booster down.
+[00:55:03] So, you got to push this monster thing
+[00:55:05] into the wind and it doesn't want to go there.
+[00:55:10] The amount of pitch force you need,
+[00:55:11] that's where you need the most amount of force.
+[00:55:13] So, having the two pairs of fins closer together,
+[00:55:16] like more like an X-wing fighter
+[00:55:18] allows them to contribute more in pitch.
+[00:55:21] - [Tim] Which then allows more glide
+[00:55:23] or more of the air frame hitting the sides of the booster.
+[00:55:27] - You care about how much force do you have
+[00:55:30] relative to how much force do you need in a given axis?
+[00:55:33] So you need a lot of force in the pitch axis,
+[00:55:36] so that's where you want to bias your grip fins.
+[00:55:38] - [Tim] Yep, yep.
+[00:55:40] - You could arguably say they should be
+[00:55:41] biased even closer together than they are currently.
+[00:55:44] - [Tim] Yeah.
+[00:55:45] - But this is a reasonable guess.
+[00:55:47] - [Tim] In between. - Yeah.
+[00:55:49] - [Tim] So, this might end up pitching over
+[00:55:51] more than the Falcon 9.
+[00:55:51] 'Cause the Falcon 9 pitches pretty hard,
+[00:55:53] but it's skinnier and of course has less control authority
+[00:55:56] with the 90 degree thing.
+[00:55:58] So maybe this could pitch even more
+[00:56:00] and arrest more of its velocity
+[00:56:02] by gliding. - It's actually,
+[00:56:04] you've got various things that are better,
+[00:56:08] some things that are better, some things that are worse.
+[00:56:13] You can leave it like an airplane,
+[00:56:15] like an empennage where you've got a rudder,
+[00:56:17] a rudder and an elevator.
+[00:56:19] And if your elevator is far away from your center of mass,
+[00:56:22] then the amount of force you need is less
+[00:56:25] to change the angle.
+[00:56:26] Just think of it like a see-saw.
+[00:56:27] You got a see-saw or a wrench.
+[00:56:30] And if you have a long wrench,
+[00:56:31] it's easier to turn than a short wrench.
+[00:56:36] If you have a shorter booster,
+[00:56:39] a short booster is harder to turn than a longer booster.
+[00:56:43] Depending on where the control surface is
+[00:56:47] relative to your center of mass.
+[00:56:48] The center mass is kind of where the see-saw,
+[00:56:52] like it's seesawing around that center mass
+[00:56:55] and center of pressure.
+[00:56:57] You have two things basically.
+[00:56:59] It's like basically, it sounds more complicated than it is.
+[00:57:02] But basically it's a teeter-totter or a see-saw,
+[00:57:07] where there's a center of pressure and a center of mass.
+[00:57:11] And it's gonna basically just rotate around that.
+[00:57:13] - [Tim] Yep, yep.
+[00:57:16] - So, if you've got a long stage
+[00:57:19] that where the grid fins are far away from
+[00:57:23] your center of mass, then you need less force to turn it.
+[00:57:27] - [Tim] To turn it, yep.
+[00:57:29] - Basically. - [Tim] Gotcha, gotcha.
+[00:57:31] That makes sense.
+[00:57:31] - Yeah, like a really short stubby thing,
+[00:57:33] it would actually be quite hard to move it.
+[00:57:35] - [Tim] To move it.
+[00:57:37] But at least as far as the fineness ratio,
+[00:57:40] this has a lot more potential since it's wider,
+[00:57:43] to actually use atmospheric,
+[00:57:45] to use the atmosphere to slow down
+[00:57:47] before it even has to light its engines.
+[00:57:49] 'Cause you know how like New Glen
+[00:57:51] has those straights on the side.
+[00:57:53] And it looks like they're really planning
+[00:57:55] to almost fly the thing for a little bit
+[00:57:57] at a pretty high angle of attack
+[00:57:59] compared to the relative wind stream,
+[00:58:01] to really let the atmosphere slow down the vehicle
+[00:58:02] as much as possible.
+[00:58:04] You guys have a pretty, compared to Falcon 9,
+[00:58:06] there's a lot less fine ratio.
+[00:58:09] It seems like you get a lot more lift out of the thing.
+[00:58:16] - Realistically, this is gonna come in
+[00:58:18] at something close to terminal velocity.
+[00:58:19] - [Tim] Right, oh yeah.
+[00:58:23] - 'Cause you're trying to get to a precise point.
+[00:58:26] So, it's very difficult to do a fast pitch up maneuver
+[00:58:34] and also get caught by the tower.
+[00:58:37] - [Tim] Right. - If you've got a very big
+[00:58:38] landing area, then you could do that maybe.
+[00:58:42] If you want a precise landing,
+[00:58:44] you can't do a sudden pitch up at the end.
+[00:58:46] And then you've got pretty big
+[00:58:49] moments of inertia here.
+[00:58:51] Big things don't move like small things.
+[00:58:52] - [Tim] Right.
+[00:58:54] - You don't see a super tanker
+[00:58:55] dashing around like a speed boat.
+[00:58:56] - [Tim] Right, right, right. - This is like,
+[00:58:59] in rocket form of a super tanker.
+[00:59:01] It doesn't move fast.
+[00:59:03] It's like (vocalizes). - [Tim] Yeah.
+[00:59:06] - Like way bigger than a whale.
+[00:59:09] - [Tim] Yeah, yes it is.
+[00:59:12] - It's just not gonna move fast.
+[00:59:14] - [Tim] Right.
+[00:59:15] - Although, ironically, liftoff will be weirdly fast.
+[00:59:18] - [Tim] Yeah.
+[00:59:24] - Big rotating things always move slower
+[00:59:26] than small rotating things.
+[00:59:27] - [Tim] Yeah. - You know?
+[00:59:33] - [Tim] Yeah.
+[00:59:35] - Yeah.
+[00:59:37] - [Tim] Should we head to the pad?
+[00:59:38] - Yeah, there's a lot of potential improvements.
+[00:59:49] I mean.
+[00:59:55] Yeah.
+[00:59:56] - Man, oh man, wasn't that an awesome conversation?
+[01:00:00] Now, in part three, we're gonna be taking you
+[01:00:02] down to the launch pad, and you're gonna be able to see Elon
+[01:00:04] just walking around at work.
+[01:00:06] It's super fascinating.
+[01:00:08] Again, thank you, Elon, for spending so much time
+[01:00:11] hanging out with me.
+[01:00:12] I'm glad that you had fun
+[01:00:13] and it looks like maybe we'll be able to do this again.
+[01:00:16] You know I'm game for that.
+[01:00:17] And SpaceX, thank you so much for allowing me
+[01:00:19] to share all this awesome stuff with everyone.
+[01:00:21] But I owe a huge thank you to my Patreon supporters
+[01:00:24] for helping make this and everything we do
+[01:00:25] here at Everyday Astronaut possible.
+[01:00:27] If you want to gain access to some exclusive live streams
+[01:00:30] and also our awesome Discord community,
+[01:00:33] where we talk about everything space flight all the time,
+[01:00:36] head on over to www.Patreon.com/EverydayAstronaut.
+[01:00:40] And while you're online, be sure and check out
+[01:00:41] our awesome web store where you'll find shirts like this,
+[01:00:44] the full flow stage combustion cycle shirt,
+[01:00:46] and the hoodie, and the Aerospike shirt,
+[01:00:49] and the rest of the schematics collection,
+[01:00:50] or the future Martian collection.
+[01:00:52] You'll find lots of fun stuff
+[01:00:53] at www.EverydayAstronaut.com/shop.
+[01:00:55] Thanks, everybody.
+[01:00:56] That's gonna do it for me.
+[01:00:57] I'm Tim Dodd, the Everyday Astronaut,
+[01:00:59] bringing space down to Earth for everyday people.

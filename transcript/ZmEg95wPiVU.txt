@@ -1,0 +1,1211 @@
+[00:00:00] uh so it is my great honor to uh
+[00:00:03] introduce a man who needs no
+[00:00:04] introduction I'm not sure where he's at
+[00:00:06] but I'm sure he's going to come in here
+[00:00:07] somewhere where is he oh okay there you
+[00:00:09] go um uh a gentleman who we can call
+[00:00:13] Elon and everybody at least in this
+[00:00:15] country I know exactly who you're
+[00:00:16] talking about uh but Mr Elon Musk he's
+[00:00:20] the uh CEO lead designer of SpaceX uh
+[00:00:24] everyone I think knows this um SpaceX is
+[00:00:28] an amazing um uh commercial company it's
+[00:00:31] the first company to to launch uh
+[00:00:34] commercial rocket into low earth orbit
+[00:00:37] uh with their Falcon 1 launch uh then in
+[00:00:40] 2008 they were one of the winners of a
+[00:00:43] contract to uh bring services to the
+[00:00:46] International Space Station they're the
+[00:00:48] first commercial company to birth with
+[00:00:49] the International Space Station bringing
+[00:00:51] supplies they're also the first
+[00:00:53] commercial company to return a sizable
+[00:00:55] return vehicle uh with the all the
+[00:00:58] components still intact which is very
+[00:00:59] important to us uh back to uh to the
+[00:01:02] surface of the Earth and so it's an
+[00:01:05] amazing company has done a great job um
+[00:01:08] and continues to push the boundaries you
+[00:01:10] you'll hear from Elon but his Interest
+[00:01:12] really is not so much in low earth orbit
+[00:01:14] as it is going Beyond low earth orbit
+[00:01:16] and and making sure Humanity will
+[00:01:18] continue to live uh by exploring beyond
+[00:01:22] beyond Earth um Elon has a a varied uh
+[00:01:27] history of things that he's been
+[00:01:28] involved in this was this is one of the
+[00:01:30] things that makes it so exciting to have
+[00:01:32] this conversation with him today you
+[00:01:34] he's not one-dimensional space guy he's
+[00:01:36] involved in Tesla motors which he is a
+[00:01:38] co-founder and CEO uh and also a a major
+[00:01:42] player in the design efforts and what
+[00:01:43] they choose to go build and and how um
+[00:01:46] of course he was a co-founder of PayPal
+[00:01:48] and zip 2 uh he's deeply involved in uh
+[00:01:52] a number of other Industries as well and
+[00:01:54] so it's my great honor to welcome Elon
+[00:01:57] Musk to the stage
+[00:02:12] thanks for coming appreciate
+[00:02:16] it okay well these are great
+[00:02:20] chairs you guys look at those chairs
+[00:02:23] you're in um let's see so Elon you've uh
+[00:02:27] you and I were going to have a little
+[00:02:28] chat this morning we said it was going
+[00:02:30] to be a fireside chat so minus the
+[00:02:32] Fireside I guess we're ready um again
+[00:02:35] I've as you heard I've encouraged folks
+[00:02:37] to ask a few questions along the way but
+[00:02:38] I have a few uh a few questions I
+[00:02:40] thought to get us started so the first
+[00:02:43] one which is probably on everybody's
+[00:02:44] mind is perhaps you want to discuss a
+[00:02:46] little bit about the the recent loss of
+[00:02:49] the dragon and the in the Falcon 9 here
+[00:02:52] on SpaceX
+[00:02:53] 7 sure well I mean I think it's OB it's
+[00:02:57] a huge um load to to SpaceX and um and
+[00:03:03] or we take these missions incredibly
+[00:03:05] seriously
+[00:03:07] um the invest the everyone that can
+[00:03:11] engage in the investigation at SpaceX is
+[00:03:14] um very very focused on that and um in
+[00:03:19] this case the the data does seem to be
+[00:03:22] quite um difficult to interpret like
+[00:03:25] whatever happened is is clearly not not
+[00:03:27] a sort of simple straightforward
+[00:03:30] thing um so we want to spend as much
+[00:03:34] time as possible just reviewing the data
+[00:03:36] obviously going over it with with NASA
+[00:03:38] and with fa and with um number of other
+[00:03:41] customers and just sort of seeing um
+[00:03:44] what feedback everyone has based on
+[00:03:47] their prior experience um to see if we
+[00:03:49] can get to what the uh most likely root
+[00:03:53] cause is um look at look at both what we
+[00:03:56] think most likely happened um and then
+[00:04:00] anything that's a close call and try to
+[00:04:03] address all of those things and maximize
+[00:04:05] the probability of success for future
+[00:04:07] missions any hints on where you think
+[00:04:10] the problem lies you well I know the
+[00:04:13] this there's media and the audience so
+[00:04:15] they yeah so you have to be careful
+[00:04:16] you're right I never really learned that
+[00:04:19] but clearly that is a lesson now working
+[00:04:22] on so so it's yeah I mean
+[00:04:24] I um you know
+[00:04:28] the I I think I think I think we'll be
+[00:04:32] able to say something um more definitive
+[00:04:36] towards the end of the week um at this
+[00:04:39] point really the only thing that's
+[00:04:41] really clear is that there was some kind
+[00:04:44] of over pressure event in the upper
+[00:04:46] stage liquid oxygen tank um but the the
+[00:04:48] exact cause and the sequence of events
+[00:04:51] there's there's still no uh clear uh
+[00:04:55] theory that fits with all the data um so
+[00:04:58] we have to determine if some of the data
+[00:05:01] is u a measurement error of some kind or
+[00:05:04] whether uh there is actually a theory
+[00:05:06] that matches the the sort of what what
+[00:05:09] appear to be conflicting data points
+[00:05:12] okay very good I I'll just make a
+[00:05:14] comment the tweets you put out regularly
+[00:05:17] uh particularly when events like this
+[00:05:18] happen uh are really useful to everybody
+[00:05:20] we really do appreciate it you you'd be
+[00:05:22] amazed at how many folks quote what you
+[00:05:24] said and and and how how glad they are
+[00:05:27] that you just step right out and at
+[00:05:29] least give some sign about what's going
+[00:05:31] on and that you know we'll get through
+[00:05:32] it things are going well so we
+[00:05:33] appreciate that absolutely and for sure
+[00:05:36] um as soon as we we think we've got a
+[00:05:38] clear line on on what what happened and
+[00:05:41] we've sort of crosschecked it with as
+[00:05:42] many experts as we can um and we
+[00:05:45] certainly appreciate the the feedback
+[00:05:47] from from NASA on this front very very
+[00:05:49] much appreciated um the we'll certainly
+[00:05:53] quite a put out that story my only
+[00:05:54] reticence about saying something quite
+[00:05:57] yet is I don't want to say something
+[00:05:58] that subsequently turns out to be a Mis
+[00:06:01] um misunderstanding of the situation oh
+[00:06:03] yeah absolutely understand that so um
+[00:06:06] one of the questions that I ask myself
+[00:06:09] regularly is
+[00:06:12] um at what point does all this
+[00:06:15] government help hurt um so this event
+[00:06:19] occurred and we have uh you have NASA
+[00:06:21] folks uh there uh from from about three
+[00:06:25] different programs that intend to use
+[00:06:26] your services ISS being one of them you
+[00:06:30] have the FAA that's uh that's involved
+[00:06:33] um the range uh folks are there
+[00:06:38] um without feeling like you're giving
+[00:06:42] your customers a hard
+[00:06:44] time how is that interaction and uh what
+[00:06:49] what should we consider doing
+[00:06:50] differently so that we in those areas
+[00:06:53] where we can help we are helpful and in
+[00:06:56] those those areas where we're really
+[00:06:59] keeping you from getting your job done
+[00:07:01] we we can modify ourselves yeah actually
+[00:07:04] I think the interaction with NASA has
+[00:07:05] been great thus far um the the the
+[00:07:09] biggest challenge is there there are um
+[00:07:11] a lot of inquiries coming in
+[00:07:13] simultaneously so uh it's it's hard to
+[00:07:17] sort of keep you know respond respond to
+[00:07:20] everyone right away but but actually it
+[00:07:22] seems to have gone fairly well the the
+[00:07:23] biggest thing that's needed in the in
+[00:07:25] the sort of short term is the ability to
+[00:07:27] sort of gather all the data um create
+[00:07:29] create a very precise timeline so you
+[00:07:31] know by by the millisecond we know what
+[00:07:34] each sensor was reading um and we can um
+[00:07:37] correlate that with ground video and
+[00:07:40] actually like one of the biggest
+[00:07:41] challenges is matching the the things to
+[00:07:43] the exact time you know because when
+[00:07:46] you're talking about you know a matter
+[00:07:48] of
+[00:07:49] milliseconds um you know being able to
+[00:07:52] say what is the ground track video
+[00:07:54] compared to the data as received by the
+[00:07:57] um you know by by the station from the
+[00:08:00] rocket and then taking into account for
+[00:08:02] exact the the actual time taken to
+[00:08:04] generate a packet of information um when
+[00:08:08] was that sensor read when was it encoded
+[00:08:11] into a packet and when was that packet
+[00:08:13] sent to the ground um when when you're
+[00:08:16] dealing in in milliseconds that all that
+[00:08:19] stuff actually makes quite a big
+[00:08:20] difference yeah sure um so the that's
+[00:08:23] the the the biggest sort of effort we've
+[00:08:26] um been engaged in thus far is just
+[00:08:27] putting together super detailed uh
+[00:08:30] timeline um and then just making sure
+[00:08:32] that they have the sequence of of events
+[00:08:35] down as precisely as possible that's
+[00:08:36] what we' working on and um but but
+[00:08:40] actually certainly uh with with um the
+[00:08:42] interaction we've had with with NASA and
+[00:08:44] with us it's actually been quite good
+[00:08:45] thus far um and we've explained that
+[00:08:47] this is what we're doing and um and then
+[00:08:50] we we very much welcome any uh feedback
+[00:08:53] or input or review of the data that
+[00:08:56] would lead us to a better understanding
+[00:08:57] of the circumstances
+[00:08:59] I thought we had a very uh productive
+[00:09:02] discussion back when we had the engine
+[00:09:04] one anomaly and so I found it to be very
+[00:09:07] useful uh but that's a perspective from
+[00:09:09] from a NASA perspective so it's always
+[00:09:11] interesting to know your perspective of
+[00:09:13] that yeah it seems to be quite quite
+[00:09:15] good actually right now yeah so um
+[00:09:19] You're Building um in the last couple
+[00:09:21] launches you've had Landing legs and
+[00:09:22] you've uh been working on Landing um the
+[00:09:25] first stage back uh eventually to shore
+[00:09:28] can you talk a little bit about that and
+[00:09:30] what your vision is for that and for
+[00:09:31] SpaceX in general as you go forward sure
+[00:09:34] well the the overarching uh goal of
+[00:09:37] SpaceX is to try to advance the state of
+[00:09:40] uh space transport um Advanced space
+[00:09:43] transport technology to the point where
+[00:09:46] um well it get as far along the path as
+[00:09:49] we can to to where uh space travel is
+[00:09:53] hopefully common place at some point in
+[00:09:55] the future and and where we can send
+[00:09:58] large numbers of people cargo to other
+[00:10:00] planets and you know it's like that's
+[00:10:03] the sort of thing that that needs to
+[00:10:04] happen for Humanity to have a great
+[00:10:06] future in space so we want to keep
+[00:10:07] pushing that and I think like key to uh
+[00:10:11] to that future is
+[00:10:13] reusability um so that's why we've
+[00:10:15] worked quite hard on reusability
+[00:10:17] unfortunately we we haven't um succeeded
+[00:10:20] yet and in fact the last launch
+[00:10:22] ironically was uh we we we actually had
+[00:10:25] the best chance of Landing uh the
+[00:10:28] vehicle on the on the this sort of drone
+[00:10:30] ship that's keeping station in the
+[00:10:32] Atlantic um so we're actually quite sort
+[00:10:35] of geared up for for hopefully this
+[00:10:37] would be a really great launch and
+[00:10:38] unfortunately ended up being the the
+[00:10:39] opposite on my birthday of all things um
+[00:10:44] a real
+[00:10:47] Downer you'll remember it though
+[00:10:50] definitely low Point um but um but but I
+[00:10:55] do think in in the future launches that
+[00:10:58] that we've got a decent chance of
+[00:10:59] landing on on the ship and then bringing
+[00:11:02] the Boost AG back to land um and then
+[00:11:05] the next challenge of course is trying
+[00:11:07] to figure out how
+[00:11:09] to efficiently effectively reuse it um
+[00:11:13] and it is designed for easy reuse in
+[00:11:15] theory um but we got to see what the
+[00:11:18] stage looks looks like when it comes
+[00:11:20] back in one piece MH
+[00:11:22] um we we have been able to over the last
+[00:11:25] few years do a number of vertical
+[00:11:26] takeoff and Landing tests um of uh
+[00:11:30] Hardware that's essentially in the
+[00:11:32] flight configuration so we know we can
+[00:11:34] we can handle the the the terminal phase
+[00:11:36] if um you know if things go right we can
+[00:11:39] take off the land no problem so it's
+[00:11:42] just a question of uh completing all the
+[00:11:45] the pieces and um hopefully later this
+[00:11:47] year we'll be able to do that but that
+[00:11:49] that that's key so but of course that
+[00:11:51] doesn't address upper stage reuse but IT
+[00:11:54] addresses boost age reuse which is sort
+[00:11:56] of 70% to 80% of the of the of the cost
+[00:12:00] um and um and but I think would be a
+[00:12:04] great step towards uh uh lowering the
+[00:12:07] the cost of space
+[00:12:09] transport so you know if you look at
+[00:12:12] your history uh I guess zip 2 payal
+[00:12:15] these are um largely software type
+[00:12:20] efforts now you've got Tesla electric uh
+[00:12:23] cars uh you're building a battery plant
+[00:12:28] um Solar City I guess you're involved in
+[00:12:31] Solar City so why space this seems um
+[00:12:35] space to me and just what I rate we with
+[00:12:37] you seems to be more of a passion than
+[00:12:39] the others or our businesses but I I I
+[00:12:41] can't tell why space why are you why do
+[00:12:43] you think it's important for us to be
+[00:12:45] sure have quick access to L orbit well
+[00:12:48] the uh I mean actually technically I
+[00:12:51] mean with with
+[00:12:53] the uh Tesla and Solar City they're
+[00:12:56] about helping to solve the sustainable
+[00:12:57] energy problem um and uh so we're trying
+[00:13:02] to make progress on that front on the
+[00:13:03] with those companies um with with SpaceX
+[00:13:06] it's uh trying to help um solve the kind
+[00:13:09] of space bearing problem um I mean I I
+[00:13:13] think that a a future where we're space
+[00:13:15] spring civilization um and a multiplet
+[00:13:17] species is very exciting inspiring
+[00:13:20] awesome future um and in order for that
+[00:13:23] to happen um we've got to um
+[00:13:27] dramatically improve the cost of space
+[00:13:29] flight
+[00:13:31] um and uh and that's that's why why
+[00:13:35] SpaceX exists is to try to try to lower
+[00:13:39] the cost of space flight uh which we've
+[00:13:41] made some progress in doing but still I
+[00:13:43] would call a improvements thus far um
+[00:13:46] evolutionary not revolutionary um and um
+[00:13:50] but with with a lot of continued work I
+[00:13:52] mean I think there's the potential for
+[00:13:54] for um order of magnitude or greater
+[00:13:57] improvements reusability being key to to
+[00:13:59] all of that of course
+[00:14:02] um and uh yeah and then hopefully you
+[00:14:04] know we want to if if we can keep
+[00:14:07] improving the the cost of space flight
+[00:14:09] um then eventually if that trend is in
+[00:14:11] the right direction it could be uh
+[00:14:14] leading to a city on Mars and certainly
+[00:14:16] along the way a lot of activity in lowth
+[00:14:19] orbit and um the moon and you know lots
+[00:14:22] of other exciting
+[00:14:24] things so one of the things we're trying
+[00:14:27] to do with the International Space
+[00:14:28] Station
+[00:14:29] is um try to figure out which Industries
+[00:14:32] will prosper from the use of low earth
+[00:14:34] orbit to try to understand or or help
+[00:14:39] grow the Eon an economy essentially in
+[00:14:41] low earth orbit um and folks who are
+[00:14:44] doing that are all taking risks today um
+[00:14:47] our job is to try to reduce the risk as
+[00:14:49] much as we can near term um so that they
+[00:14:52] can get the information they need to
+[00:14:55] really have a business case for the
+[00:14:56] future but everyone's trying to to
+[00:14:59] calculate a risk so is there an Elon
+[00:15:04] Musk philosophy of risk vered benefit
+[00:15:08] and when you when you think is the right
+[00:15:10] time to jump in Ian what is your thought
+[00:15:13] on on how to approach new Industries
+[00:15:16] Innovative areas and when's the right
+[00:15:18] time to jump in or not or do you just
+[00:15:22] may is there no crystal ball or is it a
+[00:15:24] crystal ball or Ouija board I mean how
+[00:15:26] do you how do you figure out what you
+[00:15:27] should go after well definitely the
+[00:15:29] Ouija board of
+[00:15:30] quot um much more reliable than the
+[00:15:34] crystal
+[00:15:34] ball
+[00:15:36] um so uh
+[00:15:40] the yeah I mean I I don't really like
+[00:15:44] risk for risk seek or or anything it's
+[00:15:47] and and I do think that
+[00:15:49] um lot the things are are very risky uh
+[00:15:53] with a low chance of success but if you
+[00:15:56] want to try to come up with an
+[00:15:57] Innovative breakthrough um that's kind
+[00:16:00] of that's going to be how it is um
+[00:16:03] anything which is significantly
+[00:16:06] Innovative is going to come with a
+[00:16:07] significant risk of failure um and um
+[00:16:11] but you know if you've got to take big
+[00:16:13] chances in order for the potential for a
+[00:16:15] big positive outcome um and um you know
+[00:16:21] just and if I mean if the outcome is
+[00:16:24] exciting enough then then taking a big
+[00:16:26] risk is worthwhile yeah it's really how
+[00:16:30] I approach it but but then once
+[00:16:32] executing down a path I actually do my
+[00:16:34] absolute best to reduce uh risk you know
+[00:16:38] because or or to improve the another way
+[00:16:40] of saying to improve the probability of
+[00:16:41] success because uh when you're trying to
+[00:16:44] do something that is very um very risky
+[00:16:49] uh that you you you have to spend a lot
+[00:16:51] of effort trying to reduce that risk as
+[00:16:54] you and walk down that path I mean when
+[00:16:58] um when I saw basx the I thought the
+[00:17:00] odds of success were very low um I
+[00:17:03] thought we most likely fail um but I
+[00:17:05] thought well we should give it a try
+[00:17:08] nonetheless um and
+[00:17:12] um then I'm not sure if you know what
+[00:17:14] what what preceded SpaceX cuz the why I
+[00:17:18] got into the space well I you I remember
+[00:17:21] you trying to purchase the a vehicle to
+[00:17:23] from our Russian col you're talking
+[00:17:25] about um well actually it was um the
+[00:17:30] reason I got into space was to try to
+[00:17:33] increase NASA's
+[00:17:34] budget well God bless you
+[00:17:40] then
+[00:17:42] um the the and but so I'll tell you so
+[00:17:46] the roundabout way I thought we that
+[00:17:47] might be accomplished was um I thought
+[00:17:50] well if if NASA's budget was more was
+[00:17:53] larger than we could do more in space
+[00:17:55] exploration and I thought well what work
+[00:17:59] particularly if we could get the public
+[00:18:00] excited about sending people to Mars and
+[00:18:03] I thought well if I could do a small
+[00:18:05] greenhouse and and send that to the
+[00:18:07] surface of Mars with seeds and in um
+[00:18:10] nutrient gel and you hydrate the gel and
+[00:18:12] Landing you have a little miniature
+[00:18:13] greenhouse and then you you'd have the
+[00:18:15] public tends to get excited about
+[00:18:17] precedents and superlatives so be like
+[00:18:19] the you know sort of first life on Mars
+[00:18:22] the furthest life ever traveled and and
+[00:18:23] get people sort of excited about well
+[00:18:25] maybe we should send people there like
+[00:18:27] the hell with plants we should people
+[00:18:29] you know right right um and um and then
+[00:18:32] um I thought well that could if if that
+[00:18:34] could get the public really excited
+[00:18:36] about sending fuel to Mars then that
+[00:18:38] would translate into Congressional
+[00:18:39] support for a bigger NASA budget that
+[00:18:41] was the goal um and then I I didn't have
+[00:18:44] enough money to buy uh and I thought
+[00:18:47] that that outcome would have 100% chance
+[00:18:49] of no no no commercial
+[00:18:51] success so 100% chance of of losing all
+[00:18:54] the money so um so compared to that
+[00:18:57] SpaceX which I thought maybe had a 10 %
+[00:18:59] chance of success that was an
+[00:19:04] improvement there you go well that makes
+[00:19:06] that makes good sense so are you still
+[00:19:08] thinking about that I do remember that
+[00:19:10] conversation this was the idea where you
+[00:19:12] used Martian reguli you send these
+[00:19:15] self-contained habitats not
+[00:19:17] habitats chamber kind of things and grow
+[00:19:20] small yeah like a meter across or
+[00:19:21] something but but just to prove the
+[00:19:23] concept yeah just to get I mean the real
+[00:19:25] goal was to get the public excited um
+[00:19:28] you get some engineering data about what
+[00:19:30] does it take to maintain a little
+[00:19:32] habitat on Mars type of thing um but the
+[00:19:34] main thing would be to get the public
+[00:19:36] excited and you know get people to be
+[00:19:40] you know the public to be in favor of a
+[00:19:41] big an Assa budget that was the goal
+[00:19:44] well again God Bless you that's a worthy
+[00:19:45] goal I hope you don't
+[00:19:48] stop so um commercial crew so you've
+[00:19:51] been selected as one of the providers
+[00:19:53] for the commercial crew can you tell us
+[00:19:55] a little bit about um where that's
+[00:19:57] headed for you as a company and perhaps
+[00:19:59] maybe how it's affected your company if
+[00:20:01] it has if it's changed anything and how
+[00:20:03] you approach
+[00:20:06] space um I think things seem to be going
+[00:20:09] fairly well on the commercial Crew front
+[00:20:12] um I mean the I mean overall I think I
+[00:20:17] mean like there are small disagreements
+[00:20:18] here and there but overall I like I
+[00:20:20] think we very much agree with the way
+[00:20:22] it's being done um and
+[00:20:26] um yeah I think it's it's it's pretty
+[00:20:28] pretty good I mean there are a few
+[00:20:29] things where the like it seems like the
+[00:20:33] amount of of sort of mass and volume
+[00:20:36] reserved for poop is too
+[00:20:39] high like sorry I don't know that's like
+[00:20:43] but that's you know there like little
+[00:20:44] things like that we're like well are
+[00:20:46] they really going to do that much poop
+[00:20:48] but
+[00:20:50] um it's it's quite it's quite a large
+[00:20:52] volume really is um so um I could really
+[00:20:57] they're pretty small uh disagreement so
+[00:20:59] I think that it seems to be pretty
+[00:21:01] pretty sensible um and um and then we
+[00:21:05] did the the launch a board test earlier
+[00:21:07] this year which at the cape which um
+[00:21:10] actually went went uh pretty well um and
+[00:21:14] uh yeah so things are going going along
+[00:21:16] getting pretty exciting um and um yeah I
+[00:21:21] think there's also some potential use
+[00:21:23] for Dragon 2 as um uh as a science
+[00:21:26] delivery platform uh you know going to
+[00:21:29] sort of delivering uh payloads to to
+[00:21:32] Mars or other places um we're in
+[00:21:34] discussion uh with other parts of NASA
+[00:21:36] about some of those ideas because the
+[00:21:38] propulsive landing uh you know it could
+[00:21:41] really lower the cost of getting science
+[00:21:43] instruments to various places in the
+[00:21:45] solar system uh so it's kind of exciting
+[00:21:48] so I'm going to come back to that in
+[00:21:49] just a second but commercial the the
+[00:21:51] crew vehicle versus the the dragon cargo
+[00:21:54] vehicle clearly there are some
+[00:21:56] significant differences um fairly
+[00:22:00] Innovative approach I think to abort uh
+[00:22:02] testing where traditionally you've seen
+[00:22:04] the the jessen rocket on top that it's a
+[00:22:08] puller versus The Pusher technique where
+[00:22:11] you utilize fuel that you otherwise
+[00:22:12] would use for the on orbit but of course
+[00:22:14] you're not going in there so very
+[00:22:16] Innovative approach are there other
+[00:22:17] areas where you feel like you're
+[00:22:21] um from an innovation standpoint you're
+[00:22:23] making some significant strides with the
+[00:22:26] crew vehicle
+[00:22:28] yeah I think the the the big items for
+[00:22:32] well the the biggest item really for um
+[00:22:35] Dragon 2 is the ability to do a
+[00:22:38] propulsive landing um and it's basically
+[00:22:42] H having heavy thrusters on board so
+[00:22:44] those same heavy thrusters um can then
+[00:22:47] do the abort but retain the the engines
+[00:22:50] so instead of in a normal um sort of
+[00:22:53] crude Mission like say take the soos for
+[00:22:55] example they'd have a uh a tractor motor
+[00:22:59] on the nose of the vehicle that would
+[00:23:01] have to be basically a rocket engine on
+[00:23:03] the nose that would have to be discarded
+[00:23:05] on every flight um which is a potential
+[00:23:08] reliability issue and it uh and then you
+[00:23:10] have obviously unable to reuse the the
+[00:23:13] the the abort system and um yeah and it
+[00:23:17] adds you know adds bunch bunch of mass
+[00:23:21] um but but then in addition those same
+[00:23:24] thrusters can be used for propulsive
+[00:23:26] landing so you can achieve a precise
+[00:23:28] pulsive Landing um which on on land or
+[00:23:32] water um which is um I think a
+[00:23:36] significant Improvement uh and um I mean
+[00:23:40] it's sort of also it's sort of like
+[00:23:41] really I think feels feels more like the
+[00:23:43] future to to have that that capability
+[00:23:46] um and then as I mentioned it for it can
+[00:23:48] be extended to uh do payload delivery to
+[00:23:52] to the moon or Mars or other places
+[00:23:56] because of the the the generalized
+[00:23:59] capability of propulsive Landing to to
+[00:24:01] land land almost
+[00:24:03] anywhere very good so uh let's go back
+[00:24:06] to Dragon at one point you had a
+[00:24:08] conversation talked a little bit about
+[00:24:10] something I think was referred to as
+[00:24:11] Dragon lab where you go to low earth
+[00:24:13] orbit and do what I assumed was sorty
+[00:24:16] kind of research and then and bring the
+[00:24:18] vehicle back are you still pursuing that
+[00:24:21] or something like that is this an area
+[00:24:22] where you think that there is a
+[00:24:25] potential um I think that that there
+[00:24:27] there is some potential for to
+[00:24:29] essentially just take things to Lo orbit
+[00:24:31] and then bring them bring them back you
+[00:24:33] know after a few weeks or something like
+[00:24:34] that
+[00:24:36] um it's it's not a huge area of
+[00:24:39] attention at at SpaceX but I think we
+[00:24:41] might do a few missions like that um but
+[00:24:45] uh yeah I mean dragon is is very much
+[00:24:49] sort of its primary optim optimization
+[00:24:52] is as a transport vehicle to in front
+[00:24:54] the space station um and uh and so
+[00:24:58] things like Dragon lab and then the
+[00:24:59] science delivery platform I think are
+[00:25:01] interesting extensions of that um and I
+[00:25:04] think as as Dragon 2 um first flies and
+[00:25:08] then gets into regular flight I think
+[00:25:09] there'll probably will be some you know
+[00:25:11] more applications that that people can
+[00:25:13] think of uh particularly since with
+[00:25:15] Dragon 2 the reusability of the vehicle
+[00:25:18] should be quite high so if we have
+[00:25:19] reusability of the Dragon spacecraft and
+[00:25:22] reusability of the the the the booster
+[00:25:25] um and somebody's willing to sort of um
+[00:25:29] do do a bunch of flights uh with with
+[00:25:33] with the fully reused system there's the
+[00:25:34] potential for for much lower cost uh
+[00:25:37] access to space the the there is a bit
+[00:25:40] of a chicken and egg challenge because
+[00:25:42] like the there's a certain amount of
+[00:25:43] fixed cost that have to be um carried no
+[00:25:47] matter what so the the the marginal cost
+[00:25:50] of launch or the cost of each subsequent
+[00:25:53] launch can drop quite significantly so
+[00:25:55] long as the launch rate per year is is
+[00:25:58] High it stays up yeah of course that
+[00:26:01] adds other challenges to the system yeah
+[00:26:03] trying to fly as often as you as you
+[00:26:05] need to to make that yep well let's see
+[00:26:09] I I don't want to bore everybody with
+[00:26:10] all my questions and we had talked about
+[00:26:13] if folks had any questions in the
+[00:26:15] audience let's see this oh wow they're
+[00:26:17] not bashful that's good so I don't know
+[00:26:19] if we're going to need microphones but
+[00:26:21] but I'll I'll start here
+[00:26:28] and I would like to ask you a question
+[00:26:30] which is I'm coming from the solar
+[00:26:33] energy so my
+[00:26:37] question because uh you are like a kind
+[00:26:40] of mentor and of visionary and you give
+[00:26:44] hope to a lot of people around the globe
+[00:26:46] because when they see you they realize
+[00:26:49] that they can realize their dreams but
+[00:26:52] my question is different uh when you are
+[00:26:54] a dreamer when you are
+[00:26:59] uh when you are a dreamer when you are a
+[00:27:01] Visionary of course you have your vision
+[00:27:04] but there are moments that
+[00:27:07] sometimes maybe you stop believing in
+[00:27:09] this Vision especially in the moments of
+[00:27:12] um some problems or failure so could you
+[00:27:17] tell me and could you tell also to
+[00:27:19] thousands of people who maybe will be
+[00:27:21] motivated by your answer what keeps you
+[00:27:24] fighting for your vision what helps you
+[00:27:27] to
+[00:27:34] well I mean I I think I'm kind of
+[00:27:36] constitutionally just geared to to just
+[00:27:39] keep going I don't know um it's uh um
+[00:27:45] yeah I mean it just I
+[00:27:47] I I don't know I mean it certainly there
+[00:27:51] are times when you know things don't go
+[00:27:53] well and then uh that's quite despera
+[00:27:56] for sure um
+[00:27:58] and so then it's it's difficult to
+[00:28:00] proceed with the same level of
+[00:28:01] enthusiasm um but um but I do think like
+[00:28:07] I do think the things that we're doing
+[00:28:08] are are you know pretty important to the
+[00:28:11] Future um and if we don't succeed then
+[00:28:15] you know there's well there's there's
+[00:28:18] not it's not clear what other things
+[00:28:20] would succeed um and if if we don't
+[00:28:23] succeed then we will be certainly
+[00:28:24] pointed to as a reason why people
+[00:28:26] shouldn't even try for these things
+[00:28:28] so uh I think it's important that we do
+[00:28:31] whatever is necessary to keep
+[00:28:33] going okay and uh last question last
+[00:28:37] question you so in 2004 when you are
+[00:28:39] going to Bary man with uh your cousin
+[00:28:43] you were thinking there is a sun and
+[00:28:46] let's make energy out of it yeah and I
+[00:28:49] would like to ask you uh why uh do you
+[00:28:52] believe uh so in solar energy and in and
+[00:28:55] CLE Tech energies and also in
+[00:28:57] sustainable energy and the last question
+[00:29:00] I will not ask any more questions what
+[00:29:02] will be the role of solar in the
+[00:29:04] exploration of
+[00:29:05] Mars sure um I think solar energy is
+[00:29:09] probably fairly significant uh for Mars
+[00:29:12] um and what's going to be quite
+[00:29:15] important is having um a very
+[00:29:18] lightweight solar system um that um you
+[00:29:22] know both volumetrically and
+[00:29:24] gravimetrically dance um so actually you
+[00:29:27] were sort of playing with different
+[00:29:30] concepts like um you know that like
+[00:29:32] thing that potty thing where you inflate
+[00:29:34] it and it rolls out the
+[00:29:38] thing like what one of the solid
+[00:29:40] Concepts is is to have like a big roll
+[00:29:43] that you just basically inflate and it
+[00:29:45] rolls out um with with with like really
+[00:29:49] thin uh solar panels on it um but but
+[00:29:53] it's it's going to be pretty important
+[00:29:54] because really you either got to do that
+[00:29:56] or nuclear um
+[00:29:58] and um you know nuclear has has its
+[00:30:01] challenges but but for solar it's it's
+[00:30:04] pretty
+[00:30:05] straightforward um so I think I think
+[00:30:07] solo is very important to the Future
+[00:30:09] exploration of Mars for sure so thank
+[00:30:11] you and I wish you that your next
+[00:30:13] birthday is very successful thank you so
+[00:30:16] much okay let's go let's
+[00:30:19] go okay go ahead valtin okay my name is
+[00:30:22] Valentino I am from the United rocket
+[00:30:25] and space corporation uh which uh
+[00:30:28] shortly will become a part of uh State
+[00:30:31] Corporation Ros Cosmos uh so uh I made
+[00:30:35] this long quest to the West because I'd
+[00:30:37] like to ask one question of Elon Musk
+[00:30:41] what is his secret to become a
+[00:30:43] successful businessman in space industry
+[00:30:47] and then coming back to Russia to tell
+[00:30:49] Russian businessmen there is a way to
+[00:30:52] become a tycoon in space
+[00:30:55] industry so uh serious seriously
+[00:30:59] speaking I'd like to ask you uh when you
+[00:31:02] started your business was the government
+[00:31:04] your partner was it useful in what areas
+[00:31:09] and so there are always two sides of the
+[00:31:11] coin sure
+[00:31:13] uh as there uh there were times when you
+[00:31:17] uh had to fight bureaucracy thank you
+[00:31:20] sure uh
+[00:31:22] well
+[00:31:24] um well I should say with respect to
+[00:31:27] starting a space business it's
+[00:31:29] definitely not the easiest environment
+[00:31:31] to start a business um I think if most
+[00:31:34] people were to rank order what's the
+[00:31:36] highest uh return on investment I I mean
+[00:31:39] space would not be very good um I mean
+[00:31:42] it's I I I'm very Pro space so it's like
+[00:31:45] I you know but it's um uh I mean it's
+[00:31:48] just true that like if you you know
+[00:31:51] start a hedge fund or if if you're in
+[00:31:53] like many other
+[00:31:54] Industries then you it's much easier to
+[00:31:57] make money than the space industry this
+[00:31:58] is not the easiest one to make money in
+[00:32:01] um it's yeah
+[00:32:05] um car industry also quite
+[00:32:09] [Applause]
+[00:32:12] difficult
+[00:32:14] so um so the uh in fact I mean when
+[00:32:18] starting SpaceX the the joke I I heard
+[00:32:21] the joke this this joke so often it was
+[00:32:23] ridiculous um the joke was how do you
+[00:32:26] make a small fortune in the space
+[00:32:28] industry and the punch line of course
+[00:32:30] being start with a large
+[00:32:32] [Applause]
+[00:32:38] one yeah I I got I point i' heard the
+[00:32:41] joke so many times that I would just get
+[00:32:42] to the punchline and say like well I
+[00:32:44] wanted to figure out how to turn a large
+[00:32:45] Fortune into a small one that was my
+[00:32:46] goal and they're like wow how did he
+[00:32:48] know
+[00:32:50] that um so um yeah that I mean I do
+[00:32:55] think there's there is opportunity in
+[00:32:56] space but but it is is it's it's a it's
+[00:32:59] it's tough goinging I think if um but I
+[00:33:03] think if if if SpaceX and other
+[00:33:05] companies can can lower the cost of
+[00:33:07] transport to to orbit and perhaps Beyond
+[00:33:11] um then there's a lot of potential for
+[00:33:13] entrepreneurship at the destination I
+[00:33:16] mean you can think of it like the like
+[00:33:18] the Union Pacific Railway you know uh
+[00:33:20] before there was the UN Pacific Railway
+[00:33:22] was real hard to have commerce between
+[00:33:25] the west coast and the East Coast um if
+[00:33:28] go buy a wagon or a really long sailing
+[00:33:30] Journey uh but once there was the
+[00:33:32] transport then there were huge
+[00:33:34] opportunities and now look at sort of
+[00:33:36] you know California and Washington State
+[00:33:38] and and and all the industries that have
+[00:33:40] been created in Silicon Valley and
+[00:33:42] Hollywood um but you you got to have
+[00:33:45] that fundamental transport element
+[00:33:47] otherwise there's just it's really
+[00:33:49] tricky um so we're trying to establish
+[00:33:52] that transport element um make it easier
+[00:33:55] to get to lowth orbit um and hopefully
+[00:33:58] in the future make it easier to get to
+[00:34:00] the moon or Mars um and I I do have this
+[00:34:03] long-term vision of like if if there was
+[00:34:06] affordable transport to to a place like
+[00:34:08] Mars I think the entrepreneurial
+[00:34:10] opportunities would be phenomenal you
+[00:34:12] know because there'd be people that
+[00:34:13] would want to create everything from the
+[00:34:15] first pizza joint to the first Iron or
+[00:34:18] factory to be like just a enormous
+[00:34:21] amount of opportunity for people to
+[00:34:22] create things on Mars and there' be
+[00:34:25] different things on some of the things
+[00:34:26] on Mars would be different that we don't
+[00:34:27] even imagine uh on Earth um be very
+[00:34:30] exciting um so I think that's that's
+[00:34:33] really key to um making things happen in
+[00:34:37] space is you got to have some place you
+[00:34:40] got to have some place to go and some
+[00:34:41] place and some way to get
+[00:34:43] there so yeah so so along those lines
+[00:34:47] did you you read Andy wear's book The
+[00:34:49] the Martian yeah yeah it was good what
+[00:34:51] did you think um I thought it was it was
+[00:34:53] pretty excellent certainly one of the
+[00:34:55] most realistic books on Mars that um
+[00:34:57] that I've read I mean like there were a
+[00:34:59] few things like the wind force on Mars
+[00:35:01] is not really that high well
+[00:35:04] there um it's not going to knock you
+[00:35:06] over or anything um it's high obviously
+[00:35:09] High Velocity but low Force um but
+[00:35:12] overall um I thought it was pretty cool
+[00:35:14] and apparently it's been made into a
+[00:35:15] movie and everything so um you don't you
+[00:35:18] don't have a cameo on that one too I
+[00:35:19] don't have a cameo on that one I'm I'm a
+[00:35:21] little worried that it might not make
+[00:35:22] people too keen on going to Mars U
+[00:35:27] was like this is looks really
+[00:35:32] hard I think we need a show about AAS is
+[00:35:34] awesome and it's like the wild west and
+[00:35:36] you got the Gunslingers and like the
+[00:35:37] cool Cowboys and that kind of thing all
+[00:35:41] all right maybe you got to write a book
+[00:35:42] too let's see there's a question over
+[00:35:44] here go ahead hi there my name is Anita
+[00:35:47] goell I'm here at uh out of Harvard MIT
+[00:35:50] run a company called nanobio Sim so uh
+[00:35:54] in your vision and dream to achieve
+[00:35:56] lowcost space travel how do you allocate
+[00:35:59] your Investments between engineering and
+[00:36:02] essentially driving down the cost of
+[00:36:04] existing technology versus investing in
+[00:36:08] new breakthrough
+[00:36:09] physics uh things like Breakthrough
+[00:36:11] propulsion physics anti-gravity what's
+[00:36:13] your vision in the bifurcation of those
+[00:36:16] two kinds of
+[00:36:18] portfolios well we don't spend a ton of
+[00:36:20] time on U physics um I the I think with
+[00:36:25] with current physics there the huge
+[00:36:28] potential um so rather than rely on a
+[00:36:32] breakthrough which we you know really
+[00:36:34] it's difficult to Invision what that
+[00:36:36] breakthrough would exactly be um or even
+[00:36:40] inexactly be um
+[00:36:44] the I'm quite confident that with what
+[00:36:47] we know of current physics sort of just
+[00:36:49] going with kind of you know where the
+[00:36:51] standard model of physics is today that
+[00:36:53] there are dramatic improvements possible
+[00:36:55] in space light um and I think with the
+[00:37:00] you know certainly with with Falcon 9 I
+[00:37:02] think we can make improvements and then
+[00:37:04] with our next Generation rocket system
+[00:37:06] which is still you know many years away
+[00:37:09] that'll be um a deep cryo methalox
+[00:37:13] system um I think I think we can achieve
+[00:37:16] full
+[00:37:17] reusability um and that that's really
+[00:37:20] that's a that's a huge potential for um
+[00:37:23] you know like maybe a two order of
+[00:37:25] magnitude reduction in the cost of space
+[00:37:28] flight um so um as far as R&D is
+[00:37:33] concerned like we we we we we hire grade
+[00:37:37] Engineers as fast as we can find them um
+[00:37:41] so it's like the it's not that easy to
+[00:37:43] find I should say great Engine with the
+[00:37:45] sort of like the right mindset and
+[00:37:47] everything um we we hire at at the at
+[00:37:51] the maximum rate that we can find people
+[00:37:53] that we think would would really be an
+[00:37:55] asset to the team so there's no
+[00:37:57] limitation on
+[00:37:59] that okay over here hi my name is
+[00:38:01] Zachary malt I'm a student from uh
+[00:38:03] Babson College I just want to say it's
+[00:38:04] an honor to be here um I read Ashley V's
+[00:38:07] biography about you one thing that
+[00:38:08] really was intriguing to me was the um
+[00:38:10] super Draco engine for the dragon V2
+[00:38:13] that was um used printed out of a 3D
+[00:38:15] technology do you envision using that
+[00:38:17] technology more in the future and um
+[00:38:18] when you first SP exploration and do you
+[00:38:20] think that'll um how will that affect
+[00:38:22] the costs in terms of getting to Mars
+[00:38:25] everything like that yeah Absol
+[00:38:27] absolutely so um as you alluded to we we
+[00:38:29] um we actually print the super Draco
+[00:38:32] engines um so they they're printed out
+[00:38:34] of titanum inel um and um and that
+[00:38:38] actually allows us
+[00:38:40] to uh reduce the cost of those engines
+[00:38:44] quite a bit uh in particular because we
+[00:38:46] can print integral cooling channels so
+[00:38:50] when you've got an hour glass chamber um
+[00:38:53] and you've got cooling channels in in
+[00:38:55] the wall of the chamber where the whole
+[00:38:57] wall can consist of cooling channels um
+[00:38:59] it's normally quite difficult to create
+[00:39:01] that uh thrust chamber or nozzle um
+[00:39:05] because you got to create an inner
+[00:39:06] jacket outer jacket kind of machine the
+[00:39:08] the inner jacket it's and then bra the
+[00:39:10] whole thing together it's real pain um
+[00:39:13] and you got a bunch of joints in there
+[00:39:15] to make it all work so with printing you
+[00:39:17] can print something that you can't make
+[00:39:19] by any other means so it's actually ends
+[00:39:21] up being lighter and cheaper than if we
+[00:39:24] built it by traditional methods um for
+[00:39:28] our next Generation engine which we call
+[00:39:30] the the Raptor which which as I
+[00:39:32] mentioned is sort of a um it's it's a
+[00:39:35] it's a deep cryome methyls so what I
+[00:39:37] mean by that is the the methane and
+[00:39:39] oxygen are cooled to close to their
+[00:39:42] freezing points so not not far from the
+[00:39:44] freezing point as opposed to close to
+[00:39:46] their boiling point um which is more
+[00:39:48] which is normally the case uh the
+[00:39:52] uh you know with that
+[00:39:55] engine uh we're trying to print as much
+[00:39:57] as possible it's it's a bit the biggest
+[00:39:59] limitation on 3D printing right now is
+[00:40:02] the the size envelope so there's a limit
+[00:40:04] on how big we can print something um but
+[00:40:08] we're able to print the the turbo pump
+[00:40:10] components and much of the injector not
+[00:40:12] the whole thing but but many of the
+[00:40:14] critical parts we can print um so that
+[00:40:17] actually helps us in speeding up the
+[00:40:19] development so instead of waiting for
+[00:40:21] castings to be developed which can take
+[00:40:24] several months um and then if the cast
+[00:40:27] is wrong you've got to iterate on the
+[00:40:28] casting and each iteration can take
+[00:40:31] several months um with printing we can
+[00:40:34] those iterations can be reduced to a
+[00:40:36] matter of weeks or months so that that
+[00:40:38] actually helps with the the speed of
+[00:40:40] development as
+[00:40:42] well see over
+[00:40:47] here hi uh I'm Ross Spong rock with a
+[00:40:50] company called high orbit I wondered if
+[00:40:52] you give could give us a little bit of
+[00:40:53] an update on uh what's going on with the
+[00:40:55] hyperloop and is there any over between
+[00:40:57] the worker Doom with SpaceX and
+[00:40:59] hyperloop
+[00:41:01] Technology yeah SpaceX is not neither I
+[00:41:05] nor SpaceX are doing anything to try to
+[00:41:07] commercialize the hyper Loop um there
+[00:41:10] are I think at least two maybe more than
+[00:41:12] two companies that have formed that are
+[00:41:14] completely independent of me or SpaceX
+[00:41:16] that are working towards commercializing
+[00:41:18] the hyperloop um techn or hyperloop idea
+[00:41:22] or design um what what SpaceX is doing
+[00:41:26] is we're we're we're going to just
+[00:41:28] create a little uh Student Competition
+[00:41:31] uh for for h Loop ideas so kind of like
+[00:41:34] around the the way that Formula SAE
+[00:41:36] Works where students um come up with a
+[00:41:40] design and compete against each other to
+[00:41:41] design the best pod so what what SpaceX
+[00:41:44] will do is just construct about a mile
+[00:41:46] long um
+[00:41:49] uh uh low pressure tube near nearly
+[00:41:52] vacuum tube basically um in which
+[00:41:56] students can kind kind of race their
+[00:41:58] pods um so we're it's just basically to
+[00:42:02] support uh get get students excited
+[00:42:05] about uh engineering that's the that's
+[00:42:08] the only involvement to space Tex myself
+[00:42:10] with the hyperloop at this
+[00:42:13] point okay over
+[00:42:15] here hello I'm paa castano I'm a
+[00:42:18] sociologist and I'm writing a book about
+[00:42:20] the International Space Station um how
+[00:42:23] would you describe the scientific value
+[00:42:25] of the International Space Station
+[00:42:27] and where would you draw the line
+[00:42:29] between luxury and need when it comes to
+[00:42:31] space
+[00:42:34] exploration well I mean I for space I
+[00:42:37] mean I really spend all of my time
+[00:42:40] thinking about just how to get to the
+[00:42:41] space station um to be honest I I um I
+[00:42:47] actually hadn't even really seen a
+[00:42:49] proper movie of the inside of the space
+[00:42:51] station until I went to see the a
+[00:42:52] preview of the new IMX thing that's
+[00:42:54] coming out and it's amazing
+[00:42:57] like when that space station IMAX movie
+[00:42:59] comes out people are going it blown away
+[00:43:01] it's
+[00:43:02] awesome um I actually brought my whole
+[00:43:05] team at at SpaceX to go uh go see the
+[00:43:09] preview of the of the IMX movie
+[00:43:12] um and um I mean it it's like it is a
+[00:43:16] very unique uh Laboratory um because
+[00:43:19] this the only thing that's in sort of
+[00:43:22] microgravity um that's above the Earth's
+[00:43:25] atmosphere um um and you can learn a lot
+[00:43:28] about basically human
+[00:43:30] physiology uh and do experiments that
+[00:43:33] you can't really do any any other lab um
+[00:43:37] and um you know and you can have bring
+[00:43:40] scientists up and they can actually work
+[00:43:42] in this incredibly unique lab so I think
+[00:43:45] that there's a lot to to to be gained
+[00:43:47] there um and um and I think it just you
+[00:43:52] can't sort of you know ignore the
+[00:43:55] coolness factor of it like that's
+[00:43:57] like people think it's pretty cool so I
+[00:44:00] think it's pretty cool um and you know
+[00:44:05] the the public want to have something
+[00:44:07] going on in
+[00:44:08] space that that involves people and
+[00:44:13] um yeah and it's it's just um I don't
+[00:44:16] know it's the coolest thing going on in
+[00:44:18] space so like there's a lot of value to
+[00:44:21] that you know we try to um to who um
+[00:44:28] sell's the wrong word it's the word we
+[00:44:30] use but sell's really the wrong word
+[00:44:32] we're trying to get people to recognize
+[00:44:34] that there's a platform in low earth
+[00:44:35] orbit and that uh this is important
+[00:44:38] What's Done In Low Earth orbit has
+[00:44:39] benefit to to uh those of us on Earth
+[00:44:43] that will never actually go to space but
+[00:44:46] in doing that you're trying to get their
+[00:44:48] interest level and part of their
+[00:44:50] interest level is the cool factor that
+[00:44:51] you talked about and um and I've always
+[00:44:54] kind of struggled with that being sort
+[00:44:57] of a black and white I I understand the
+[00:45:00] purpose in my head that's why I joined
+[00:45:02] NASA right but um over the years this is
+[00:45:04] one of the things that I've started to
+[00:45:06] recognize as important so my question to
+[00:45:09] you is um did we I've heard a rumor that
+[00:45:12] for the suits for commercial crew that
+[00:45:14] you wanted to play a role in that um and
+[00:45:17] so is that true and and is there some
+[00:45:19] reason behind the design of the suit
+[00:45:22] that you want to personally be involved
+[00:45:23] in other than crew
+[00:45:25] safety yeah I think we' actually spent
+[00:45:29] um a lot of effort on the space suit
+[00:45:32] design um on the both the functionality
+[00:45:36] and the Aesthetics but I I think just
+[00:45:38] just getting um it's actually really
+[00:45:41] hard because if you just sort of
+[00:45:42] optimize functionality it's one thing if
+[00:45:45] you optimize for Aesthetics it doesn't
+[00:45:48] work like you know those things that you
+[00:45:50] see movies they don't
+[00:45:53] work so uh the the so so it's like okay
+[00:45:58] how do we make something that looks cool
+[00:46:00] and works um and um with with a key uh
+[00:46:05] goal here of being being that um you
+[00:46:08] know when people see that uh space suit
+[00:46:11] they they we want them to think yeah I
+[00:46:13] want to wear that thing one day yeah
+[00:46:15] that looks
+[00:46:16] awesome um so that that's uh that's the
+[00:46:19] reason for it very good let's see we'll
+[00:46:22] do a couple more questions and then uh
+[00:46:24] let's let's can we get back into in the
+[00:46:27] back here or do we have somebody else
+[00:46:28] here already with the microphone all
+[00:46:30] right go ahead thank you and we'll do
+[00:46:31] one more after that I'm Alex Pearlman um
+[00:46:35] I'm with Boston magazine and I'm writing
+[00:46:37] for vice today I was hoping uh that you
+[00:46:40] could give us a little bit of an update
+[00:46:41] on the most recent news with the idea of
+[00:46:44] putting satellites um to provide
+[00:46:46] internet to um developing countries and
+[00:46:49] unconnected people
+[00:46:51] thanks uh sure so we're still at the
+[00:46:54] early stages of um sort of a big Leo
+[00:46:58] constellation communication idea um and
+[00:47:03] we're hopeful hopefully going to launch
+[00:47:05] I get a test satellite next year um and
+[00:47:09] but but I I I think the long-term
+[00:47:11] potential of it is is pretty pretty
+[00:47:13] great but I don't want to uh overplay or
+[00:47:17] overstate you know things quite you know
+[00:47:20] this you know or any stage of the game
+[00:47:22] really but the the the the long-term
+[00:47:25] goal is to to create a comprehensive
+[00:47:27] Global Communication System um that's
+[00:47:30] that provides high bandwidth low latency
+[00:47:33] connectivity anywhere in the world um
+[00:47:36] and provides cross links through the
+[00:47:38] satellites so that you can uh have um
+[00:47:42] improved long distance internet uh one
+[00:47:45] of the things that um sort of you
+[00:47:47] realize when you look at this is that um
+[00:47:50] you can actually have a a more direct
+[00:47:54] path uh through space and you can and
+[00:47:57] photons move faster I mean depending
+[00:48:00] upon what fiberoptic material they're
+[00:48:02] running through uh photons actually move
+[00:48:04] about 40 to 50% faster in in vacuum than
+[00:48:09] they do in fiber optic
+[00:48:11] cables um and if you look at the the way
+[00:48:15] that the fiberoptic cagles go they trace
+[00:48:17] the outlines of the continents and they
+[00:48:19] go through many repeaters and routers
+[00:48:21] and everything so if you want to say
+[00:48:24] communicate from a server in California
+[00:48:26] to one in South Africa it's a very very
+[00:48:29] long route and sort of very roundabout
+[00:48:31] path um and it's high latency low
+[00:48:35] photonic speed um and you could actually
+[00:48:38] have that communication be quite a bit
+[00:48:40] faster if it's in
+[00:48:42] space um so I think there's there's the
+[00:48:45] potential for for doing a fair bit of
+[00:48:47] longdistance uh internet activity as
+[00:48:49] well as providing um bandwidth broadly
+[00:48:53] um but it's also withth saying that a
+[00:48:56] lot of companies have uh tried this and
+[00:48:59] kind of broken their pick on it um and I
+[00:49:02] think we we want to be really careful
+[00:49:05] about how we deliberate about trying to
+[00:49:08] make this thing work um and not not
+[00:49:11] overextend ourselves so we're being
+[00:49:14] we're being you know fairly careful
+[00:49:15] about it but I I'm I do think this is
+[00:49:18] something that should be built and would
+[00:49:20] be quite good to have are you
+[00:49:27] well in our case the the communications
+[00:49:30] technology would be substantially more
+[00:49:32] advanced um in the past with say um
+[00:49:36] attempts like tadic uh the the the
+[00:49:39] electronics of the day were um very low
+[00:49:44] bandwidth I mean they're really analog
+[00:49:46] or barely digital um and they weren't
+[00:49:49] very high bandwidth so so it really
+[00:49:52] didn't compete with say with terrestrial
+[00:49:55] phones in the case of t they were
+[00:49:57] looking to compete with or or to address
+[00:49:59] cellular needs the system we're talking
+[00:50:02] about would not attempt to compete with
+[00:50:04] sell needs so for example it wouldn't
+[00:50:06] compete directly with say aridium which
+[00:50:09] is which which can talk directly to a
+[00:50:11] handset our system would seem to would
+[00:50:14] seek to talk to a small uh user terminal
+[00:50:18] that's about the size of a pizza box um
+[00:50:21] or or much like uh you know current um
+[00:50:25] dishes that I satellite dishes but but
+[00:50:27] it will be flat cuz we have phased Ray
+[00:50:29] antenna that's tracking the satellites
+[00:50:32] um but you could mount it in a window or
+[00:50:35] just anywhere outside as long as you can
+[00:50:36] see the sky it would
+[00:50:39] work see back here we'll take our last
+[00:50:41] question back here hey Elon thanks for
+[00:50:43] coming out um I would like to show you
+[00:50:46] we brought a virtual reality camera here
+[00:50:48] to record for the first
+[00:50:51] time um we have a small startup in San
+[00:50:54] Francisco called space VR and we believe
+[00:50:56] that virtual reality is the future of
+[00:50:59] space exploration because you can put
+[00:51:01] people on the very cutting the very
+[00:51:03] front of every um every exploration
+[00:51:06] mission is that something that you've
+[00:51:08] given much thought or have any opinions
+[00:51:10] on well I've I've gone I've received the
+[00:51:14] virtual reality demos at uh Oculus and
+[00:51:18] at valve um and it's pretty impressive
+[00:51:21] um you can sort of imagine if that's
+[00:51:23] extrapolated into the future it's really
+[00:51:25] going to Super feel like you're there um
+[00:51:28] and I wonder if some people are never
+[00:51:30] going to want to take that off
+[00:51:31] honestly
+[00:51:33] um it's like it's
+[00:51:36] pretty I mean it's pretty
+[00:51:39] entrancing um but I I I do think it be
+[00:51:42] quite exciting to do that for a space as
+[00:51:44] well yeah uh do you have a setup here
+[00:51:47] yeah okay it's right there wow
+[00:51:50] okay um cool you have time
+[00:51:58] launch the last one so you want to come
+[00:52:00] see okay um where are you based in where
+[00:52:06] you based San Francisco okay um I think
+[00:52:11] maybe today is going to be tricky but
+[00:52:14] uh but but maybe uh since you're based
+[00:52:16] in California uh I could we could
+[00:52:18] arrange something um in you know in the
+[00:52:21] coming
+[00:52:22] weeks all right let's see Elon we'll uh
+[00:52:26] we'll call it a a conference I wanted to
+[00:52:30] first uh thank you very much you've been
+[00:52:32] very generous with your time and we um
+[00:52:36] you know from the moment I called you
+[00:52:37] you were all in and uh it's really this
+[00:52:41] open conversation and your your thoughts
+[00:52:44] on uh on the on what's in front of us
+[00:52:46] that uh really excites us all in this
+[00:52:49] room so thank you very much for your
+[00:52:50] time we really appreciate it yeah thank
+[00:52:52] you thanks for having me all
+[00:52:55] right right thanks again appreciate see
+[00:52:58] you soon

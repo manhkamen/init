@@ -1,0 +1,1157 @@
+[00:00:01] I'll try to make this as interesting as
+[00:00:03] possible if you like space you'll like
+[00:00:04] this
+[00:00:06] talk so uh my background uh in brief
+[00:00:10] I'll I'll talk a little bit about zip 2
+[00:00:12] and uh and PayPal uh and then uh mostly
+[00:00:16] about space and what we're doing in
+[00:00:18] space um so I originally came out of
+[00:00:21] California to do energy physics at
+[00:00:23] Stanford actually um and ended up
+[00:00:25] putting this is in ' 95 and ended up
+[00:00:27] putting that on hold um to start zip 2
+[00:00:31] um and uh ZIP 2 I'll tell you a little
+[00:00:35] bit about the thought process of exactly
+[00:00:38] what happened there um in '95 the it
+[00:00:41] wasn't at all clear that the internet
+[00:00:42] was going to be a big commercial thing
+[00:00:44] in fact most of the Venture capitalists
+[00:00:46] that I talked to um hadn't even heard of
+[00:00:49] the internet which sounds bizarre um on
+[00:00:52] San Hill Road um so uh but but I wanted
+[00:00:56] to to do something and in the I thought
+[00:00:58] it would be a pretty huge thing
+[00:01:00] and um I thought it was one of those
+[00:01:02] things that only came along once in in a
+[00:01:05] very long while so I I got a deferment
+[00:01:09] uh at Stanford and uh I thought I'd give
+[00:01:12] it a couple
+[00:01:13] quarters uh and uh if it didn't work out
+[00:01:16] which I thought it probably wouldn't
+[00:01:17] then I'd come back to school um and
+[00:01:21] actually when I talked to my professor
+[00:01:22] and I told him this he said well I don't
+[00:01:24] think you'll be coming back and that was
+[00:01:25] the last conversation I had with him
+[00:01:28] so um but there weren't a lot of ways to
+[00:01:31] get the only way to get involved with
+[00:01:32] the internet in '95 that I could think
+[00:01:34] of was to start a company uh because
+[00:01:36] there wer a lot of companies to go and
+[00:01:37] work for apart from Netscape maybe one
+[00:01:40] or two others so um and then I didn't
+[00:01:43] have any money so I thought well we got
+[00:01:44] to make something that's going to return
+[00:01:47] uh it's going to return money
+[00:01:50] uh very very quickly so we thought well
+[00:01:53] the the the media industry uh would need
+[00:01:57] uh help converting its content from from
+[00:01:59] a media to uh electronic and they
+[00:02:02] clearly had money so uh if we could find
+[00:02:05] a way to help them move their media to
+[00:02:07] the internet that would be an obvious
+[00:02:09] way of of generating Revenue there was
+[00:02:11] no advertising revenue on the internet
+[00:02:13] at the time so uh and that that was
+[00:02:15] really the basis of of zip 2 and we
+[00:02:18] ended up building quite a bit of
+[00:02:19] software for for the media industry
+[00:02:21] primarily the print media industry uh so
+[00:02:23] we had as investors and customers um H
+[00:02:27] Corporation night rder uh um Mo most of
+[00:02:31] the the major US print Publishers uh we
+[00:02:35] built that up and then we uh we had the
+[00:02:37] opportunity to sell to compact in in
+[00:02:39] early 99 and basically took that offer
+[00:02:42] it was uh for a little over $300 million
+[00:02:44] in cash and that's that's a currency I
+[00:02:47] highly recommend
+[00:02:50] um so uh so we had that and um and uh
+[00:02:56] but but I wanted to do something
+[00:02:57] something more uh after zip two
+[00:03:00] so uh post the sale in fact immediately
+[00:03:03] post the sale I didn't really take any
+[00:03:05] time off um uh I was trying to think of
+[00:03:09] where where the were the opportunities
+[00:03:10] in this is early 99 where the
+[00:03:12] opportunities remained in the internet
+[00:03:14] and it seem to me that there hadn't been
+[00:03:15] a lot of innovation in the financial
+[00:03:17] services sector um so and and when you
+[00:03:21] think about it money is is low bandwidth
+[00:03:23] you don't need some sort of big
+[00:03:24] infrastructure Improvement to to do to
+[00:03:27] do things with it it's really just an
+[00:03:28] entry in the database the the paper form
+[00:03:31] of money is is really only a small
+[00:03:33] percentage of all the money uh that
+[00:03:35] that's out there so it should land
+[00:03:37] itself to Innovation on the internet uh
+[00:03:40] and so we thought of a couple of
+[00:03:42] different things we could do one one of
+[00:03:44] the things was to combine uh all of
+[00:03:46] somebody's Financial Services needs into
+[00:03:48] one website so you could have banking
+[00:03:50] brokerage insurance and all sorts of
+[00:03:52] things in one place um and and that was
+[00:03:55] actually quite a difficult problem to
+[00:03:56] solve um but we we we we we
+[00:04:00] solved most of the issues associated
+[00:04:01] with that and then we had a little
+[00:04:03] feature which took us about a day um
+[00:04:06] that was the ability to email money from
+[00:04:08] One customer to another so uh you can
+[00:04:11] type in an email address or actually any
+[00:04:13] unique identifier uh and uh transfer
+[00:04:16] funds uh or or conceivably stocks or
+[00:04:18] mutual funds or whatever from from one
+[00:04:21] uh account holder to another and if you
+[00:04:23] try to transfer money to somebody who
+[00:04:25] didn't have uh an account in the system
+[00:04:27] it would then forward an email to them
+[00:04:29] saying hey why don't you sign up and
+[00:04:31] open an account so and whenever we
+[00:04:34] demonstrate these two sets of features
+[00:04:37] we'd say well this this was a feature
+[00:04:39] that took us a lot of effort to do and
+[00:04:41] look how you can see your bank statement
+[00:04:42] and your your mutual funds and and
+[00:04:44] insurance and all that it's all on one
+[00:04:46] page and look how convenient that is and
+[00:04:47] people go ho home um and then we'd say
+[00:04:50] and by the way we have this feature uh
+[00:04:52] where you can enter somebody's email
+[00:04:53] address and transpose funds and they go
+[00:04:56] wow um so so we we like
+[00:05:00] okay um so we focused the the company's
+[00:05:03] business on on email payments um and and
+[00:05:06] in the early G Going the company was
+[00:05:08] called x.com and then there was a there
+[00:05:10] was another company called confinity uh
+[00:05:12] which had actually also started out from
+[00:05:13] a from a different area uh they started
+[00:05:16] off with the Palm Pilot
+[00:05:18] cryptography and then they had as a demo
+[00:05:20] application the ability to beam token
+[00:05:23] payments from one Palm Pilot to another
+[00:05:25] by the impared court uh and then they
+[00:05:28] had a a website which is called PayPal
+[00:05:30] where you would reconcile the beamed
+[00:05:32] payments um and and what they found was
+[00:05:35] that the the website portion was
+[00:05:37] actually far more interesting to people
+[00:05:38] than the than Palm Pilot cryptography
+[00:05:40] was so they they started leading their
+[00:05:42] business in that direction uh and then
+[00:05:44] in basically early 2000 uh x.com
+[00:05:49] acquired confinity uh and then about a
+[00:05:51] year later we uh we ended up changing
+[00:05:55] the company's name to
+[00:05:58] PayPal and that's that's kind of how the
+[00:06:01] approximate evolution of of the company
+[00:06:04] um and but PayPal is really a case of of
+[00:06:07] of where uh the the whole viral
+[00:06:10] marketing U it's really a perfect case
+[00:06:12] example of viral marketing like hot mail
+[00:06:15] was uh where um
+[00:06:18] one one one customer would essentially
+[00:06:21] act as uh a salesperson for you for all
+[00:06:24] for for bringing in other customers so
+[00:06:26] they would uh send money to a friend and
+[00:06:28] essentially recruit that friend into the
+[00:06:30] network and so you had this exponential
+[00:06:33] growth the more customers you had the
+[00:06:35] faster it grew uh so you it was like
+[00:06:38] bacteria in a Petri dish you know it
+[00:06:40] just goes like does this S curve um and
+[00:06:43] in fact uh I I ran PayPal for about the
+[00:06:47] first two years of its existence and uh
+[00:06:51] we launched after year one and by the
+[00:06:53] end of year two we had a million
+[00:06:56] customers so gives you an examp you know
+[00:06:58] to gives you a sense of how fast things
+[00:07:00] things grow in that scenario we were and
+[00:07:02] we didn't have a sales force we actually
+[00:07:04] didn't have a BP of sales we didn't have
+[00:07:06] a BP of marketing uh and we didn't spend
+[00:07:08] any money on
+[00:07:12] advertising in about February of last
+[00:07:15] year for those some some of you probably
+[00:07:17] following it in February last year uh
+[00:07:19] PayPal went public um and we were I
+[00:07:22] think we were the only uh internet
+[00:07:24] company to go public in the first part
+[00:07:26] of last year um it went off reasonbly ly
+[00:07:30] well uh although I think we had more um
+[00:07:34] SEC rewrites than than any company I can
+[00:07:36] imagine like we set a record on SEC
+[00:07:39] rewrites this was right around the Enron
+[00:07:40] time and when there was all sorts of
+[00:07:42] corporate scandals so they put us
+[00:07:44] through the
+[00:07:44] ringer um and then shortly thereafter in
+[00:07:48] about June July uh we um struck a deal
+[00:07:52] with eBay to sell a company to eBay um
+[00:07:57] and uh uh pH about and half billion
+[00:08:00] dollar uh but that was when eBay's stock
+[00:08:03] price was about $55 and they hadn't
+[00:08:07] split uh so I guess in today's dollars
+[00:08:09] we about $3
+[00:08:11] billion um so that worked out pretty
+[00:08:14] well
+[00:08:16] um it happened coincidentally
+[00:08:19] that in in the first part of last year
+[00:08:22] I've been doing just some background
+[00:08:23] research on uh on space and let me talk
+[00:08:27] a bit about that so
+[00:08:30] uh essentially I was trying to figure
+[00:08:32] out why we had not made more progress
+[00:08:34] since since Apollo uh in in 19 in the
+[00:08:37] 60s we went from basically nothing not
+[00:08:39] being able to put anyone into space to
+[00:08:41] putting people on the moon and uh
+[00:08:44] developing all the technology uh from
+[00:08:46] scratch to to do that and yet in the uh
+[00:08:49] the 70s and 80s and the 90s we we've
+[00:08:52] kind of gone sideways and and we're
+[00:08:54] currently in a situation where we can't
+[00:08:55] even put a person into into low earth
+[00:08:57] orbit and that that doesn't really gel
+[00:09:00] with all of the other technology sectors
+[00:09:02] out there uh the computer that you could
+[00:09:06] have bought in the early '70s you know
+[00:09:08] would have filled this room and had less
+[00:09:09] computing power than your cell phone um
+[00:09:13] and so just about every sector of
+[00:09:15] technology is improved why is this not
+[00:09:17] improved uh so I started looking into
+[00:09:19] that
+[00:09:22] um initially I thought well perhaps it's
+[00:09:24] a question of funding and that funding
+[00:09:25] can be uh garnered by by really
+[00:09:28] marshalling public support forward uh so
+[00:09:30] thought well one way to to to get the
+[00:09:32] public excited about space would be to
+[00:09:34] do maybe a privately funded robotic Spa
+[00:09:36] Mission Tom Mars um and so we we figured
+[00:09:41] out a mission that would cost about1 15
+[00:09:43] to20 million which isn't a lot of money
+[00:09:45] but um it's about a tenth of what a
+[00:09:48] lowcost NASA Mission would be and uh and
+[00:09:52] the idea was was called Mars Oasis where
+[00:09:54] we' put a small robotic Lander on the
+[00:09:57] surface of Mars with seeds and
+[00:09:58] dehydrated nutrient Jael there would
+[00:10:00] hydrate upon landing and you'd have
+[00:10:02] plants growing in Martian radiation and
+[00:10:05] gravity conditions and You' also uh be
+[00:10:07] maintaining essentially a life support
+[00:10:09] system on the surface of Mars and this
+[00:10:10] would be interesting to the public
+[00:10:11] because they tend to respond to
+[00:10:13] precedents and
+[00:10:14] superlatives uh and this would be the
+[00:10:16] furthest at life has ever traveled and
+[00:10:18] the first life on Mars so pretty
+[00:10:21] significant um and then when I start
+[00:10:22] looking at at launch vehicles uh the
+[00:10:25] lowest cost vehicle in the US is Boeing
+[00:10:27] Delta 2 which costs about 50 mli
+[00:10:29] million and uh and that's a bit that's a
+[00:10:32] bit steep uh what we were trying to do
+[00:10:35] uh so I made three visits to to Moscow
+[00:10:37] to Russia uh to look at at buying a a
+[00:10:40] Russian uh
+[00:10:42] launch uh and uh it's it's actually
+[00:10:45] pretty interesting uh going to to Moscow
+[00:10:47] to negotiate for uh a refurbished ICBM
+[00:10:52] uh if you know on the range of
+[00:10:54] interesting experiences that's pretty
+[00:10:57] pretty far out there
+[00:11:00] um but but we actually did get to to a
+[00:11:02] deal but there were so many
+[00:11:04] complications associated with the deal
+[00:11:06] that that I it didn't I wasn't
+[00:11:09] comfortable with the risks associated
+[00:11:10] with it um so when I got back from the
+[00:11:13] third trip I thought well you know why
+[00:11:16] is it the Russians can build these
+[00:11:17] lowcost uh launch Vehicles
+[00:11:20] because it's not like uh we we drive
+[00:11:23] Russian cars fly Russian planes or have
+[00:11:26] Russian kitchen appliances and you know
+[00:11:28] when's Last bought something Russian
+[00:11:30] that wasn't vodka so uh I think the US
+[00:11:33] is a pretty competitive Place uh and and
+[00:11:35] we should be able to to build a a cost
+[00:11:38] efficient launch
+[00:11:39] vehicle so I I put together a
+[00:11:41] feasibility study which consisted of of
+[00:11:44] Engineers that have been involved with
+[00:11:45] all the major launch vehicle
+[00:11:46] developments over the last three decades
+[00:11:49] and uh we iterated over a number of
+[00:11:50] Saturdays in the beginning of last year
+[00:11:53] uh to figure out well what would be what
+[00:11:55] would be the smartest way to approach
+[00:11:56] this problem of not just launch cost but
+[00:11:59] also launch reliability and and we came
+[00:12:01] up with a default design and and that
+[00:12:03] actually uh sort a fortunate timing uh
+[00:12:06] that feasibility study uh finished up
+[00:12:09] right around the time that we agreed to
+[00:12:10] sell uh PayPal to eBay um so coincident
+[00:12:14] with that sale I moved down to to La
+[00:12:17] where there's actually the biggest
+[00:12:19] concentration of Aerospace industry in
+[00:12:20] the world um it's actually the biggest
+[00:12:23] industry in in Southern California much
+[00:12:24] bigger than entertainment or anything
+[00:12:25] else uh I I was living in in palala for
+[00:12:28] about nine years before
+[00:12:32] that anyway so uh just to talk little
+[00:12:36] broadly about space and where things are
+[00:12:38] today um obviously US Government man's
+[00:12:41] exploration is not in a great place uh
+[00:12:44] we've got the the three remaining
+[00:12:45] shuttles are grounded it looks like
+[00:12:47] first flight might only be a year from
+[00:12:49] now uh if that um and and we've got a
+[00:12:53] vehicle that is incredibly expensive and
+[00:12:56] and and really quite dangerous um it's
+[00:12:59] uh you know for reasons mentioned there
+[00:13:01] it's got a side mounted crew compartment
+[00:13:03] so if there's an explosion it's
+[00:13:05] basically instant death uh um the you've
+[00:13:08] got solid rocket boosters uh which once
+[00:13:11] you ignite them you can turn them off
+[00:13:12] and there's something fundamentally
+[00:13:13] dangerous about premixing your fuel and
+[00:13:15] oxidizer I think uh and then it's you've
+[00:13:18] got wing wings and control surfaces when
+[00:13:20] you when you reenter you've got to
+[00:13:21] maintain a precise angle of attack uh
+[00:13:24] even a momentary uh variance in that can
+[00:13:26] break the whole vehicle apart so so and
+[00:13:29] and and then of course it's got no
+[00:13:30] Escape system so if anything does go
+[00:13:32] wrong your toast and and you've got a
+[00:13:35] cost that is is really pretty hard to
+[00:13:38] Fathom the the the shuttle program when
+[00:13:40] you add up all the pieces is about 4
+[00:13:42] billion a year and so you can divide uh
+[00:13:45] 4 billion by the number of flights and
+[00:13:47] that'll tell you what the cost is um and
+[00:13:50] and if if there's say four flights a
+[00:13:52] year which they haven't been for a while
+[00:13:55] then you're talking about a billion
+[00:13:56] dollars a flight
+[00:14:00] uh the plans for the immediate future
+[00:14:01] obviously we've got to continue uh
+[00:14:03] building the space station uh so we're
+[00:14:05] going to keep flying the shuttle but but
+[00:14:08] uh I think it's probably going to be the
+[00:14:09] minimum number of shuttle flights that
+[00:14:11] we need to
+[00:14:14] launch the the long-term plans I would
+[00:14:17] build uh something called orbital space
+[00:14:19] plane and I'd say plane in quotes
+[00:14:20] because uh one of the options is a
+[00:14:23] capsule um so it should be called you
+[00:14:25] maybe oval space thing um but but the
+[00:14:29] basic idea is to have something that's
+[00:14:30] uh um hopefully a little cheaper and a
+[00:14:33] lot safer uh than the space shuttle so
+[00:14:36] in particular uh it's going to have an
+[00:14:38] escape system so if something does go
+[00:14:40] wrong you can abort to safety
+[00:14:43] um the the downside is that it's still
+[00:14:47] it while it might be a little cheaper
+[00:14:48] it's still going to be pretty
+[00:14:49] nonexpensive the estimated cost per
+[00:14:52] flight of overal space plane is
+[00:14:53] somewhere in the region of 300 to $400
+[00:14:55] million a flight um and of that that
+[00:14:58] amount uh 200 just $200 million alone is
+[00:15:01] uh goes to uh Boeing for the Delta 4
+[00:15:04] heavy uh Expendable
+[00:15:06] booster uh and and the it's a $5 billion
+[00:15:10] development effort and expected to be
+[00:15:12] completed in 9 or 10 years now typically
+[00:15:16] uh typically things have have not been
+[00:15:20] uh under budget and under time uh so
+[00:15:25] it's unlikely I think given historical
+[00:15:27] precedent that that it will uh St within
+[00:15:30] $15 billion and the 20122
+[00:15:35] timeline um and a bit about what's going
+[00:15:38] on elsewhere in the world in Russia uh
+[00:15:40] the this is really the soy is our only
+[00:15:42] access to space station uh it's
+[00:15:45] considerably cheaper considerably safer
+[00:15:47] uh the so has a very good track record
+[00:15:50] um it's uh the crew is top mounted it
+[00:15:52] has an escape system there are no wings
+[00:15:54] or control servs just to go wrong um
+[00:15:56] overall it's a it's a pretty good system
+[00:15:59] um and the estimated costs are about $60
+[00:16:01] million a flight which is an order of
+[00:16:04] Mag more than order of magnitude less
+[00:16:05] than than the space
+[00:16:07] shuttle uh the thing that constrains
+[00:16:09] them obviously is the weakness of the
+[00:16:10] Russian economy it's very hard for them
+[00:16:12] to embark on ambitious programs with an
+[00:16:14] economy the size of
+[00:16:17] Belgium so um China is is probably the
+[00:16:20] most interesting thing that's that's
+[00:16:22] going on in space uh the this month uh
+[00:16:26] China is expected to be only the third
+[00:16:28] to it is expected to launch their first
+[00:16:30] person into space that'll make them only
+[00:16:32] the Third Country ever to put someone in
+[00:16:34] orbit um and uh they've put a lot of of
+[00:16:38] money and effort into this program if if
+[00:16:40] anything serves as a spur for human
+[00:16:42] space exploration it is likely to be uh
+[00:16:45] the uh China's Ambitions in space um and
+[00:16:49] and and hopefully a sense in America
+[00:16:52] that we want at least uh keep up with
+[00:16:55] with China um and they have grand
+[00:16:58] ambitions Beyond just lowth orbit
+[00:17:00] they're planning on uh setting up a
+[00:17:01] space station putting a base on Mars and
+[00:17:04] eventually uh sending humans to
+[00:17:07] Mars so what's happening in in in the US
+[00:17:10] that I think uh might ultimately surpass
+[00:17:13] all of that stuff is uh entrepreneurial
+[00:17:15] space activities uh where um things are
+[00:17:19] led by the spirit of free enterprise and
+[00:17:22] um I think there's perhaps an analogy
+[00:17:24] here where uh uh just as DARPA uh served
+[00:17:29] as the initial um impetus for for the
+[00:17:32] internet and underwrote a lot of the
+[00:17:34] costs of developing the internet in the
+[00:17:36] beginning uh one it may be the case that
+[00:17:39] NASA has is has essentially done the
+[00:17:41] same thing by spending the money to
+[00:17:43] develop some of the fundamental
+[00:17:44] Technologies in the beginning and then
+[00:17:47] uh once we can bring sort of the
+[00:17:49] commercial free enterprise uh sector
+[00:17:51] into it then we can see the dramatic
+[00:17:52] acceleration that we did that we saw in
+[00:17:55] the
+[00:17:55] internet um so there there are several
+[00:17:59] serious launch vehicle efforts underway
+[00:18:01] uh talk about each one uh there's the
+[00:18:04] Bert ran of scaled composits uh Bert ran
+[00:18:06] is is one of the world's foremost
+[00:18:08] aircraft designers um and he's developed
+[00:18:10] a subal vehicle that they're actually
+[00:18:12] flying out of Mojave uh this is an x-
+[00:18:15] prise class vehicle uh there's John KAC
+[00:18:18] who wrote quake and doom was probably
+[00:18:21] one of the best software engineers in
+[00:18:22] the world one of the best Engineers that
+[00:18:24] I know period um and he's developing a
+[00:18:27] vertical tle from land vehicle uh Jeff
+[00:18:30] Bezos who I understand was here last
+[00:18:32] week uh is a huge space ad Advocate um
+[00:18:37] uh and it's my understanding that he
+[00:18:38] intends to spend something in the order
+[00:18:40] of a billion dollars over the next 20
+[00:18:42] years uh on space
+[00:18:44] exploration and and then space then my
+[00:18:46] company
+[00:18:47] SpaceX and I I think within the next
+[00:18:50] several years uh these entrepreneural
+[00:18:52] efforts will actually be what what deres
+[00:18:55] uh space
+[00:18:57] exploration so a little bit about each
+[00:18:59] one that's a picture of of the veran F
+[00:19:03] it it's called White Knight is the
+[00:19:05] carrier plane and then spaceship one is
+[00:19:07] the thing that's held in the belly
+[00:19:09] there and uh this project is uh
+[00:19:13] supposedly funded by Paul Allen so
+[00:19:16] there's quite a lot of capital also I
+[00:19:17] should make that point quite a lot of
+[00:19:19] capital that's sort of entering this
+[00:19:21] entrepreneurial space sector as well um
+[00:19:25] the I the only drawback I think of this
+[00:19:26] architecture is that it's not really
+[00:19:28] scalable uh for uh for something that
+[00:19:31] would get to orbit this is pretty good
+[00:19:33] for suborbital but I think the
+[00:19:35] architecture would need to change for an
+[00:19:36] orbital
+[00:19:38] vehicle and there's John KX
+[00:19:41] SE uh you see he's a little irreverent
+[00:19:44] this is from his
+[00:19:45] website
+[00:19:47] um his his vehicle is a vertical takeoff
+[00:19:50] and Landing vehicle uh he's made he's
+[00:19:52] made really incredible progress for
+[00:19:54] somebody who has no background in uh um
+[00:19:58] aerospace engineering and is also kind
+[00:20:00] of doing it all himself with him and
+[00:20:02] like three buddies
+[00:20:05] um so and and I think that will make
+[00:20:07] something that works actually if you you
+[00:20:10] can check out their website alad
+[00:20:11] Aerospace um it's pretty interesting
+[00:20:14] stuff but in in order to get or to orbit
+[00:20:17] this would require a substantial
+[00:20:18] Improvement in the mass efficiency and
+[00:20:20] the engine efficiency and probably uh be
+[00:20:22] a two-stage
+[00:20:25] vehicle uh Jeff Bezos who I'm sure
+[00:20:28] almost everyone here is aware of uh he
+[00:20:31] is uh a pretty huge fan of space in fact
+[00:20:35] his uh High School B dictorian speech
+[00:20:38] was about the necessity of humanity
+[00:20:39] expanding to other planets um so it's
+[00:20:42] it's pretty important to him uh from
+[00:20:44] what an
+[00:20:48] that uh this is our effort
+[00:20:52] um we're spending quite a bit more than
+[00:20:55] uh the three prior entities that I
+[00:20:57] mentioned um
+[00:20:59] in some cases probably an order of
+[00:21:00] magnitude more uh because what we're
+[00:21:02] doing is really an order of magnitude
+[00:21:03] more difficult we're building an orbital
+[00:21:05] launch vehicle it's a two-stage very
+[00:21:07] high efficiency engines very high mass
+[00:21:09] efficiency uh launch vehicle um and it's
+[00:21:12] targeted to the satellite delivery
+[00:21:14] market so our approach is really to make
+[00:21:16] this a solid Sound business um and so I
+[00:21:20] predicated the the Strategic plan on a
+[00:21:23] known Market something that I we know
+[00:21:25] for a fact exists which is the need to
+[00:21:27] put uh small to mediumsized satellites
+[00:21:29] into
+[00:21:30] orbit and uh so that that's what we're
+[00:21:33] going after initially and then uh with
+[00:21:36] that as a as kind of a revenue base uh
+[00:21:39] we will uh move into the human
+[00:21:41] Transportation market so long-term aims
+[00:21:43] of the company are definitely human
+[00:21:44] Transportation I think this the smart
+[00:21:46] strategy is to First go for uh cargo
+[00:21:49] delivery essentially satellite
+[00:21:51] delivery and our eventual upgrade path
+[00:21:54] is to fold uh the successor to Saturn 5
+[00:21:58] build a super heavy lift vehicle that
+[00:22:00] could uh you know be used for uh setting
+[00:22:04] up a moon base or doing a m mission that
+[00:22:06] would be the Holy Grail
+[00:22:08] objective um on the upper right there
+[00:22:11] you can see uh a test firing of our
+[00:22:13] engine and on the lower right you can
+[00:22:16] see the uh Alo stage
+[00:22:21] tank this is an engine test of our main
+[00:22:25] engine which is called Merlin
+[00:22:40] and that that generates about uh roughly
+[00:22:42] 75,000 lbs of
+[00:22:47] thrust at sea level this is our upper
+[00:22:51] stage
+[00:22:53] engine it's about it's about 7,500 lb of
+[00:22:56] thrust in vacuum
+[00:23:03] and this is a a accelerated version of
+[00:23:07] our launch sequence um our first launch
+[00:23:09] will be uh from the SpaceX launch
+[00:23:12] complex at Vandenberg Air Force Base uh
+[00:23:14] and approximately March of next year
+[00:23:16] basically early next year um and uh we
+[00:23:20] will be uh flying a a Navy satellite u
+[00:23:23] Navy communication satellite so it's
+[00:23:26] it's notable because uh often uh launch
+[00:23:28] vehicle companies are not able to get
+[00:23:30] somebody get a paying customer uh on
+[00:23:33] their first flight but we've we've been
+[00:23:35] able to do that uh this is also uh the
+[00:23:37] Falcon development at SpaceX is the
+[00:23:40] fastest launch vehicle development in
+[00:23:41] history including
+[00:23:52] wartime so that's actually vburg Air
+[00:23:54] Force Base which is about two hours away
+[00:23:56] from Santa Barbara
+[00:23:59] common themes between zip 2 and PayPal
+[00:24:02] uh well I guess both of them uh involved
+[00:24:05] had had software at the as the heart of
+[00:24:08] the
+[00:24:09] technology um even though zip 2 was in
+[00:24:13] was servicing the media sector and
+[00:24:15] obviously PayPal was servicing the
+[00:24:17] financial sector uh the the um the heart
+[00:24:21] of it was really software um and and
+[00:24:24] internet related stuff so certainly
+[00:24:27] that's a a huge commonality
+[00:24:29] um they were both in paloalto where I
+[00:24:31] lived
+[00:24:33] uh
+[00:24:36] um I think we you know took a similar
+[00:24:38] approach to building both companies uh
+[00:24:41] which was to have a small group of uh
+[00:24:44] very talented people um and uh and keep
+[00:24:49] it small uh you know I think PayPal had
+[00:24:53] at at its height probably 30 Engineers
+[00:24:55] uh for for a system that's I would say
+[00:24:57] is more spe ticated than the Federal
+[00:24:59] Reserve clearing clearing
+[00:25:01] system I'm pretty sure it is actually
+[00:25:03] because the Federal Reserve clearing
+[00:25:04] system
+[00:25:07] sucks um so uh what else is there uh it
+[00:25:12] it generally you know I think the the
+[00:25:14] way both zip2 and PayPal operated was
+[00:25:16] was really your it was your canonical
+[00:25:18] Silicon Valley uh startup uh you know uh
+[00:25:23] pretty flat hierarchy um you know
+[00:25:26] everybody had a roughly similar Cube um
+[00:25:30] and uh anyone could talk to anyone we
+[00:25:33] had a philosophy of best idea wins uh as
+[00:25:36] opposed to you know the person proposing
+[00:25:38] the idea winning because they are who
+[00:25:40] they are um even though there were times
+[00:25:42] when I thought that should have been the
+[00:25:43] way
+[00:25:44] go
+[00:25:46] um and
+[00:25:49] um obviously you know everyone was was
+[00:25:52] an equity uh stakeholder
+[00:25:56] uh give us anything
+[00:25:59] if if if there were uh two paths that
+[00:26:02] you know let's say we had to choose to
+[00:26:04] do one thing or the other um and the one
+[00:26:07] wasn't obviously better than the other
+[00:26:09] uh then rather than spend a lot of time
+[00:26:11] trying to figure out which one was
+[00:26:12] slightly better we would just pick one
+[00:26:13] and do it and sometimes we'd be wrong
+[00:26:16] and and and we pick this sub optimal
+[00:26:18] path but often it's better to pick a
+[00:26:20] path and do it than to just vacillate
+[00:26:22] endlessly on on a choice
+[00:26:26] um uh we we didn't worried too much
+[00:26:29] about uh intellectual property uh
+[00:26:32] paperwork legal stuff we we really were
+[00:26:35] very focused on building the best
+[00:26:36] product that we possibly could um both Z
+[00:26:40] two and PayPal were very product focused
+[00:26:42] companies um you know that's we're just
+[00:26:45] incredibly obsessive about how do we
+[00:26:48] build something that is really going to
+[00:26:50] be the you know the best possible uh
+[00:26:53] customer
+[00:26:55] experience and and that that that was a
+[00:26:57] far more effective selling tool than
+[00:26:59] than having a giant sales force or
+[00:27:00] thinking of you know marketing gimmicks
+[00:27:02] or you know 12-step processes or
+[00:27:07] whatever um I'm not super familiar with
+[00:27:09] frster um certainly I mean the essence
+[00:27:12] of viral marketing is do you have
+[00:27:14] something that um One customer is going
+[00:27:17] where One customer is going to sell
+[00:27:18] another customer without you having to
+[00:27:20] do anything um and uh there there are
+[00:27:24] lots of instances of that um frienda
+[00:27:26] might be one uh obviously hot mail was
+[00:27:28] one uh PayPal was one eBay was one um uh
+[00:27:34] and and in a situation like that going
+[00:27:36] back to what I said about product
+[00:27:37] product matters incredibly because if
+[00:27:39] you're going to recommend something to
+[00:27:41] somebody uh you've got to really love
+[00:27:43] the product experience otherwise you're
+[00:27:45] not going to recommend it because you
+[00:27:46] don't want to burn your
+[00:27:48] friend hurdles in the space industry
+[00:27:50] entering the space industry
+[00:27:53] uh well you know it it is a very uh
+[00:27:56] complicated regulatory structure um as
+[00:27:59] you might imagine when somebody tries to
+[00:28:01] build an orbital launch vehicle which is
+[00:28:03] not really all that distinguishable from
+[00:28:05] an ICBM there's a lot of Regulation um
+[00:28:08] and there probably should be uh because
+[00:28:10] you know you don't want to launch
+[00:28:11] something and end up hitting La uh
+[00:28:15] I um so uh uh probably the regulatory
+[00:28:20] stuff was very difficult uh the
+[00:28:23] environmental approvals certainly proven
+[00:28:25] very difficult um much more so than we
+[00:28:28] respected I mean here in Silicon Valley
+[00:28:30] you look uh you know what I came to
+[00:28:32] appreciate is in Silicon Valley you live
+[00:28:33] in a Libertarian Paradise um you know
+[00:28:36] there's almost no uh regulation um and
+[00:28:40] what can be very frustrating is that
+[00:28:42] regulation is often irrational it
+[00:28:43] doesn't make any sense um but you've got
+[00:28:46] somebody there who's simply executing a
+[00:28:48] set of rules independent of where those
+[00:28:50] rules make sense and you can try to
+[00:28:51] convince them that the rules don't make
+[00:28:53] sense and they won't listen to you so um
+[00:28:55] probably regulation is the most annoying
+[00:28:57] thing uh I would say overall though I'm
+[00:29:00] very pleased because I think we've had a
+[00:29:02] very smooth development process and uh
+[00:29:04] on the whole I can't complain at
+[00:29:09] all um yeah why is it so expensive to
+[00:29:11] send something into space um well let me
+[00:29:14] tell you what makes a rocket hard
+[00:29:18] uh the the energy and the velocity
+[00:29:21] required to get into orbit is is so
+[00:29:24] substantial uh that compared to say a
+[00:29:27] car or in a plane uh the you have almost
+[00:29:30] no margin to play with typically uh a
+[00:29:33] launch vehicle will get about 2% of its
+[00:29:36] liftoff Mass to orbit so and that's the
+[00:29:40] case for for Falcon and so if you can
+[00:29:43] only get two% of what your rocket weighs
+[00:29:45] to begin with to to orbit uh you you can
+[00:29:50] if you're wrong by 2% you're not going
+[00:29:51] to get anything to
+[00:29:54] orbit you know come crashing down on the
+[00:29:56] Pacific somewhere um so um that means
+[00:30:01] all of your calculations have to be
+[00:30:03] right if if you miss if you miscalculate
+[00:30:06] something you get an answer wrong it
+[00:30:07] blows up um and and it's very expensive
+[00:30:11] trying to get all your answers right and
+[00:30:12] then double-checking that they're right
+[00:30:14] and testing them all and doing as much
+[00:30:15] as you can on the ground I think that's
+[00:30:17] a lot of what makes Rockets expensive um
+[00:30:20] the low launch rate typically is also
+[00:30:22] what makes rocket Rockets expensive if
+[00:30:24] you had you know thousands of flights a
+[00:30:26] year then it would be a lot cheaper
+[00:30:28] although it's a bit of a chicken and egg
+[00:30:30] because it needs to be cheaper in order
+[00:30:31] to have thousands of flights a year
+[00:30:34] um um but at the end of the day when you
+[00:30:36] in the final analysis I would say that
+[00:30:38] Rockets really should be a lot cheaper
+[00:30:40] than they are today and and I think um
+[00:30:44] the way they're built the way they're
+[00:30:45] operated is just very inefficiently uh
+[00:30:49] and I think with with SpaceX and Falcon
+[00:30:52] we're going to we're going to show that
+[00:30:53] that's that's the case um our vehicle
+[00:30:56] will sell for about $6 million a flight
+[00:30:59] uh that our nearest competitor is the
+[00:31:01] Pegasus from orbital Sciences which is
+[00:31:03] about $25 million a flight and that has
+[00:31:06] less capability than our rocket uh so
+[00:31:10] Falcon would represent a pretty
+[00:31:11] substantial breakthrough on the cost of
+[00:31:13] access to
+[00:31:16] space can you talk a little bit about
+[00:31:19] difference in the customer base you have
+[00:31:21] to
+[00:31:22] Target
+[00:31:25] experiences ch
+[00:31:29] uh yeah the customer base with SpaceX is
+[00:31:30] just it's dramatically different
+[00:31:32] obviously from PayPal PayPal is a
+[00:31:33] consumer product uh whereas uh SpaceX
+[00:31:37] we're selling Rockets and the number of
+[00:31:39] people who want to buy Rockets is quite
+[00:31:40] small um if anyone here has $6 million
+[00:31:43] and wants a rocket I mean I'd be glad to
+[00:31:45] sell it to them um but uh so it's much
+[00:31:49] more of an individual selling process um
+[00:31:52] it there's a great deal more thought
+[00:31:54] that goes into any purchase of a launch
+[00:31:57] um much more so than signing up a PayPal
+[00:31:59] account which doesn't really cost you
+[00:32:01] much
+[00:32:03] um so uh yeah and there's not a lot of
+[00:32:05] viral marketing that's going to happen
+[00:32:07] with the rocket I
+[00:32:09] suspect I'm hoping but you know I'm not
+[00:32:11] counting on
+[00:32:12] it
+[00:32:14] so I think a successful entrepreneurs
+[00:32:17] probably come in all sizes shapes and
+[00:32:19] flavors um I'm not sure there's any one
+[00:32:22] one particular thing um uh for me you
+[00:32:25] know some of the things I've described
+[00:32:26] already I think are very important I
+[00:32:28] think uh really U an an obsessive uh
+[00:32:32] nature with respect to the quality of
+[00:32:34] the product um is very important uh so
+[00:32:38] you know being obsessive compulsive is
+[00:32:40] is a good thing in this context
+[00:32:45] um uh really really liking what you do
+[00:32:48] what whatever area that you get into um
+[00:32:52] given that you know even if you're if
+[00:32:53] you're the best the best there's always
+[00:32:55] a chance of failure so I think it's
+[00:32:57] important that you really like whatever
+[00:32:58] you're doing um if if you don't like it
+[00:33:01] life is too short um you know I'd say if
+[00:33:06] and and also if you if you like what
+[00:33:08] you're doing you think about it even
+[00:33:09] when you're not working I mean it'll
+[00:33:12] just it's it's something that your mind
+[00:33:14] is drawn to um and and if you don't like
+[00:33:17] it you just really can't make it work I
+[00:33:22] think um SpaceX is about 30 people um
+[00:33:28] and and what we do internally at SpaceX
+[00:33:29] is we do all of the design analysis um
+[00:33:33] integration of Hardware testing and then
+[00:33:35] launch operations um but a lot of the
+[00:33:38] heavy Manpower stuff like welding
+[00:33:40] together our primary structure the heavy
+[00:33:43] Machining and so forth that we Outsource
+[00:33:45] so we'd be a much larger company if we
+[00:33:47] did all of that
+[00:33:49] internally um and sorry you had another
+[00:33:51] part to your
+[00:33:53] question oh
+[00:33:55] yeah actually we don't have any lawyers
+[00:33:58] um uh the the the regulatory stuff that
+[00:34:01] we we deal with is very technical um
+[00:34:04] it's it's it's really a lot like trying
+[00:34:05] to get an airplane certified with the
+[00:34:07] FAA um we're just getting a rocket
+[00:34:10] certified um so so our documentation is
+[00:34:13] it's very I I wish we could offload it
+[00:34:16] to to some lawyers they wouldn't know
+[00:34:17] what the heck to do
+[00:34:20] so um you know how did the Wharton
+[00:34:22] degree help uh I think it a business
+[00:34:25] degree teaches you a lot of the
+[00:34:26] terminology um um it introduces you to
+[00:34:29] Concepts that you would otherwise you
+[00:34:31] know this terminology there's something
+[00:34:32] to be said for
+[00:34:34] that um you introduces you to Concepts
+[00:34:37] you you would otherwise have to learn
+[00:34:39] empirically I mean I think I think you
+[00:34:40] can you can learn whatever you need to
+[00:34:42] do to start a successful business either
+[00:34:45] in school or out of school um School in
+[00:34:48] you know in theory should help
+[00:34:50] accelerate that process um and I think
+[00:34:53] it you know it often times it does it
+[00:34:55] it's it can be an efficient learning
+[00:34:57] process more efficient than empirically
+[00:35:00] learning lessons um but really I think
+[00:35:03] you I there were examples of of
+[00:35:05] successful entrepreneurs who never
+[00:35:06] graduated high school and there are
+[00:35:08] those that have phds so um I think the
+[00:35:12] important principle is to be uh
+[00:35:15] dedicated to learning what you need to
+[00:35:17] know uh whether that is uh in school or
+[00:35:24] empirically um well uh I should point
+[00:35:28] out that Falcon our first vehicle
+[00:35:30] doesn't really have the same capability
+[00:35:32] as as either the Chinese the Russian or
+[00:35:34] or the space shuttle uh vehicles that I
+[00:35:36] mentioned um Falcon would be in the in
+[00:35:39] the light class of launch Vehicles
+[00:35:41] whereas the space shuttle would be a
+[00:35:42] heavy class launch vehicle so it's not
+[00:35:44] it's not quite an Apples to Apples
+[00:35:46] comparison um however uh the right
+[00:35:49] comparison would be uh Falcon compared
+[00:35:52] to the Pegasus from overall Sciences
+[00:35:54] Falcon is 6 million the Pegasus is 25
+[00:35:57] million
+[00:35:59] um and uh the way we we've gotten our
+[00:36:01] prices low our cost low uh is we've
+[00:36:04] really focused on every element of the
+[00:36:06] launch vehicle there's really no one
+[00:36:07] Silver Bullet uh that has has um been
+[00:36:11] responsible for a substantial portion of
+[00:36:13] of the cost savings it's been really
+[00:36:15] hundreds of small Innovations and
+[00:36:17] improvements and and so we've done
+[00:36:19] improvements in the propulsion system
+[00:36:20] the structure uh the avionics and the
+[00:36:23] launch operations as well as maintain a
+[00:36:24] very low overhead organization and when
+[00:36:26] you add up all the things we've done in
+[00:36:28] those areas that allows us to produce a
+[00:36:30] launch vehicle at $6
+[00:36:32] million
+[00:36:34] um the uh uh as as far as uh PayPal um
+[00:36:39] there were a lot of back office
+[00:36:41] relationships that we needed to
+[00:36:42] establish and to attach to various
+[00:36:45] heterogeneous data sources um we needed
+[00:36:48] uh to attach to the credit card system
+[00:36:50] for processing credit cards we needed to
+[00:36:52] attach to the Federal Reserve System uh
+[00:36:54] for um doing electronic funds transfers
+[00:36:58] uh we needed to attach to various fraud
+[00:37:00] databases to run fraud checks um there
+[00:37:04] there was a lot that we had to uh we had
+[00:37:07] to interface with um and and that that
+[00:37:11] that took that took a while um but uh uh
+[00:37:16] it all came together I think roughly
+[00:37:18] simultaneously I mean developing the
+[00:37:20] software and having it ready for uh for
+[00:37:23] the general public uh reasonably
+[00:37:26] coincided with us being able to conclude
+[00:37:27] with those deals and interface with the
+[00:37:28] outside vendors and all that took about
+[00:37:30] a year um I think one one thing that's
+[00:37:33] important is to try not to serialize uh
+[00:37:36] dependencies so if you can put as many
+[00:37:38] elements in parallel as possible um a
+[00:37:42] lot of things have a gestation period um
+[00:37:45] and there's really nothing you can do to
+[00:37:48] accelerate I mean there's it's very hard
+[00:37:49] to accelerate that just gation period um
+[00:37:53] so uh if you can sort of have all those
+[00:37:56] things gestating in parallel
+[00:37:58] uh then then that is one way to
+[00:38:00] substantially uh accelerate your
+[00:38:02] timeline I think people tend to
+[00:38:03] serialize things too
+[00:38:06] much we did do a few patents on pay uh
+[00:38:09] on the PayPal system although nothing
+[00:38:11] that ever actually mattered um so
+[00:38:16] patents are mostly useful in in a
+[00:38:18] defensive situation rather than
+[00:38:20] offensive uh it can be very difficult to
+[00:38:22] actually uh offensively prosecute a
+[00:38:25] patent um so
+[00:38:28] I'm I think I think in certain
+[00:38:30] industries like Pharmaceuticals and so
+[00:38:31] forth patents can be incredibly
+[00:38:33] important uh in software particularly
+[00:38:36] when you've got um a very rapid life
+[00:38:39] cycle where you know you made you sure
+[00:38:42] you got a patent but now it's redundant
+[00:38:43] so who cares um it's less relevant in
+[00:38:46] when you've got a rapid uh life
+[00:38:50] cycle well I don't you know I've looked
+[00:38:53] at the various there are a couple things
+[00:38:55] that I think are pretty bogus uh one is
+[00:38:58] space mining another is space solar
+[00:39:00] power I mean if you if you calculate how
+[00:39:02] much it costs to bring uh either the the
+[00:39:06] photons from uh space solar power U you
+[00:39:10] know back to Earth or or or the raw
+[00:39:12] material uh back to Earth it it the
+[00:39:15] economics don't make sense they just
+[00:39:16] can't close the economic case not not
+[00:39:18] even by it's probably off by three
+[00:39:19] orders magnitude um so uh I I think um
+[00:39:25] the probably the biggest thing can
+[00:39:27] happen is if we if we decide to
+[00:39:29] establish a base on the moon or a base
+[00:39:32] on Mars and particularly if we if we
+[00:39:34] attempt to make a
+[00:39:35] self-sustaining uh self- sustaining base
+[00:39:38] self-sustaining civilization on on the
+[00:39:40] moon or Mars that that that is enormous
+[00:39:42] opportunity on probably the trillion
+[00:39:44] dollar level um because then you got
+[00:39:47] basically interplanetary commos going on
+[00:39:49] um I think that that's pretty huge
+[00:39:53] um um but uh but it's it's it's you know
+[00:39:57] it's not going to be space all power
+[00:39:58] it's not going to be space mining I
+[00:40:02] think
+[00:40:04] um so uh let's
+[00:40:06] see uh the government I you know who
+[00:40:09] knows maybe we're being spied upon I
+[00:40:10] don't know um but but
+[00:40:13] certainly we are there are some
+[00:40:15] restrictions which are really annoying
+[00:40:17] um such as the fact we are only allowed
+[00:40:19] to employ people who um have at least a
+[00:40:21] green card or a citizen of of the us
+[00:40:23] we're not allowed to employ anyone who
+[00:40:25] is does not have perent residency in the
+[00:40:27] US us basically if they can't throw you
+[00:40:29] in jail they W they won't let you work
+[00:40:31] work on Rocket stuff um and
+[00:40:35] uh uh we have if we talk to any uh
+[00:40:39] foreign Nationals we we need a a
+[00:40:41] technology transfer agreement or
+[00:40:43] something like that from the state
+[00:40:44] department um so our second launch is is
+[00:40:48] actually um a non- US governmental
+[00:40:50] launch and it's taken us six months to
+[00:40:52] get the state upon approval just to
+[00:40:54] engage in a contract discussion with
+[00:40:55] them um so that that is
+[00:41:02] problematic uh we had several offers
+[00:41:05] actually from a number of different
+[00:41:06] entities for uh for payal um and uh in
+[00:41:11] fact the closer we got to IPO the more
+[00:41:13] more often as we got um but we always
+[00:41:15] felt that those undervalued the the
+[00:41:16] company um and subsequently when we went
+[00:41:19] public I think the public mon is kind of
+[00:41:21] indicated uh the value of the company um
+[00:41:24] so uh I think that that's one of the
+[00:41:27] good things about the public markets is
+[00:41:29] that they're an objective value of
+[00:41:31] companies when you're a private company
+[00:41:32] it's very hard to say how much you're
+[00:41:34] worth um because you you have to
+[00:41:37] basically think of some Metric you know
+[00:41:39] are you going to go for a multiple of
+[00:41:40] future earnings are you going to go off
+[00:41:42] some something with Revenue uh what are
+[00:41:44] your comparables going to be there are
+[00:41:46] all sorts of questions it's it's really
+[00:41:48] up for debate what sort of value your
+[00:41:49] company is when you're public it's it's
+[00:41:52] you know it's whatever the market says
+[00:41:53] you're you're worth that's what you're
+[00:41:55] worth um so so uh so yeah so I think um
+[00:42:01] eBay made a number of office prior to
+[00:42:03] going public um that were substantially
+[00:42:06] below our uh the value once we impose
+[00:42:09] public and that kind of cleared up the
+[00:42:11] disagreement and then we we sold
+[00:42:13] them um and uh what else I was actually
+[00:42:16] you had a second part to the
+[00:42:25] question um yeah eBay had a a uh I it
+[00:42:30] was initially Billo and there was eBay
+[00:42:31] payments and um and it was really a
+[00:42:34] pretty tough uh long running Battle of
+[00:42:37] PayPal versus uh versus eBay's payment
+[00:42:40] system um and it was certainly a very
+[00:42:43] challenging I mean I think it was you
+[00:42:45] know there were times where it felt like
+[00:42:47] we're trying to win a land war in Asia
+[00:42:49] um and uh you know they kind of set the
+[00:42:51] ground rules uh or trying to beat
+[00:42:53] Microsoft in their own operating system
+[00:42:55] it's really really pretty hard um that
+[00:42:57] took a lot of our effort to to actually
+[00:43:01] beat eBay on their own system um and
+[00:43:05] that one of the long-term risks
+[00:43:06] certainly for the company was that eBay
+[00:43:09] would one day Prevail um and one way to
+[00:43:12] retire that risk obviously was to sell
+[00:43:13] to
+[00:43:19] eBay writing software during the summer
+[00:43:22] of 95 uh trying to make useful things
+[00:43:25] happen on the internet uh um and uh I
+[00:43:28] wrote something that allowed you to get
+[00:43:30] maps and directions on the internet and
+[00:43:32] then something that allowed you to do um
+[00:43:35] uh online manipulation of content kind
+[00:43:37] of a really Advanced blogging system um
+[00:43:41] and uh uh and then we we we started
+[00:43:44] talking to to small uh newspapers and
+[00:43:47] media companies and so forth and uh we
+[00:43:50] started getting some interest I mean
+[00:43:51] half the time be like what's the
+[00:43:52] internet um even in Silicon Valley uh
+[00:43:55] but then occasionally somebody would and
+[00:43:57] they would would get a little bit of
+[00:43:58] money from them um and then U there was
+[00:44:01] basically only about six of us there
+[00:44:03] were myself uh my brother who I
+[00:44:06] convinced to come down from Canada and a
+[00:44:08] friend of my mom's um so and then and
+[00:44:12] then three sales people we hired on
+[00:44:14] contingency uh by putting an ad in the
+[00:44:16] newspaper uh but things were pretty
+[00:44:18] tough in the in the early going um uh I
+[00:44:21] didn't have any money in fact I had
+[00:44:22] negative money um I had huge student
+[00:44:24] debts so um
+[00:44:27] uh or in fact I couldn't afford a place
+[00:44:29] to stay and an office so uh I rented an
+[00:44:33] office instead because that was I was
+[00:44:34] actually I got a cheaper office than I
+[00:44:36] could get a get a place to stay and then
+[00:44:38] we I just sort of slept on the futon and
+[00:44:39] showered at the YMCA on page M and El
+[00:44:42] Camino
+[00:44:44] um I was in the best shape I I've ever
+[00:44:47] been you know go to shower work out and
+[00:44:51] you're good to go um and and there was
+[00:44:54] an there was an ISP on the floor below
+[00:44:56] us just to like little tiny ISP and uh
+[00:44:59] we drove the hole through the floor and
+[00:45:00] connected a null modem cable
+[00:45:04] uh that that gave us our internet
+[00:45:06] contivity for like 100 bucks a month um
+[00:45:09] so I mean we had just an absurdly tiny
+[00:45:12] burn rate um and uh and and we also had
+[00:45:16] you know a really tiny Revenue stream
+[00:45:17] but we actually had more Revenue than we
+[00:45:18] had expenses so um so when we went and
+[00:45:23] talked to VCS we could actually well
+[00:45:26] like I said it's there's no Silver
+[00:45:28] Bullet that I can point to as to why the
+[00:45:30] our vehicle is a lot cheaper um we've
+[00:45:32] really focused on um reducing the cost
+[00:45:35] across the board um I mean one thing our
+[00:45:38] overhead in a 30 person company is um
+[00:45:41] you know an order of magnitude less than
+[00:45:43] it is in lock or Boeing uh just just for
+[00:45:45] starters so even if we did everything
+[00:45:47] the same and built the same launch
+[00:45:49] vehicle we'd be considerably cheaper um
+[00:45:52] and then every decision we've made has
+[00:45:54] been with consideration to simplicity
+[00:45:57] and the reason for Simplicity is because
+[00:45:58] that both improves the reliability as
+[00:46:00] well as U uh reduces your cost um if
+[00:46:03] you've got fewer components that's fewer
+[00:46:05] components to go wrong and fewer
+[00:46:06] components to bind um I think there's
+[00:46:09] there's I think fairly significant
+[00:46:11] innovation in our airframe um which is a
+[00:46:14] a semi- press stabilized monoco with
+[00:46:17] variable skin thickness and a common
+[00:46:18] bulkhead if you know what that means uh
+[00:46:22] I need a diagram to explain it all uh
+[00:46:24] but the net result is that it's very
+[00:46:26] cheap cheap um and uh it's very Mass
+[00:46:29] efficient and I think easy to test and
+[00:46:32] quite reliable um our avionic system
+[00:46:36] give you another example our avionic
+[00:46:37] system we use an Ethernet on the vehicle
+[00:46:39] to communicate they may that may not
+[00:46:41] sound like a great Innovation but it is
+[00:46:43] in launch vehicles um all the other
+[00:46:45] launch Vehicles communicate in the
+[00:46:46] vehicle by these uh serial cables that
+[00:46:49] run the entire length of the vehicle and
+[00:46:51] uh so you've got these these giant
+[00:46:53] copper bundles as thick as your arm
+[00:46:55] running up and down the vehicle makes it
+[00:46:56] heavy it makes it expensive and this so
+[00:46:59] this there's things like that which uh
+[00:47:03] when you add them all up it it makes a
+[00:47:04] huge
+[00:47:08] difference uh no that's that's a good
+[00:47:10] question that's a good question uh no I
+[00:47:12] would not um I think SpaceX is not this
+[00:47:15] is Advanced entrepreneuring
+[00:47:18] um and it it it may also you know I
+[00:47:21] can't tell you how many people have said
+[00:47:22] that um you know the fastest way to turn
+[00:47:26] uh uh you the faster way to make a small
+[00:47:28] fortune in the Aerospace industry is to
+[00:47:31] start with a large one um so uh you know
+[00:47:35] hopefully that doesn't doesn't work out
+[00:47:37] but um I I would definit I think space
+[00:47:40] is is a tough one for first-time
+[00:47:42] entrepreneurs
+[00:47:45] um um you're better off starting with
+[00:47:47] something that that requires low capital
+[00:47:49] and space is a high Capital
+[00:47:53] effort sorry last question

@@ -1,0 +1,1417 @@
+[00:00:00] why did you agree to do this this
+[00:00:01] interview with the BBC um I don't know I
+[00:00:04] like
+[00:00:05] spontan and uh I don't know there's
+[00:00:07] there's a lot going on and it seems like
+[00:00:09] I I actually um do have a lot of respect
+[00:00:10] for the BBC um although sometimes I
+[00:00:13] forget what the BBC stands for you know
+[00:00:15] but what does just
+[00:00:19] kidding you know what it sounds
+[00:00:21] for yes I do um so um yeah yeah so
+[00:00:27] there's there's a lot going on um so
+[00:00:29] look this be a good opportunity to uh
+[00:00:31] answer some questions and
+[00:00:35] um you know I guess uh maybe get some
+[00:00:39] feedback too um what should we be doing
+[00:00:42] different um I know the BBC for example
+[00:00:44] is not thrilled about being labeled uh
+[00:00:46] stateof media not not exactly I mean I
+[00:00:49] was going to get to that later but let's
+[00:00:51] go for it now it's officially objected
+[00:00:52] to that term do you want to respond to
+[00:00:54] it uh yeah yeah so I mean our goal is
+[00:00:56] simply to uh have um you know uh to be
+[00:01:00] as uh truthful and accurate as possible
+[00:01:02] so um I think there's I think we're
+[00:01:05] we're we're adjusting the label to be
+[00:01:09] publicly funded which I think is perhaps
+[00:01:11] uh not too objectionable we're trying to
+[00:01:14] be
+[00:01:15] accurate uh I'm not the BBC
+[00:01:18] but but publicly funded is how the BBC
+[00:01:21] describes it okay okay so that would be
+[00:01:23] accurate uh if we use the same words
+[00:01:25] that the BBC uses to describe itself
+[00:01:27] that presumably would be okay I'm not
+[00:01:30] asking you for a yes or no since you're
+[00:01:33] not running BBC per se you're but it's
+[00:01:35] probably it seems to pass a reasonable
+[00:01:39] reasonable so you're going to change
+[00:01:41] those labels on the BBC Twitter feed and
+[00:01:44] and also npls as well yeah yeah publicly
+[00:01:48] funded basically that that's we're
+[00:01:50] trying to be as accurate as possible
+[00:01:51] okay yeah all right fine
+[00:01:54] um first of all I just want to clear
+[00:01:56] something up are you sleeping in the
+[00:01:59] office
+[00:02:01] here I sometimes sleep in the office
+[00:02:03] like in the library five days a week no
+[00:02:06] no three days a week I'm not here five
+[00:02:07] days a week um but uh there's a a
+[00:02:09] library that nobody goes to uh on the uh
+[00:02:13] seventh floor and uh there's a couch
+[00:02:16] there and I some I stick there sometimes
+[00:02:19] okay okay um in terms of the general
+[00:02:23] overview the reason why I think we've
+[00:02:25] you've agreed to do this is because you
+[00:02:26] wanted to talk about the first six
+[00:02:28] months as chief executive owner of
+[00:02:32] Twitter um yeah it's kind of like
+[00:02:33] whatever you want to talk about you know
+[00:02:35] right so how do you think it's
+[00:02:38] gone well I it's not been
+[00:02:42] boring it's been quite a roller coaster
+[00:02:45] uh
+[00:02:47] so
+[00:02:48] um I mean things are going I think you
+[00:02:51] know reasonably well I mean we we we've
+[00:02:53] seen some all-time highs in terms of
+[00:02:55] total user time so uh we we passed uh 8
+[00:03:00] billion user minutes uh per day which is
+[00:03:04] a lot of user minutes um
+[00:03:07] so
+[00:03:09] um yeah so usage is up uh growth is good
+[00:03:15] um the site Works uh mostly um you know
+[00:03:19] want have a few glitches here and there
+[00:03:21] but uh the site is is working fairly
+[00:03:24] well um and we're doing it with a small
+[00:03:27] fraction of the original you know
+[00:03:29] account so I mean you mentioned outages
+[00:03:32] there there have been several and we
+[00:03:35] we've actually spoken to an engineer who
+[00:03:36] works at Twitter and they said that the
+[00:03:38] plumbing is broken here and it's on fire
+[00:03:41] and there could be problems at any
+[00:03:43] minute do you do you do you accept
+[00:03:45] that I mean they have been a few outages
+[00:03:48] but uh not for very long and it's
+[00:03:51] currently working fine so you don't you
+[00:03:53] don't it doesn't keep you up at night
+[00:03:55] that Twitter might go offline again uh
+[00:03:57] at this point I think we've got a pretty
+[00:03:58] good handle on on on what makes total
+[00:04:00] work um and uh we're also doing it with
+[00:04:04] uh
+[00:04:05] uh uh two data centers instead of three
+[00:04:08] so we used to have three data centers uh
+[00:04:11] we shut down one of them so we uh
+[00:04:13] actually 2/3 of the roughly to the prior
+[00:04:17] compute capability uh but we've made uh
+[00:04:19] so many improvements to the uh core
+[00:04:21] algorithm in some cases we improved the
+[00:04:24] um core algorithm by 80% so the actual
+[00:04:28] CPU usage or computer usage is is
+[00:04:29] dramatically less um so uh but the
+[00:04:33] results speak for themselves uh the
+[00:04:35] system despite being at alltime highs of
+[00:04:37] of usage is fast it's responsive it's
+[00:04:40] more responsive than it was before the
+[00:04:42] before the Takeover uh and we've also
+[00:04:44] added a long form tweets we've added uh
+[00:04:48] you can now post videos after two hours
+[00:04:50] and soon videos of any length um we've
+[00:04:54] we're rolling out our subscriber program
+[00:04:57] so so people can uh content creators can
+[00:05:01] uh actually make a living on on Twitter
+[00:05:03] by having some of their content behind a
+[00:05:05] pay W um and
+[00:05:09] um we open source the algorithm so
+[00:05:12] there's transparency about uh what
+[00:05:15] tweets get shown you know what what
+[00:05:17] content gets shown versus not um I think
+[00:05:20] you say like what are you really going
+[00:05:21] to trust are you going to trust some
+[00:05:24] sort of blackbox algorithm from some
+[00:05:26] other site or you going to trust the
+[00:05:27] thing that you can actually see and
+[00:05:29] understand
+[00:05:30] but do you accept that there are lots of
+[00:05:32] Engineers that are are looking at at the
+[00:05:35] way that Twitter is built and and the
+[00:05:37] lack of Engineers because so many have
+[00:05:38] have left and are worried about the
+[00:05:41] health of
+[00:05:44] Twitter well I mean there' been
+[00:05:47] um many of these people have predicted
+[00:05:50] that Twitter will cease to function
+[00:05:52] their predictions have not turned out to
+[00:05:54] be true you
+[00:05:56] know insert Mark Twain you know
+[00:06:00] saying you know rumors of our death are
+[00:06:03] greatly
+[00:06:04] exaggerated um let's go back six months
+[00:06:07] I we're literally on Twitter right now
+[00:06:09] right so it must
+[00:06:12] work let's go back six months and even
+[00:06:14] further further back than that when you
+[00:06:16] put that initial bid in you then had a
+[00:06:18] wobble you kind of said I actually don't
+[00:06:21] want to buy Twitter
+[00:06:22] anymore I mean I mean it really is quite
+[00:06:25] entertaining I mean it's like soap oper
+[00:06:27] uh because when I first made the offer
+[00:06:30] uh the response was the the board
+[00:06:32] adopted a poison pill so they were like
+[00:06:35] hell no you can't buy Twitter we'd
+[00:06:37] rather die we'd like chew on cyanide
+[00:06:40] before being being Bor that was their
+[00:06:42] initial
+[00:06:43] response and
+[00:06:44] then and then you said and then you said
+[00:06:48] actually I don't want to buy it yes and
+[00:06:51] and then and and and then they said no
+[00:06:53] you must buy us gun to the head you have
+[00:06:55] to buy us I'm like are you the same
+[00:06:57] people who said you'd rather die then
+[00:07:00] then be bored doesn't that seem odd so I
+[00:07:04] guess I guess my question to you is in
+[00:07:07] terms of you said that you said that the
+[00:07:09] reason was because of bots because
+[00:07:11] Twitter was filled with Bots well
+[00:07:14] looking back at it now was there a
+[00:07:16] little bit of you that thought actually
+[00:07:18] maybe I've overpaid actually maybe I
+[00:07:20] don't want to do this I I want to get
+[00:07:21] out of this be honest yeah no no the
+[00:07:24] problem was that the um uh publicly
+[00:07:27] stated user numbers were in excess of
+[00:07:30] the real user numbers uh
+[00:07:33] so um I've heard you talk about that you
+[00:07:37] talk
+[00:07:38] about basically looking back at it now
+[00:07:41] was that the only reason that you wanted
+[00:07:43] to pull out
+[00:07:44] yes that literally the issue it's like
+[00:07:47] it's like let's say you um uh buy a
+[00:07:49] warehouse full of goods U and you're
+[00:07:51] told that uh less than 5% of the goods
+[00:07:54] in the warehouse are uh have have are
+[00:07:59] are broken you know um but then you
+[00:08:02] actually get the wareh you look into the
+[00:08:03] warehouse and it turns out actually 25%
+[00:08:05] of the things broken you feel like huh
+[00:08:07] that's uh that's not what you
+[00:08:11] said so then you changed your mind again
+[00:08:13] and decided to buy it did you do that
+[00:08:15] did you do
+[00:08:17] that right did you do that because you
+[00:08:19] thought that a court would make you do
+[00:08:21] that yes
+[00:08:23] right yes that is the reason right so
+[00:08:26] you were still trying to get out of it
+[00:08:27] and then you just were advised by
+[00:08:28] lawyers
+[00:08:30] you're to buy this
+[00:08:32] yes interesting so
+[00:08:35] you so so you didn't you didn't actually
+[00:08:37] want to purchase it even when you said
+[00:08:39] you were go well not at that price going
+[00:08:41] to really no I mean like like let's say
+[00:08:43] like I think the analogy is pretty
+[00:08:44] pretty close like let's say you know
+[00:08:45] it's it's like you there's a warehouse
+[00:08:47] full of goods uh they say the warehouse
+[00:08:49] less than 5% of what's in the warehouse
+[00:08:51] is broken and then you look at you walk
+[00:08:54] into the warehouse you say actually it's
+[00:08:55] 25% so you you know you might still want
+[00:08:57] to buy what's the in that warehouse
+[00:08:59] house but probably at a lower price not
+[00:09:02] buying the stuff that's broken so you
+[00:09:05] you didn't have an epiphany you just
+[00:09:07] thought I'm gonna I'm gonna have to buy
+[00:09:09] this I might as well buy the
+[00:09:11] bullet
+[00:09:14] yeah so then you walk it's super
+[00:09:16] complicated right right I'm not sure
+[00:09:19] you've said that before Oh fair enough
+[00:09:21] um so then you you came into a whole
+[00:09:24] bunch of court
+[00:09:26] cases you said this in the BBC you love
+[00:09:29] it's a you so you you then came into
+[00:09:32] Twitter with with a sync what were your
+[00:09:34] first
+[00:09:37] impressions
+[00:09:42] well I thought wow this is a really nice
+[00:09:44] office
+[00:09:46] building um and uh expensive yes a very
+[00:09:50] expensive office building um great Decor
+[00:09:53] it's lovely
+[00:09:55] place
+[00:09:57] um and um
+[00:10:01] I mean and and definitely is spending
+[00:10:03] money like it's going out of
+[00:10:05] fashion which isn't it isn't quite going
+[00:10:07] out of fashion yet um so no I the
+[00:10:11] gravity of the situation is perhaps uh
+[00:10:13] not well understood of of
+[00:10:16] um at you know at the point in which uh
+[00:10:19] the company the transaction closed uh
+[00:10:23] quter was tracking to uh lose uh over 3
+[00:10:29] billion doll a year um
+[00:10:32] so uh and had 1 billion in the bank so
+[00:10:35] that's four months to death so this is
+[00:10:37] your starting position how would you
+[00:10:40] feel pretty pretty intense you know you
+[00:10:43] also had to borrow quite a lot of money
+[00:10:45] and pay interest on that too well that's
+[00:10:46] why part away it was the $3 billion U
+[00:10:49] run rate so um in rough numbers normal
+[00:10:53] year Twitter would do say let's say 4
+[00:10:55] and a half billion in Revenue $4 half
+[00:10:56] billion dollars in cost um
+[00:10:59] I mean it was really kind of like a
+[00:11:00] nonprofit they'd run it at roughly
+[00:11:02] roughly Break Even Now problem but
+[00:11:04] that's not a b that's not bankruptcy
+[00:11:06] you're not saving that company from
+[00:11:08] bankruptcy it's breaking even but but
+[00:11:10] then then the issue is that um if you
+[00:11:12] then add a billion and a half dollars in
+[00:11:13] debt
+[00:11:14] servicing um and have a massive drop in
+[00:11:17] Revenue which we did um which was partly
+[00:11:20] cyclic and partly you know political
+[00:11:22] concerns and whatever um so Revenue you
+[00:11:25] know qu dropped by over a third it's not
+[00:11:31] and this is not just Twitter uh you know
+[00:11:33] Facebook and google' also seen some
+[00:11:34] significant advertising Revenue declines
+[00:11:37] it was it was a little it's been a
+[00:11:38] little higher Twitter but most the
+[00:11:39] advertisers are coming back so I think
+[00:11:41] we'll just we'll back be back where
+[00:11:43] there's a cyclic demand drop which is
+[00:11:45] still pretty significant um but but in
+[00:11:49] in rough numbers uh Revenue dropped from
+[00:11:51] 4 and a half billion to three um uh and
+[00:11:56] um expenses went from 4 and half to six
+[00:11:59] creating a $3 billion negative cash flow
+[00:12:03] situation um and Twitter having a
+[00:12:05] billion dollars in the bank that's four
+[00:12:07] months to live so unless drastic action
+[00:12:09] was taken immediately this company's
+[00:12:10] going to die and be own let's talk about
+[00:12:13] that drastic action because almost
+[00:12:14] immediately um you sacked a lot of
+[00:12:17] Twitter workers um and and I I spoke to
+[00:12:20] them it was very easy to speak to them
+[00:12:22] uh when it happened and and the way they
+[00:12:24] said pretty much everyone said is that
+[00:12:26] it felt quite haphazard it was a little
+[00:12:29] bit uncaring do do I wouldn't say
+[00:12:31] uncaring the the the you know the issue
+[00:12:34] is like uh the companies either going to
+[00:12:36] go bankrupt um or if if we do not cut
+[00:12:40] costs
+[00:12:41] immediately um this is not a caring
+[00:12:43] uncaring situation it's like if the
+[00:12:45] whole ship sinks nobody's going to
+[00:12:47] drop
+[00:12:49] right but a lot of people just lost
+[00:12:51] their jobs like that um and and and they
+[00:12:55] wer they didn't even know they would
+[00:12:56] they lost their jobs often they just
+[00:12:58] they so let me ask you what would you do
+[00:13:01] well you might want to give someone some
+[00:13:02] notice I mean you might it's by the way
+[00:13:04] I'm not running Twitter but I know but
+[00:13:06] this this is the criticism and this is
+[00:13:07] what actual this is what staff members
+[00:13:08] say a little bit of notice uh you know
+[00:13:11] no I understand you have four months to
+[00:13:14] live 120 days in 120 days you're dead so
+[00:13:18] how so what do you want to do how much
+[00:13:20] are you
+[00:13:22] worth I don't know but I we're talking
+[00:13:25] about around the $200 billion Mark I
+[00:13:27] mean it's not quite your frame it in in
+[00:13:30] a way that that you know that it had had
+[00:13:32] a few months to live you're quite a rich
+[00:13:34] man um I saw a lot of Tesla stock to
+[00:13:38] close a steal I did not want to sell a
+[00:13:41] Tesla
+[00:13:43] stock okay um do do you have any regrets
+[00:13:47] on the way that some of the staff would
+[00:13:49] let
+[00:13:51] go uh I mean people were given you know
+[00:13:55] 3 months of severance some cases more so
+[00:14:01] um but you know like I said the
+[00:14:04] companies need to run on their own
+[00:14:05] cognizance uh and uh it's it's not it's
+[00:14:10] not so easy for me to sell a stock as
+[00:14:12] people might think I have to sell a
+[00:14:13] stock during certain periods I can't
+[00:14:15] sell stock during other periods um so
+[00:14:18] there's only there are only brief
+[00:14:19] Windows where I can sell Tesla stock and
+[00:14:21] then this is often taken as some lack of
+[00:14:23] faith in Tesla and in fact the the the
+[00:14:26] Tesla stock sales of course the Tesla
+[00:14:28] stock plet uh which was not good do you
+[00:14:31] think those two were
+[00:14:33] connected well the the people could
+[00:14:36] couldn't partial the difference between
+[00:14:37] I'm selling Tesla stock because I I've
+[00:14:39] lost faith in Tesla which I haven't or
+[00:14:42] that it's desperately needed for
+[00:14:45] Twitter
+[00:14:48] um okay and then after that after um you
+[00:14:52] um let go of a lot of stuff obviously
+[00:14:54] Twitter became slim down a lot and then
+[00:14:55] you started making some more policy
+[00:14:56] decisions one of those policy decisions
+[00:14:58] was to to bring Donald Trump back he
+[00:15:00] hasn't actually tweeted yet right do you
+[00:15:03] expect him to come back at any point
+[00:15:04] like have you have you spoken to him I
+[00:15:06] haven't spok to I don't know he may or
+[00:15:08] may want come back uh but but the point
+[00:15:10] is that Twitter should be uh a Town
+[00:15:14] Square that that is uh gives uh equal
+[00:15:18] voice to you know the the whole country
+[00:15:21] and ideally the whole world um it should
+[00:15:24] not be a partisan politics uh you know
+[00:15:28] and and
+[00:15:29] the more of a poson politics that are in
+[00:15:31] the very far lift of the spectrum San
+[00:15:32] Francisco B Berkeley politics normally
+[00:15:34] is quite Niche um but if Twitter
+[00:15:37] effectively acted as a megaphone for a
+[00:15:39] very Niche Regional politics and and
+[00:15:42] megaphone that to the world so if in
+[00:15:45] order for something to serve as a
+[00:15:47] digital Town Square it must uh you know
+[00:15:52] serve all people from all political
+[00:15:55] Persuasions uh provided it's legal um so
+[00:15:59] you know close to half the country uh
+[00:16:01] voted for Trump I wasn't one of them I
+[00:16:04] voted for Biden um but nonetheless uh
+[00:16:07] you know free speech is meaningless
+[00:16:09] unless you allow people uh you don't
+[00:16:12] like to say things you don't like
+[00:16:14] otherwise it's irrelevant um and if at
+[00:16:17] the point which you lose Free Speech uh
+[00:16:19] it doesn't come
+[00:16:20] back I I think the issue some people
+[00:16:23] have is that a lot of people were
+[00:16:25] brought back I mean some people were
+[00:16:26] brought back who uh were previously B
+[00:16:28] for spreading things like uh q and non
+[00:16:30] conspiracies you have people like Andrew
+[00:16:32] Tate who were brought back who were
+[00:16:33] previously uh ban for things like hate
+[00:16:36] speech do you think you prioritize
+[00:16:37] freedom of of speech
+[00:16:41] over misinformation and hate
+[00:16:44] speech well you know who's to say that
+[00:16:47] something something is
+[00:16:49] misinformation
+[00:16:51] um who's the aiter of
+[00:16:53] that is it the
+[00:16:57] BBC and you you L literally asking me
+[00:16:59] yes well no you are you are the Arbiter
+[00:17:02] on Twitter because you own Twitter yes
+[00:17:04] I'm saying who who is to say that one
+[00:17:06] person's misinformation is another
+[00:17:08] person's information um the point of
+[00:17:10] which you you said that there is uh this
+[00:17:13] is misin like who is going you accept
+[00:17:15] that misinformation can be dangerous
+[00:17:17] that it can cause real world harms that
+[00:17:19] it can potentially cause um yeah so the
+[00:17:21] point I'm trying to make is that the BBC
+[00:17:22] itself has at times published things
+[00:17:24] that are
+[00:17:27] false you agree that that has occurred I
+[00:17:30] I I I I'm quite sure the BBC have said
+[00:17:33] things before that turn out to not be
+[00:17:35] true in its whatever it is 100 Year
+[00:17:37] history I'm quite sure yes even if you
+[00:17:40] aspire to be accurate there are times
+[00:17:42] when you you will not
+[00:17:44] be think in the grand things BC does
+[00:17:47] does aspire to be accurate but you
+[00:17:48] accept there has to be a line in terms
+[00:17:50] of hate speech I mean not you're not
+[00:17:52] looking at total 100% unrestricted
+[00:17:55] speech um there's well I mean I
+[00:17:58] generally of I'm of the opinion that if
+[00:18:01] if uh if you if if the people of a given
+[00:18:04] country are against a certain type of
+[00:18:06] speech they should talk to their elected
+[00:18:08] representatives and pass a law to
+[00:18:10] prevent it so for example you you cannot
+[00:18:13] Advocate murdering someone that's
+[00:18:16] illegal in the United States and
+[00:18:18] everywhere really I I suspect um
+[00:18:22] so uh so there are limits to speech um I
+[00:18:26] mean I guess taking your argument to Lal
+[00:18:28] conclusion then do you accept that
+[00:18:29] there's more misinformation on the
+[00:18:31] platform if it's not being policed in
+[00:18:32] the same
+[00:18:34] way I I actually think there's there's
+[00:18:37] there's less these days because we we've
+[00:18:39] eliminated so many of the Bots which
+[00:18:41] were pushing scams and spam uh and
+[00:18:43] previously previous management turned a
+[00:18:45] blind eye to to the bot because their
+[00:18:47] bonuses were tied to user growth and if
+[00:18:50] you both if you if your compensation is
+[00:18:53] tied to user growth uh well you're not
+[00:18:56] going to look too closely at some of the
+[00:18:57] users that's part of the problem so I
+[00:18:59] think we've got less less information
+[00:19:01] because we've we don't have the B
+[00:19:03] problem that we used to do um and we
+[00:19:05] also have um given a lot of attention to
+[00:19:09] community notes uh which corrects uh
+[00:19:12] with Community itself corrects Miss
+[00:19:14] information uh it's been very effective
+[00:19:18] um I mean I I would only just add that
+[00:19:20] you know we have spoken to people who
+[00:19:22] who have been sacked that used to be in
+[00:19:24] content moderation and and we've spoken
+[00:19:26] to people very recently who were
+[00:19:27] involved in moderation and they just say
+[00:19:30] they just there's not enough people to
+[00:19:31] police this stuff particularly around um
+[00:19:33] particularly around hate speech um in
+[00:19:35] the company what hate speech are you
+[00:19:38] talking about I mean you use Twitter
+[00:19:40] right do you see a rise in hate speech I
+[00:19:42] mean but just a personal anecdote like
+[00:19:44] what do do I don't personally my uh for
+[00:19:47] you I would see I get I get more of that
+[00:19:50] kind of content yeah personally but I'm
+[00:19:52] not going to talk to talk to the rest of
+[00:19:54] for for the rest of Twitter you see more
+[00:19:56] hate speech personally I would say I
+[00:19:58] would see more hateful content in that
+[00:20:00] in that content you don't like or or
+[00:20:02] hateful what do you mean to describe a
+[00:20:03] hateful thing yeah I mean you know just
+[00:20:06] content that will solicit a reaction
+[00:20:10] something that may include something
+[00:20:12] that is slightly racist or slightly
+[00:20:14] sexist those kinds of those kinds of
+[00:20:16] things so you think if something is
+[00:20:17] slightly sexist it should be
+[00:20:19] vent no you're saying I'm not saying
+[00:20:21] anything I'm saying I'm just curious I'm
+[00:20:23] I'm trying to understand what you mean
+[00:20:24] by hateful content and I'm asking for
+[00:20:26] specific examples um and if and you just
+[00:20:30] said that if something is slightly
+[00:20:32] sexist that's hateful content and does
+[00:20:35] that mean that it should be bad well
+[00:20:36] you've asked me you've asked me whether
+[00:20:38] my feed whether it's got less or more
+[00:20:41] I'd say it's got slightly more that's
+[00:20:43] why I'm asking for examples can you can
+[00:20:45] you name one example I I honestly don't
+[00:20:48] honestly I you can't name a single
+[00:20:49] example I'll tell you why because I
+[00:20:50] don't actually use that for you feed
+[00:20:52] anymore because I I just don't
+[00:20:53] particularly like it actually a lot of
+[00:20:54] people a lot of people are quite similar
+[00:20:55] I I I only I only look atang you said
+[00:20:58] you've seen more hateful content but you
+[00:21:00] can't name a single example not even one
+[00:21:03] I'm not sure I've used that feed for the
+[00:21:04] last three or four weeks and I well then
+[00:21:06] how did you see the hateful cont content
+[00:21:08] because I've been I've been using I've
+[00:21:10] been using Twitter since you've taken
+[00:21:11] over for the last six months okay so
+[00:21:12] then you must have at some point seen
+[00:21:14] that you for you hateful content I'm
+[00:21:15] asking for one example right you can't
+[00:21:17] give a single one and I'm saying then I
+[00:21:20] I say Sir that you don't know what
+[00:21:21] you're talking about really yes because
+[00:21:23] you can't give me a single example of
+[00:21:25] hateful content not even one tweet and
+[00:21:28] yet you claimed that the hateful content
+[00:21:29] was high well that's a false no what I
+[00:21:33] claim you just lied what no no what I
+[00:21:35] claimed was uh there are many uh
+[00:21:37] organizations that say that that kind of
+[00:21:39] information is on the rise now whether
+[00:21:42] whether it has on my or I mean right and
+[00:21:45] someone like the the Strategic dialogue
+[00:21:48] Institute in the in the UK they will say
+[00:21:50] that so look people will say all sorts
+[00:21:53] of nonsense I'm literally asking for a
+[00:21:55] single example and you can't name one
+[00:21:56] right and as as I've already said I
+[00:21:58] don't use that feed but let how would
+[00:21:59] you know I don't think this is getting
+[00:22:01] anywhere you literally said you
+[00:22:02] experienced more hateful content and
+[00:22:04] then couldn't name a single example
+[00:22:06] right and as I said I that's ABD I
+[00:22:07] haven't I haven't actually looked at
+[00:22:09] that feed then how would you know this
+[00:22:11] content because I'm saying that's what I
+[00:22:13] saw a few weeks ago I can't give you an
+[00:22:15] exact example let's move on we have we
+[00:22:17] only have a certain amount of time um co
+[00:22:20] co
+[00:22:21] misinformation you you changed the co
+[00:22:24] misinformation has BBC changed this Co
+[00:22:26] misinformation
+[00:22:28] the BBC does not set the rules on
+[00:22:30] Twitter so I'm asking you no I'm talking
+[00:22:32] about the BBC's misinformation about
+[00:22:37] Co I'm I'm I'm literally asking you
+[00:22:39] about you changed the labels the co
+[00:22:41] misinformation labels they used to be a
+[00:22:43] policy and
+[00:22:44] then then
+[00:22:46] disappeared why why do
+[00:22:50] that it co is no longer an
+[00:22:55] issue does the BBC uh
+[00:22:58] hold itself at all responsible for
+[00:23:02] misinformation regarding ma masking and
+[00:23:04] and side effects of
+[00:23:07] vaccinations and not reporting on that
+[00:23:09] at
+[00:23:10] all and what about the fact that the BBC
+[00:23:12] was put under pressure by the British
+[00:23:14] government to change its editorial
+[00:23:16] policy are you aware of
+[00:23:17] that this is this is not an interview
+[00:23:20] about the BBC oh you thought it
+[00:23:23] wasn't and this I see now why you've
+[00:23:25] done Twitter spaces I am not a
+[00:23:26] representative of the BBC's editorial
+[00:23:28] policy I want to make that clear let's
+[00:23:30] talk about something else you want talk
+[00:23:31] about all right let's let's let's talk
+[00:23:33] about let's talk about something else
+[00:23:34] you weren't expecting that let's talk
+[00:23:35] about something else Narendra Modi the
+[00:23:37] BBC did a documentary um about uh nendra
+[00:23:40] Modi and his leadership during the
+[00:23:43] rights and goodat um we then believe
+[00:23:46] that some of those some of that content
+[00:23:48] was taken off Twitter was that at the
+[00:23:50] behest of the Indian government I'm not
+[00:23:53] aware of that particular situation so
+[00:23:55] you're just you're not
+[00:23:56] sure I I I don't know if I I don't know
+[00:24:01] about that that you know what exactly
+[00:24:03] happened with some content situation in
+[00:24:05] India the the the rules in India for for
+[00:24:09] what uh can appear on social media are
+[00:24:11] quite
+[00:24:12] strict and we can't go beyond the laws
+[00:24:15] of a country but do but do you get that
+[00:24:18] if you do that you incentivize countries
+[00:24:20] around the world to Simply pass more
+[00:24:21] Draconian
+[00:24:23] laws no uh look what if we have a choice
+[00:24:28] of either our people go to prison uh or
+[00:24:31] we comply with the laws we will comply
+[00:24:33] with the laws the same goes for the
+[00:24:37] BBC okay okay um since you uh became CEO
+[00:24:44] there's been another story in
+[00:24:46] town I'm not CEO anymore okay you're
+[00:24:49] you're chief twit or what are you no no
+[00:24:51] my my dog flaky is the CEO okay um he's
+[00:24:55] taking over I I I saw that yes um okay
+[00:24:58] so so Tik Tok has also been in the news
+[00:25:00] there's talk of perhaps the bid
+[00:25:02] Administration wanting to potentially
+[00:25:03] ban it or or or force a sale what's your
+[00:25:06] view of the
+[00:25:09] situation I don't really use Tik
+[00:25:11] Tok um I mean one of the reasons that I
+[00:25:14] emphasize that the
+[00:25:17] uh that our goal here at Twitter is to
+[00:25:20] maximize uh un regretted user minutes or
+[00:25:27] on Tik Tok but they regret the time
+[00:25:29] spent and that seems like okay well we
+[00:25:32] don't want to have regretted time we
+[00:25:33] want the time to be
+[00:25:59] um I can't say I have a strong opinion
+[00:26:01] on Tik Tok so you have an opinion on on
+[00:26:04] whether it should be banned or
+[00:26:08] not you know I'm generally uh against
+[00:26:11] Banning things
+[00:26:14] um so I I probably not be in favor I
+[00:26:18] mean it would it would help Twitter I
+[00:26:20] suppose if Tik Tok was Bann uh because
+[00:26:22] then people would spend more time on
+[00:26:24] Twitter and less time on Tik Tok but
+[00:26:26] even though that would be that even if
+[00:26:29] it would help Twitter I would be
+[00:26:32] generally against a Banning of of
+[00:26:35] things
+[00:26:37] okay um do you feel sometimes that your
+[00:26:40] many business interests might get in the
+[00:26:42] way of you having opinion I mean for
+[00:26:43] example Tesla has major Connections in
+[00:26:45] China do you you you you wouldn't you
+[00:26:48] wouldn't have a you wouldn't have a
+[00:26:49] certain opinion on something or feel
+[00:26:51] uncomfortable about saying something
+[00:26:53] because of your other business interests
+[00:26:54] elsewhere do I look
+[00:26:56] uncomfortable actually I do I look
+[00:26:59] uncomfortable
+[00:27:01] um uh yeah I mean Tesla's got activities
+[00:27:05] around the world and so does SpaceX um
+[00:27:08] you know once in a while those things do
+[00:27:11] come into conflict
+[00:27:16] um but it's not like Twitter is like uh
+[00:27:18] you know operates in China doesn't it's
+[00:27:21] banned in China so
+[00:27:25] um and certainly I've I've received no
+[00:27:29] no communication whatsoever from the
+[00:27:30] Chinese government with regard to
+[00:27:32] Twitter okay
+[00:27:36] um in terms of advertising obviously
+[00:27:39] it's the Twitter is not a private
+[00:27:40] company anymore so we don't really know
+[00:27:41] how how how it's all going have all the
+[00:27:43] advertisers come
+[00:27:45] back uh not all but most and you can see
+[00:27:49] it for yourself on Twitter even in the
+[00:27:51] 4u feed right I mean in the sorry don't
+[00:27:54] use for you cuz it
+[00:27:56] sucks
+[00:27:59] filled with hate speech I'm told um
+[00:28:02] that's not what I said okay fine well
+[00:28:03] why don't use for you what's wrong with
+[00:28:04] it
+[00:28:06] um how is it going is is Twitter in
+[00:28:08] profit now no Twitter is uh uh rough i'
+[00:28:13] say we're roughly Breaky even at this
+[00:28:15] point and I think you've said before you
+[00:28:18] see a you see a world where you could be
+[00:28:20] in profit is there a timeline on that do
+[00:28:22] you think I
+[00:28:24] mean depending on how things go if
+[00:28:26] current trends continue I think we could
+[00:28:29] be profitable or I mean Pro I say to be
+[00:28:34] more precise we could be Cas positive uh
+[00:28:37] this quarter if things keep going well
+[00:28:40] this quarter as soon as that uh possibly
+[00:28:42] yeah well um and do you have a message
+[00:28:45] for the adverti I mean can you say which
+[00:28:47] advertisers haven't come
+[00:28:49] back um I think I think almost all of
+[00:28:52] them have either come back or said
+[00:28:54] they're going to come back there are
+[00:28:55] very few exceptions can you say any of
+[00:28:57] the
+[00:28:59] exceptions um I actually don't know of
+[00:29:02] anyone who said definitively they're not
+[00:29:04] coming back they're all sort of trending
+[00:29:06] towards coming back but there are some
+[00:29:08] that just happen jump in the water's
+[00:29:09] warm it's great that's that's your
+[00:29:11] message to the to the advertisers they
+[00:29:12] haven't come back yeah I mean look uh
+[00:29:15] you know if if if if Disney feels
+[00:29:17] comfortable um advertising you know
+[00:29:20] children's movies and apple feels
+[00:29:22] comfortable advertising iPhones those
+[00:29:25] are good indicators that Twitter is um a
+[00:29:28] good place to
+[00:29:30] advertise um I want to talk about if you
+[00:29:34] have any regret regrets and and you know
+[00:29:37] I think you were Buddha at Dave
+[00:29:39] Chappelle concert I think your own
+[00:29:41] lawyer a little a little well some say a
+[00:29:45] little some say a bit more um I think
+[00:29:47] your own lawyer said you couldn't get a
+[00:29:48] fair trial in San Francisco because
+[00:29:50] there are lots of people that that don't
+[00:29:52] necessarily like you here yeah but you
+[00:29:54] know I have to say I was wrong if he was
+[00:29:56] wrong I guess the uh because um I was
+[00:29:59] acquitted uh by the San Francisco jury
+[00:30:04] unanimously
+[00:30:06] so but I guess but look do you have any
+[00:30:10] regrets buying
+[00:30:11] Twitter um I think it was something that
+[00:30:14] needed to be done um I you quite
+[00:30:18] difficult you know it's i' say like the
+[00:30:22] the pain level of Twitter has been
+[00:30:24] extremely high um this hasn't been some
+[00:30:27] sort of party um so uh it's been really
+[00:30:32] quite a stressful
+[00:30:33] situation you know for the last several
+[00:30:35] months not not an easy one I but apart
+[00:30:38] from the pain I mean so it's been quite
+[00:30:40] painful um but I think uh at the end
+[00:30:43] that it it should have been done I think
+[00:30:45] did I were there money mistakes made
+[00:30:47] along the way of course you know um and
+[00:30:51] uh but you know alls well it ends well
+[00:30:54] and so I I I feel like U we're headed
+[00:30:58] uh to a good place um you know we're
+[00:31:02] roughly break even I think we're
+[00:31:03] trending towards being cow positive very
+[00:31:06] soon like literally in a matter of of of
+[00:31:09] months um the advertisers are returning
+[00:31:12] um the I think the quality of
+[00:31:14] recommended tweets has improved
+[00:31:15] significantly and we've taken a lot of
+[00:31:17] feedback from uh people that have looked
+[00:31:19] at the open source recommendation
+[00:31:22] algorithm and we've we've made a lot of
+[00:31:24] improvements even even since that is
+[00:31:27] main open source and we're going to keep
+[00:31:28] doing that so overall I think the trend
+[00:31:31] is very good so you know I mean it was
+[00:31:35] actually something I was going to ask
+[00:31:35] you you mentioned the pain but but you
+[00:31:37] actually tweeted uh I think in February
+[00:31:39] you said the the last three months have
+[00:31:40] been extremely tough I wouldn't wish
+[00:31:42] that pain on anyone are you talking
+[00:31:44] emotionally there I mean can can you can
+[00:31:46] you explain I wasn't sted or anything
+[00:31:49] right right like some people around here
+[00:31:50] just dangerous NE of the woods we in it
+[00:31:53] is it can be
+[00:31:55] but just can you just talk put me
+[00:31:57] through the emotional strain of
+[00:32:00] this yeah I mean look I'm under I've
+[00:32:03] been under constant attack I mean uh
+[00:32:06] it's not like I you know have a stone
+[00:32:08] cold heart or something like that you
+[00:32:09] know uh if if you're under constant
+[00:32:12] criticism attack it's and then that that
+[00:32:15] gets fed to you nonstop including
+[00:32:17] through Twitter um that uh it's rough
+[00:32:22] you know um now now at the end of the
+[00:32:24] day I kind of think that like if you do
+[00:32:26] lose your Fe Fe back
+[00:32:28] Loop that's that's actually not good um
+[00:32:33] so uh you
+[00:32:35] know if if so I think it's it is
+[00:32:38] actually important to get negative
+[00:32:39] feedback um I don't turn replies off and
+[00:32:42] I actually got rid of I I removed my
+[00:32:45] entire block list so I don't block
+[00:32:46] anyone either um so so somebody can you
+[00:32:50] know so so I get like a lot of negative
+[00:32:52] feedback
+[00:32:54] um I think it's actually good to get
+[00:32:56] Negative feed back right when you talk
+[00:32:58] about the the emotional strain you've
+[00:33:00] gone back to feedback is is that the
+[00:33:01] thing that's been most difficult to take
+[00:33:03] the sort of negative
+[00:33:05] feedback yeah I mean if if uh if the
+[00:33:08] media is writing nonstop stories about
+[00:33:10] why you're a horrible person I mean you
+[00:33:11] know
+[00:33:15] um it's uh hurtful
+[00:33:19] obviously I'm interested I I've written
+[00:33:21] down a lot of these questions but but I
+[00:33:23] haven't written this one down but it's
+[00:33:24] interesting it feels like you have quite
+[00:33:25] an kind of interesting relationship with
+[00:33:27] the media because in one in some ways
+[00:33:30] you're quite skeptical quite critical
+[00:33:31] certainly of of established media but
+[00:33:34] also you you kind of get hurt by what
+[00:33:36] the media writes and um you seem you do
+[00:33:40] get your news still from the BBC as
+[00:33:41] you've already said I follow the BC so
+[00:33:45] do you feel you have a kind of a kind of
+[00:33:47] odd relationship with the media
+[00:33:50] yes go on
+[00:33:53] explain no it's it it is somewhat of a
+[00:33:56] love hate Rel relationship although I
+[00:33:57] mean it might be tilted a bit more
+[00:33:58] towards the
+[00:34:02] hate um but uh you know it's
+[00:34:09] uh you know I I I think that this this
+[00:34:13] is a sort of part and parle of having a
+[00:34:16] a free media situation which is that um
+[00:34:21] you know I do I I do take uh heart in in
+[00:34:26] that the media is actually able to trash
+[00:34:29] me on a regular basis uh in you know in
+[00:34:33] the United States in the UK and whatnot
+[00:34:35] um whereas you know in a lot of other
+[00:34:38] places uh the media cannot say uh mean
+[00:34:42] things to powerful
+[00:34:45] people okay but I think it's better that
+[00:34:47] we have a situation where the media can
+[00:34:49] say uh mean things to powerful people if
+[00:34:53] we're talking about the media let's talk
+[00:34:54] about verification labels you obvious
+[00:34:57] want to create another Revenue stream
+[00:34:59] that's subscription based is
+[00:35:01] verification the way to do that because
+[00:35:03] we have a kind of a situation at the
+[00:35:04] moment where the New York Times doesn't
+[00:35:06] have a verified badge whereas anyone
+[00:35:08] else who can pay whatever few few bucks
+[00:35:10] a month can is that can that be right is
+[00:35:13] that what you envisaged when you bought
+[00:35:16] Twitter I I must confess to some Delight
+[00:35:18] in removing the verified badge from The
+[00:35:20] New York
+[00:35:21] Times that was that was great um anyway
+[00:35:26] there there still alive and well so uh
+[00:35:29] they're they're doing fine but on a
+[00:35:31] serious note it could flame
+[00:35:33] disinformation again if you have
+[00:35:34] verified accounts that uh are from
+[00:35:37] anyone who can pay money they simply
+[00:35:39] they go up to potentially uh the top of
+[00:35:41] feeds um they get more action on Twitter
+[00:35:44] and uh traditional media that may not
+[00:35:46] pay for uh verification doesn't do you
+[00:35:48] see how that could potentially be a
+[00:35:50] driver of
+[00:35:52] misinformation well I mean I I I think
+[00:35:54] the media is a driver of misinformation
+[00:35:56] much more than the media would like to
+[00:35:58] admit that they are um I mean that's a
+[00:36:00] different question yeah um but you are
+[00:36:03] sort of saying like like who who knows
+[00:36:05] best the average citizen or you know uh
+[00:36:09] some someone who who is a journalist um
+[00:36:12] and I think in a lot of cases um it is
+[00:36:14] the average citizen that knows more than
+[00:36:16] than the journalist in fact I mean very
+[00:36:18] often when I see an article about some
+[00:36:21] uh something that I know a lot about and
+[00:36:24] I read the article it's like that they
+[00:36:27] get a lot wrong um and uh you know sort
+[00:36:31] of the best interpretation is there is
+[00:36:33] someone who doesn't really understand
+[00:36:34] what's going on in industry has only a
+[00:36:36] few facts to play with has to come up
+[00:36:38] with an article it's going to be you
+[00:36:41] know it's not going to it's not going to
+[00:36:42] hit the Bulls Eye um uh so so then like
+[00:36:46] generally this is what how explain to
+[00:36:48] other people if you read an article
+[00:36:49] about something you know about how much
+[00:36:51] in that how accurate is that article now
+[00:36:53] imagine that that is the that is how
+[00:36:55] essentially all artic articles are they
+[00:36:57] they're they're an approximation of
+[00:36:59] what's going on but but not not an exact
+[00:37:02] uh situation so if somebody's actually
+[00:37:04] let's say uh in the frey or like an
+[00:37:07] expert in the field and uh was actually
+[00:37:11] there and then and writes about their
+[00:37:13] experience of being actually there I I
+[00:37:16] think that actually that that that's uh
+[00:37:18] in a lot of cases going to be better
+[00:37:20] than than a journalist because the
+[00:37:21] journalist wasn't
+[00:37:22] there I think you said the Legacy
+[00:37:24] verified Blu Texs are going to go next
+[00:37:26] week
+[00:37:27] uh been few few deadlines on
+[00:37:30] 420 yeah I I see the joke
+[00:37:33] um the number will never leave me
+[00:37:36] clearly cost it cost you a lot of money
+[00:37:39] well
+[00:37:40] fortunately it didn't in the trial well
+[00:37:43] yeah right but the for the as you see
+[00:37:45] right yes we're going to ask for a
+[00:37:47] refund yeah okay yeah good
+[00:37:51] luck um let's move on from
+[00:37:53] that but bluti in theory
+[00:37:57] all Legacy blue ticks gone gone gone
+[00:37:59] next week and this is and at that point
+[00:38:02] you'll kind of work out whether this is
+[00:38:03] going to sink or swim
+[00:38:05] yes what's your what's your h i mean
+[00:38:07] you've obviously I think it's going to
+[00:38:09] swim yeah yeah it'll swim just fine okay
+[00:38:12] what are you looking for in terms of in
+[00:38:14] terms of a revenue stream on that what
+[00:38:15] are your goals well I I I don't know if
+[00:38:18] it's like necessarily a giant Revenue
+[00:38:19] stream um you know CU even if you if you
+[00:38:23] have sort of a
+[00:38:24] million uh people that are subscribed
+[00:38:27] for let's say $100 a year is that's $100
+[00:38:31] million
+[00:38:33] um and uh that's that's that's a fairly
+[00:38:36] small Revenue stream relative to
+[00:38:38] advertising um but what we're what we're
+[00:38:41] really trying to do here with uh
+[00:38:43] verification is to massively raise the
+[00:38:45] cost of disinformation and and bots in
+[00:38:49] general um so my prediction is that any
+[00:38:52] social media company that does not uh
+[00:38:54] insist on paid verification will simply
+[00:38:56] be overwhelmed uh by uh Advanced AI Bots
+[00:39:01] I mean chat gpts essentially resilient
+[00:39:03] instances of Chad gbt how do is that
+[00:39:06] really what you want on the platform do
+[00:39:08] you want big news organizations being
+[00:39:10] overwhelmed by bots so they have to pay
+[00:39:12] no the point is you won't be if you pay
+[00:39:15] but a lot of organizations have already
+[00:39:17] said they're not going to pay like the
+[00:39:18] New York Times well then you know that's
+[00:39:22] up to them if they you know going to
+[00:39:24] make them pay um it's a small amount
+[00:39:26] money so I don't know what what their
+[00:39:27] problem is um so uh but we're going to
+[00:39:32] treat everyone equally so what we're not
+[00:39:33] going to do is say that there's some
+[00:39:36] anointed class uh of journalists who are
+[00:39:39] the special ones who get to tell
+[00:39:40] everyone what their what what they what
+[00:39:43] they should think that it should be up
+[00:39:45] to the people what they think um and
+[00:39:47] even if an article is completely
+[00:39:49] accurate and um comprehensive and
+[00:39:53] everything there's still in in writing
+[00:39:55] that article the media is choosing the
+[00:39:57] narrative they're they're deciding what
+[00:39:59] to write an article about um so I'm
+[00:40:02] hopeful that that this going to be more
+[00:40:04] a case of the public choosing the
+[00:40:05] narrative as opposed to the media
+[00:40:07] choosing narrative but the media can
+[00:40:08] choose Nar at least at least a
+[00:40:10] combination of the media and the public
+[00:40:11] choosing the narrative um and the the
+[00:40:14] public getting to to weigh in on stories
+[00:40:17] if they if they think that they should
+[00:40:18] add something to it or uh we got
+[00:40:21] something wrong and over time I think if
+[00:40:23] Twitter is the best source of Truth it
+[00:40:26] will succeed and if and if we are not
+[00:40:28] the best source of Truth we will fail
+[00:40:31] someone comes in and offers you $44
+[00:40:33] billion for Twitter right now would you
+[00:40:35] take
+[00:40:38] it
+[00:40:41] no would you consider it
+[00:40:44] no why uh well I take it back it depends
+[00:40:48] on who I suppose if I was confident that
+[00:40:51] they would pursue that would they would
+[00:40:54] rigorously pursue the truth
+[00:40:57] um then I then I I guess I guess I would
+[00:41:00] be glad to hand it off to someone else I
+[00:41:02] don't care about the money really but I
+[00:41:05] I I do want to have some source of truth
+[00:41:09] that I can count on um and and I I hope
+[00:41:11] that's our aspiration with with Twitter
+[00:41:13] is to have you a source of truth that
+[00:41:16] you can count on that's that's it's also
+[00:41:18] real time it's an immediate source of
+[00:41:20] truth that you can count on and that
+[00:41:22] gets more accurate with time as people
+[00:41:24] comment on particular things well if you
+[00:41:25] don't carry the money you could just
+[00:41:27] give it to someone that you that you
+[00:41:28] think is uh you a good person to run
+[00:41:34] Twitter who do you think that might be I
+[00:41:38] I'm not the boss of Twitter nobody chose
+[00:41:41] well that's you might still have an
+[00:41:46] idea who who could run Twitter yes
+[00:41:49] honestly I have no idea who could run
+[00:41:51] Twitter yeah it's a high
+[00:41:53] job okay let's I mean let's move on to
+[00:41:55] youve said that you were going to um
+[00:41:58] Stand Down chief executive right
+[00:42:02] okay I keep tell you I'm not the CEO of
+[00:42:05] Twitter my dog is the CEO of Twitter
+[00:42:07] okay have you got have you got any it's
+[00:42:09] a great dog other than the dog it's very
+[00:42:10] alert and it's hard to put get anything
+[00:42:12] by him okay that's good to know other
+[00:42:14] than the dog have you got any successes
+[00:42:16] in mind he's got a black TT turtleneck
+[00:42:19] what more do you
+[00:42:21] need okay all right we're going down
+[00:42:24] that that that route um
+[00:42:26] Steve Jobs or Elizabeth homes are you
+[00:42:28] making reference to I guess more
+[00:42:29] Elizabeth homes okay I forgotten the
+[00:42:32] question now he got a husky voice and uh
+[00:42:35] black
+[00:42:36] don't um PR what were we talking about
+[00:42:40] there yeah who would who who would you
+[00:42:42] want have you got a
+[00:42:44] successor in mind not yet hopefully at
+[00:42:47] some
+[00:42:48] point right so because you did say you
+[00:42:51] were going to stand
+[00:42:52] down I did stand down okay all right
+[00:42:57] let's move on from that then all right
+[00:42:59] what about this office I'm intrigued
+[00:43:00] about this office you you said it was
+[00:43:02] expensive really newo yeah yeah why
+[00:43:07] can't we be um an anaro syndicalist
+[00:43:09] commune I think Jack Dy kind of
+[00:43:12] recommended doing that you kind of
+[00:43:13] ignored it yeah it was kind of that
+[00:43:16] actually um this office are you thinking
+[00:43:18] about moving out of San Francisco uh not
+[00:43:23] yet not yet but yeah no I mean this
+[00:43:27] place is nice and uh we we you know I
+[00:43:30] kind of like this office building
+[00:43:31] actually yeah okay so you're not cuz I
+[00:43:34] know you've talked about there's been
+[00:43:35] high levels of crime here you you
+[00:43:37] actually said at one point we should do
+[00:43:38] something about the crime right people
+[00:43:40] are dying right we should take action
+[00:43:43] you've also talked about how potentially
+[00:43:44] I think you might have been joking but
+[00:43:45] you could turn this into a homeless
+[00:43:47] shelter so I guess the reason I'm asking
+[00:43:49] is you know youve you if we tried to
+[00:43:51] turn into homeless shelter the building
+[00:43:53] building management building owner
+[00:43:55] rejected it you you try to yeah they
+[00:43:57] won't let us which bits which bits have
+[00:43:59] you tried to turn into a homeless
+[00:44:00] shelter we're only using one of the
+[00:44:01] buildings and so the other building
+[00:44:02] could be a homeless shelter and youve
+[00:44:04] tried to yeah we would like to do it
+[00:44:06] right now really yes and no you're being
+[00:44:10] stopped by who by by the building owner
+[00:44:13] they won't let you no in fact they
+[00:44:15] wouldn't even let us take the W off the
+[00:44:16] sign so how are you going to do that
+[00:44:19] quite quite uh you know what was your
+[00:44:21] what was your plan for the shelter I
+[00:44:23] don't know we could just let people stay
+[00:44:24] there it's nice
+[00:44:26] right okay I I didn't know that they can
+[00:44:29] bring their stuff bring the tent
+[00:44:31] whatever right and it's a roof over
+[00:44:33] their head yeah if the building owner
+[00:44:35] lets us we'll do it yeah so if the
+[00:44:38] building own owner lets you you would
+[00:44:40] you would happily do that yes okay all
+[00:44:43] right there we go
+[00:44:45] um what's the most difficult thing
+[00:44:48] you've had to do what's the hardest
+[00:44:49] thing you've had to
+[00:44:50] do in my whole life in the last six
+[00:44:53] months we're talking about we're talking
+[00:44:55] about the last six months as your as
+[00:44:56] Twitter B said tw Twitter owner um well
+[00:45:00] shutting down uh our one of our service
+[00:45:03] centers was was quite difficult because
+[00:45:05] it turns out there were u i I thought
+[00:45:07] the service centers were redundant uh
+[00:45:09] but uh there were in fact a lot of
+[00:45:12] things that were hardcoded to this one
+[00:45:14] service center and so when we shut it
+[00:45:16] down we actually uh it was quite
+[00:45:19] catastrophic we lost a lot of
+[00:45:20] functionality which sort of really
+[00:45:23] rushed to put it back when was that
+[00:45:26] that was around late December J early
+[00:45:28] January so that that was the biggest
+[00:45:31] sort of I'm I'm worried here biggest
+[00:45:33] crisis yeah yeah and what about hard in
+[00:45:36] terms of emotional I mean I mean just
+[00:45:38] letting go I mean what were the current
+[00:45:40] the the levels of staff and what are
+[00:45:42] they
+[00:45:43] now um I think
+[00:45:45] we're um around 1,500 people at this
+[00:45:49] point and there was I think
+[00:45:52] 7800 what what was that say I I think
+[00:45:55] was around just under 8,000 and 1500
+[00:45:58] right now okay and has it been hard
+[00:46:01] letting that many people go
+[00:46:06] yeah it's not fun at all it's
+[00:46:11] painful I mean I guess in in what way do
+[00:46:14] you do you feel like you need to speak
+[00:46:16] to people when they when when they leave
+[00:46:18] or I mean sort of physically possible to
+[00:46:20] speak to that many
+[00:46:23] people has that I mean you talked about
+[00:46:24] that being the most technical bit is
+[00:46:26] that has that been sort of the hardest
+[00:46:28] thing emotionally or is is it it's one
+[00:46:29] of the hardest things certainly yeah
+[00:46:31] yeah
+[00:46:34] um the Nazi Pelosi tweet go the J but
+[00:46:39] there have been that is an example of a
+[00:46:40] few and there have been others um that
+[00:46:43] do do you feel like you're an impulsive
+[00:46:46] person I mean have I shot myself in the
+[00:46:49] foot with tweets multiple times yes do
+[00:46:51] do you feel like I need bulletproof
+[00:46:53] shoes at this point You' I mean you've
+[00:46:55] definitely done on that the issue is
+[00:46:56] that you're now a Twitter owner do you
+[00:46:58] do you feel like you should
+[00:46:59] be look at your tweets more you have
+[00:47:02] more a higher responsibility when you
+[00:47:04] tweet something out for it to be
+[00:47:06] accurate I think I should not tweet uh
+[00:47:09] after 3:00
+[00:47:11] a.m. that's the rule yeah well maybe two
+[00:47:14] that's the new rule yeah something like
+[00:47:17] that okay so there's a blanket ban I
+[00:47:19] shouldn't I shouldn't I shouldn't
+[00:47:22] uh what are your Twitter what are your
+[00:47:24] Twitter rules I mean I've heard some
+[00:47:26] people say never tweet when you've been
+[00:47:28] drinking or never tweet when angry what
+[00:47:30] are your Twitter
+[00:47:31] rules well I think those are two good
+[00:47:34] rules yeah don't tweet if you're wasted
+[00:47:36] um and uh or or you know really upset
+[00:47:39] about
+[00:47:40] something um yeah Pro probably uh I mean
+[00:47:44] a good friend of mine um actually had a
+[00:47:47] good suggestion and it has helped uh
+[00:47:49] which is that uh if you're going to
+[00:47:51] Tweet something that uh maybe is
+[00:47:54] controversial uh save it as a draft and
+[00:47:56] look it it the next day and see if you
+[00:47:57] still want to tweet
+[00:47:59] it and that has been a good rule of
+[00:48:02] thumb okay I've got a bunch of things in
+[00:48:04] my dra folder that I'm glad I didn't
+[00:48:08] send um I can't remember whether I've
+[00:48:10] asked you this this is my sort of sort
+[00:48:12] of wrapping up at this point but yeah do
+[00:48:14] you do you have any
+[00:48:17] regrets uh I mean I one was like
+[00:48:20] hindsight's 2020 so you know bunch of
+[00:48:23] decisions that could have been made
+[00:48:24] better for sure um um but um I said all
+[00:48:28] is well it ends well um and things are
+[00:48:31] going pretty well so uh in the grand SCH
+[00:48:33] of things I I can't
+[00:48:36] complain okay um I'm going to just check
+[00:48:38] my my list of things to make sure I've
+[00:48:40] actually asked something that people on
+[00:48:42] the on the Twitter want to say ask you
+[00:48:45] know we can ask them that's on you
+[00:48:47] that's on you I'm W this 680,000 people
+[00:48:50] listening there you go that's a lot that
+[00:48:53] is a
+[00:48:54] lot uh let's see how do we see okay let
+[00:48:58] me see who I I'll just look at
+[00:49:01] my my tweet and uh see what people are
+[00:49:04] saying or what questions they
+[00:49:06] have
+[00:49:08] [Laughter]
+[00:49:12] um do you like the BBC do you like BBC
+[00:49:16] okay yeah we're not going
+[00:49:17] to I can't interview I work for the BBC
+[00:49:20] you like do you like
+[00:49:21] BBC I know I see what you're doing I'm
+[00:49:23] not going to respond to that okay
+[00:49:26] I think we can finish the interview that
+[00:49:27] if you want if you want to Contin thank
+[00:49:28] you very
+[00:49:30] much I really appreciate sure you like
+[00:49:33] thec come on um I'm not
+[00:49:36] engaging all right Elon it honestly has
+[00:49:39] been a pleasure okay talking to you it
+[00:49:41] really has and if you want if you want
+[00:49:42] to carry on answering questions on on on
+[00:49:44] on this then then go for it but I'm I'm
+[00:49:46] not going to okay well I'm just want to
+[00:49:48] F see if there's like any you know good
+[00:49:50] there's a lot of comments here um I can
+[00:49:54] imagine
+[00:49:58] um there's so
+[00:50:00] many anyway so it's it's nice to be
+[00:50:03] interviewed by the BBC I have a lot of
+[00:50:04] respect to the British Broadcasting
+[00:50:07] Corporation um when did you say when the
+[00:50:10] when the actual label's going to go
+[00:50:11] public
+[00:50:13] oh is it um is it do we still say State
+[00:50:17] Media or whatever or it says government
+[00:50:19] funded media currently um as opposed to
+[00:50:22] publicly funded media uh I guess
+[00:50:24] probably we can make that change
+[00:50:25] tomorrow if You'
+[00:50:27] like I it's up it's up to you I'm a
+[00:50:30] journalist it's up to you but we'll
+[00:50:33] expect that tomorrow I mean do you have
+[00:50:36] any requests on a personal level or you
+[00:50:37] can speak on a personal level no I don't
+[00:50:41] okay okay I think we've established that
+[00:50:44] um go what what what what questions are
+[00:50:46] people asking you go on
+[00:50:49] um I mean there's like a lot of comments
+[00:50:53] uh let's see I was literally reading on
+[00:50:57] looking at replies to the you know the
+[00:50:59] fact that I the SP is
+[00:51:03] um are there any good questions that
+[00:51:05] I've missed out in the last from the
+[00:51:07] last six months I'm sure there are many
+[00:51:11] um I mean people generally seem to like
+[00:51:13] this interview for I can tell um very
+[00:51:16] few negative comments are generally
+[00:51:18] positive is that is that that's probably
+[00:51:21] bad for
+[00:51:24] me
+[00:51:27] I'm scrolling as fast as I can to sort
+[00:51:28] of see uh I guess the the some
+[00:51:32] complaints about Twitter spaces being
+[00:51:36] needing some improvement let's fix
+[00:51:38] Twitter spaces is one of the
+[00:51:39] comments
+[00:51:42] um people like the fact that my dog Floy
+[00:51:45] is a
+[00:51:45] CEO
+[00:51:48] um and uh I'm really just scrolling as
+[00:51:51] fast as I can here
+[00:51:54] um I I I think my I guess my reflection
+[00:51:57] on this on this in I just like to say I
+[00:52:01] like
+[00:52:03] [Music]
+[00:52:05] BBC I do find it funny um I I I I think
+[00:52:09] I mean honestly if looking listening to
+[00:52:12] the interview the answer about
+[00:52:13] misinformation and saying oh we don't
+[00:52:15] police misinformation in the same way
+[00:52:17] but because we try and get bots because
+[00:52:19] we try and take down Bots we be
+[00:52:21] effective at Bots we got we're actually
+[00:52:23] there's actually less misinformation on
+[00:52:24] the platform
+[00:52:25] no I think that's a big factor I ask you
+[00:52:28] one more question on that because I
+[00:52:29] don't that is quite a lot of people I
+[00:52:31] think will be listening to this and
+[00:52:33] really you're you're arguing you can
+[00:52:36] police content moderation far less and
+[00:52:38] end up with less misinformation how how
+[00:52:41] first of all we do have we do have uh
+[00:52:44] you know people working on contract
+[00:52:46] contract moderation it's not like we
+[00:52:47] don't um so uh I've spoken to lots of
+[00:52:51] people who've been who've been fired so
+[00:52:52] lot lots of people have been let go I
+[00:52:54] mean you've gone from the censorship the
+[00:52:56] censorship Bureau was let go um I don't
+[00:52:59] think people the the sort of putting a
+[00:53:00] thumb on the political scales in the far
+[00:53:02] left has been let go because that's not
+[00:53:03] right that's not what you want for a
+[00:53:05] public a Public Square um you know you
+[00:53:08] got to have equal treatment for people
+[00:53:10] from um across the political Spectrum so
+[00:53:14] um you know some of them are going to be
+[00:53:16] upset about that
+[00:53:18] um but I like I said I my my experience
+[00:53:22] is that there's less less less
+[00:53:24] misinformation these days not more um
+[00:53:27] and that the community notes feature is
+[00:53:29] extremely powerful for uh addressing uh
+[00:53:32] So-Cal misinformation um I mean you've
+[00:53:36] been you've had Community notes placed
+[00:53:37] on your own tweets yes um one of them
+[00:53:39] involving a an alleged diamond mine
+[00:53:44] diamond mine a mine that what diamond
+[00:53:47] mine a mine that that your father part
+[00:53:49] owned yeah my father never owned a a
+[00:53:52] d you're thinking of an emerald Emerald
+[00:53:55] Emerald mine yeah I'd like to see a
+[00:53:56] picture of this alleged Emerald mine
+[00:53:58] because you've been you've been
+[00:53:58] Community noted on that tweet yeah did
+[00:54:01] you know that no but it's he never owned
+[00:54:03] a a a emerald mine this is total
+[00:54:05]  not even a 50% stake no because
+[00:54:07] in community knows first of all okay do
+[00:54:10] you think Emerald do you think do
+[00:54:11] something like an emerald M would would
+[00:54:12] have like um you know uh some sort of
+[00:54:16] property register there'd be like a
+[00:54:18] picture of it it's not like you can say
+[00:54:20] oh that's my mind you know there these
+[00:54:22] things are hardly debated if you've got
+[00:54:24] something valuable
+[00:54:25] um you you have to have some property
+[00:54:29] record like a house but but much more
+[00:54:31] important than a house and yet there is
+[00:54:32] no property record whatsoever there is
+[00:54:35] no picture of this mine whatsoever it
+[00:54:37] doesn't exist it's fake so that's so
+[00:54:39] it's a really good example then because
+[00:54:42] there is a community note on that tweet
+[00:54:44] that says you said this thing on the
+[00:54:47] xate blah blah blah blah so in that
+[00:54:49] instance the community notes didn't work
+[00:54:52] so you're saying that that's a way of
+[00:54:53] solving misinformation but you're
+[00:54:54] literally saying one of those Community
+[00:54:56] notes it's
+[00:54:58] wrong the community community note may
+[00:55:00] be referring to a thing where uh I I
+[00:55:03] went on a trip with my father to Zambia
+[00:55:06] um but I never saw any mine or anything
+[00:55:09] so there's no s there's no mine I'm not
+[00:55:12] right but at this point I'm just saying
+[00:55:13] the community note says it so you're
+[00:55:15] saying it's this B great Panacea but
+[00:55:17] yeah it's literally on your own tweet
+[00:55:18] the community notes according to your
+[00:55:22] wrong uh if if they're referencing uh an
+[00:55:25] article then the article may not be
+[00:55:28] wrong but they're still represent anyway
+[00:55:32] the community notes is not going to be
+[00:55:34] perfect but I the it's the batting
+[00:55:36] average of community notes I found to be
+[00:55:38] extremely
+[00:55:39] high right um so so Community notes Plus
+[00:55:44] getting rid
+[00:55:45] of millions and millions of bots every
+[00:55:48] day I guess that's that's what we're
+[00:55:50] talking about yeah that that that's what
+[00:55:52] you think is tackling misinformation
+[00:55:55] over over content moderation I think I
+[00:55:57] think because I think that's the bit
+[00:55:58] that a lot of people will go re really
+[00:56:01] really yes really look the asset test is
+[00:56:04] people will use the system and find it
+[00:56:05] find it to be a good source of Truth or
+[00:56:07] they don't and no no system is going to
+[00:56:10] be perfect uh in in its uh pursuit of
+[00:56:12] the truth um but I
+[00:56:15] think I think we can be the best the
+[00:56:17] least uh
+[00:56:19] inaccurate that's our goal the least
+[00:56:22] inaccurate and I think we I I think we
+[00:56:25] might be there already if we're not
+[00:56:26] there we'll be there soon do you have
+[00:56:29] I've I've spoken to people he do this do
+[00:56:31] do you have a a kind of message for
+[00:56:33] people who who think that Twitter has
+[00:56:35] been
+[00:56:37] ruined well we have alltime high usage
+[00:56:39] so I don't think it has
+[00:56:41] been some people think it has been I
+[00:56:44] I'll tell you that yes well they're
+[00:56:46] probably the same people who predicted
+[00:56:47] that Twitter would would cease to exist
+[00:56:48] and their predictions have turned out to
+[00:56:50] be
+[00:56:52] false okay I I'm not going to ask you
+[00:56:55] why you think has been RAR CU obviously
+[00:56:57] you're not no I think it's great it's
+[00:56:58] way
+[00:57:00] better um better by a lot I

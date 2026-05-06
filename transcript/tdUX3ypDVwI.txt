@@ -1,0 +1,766 @@
+[00:00:00] it's a pleasure for me as president of
+[00:00:03] the International Astronautical
+[00:00:04] Federation to welcome all you today to
+[00:00:08] the concluding session of the global
+[00:00:10] networking forum for this is C 2017
+[00:00:13] which has been a huge success in
+[00:00:16] particular I want to thank premier was a
+[00:00:19] real minister and that means and Lord
+[00:00:22] may our faith for the support and
+[00:00:24] presence
+[00:00:25] now let me present adduce our
+[00:00:28] distinguished speaker for today
+[00:00:31] Elon Musk is founder CEO and the
+[00:00:35] designer of SpaceX alone founded SpaceX
+[00:00:39] in 2002 with the goal of revolutionising
+[00:00:43] space technology and ultimately enabling
+[00:00:46] humans to become a multiplanetary
+[00:00:48] species today he will provide an update
+[00:00:52] on those plans first chair at ISC 2016
+[00:00:57] in weather our last year
+[00:01:00] SpaceX as the number of firsts including
+[00:01:03] the first private company to deliver
+[00:01:05] cargo to and from the International
+[00:01:07] Space Station the first entity to land
+[00:01:10] an orbital class booster back on land
+[00:01:13] and on on ships out of sea and the first
+[00:01:16] to be fly an orbital class booster in
+[00:01:19] addition to SpaceX is also the CEO of
+[00:01:22] Tesla Motors and Sharmon of Solar City
+[00:01:24] please join me in welcoming anonymous
+[00:01:34] yeah I just good
+[00:01:45] all right - I'll walk come here on and
+[00:01:48] I'm gonna talk more about what it takes
+[00:01:50] to become multi-planet species and I
+[00:01:54] just a just a brief refresher on why
+[00:01:58] this is important I think fundamentally
+[00:01:59] the future is vastly more exciting and
+[00:02:02] interesting if we're a spacefaring
+[00:02:04] civilization and a multi-planet species
+[00:02:05] than if we're or not it you want to be
+[00:02:08] inspired by things you want to wake up
+[00:02:10] in the morning and think the future is
+[00:02:11] gonna be great
+[00:02:12] and that's what what bring a spacefaring
+[00:02:15] civilization is all about it's about
+[00:02:17] believing in the future and thinking
+[00:02:19] that the future we've gathered in the
+[00:02:20] past and I can't think of anything more
+[00:02:23] exciting than going out there and being
+[00:02:25] among the stars that's why so becoming
+[00:02:29] up we go into more detail and becoming
+[00:02:31] multi-client species this is the updated
+[00:02:34] design for the the what we're sort of
+[00:02:39] searching for the right name but the
+[00:02:41] code name at least is bfr and the the
+[00:02:49] the probably the most important thing
+[00:02:51] that I want to convey in in this
+[00:02:56] presentation is that I think we have
+[00:02:59] figured out how to pay for it
+[00:03:01] this is very important so you know in
+[00:03:08] last year's presentation you know we're
+[00:03:11] really searching for what the right way
+[00:03:14] you know how do we pay for this thing we
+[00:03:16] went through various ideas what
+[00:03:19] kickstarter you know collecting
+[00:03:21] underpants these didn't pan out but but
+[00:03:28] now we think we think we've got a way to
+[00:03:30] do it which is to have to have a smaller
+[00:03:36] vehicle so pretty big but one that can
+[00:03:40] serve that were the one that can do
+[00:03:45] everything that's needed in in the
+[00:03:47] greater Earth orbit activity so
+[00:03:49] essentially we want to make
+[00:03:53] our current vehicles redundant we want
+[00:03:57] to have one system one ship ones one
+[00:04:00] booster and ship that replaces Falcon
+[00:04:02] nine Falcon Heavy and Dragon so if we
+[00:04:06] can do that then all the resources that
+[00:04:10] are used for Falcon 9 heavy and Dragon
+[00:04:14] can be applied to this system so that
+[00:04:19] that's really fundamental so let's see
+[00:04:23] what progress have we made in in this in
+[00:04:27] this direction so last lesson you saw
+[00:04:29] the giant tank that's actually a 12
+[00:04:30] meter tank and you can see the relative
+[00:04:35] scale of it it's a thousand cubic meters
+[00:04:37] of volume inside that's actually more
+[00:04:41] pressurized volume than an a380 just to
+[00:04:44] put that into perspective we developed a
+[00:04:48] new carbon fiber matrix that's much
+[00:04:51] stronger and more capable at higher than
+[00:04:53] anything before and it holds 1200 tons
+[00:04:56] of liquid oxygen so we we tested it so
+[00:05:00] we successfully tested it up to its
+[00:05:04] design pressure
+[00:05:08] and then we're a little further so we
+[00:05:12] want to see where it would break and we
+[00:05:15] found out where we're break it shot
+[00:05:19] about 300 feet into the air and landed
+[00:05:20] in the ocean we're fishing it out and
+[00:05:24] but now get a pretty good sense of what
+[00:05:26] it takes to create a huge carbon-fiber
+[00:05:30] tank that can hold cryogenic liquid
+[00:05:34] that's actually extremely important for
+[00:05:36] making a light spaceship then the next
+[00:05:40] key element is on the engine side we
+[00:05:43] have to have an extremely efficient
+[00:05:45] engine so the the raptor engine will be
+[00:05:51] the highest thrust-to-weight engine we
+[00:05:52] believe of having any engine of any kind
+[00:05:54] ever made we already have now 1200
+[00:05:58] seconds of firing across 42 main engine
+[00:06:00] tests we fired it for 100 seconds it
+[00:06:03] could it could fire for much longer than
+[00:06:04] hundred seconds that's just the size of
+[00:06:07] the of the test tanks and then the
+[00:06:10] duration of the firing you've seen right
+[00:06:12] now is it's 40 SEC 40 seconds which is
+[00:06:16] the length of the firing for landing on
+[00:06:19] Mars the test engine it currently
+[00:06:23] operates at 200 atmospheres to a 200 bar
+[00:06:27] the flight engine will be at 250 bar and
+[00:06:31] then we believe over time we could
+[00:06:33] probably get back to a little over 300
+[00:06:35] bar the next key element is propulsive
+[00:06:40] landing so in order to land on right on
+[00:06:46] face like the moon where there is no
+[00:06:47] atmosphere and certainly no runways or
+[00:06:51] to land on Mars with Avenue atmosphere
+[00:06:53] is too thin to land even if there were
+[00:06:55] on ways to land with with the wing you
+[00:06:58] really have to get put pulp propulsive
+[00:07:00] landing perfect so that's what we've
+[00:07:04] been practicing with Falcon 9 so this is
+[00:07:07] just a series of landing but I think
+[00:07:10] he's quite mesmerizing but we now have
+[00:07:13] 16 successful landings in a row and
+[00:07:16] that's with
+[00:07:27] so it's six in a row and that's with it
+[00:07:32] with with really without any redundancy
+[00:07:34] so Falcon nine lands on a single-engine
+[00:07:37] and that the final landing is always
+[00:07:40] done with with a single engine whereas
+[00:07:42] the wish PFR will always have multi
+[00:07:45] engine out capability so if you can get
+[00:07:49] to a very high reliability with even a
+[00:07:51] single engine and then you can you can
+[00:07:54] land and and then you can land with
+[00:07:56] either of two engines I think we can get
+[00:08:00] to a landing reliability that is on par
+[00:08:05] with the safest commercial airliners so
+[00:08:09] you can essentially count on the landing
+[00:08:11] it's not like the you want minimum
+[00:08:14] pucker factor on landing so and it can
+[00:08:19] land with also very high precision in
+[00:08:21] fact you believe the precision at this
+[00:08:23] point is good enough for propulsive
+[00:08:26] landing that we do not need legs for the
+[00:08:29] next version it will literally land with
+[00:08:32] so much precision it will land back on
+[00:08:34] its launch mounts so the C's launch the
+[00:08:40] launch rate is also being it has been is
+[00:08:43] increasing exponentially the
+[00:08:46] particularly when you take attacking or
+[00:08:49] refilling on-orbit into account and
+[00:08:52] taking the idea of establishing a
+[00:08:55] self-sustaining base on Mars or the moon
+[00:08:58] or elsewhere seriously you need
+[00:09:00] thousands ultimately thousands of ships
+[00:09:02] and tens of thousands of recovery of
+[00:09:08] rethinking or refilling operations which
+[00:09:10] means you need many launches per day the
+[00:09:14] key the you really need to be looking in
+[00:09:18] terms of how many landings are occurring
+[00:09:19] you need to looking at you watching out
+[00:09:20] your calendar so while this is a quite a
+[00:09:24] high launch rate that we're talking
+[00:09:25] about here you know by conventional
+[00:09:28] standards it's still a very small launch
+[00:09:31] rate compared to what it will ultimately
+[00:09:33] be needed but just for those who are
+[00:09:37] favored
+[00:09:37] how many Ober launches occur every year
+[00:09:40] it's approximately approximately 60 over
+[00:09:43] launches occur per year which means if
+[00:09:46] SpaceX does do something like 30
+[00:09:49] launches next year it'll be
+[00:09:51] approximately half of all over launches
+[00:09:53] that occur on earth and the next thing
+[00:09:58] is a key technology is automated
+[00:10:02] rendezvous and docking so in order to
+[00:10:07] retain or refill the spaceship in orbit
+[00:10:11] you have to be able to rendezvous and
+[00:10:15] dock with the spaceship with very high
+[00:10:18] precision and and transfer propellant so
+[00:10:23] that's one of things that we've
+[00:10:24] perfected with with dragon dragon 1
+[00:10:26] we'll do an automated rendezvous and
+[00:10:28] docking without any pilot control to the
+[00:10:31] space station
+[00:10:32] dragon 1 currently uses the canadarm2
+[00:10:35] before the final placement onto the
+[00:10:38] space station
+[00:10:39] dragon 2 which launches next year will
+[00:10:42] not need to use the the caterpillar hump
+[00:10:44] so dragon 2 will directly dock with the
+[00:10:47] space station and can do so with zero
+[00:10:50] human intervention
+[00:10:52] you just press press go and it will dock
+[00:10:55] a dragon is also allowed us to perfect
+[00:11:00] heat shield technology so when you enter
+[00:11:03] at a high velocity
+[00:11:06] you bet you'll melt almost anything the
+[00:11:09] reason the reason meteors don't reach
+[00:11:11] earth is they they mail to disintegrate
+[00:11:13] before they reach the ground unless
+[00:11:15] they're very big so you have to have a
+[00:11:17] sophisticated heat shield technology
+[00:11:18] that can withstand unbelievably high
+[00:11:21] temperatures and that's what we've been
+[00:11:23] perfecting with with dragon and also a
+[00:11:27] key part of of any planet colorized
+[00:11:31] colonizing system
+[00:11:37] so Falcon 1 this is where we started out
+[00:11:40] you know a lot of people but we really
+[00:11:43] only heard a SpaceX relatively recently
+[00:11:47] so let me think
+[00:11:49] say Falcon 9 and Dragon just instantly
+[00:11:54] appeared and that's how it always was
+[00:11:56] but if it wasn't we start off with just
+[00:11:59] a few people who really didn't know how
+[00:12:01] to make rockets and the the reason that
+[00:12:06] I ended up being the chief engineer or
+[00:12:09] chief designer there's not because I
+[00:12:10] want it to you it's because I couldn't
+[00:12:11] hire anyone yet nobody good were join so
+[00:12:19] I ended up being that by default and I
+[00:12:25] messed up the first three launches first
+[00:12:27] three launches failed
+[00:12:30] unfortunately the fourth launch which
+[00:12:31] was the that was the last money that we
+[00:12:34] had for Falcon 1 the fourth launch
+[00:12:36] worked or it would have been that would
+[00:12:38] have been it for for SpaceX but fate
+[00:12:43] liked us that day so the fourth launch
+[00:12:46] worked and it interesting - today is the
+[00:12:50] is the ninth anniversary of that launch
+[00:13:04] I didn't realize that until saying until
+[00:13:10] I was told that just just earlier today
+[00:13:11] but this is a very emotional day
+[00:13:16] actually so but the point is is there's
+[00:13:20] quite a small rocket when we're doing
+[00:13:22] Falcon we're really trying to figure out
+[00:13:23] what is the smallest useful payload that
+[00:13:26] we'd get to orbit it okay something
+[00:13:28] around half a ton to orbit would be able
+[00:13:31] to launch at you know that's an order to
+[00:13:34] a decent size a small satellite to
+[00:13:36] low-earth orbit and that's why we sized
+[00:13:37] Falcon one but it's it's really quite
+[00:13:41] small compared to falcon 9 so Falcon 9
+[00:13:44] particularly when you factor in payload
+[00:13:49] if Falcon 9 is as many times more it's
+[00:13:53] not sort of on the order of 30 times
+[00:13:54] more payload than Falcon 1 and Falcon 9
+[00:13:59] has reuse of the primary booster which
+[00:14:03] is the most expensive part of the rocket
+[00:14:05] and hopefully soon reefs of the of the
+[00:14:08] fairing the big nose cone at the front
+[00:14:09] so we think can probably get to
+[00:14:12] something like somewhere between 17 80%
+[00:14:19] reusability with the Falcon 9 system and
+[00:14:23] then and hopefully towards the end this
+[00:14:25] year we'll be launching heavy
+[00:14:28] which is its Falcon have you ended up
+[00:14:31] being a much more complex program than
+[00:14:33] we thought
+[00:14:33] it sounds easy electro falcon heavy
+[00:14:38] actually it's it sounds like it should
+[00:14:40] be should be easy because it's two first
+[00:14:44] stages of Falcon 9's strapped on as
+[00:14:47] boosters it's actually not you have to
+[00:14:51] read we have to redesign almost
+[00:14:55] everything except the upper stage in
+[00:14:58] order to take be increased loads so
+[00:15:01] Falcon Heavy ended up being much more a
+[00:15:03] new vehicle then we realized so took us
+[00:15:06] a lot longer to to get it done but the
+[00:15:11] the boosters have all now been tested
+[00:15:14] and they're on their way to to the Cape
+[00:15:16] Canaveral and we are now beginning
+[00:15:24] serious development of VFR so you can
+[00:15:29] see the the payload difference is quite
+[00:15:31] dramatic
+[00:15:34] VFR in you fully reusable configuration
+[00:15:39] without any oval refueling we expect to
+[00:15:42] have a payload capability of 150 tons to
+[00:15:45] low Earth orbit and that you know it
+[00:15:48] compares to about thirty four four four
+[00:15:52] four Falcon Heavy yeah we're rich is
+[00:15:56] partial partial are useful where this
+[00:15:59] really makes a tremendous difference
+[00:16:00] isn't a cost which all comes to in some
+[00:16:02] of the later slides so this go to the
+[00:16:08] next line and just by the way if ya so
+[00:16:18] with VFR you can get a sense of scale by
+[00:16:24] looking at the tiny person there
+[00:16:27] it's really quite quite a big vehicle
+[00:16:29] main body diameter is about is about
+[00:16:32] nine meters or 30 feet and it consists
+[00:16:35] of the booster is lifted by thirty one
+[00:16:37] Raptor engines that produce I throw
+[00:16:40] that's about 5,400 tons lifting forty at
+[00:16:45] forty four hundred ton vehicle straight
+[00:16:47] up
+[00:16:59] so then it's just a basics about the
+[00:17:02] ship 48 meter Blanc dry master expecting
+[00:17:06] to be about 85 tons I technically I
+[00:17:08] design says 75 tons but inevitably this
+[00:17:11] mass growth and that ship will contain
+[00:17:17] 1,100 tons propellant with a design a
+[00:17:21] design of 150 tons and return mass of 50
+[00:17:27] so you can think of this as essentially
+[00:17:29] combining the upper stage of the rocket
+[00:17:32] with dragon it's like your Falcon nine
+[00:17:33] up a stage and dragon were combined
+[00:17:36] so as we I'll go into each of these
+[00:17:39] items in detail but you've got the
+[00:17:43] engine section on the rear the
+[00:17:45] propellant tanks in the middle and then
+[00:17:49] a large payload Bay in the front and
+[00:17:51] that that payload Bay is actually eight
+[00:17:54] stories tall in fact you can foot you
+[00:17:57] can fit a whole stack of felt for and
+[00:17:59] rockets in the payload Bay and compared
+[00:18:05] to the design I showed last time you'll
+[00:18:07] see that there is a small delta wing at
+[00:18:10] the back of the rocket the reason for
+[00:18:13] that is in order to expand the mission
+[00:18:16] envelope of the of the VFR space ship it
+[00:18:24] depending on whether you're landing or
+[00:18:25] you're coming you're entering a planet
+[00:18:28] or a moon that has no atmosphere a thin
+[00:18:32] atmosphere or a dense atmosphere and
+[00:18:34] depending on whether you have your your
+[00:18:37] reentering with no no payload in the
+[00:18:40] front a small payload or a heavy payload
+[00:18:43] you have to balance the rocket out as
+[00:18:45] it's coming in and so the delta wing at
+[00:18:48] the back which will also which also
+[00:18:49] includes a split flap a split flap for
+[00:18:53] pitch and roll control allows us to
+[00:18:57] control the the pitch angle a despite
+[00:19:02] having a wide range of payloads in the
+[00:19:05] nose and a wide range of atmospheric
+[00:19:07] densities so we try to avoid having the
+[00:19:11] but it was necessary in order to
+[00:19:16] generalize the capability of the
+[00:19:18] spaceship such that it could land
+[00:19:20] anywhere in the solar system just look
+[00:19:27] at a couple of things in detail so the
+[00:19:34] the the cargo area has a pressurized
+[00:19:37] volume of 825 cubic meters this also is
+[00:19:43] greater than the pressurized area of an
+[00:19:46] a380 so really is capable of carrying a
+[00:19:51] tremendous amount of payload in a mass
+[00:19:55] transit configuration since you'd be
+[00:19:57] taking three months in a really good
+[00:20:01] scenario but maybe as much as six months
+[00:20:05] you some number of months a single
+[00:20:08] single injured ones you probably want a
+[00:20:10] cabin not just a seat
+[00:20:11] so the Mars transit configuration
+[00:20:14] consists of 40 cabins and it sort of
+[00:20:18] depends alone you could conceivably have
+[00:20:21] five or six people per cabin if you
+[00:20:23] really want to crab people in but I
+[00:20:26] think mostly we would expect to see two
+[00:20:30] to three people per cabin and so
+[00:20:32] normally about a hundred people per
+[00:20:35] flight to Mars and then there's a
+[00:20:37] central storage area galley and galley
+[00:20:39] and a solar storm shelter entertainment
+[00:20:42] area and I think probably you know a
+[00:20:46] good situation for at least beer for
+[00:20:48] version one then going to the main body
+[00:20:52] of the vehicle the center body area
+[00:21:01] this is where the propellant is located
+[00:21:03] and this is sub-cooled methane and
+[00:21:11] oxygen so as you as you to kill the
+[00:21:15] methane and oxygen below its liquid
+[00:21:17] point you get a fairly meaningful
+[00:21:21] density increase you get on the order of
+[00:21:23] ten to twelve percent density increase
+[00:21:25] which makes quite a big difference for
+[00:21:28] the propellant load so we expected up to
+[00:21:31] do to carry two or 40 tonnes of ch4 and
+[00:21:34] in our 60 tonnes of oxygen the you know
+[00:21:40] in the fuel tank our header tanks so
+[00:21:45] when you come in for a landing your
+[00:21:47] orientation may change quite
+[00:21:49] significantly but you can't have the
+[00:21:52] propellant just sloshing around all over
+[00:21:53] and main tanks you have to have the
+[00:21:55] header tanks that can feed the main
+[00:21:57] engines with precision so that's what
+[00:22:00] you see the most in the fuel tank then
+[00:22:05] the engine section
+[00:22:14] so the the the ship engine section
+[00:22:17] consists of four Raptor forced ford
+[00:22:22] vacuum wrecked referendums and to sea
+[00:22:25] level engines so the all six engines are
+[00:22:29] capable of gambling the the engines with
+[00:22:32] the high expansion ratio have a
+[00:22:34] relatively smaller gimbal area or gimbal
+[00:22:36] range and slower and a slower gimbal
+[00:22:38] rate thus the two center engines have a
+[00:22:42] very high gimbal range and can able very
+[00:22:45] quickly and you can land the ship with
+[00:22:50] either one of the two Center engines so
+[00:22:53] when you come in for a landing you will
+[00:22:54] like both engines but if if one of the
+[00:22:57] center engines fails at any point it
+[00:23:00] will be able to land successfully with
+[00:23:01] repeat with the other engine and then
+[00:23:04] within each engine this great tool of
+[00:23:06] redundancy so we want the landing risk
+[00:23:12] to be as close to zero as possible and
+[00:23:16] there's some basic stats about the
+[00:23:18] engines the sea level engines are about
+[00:23:24] a 330 ice psco at sea level the the
+[00:23:27] alpha stage engine is 375 now this is
+[00:23:31] version 1 so I think over time there's
+[00:23:36] potential to increase that specific
+[00:23:37] impulse by 5 to 10 seconds and as
+[00:23:40] measuring also increase the chamber
+[00:23:43] pressure by 50 bar or so and then for
+[00:23:47] refilling we just saw the two ships
+[00:23:50] would actually make at the rear section
+[00:23:52] they would use the same mating interface
+[00:23:55] that they used to connect to the booster
+[00:23:58] on liftoff so we reuse that mating
+[00:24:01] interface and then and reuse the
+[00:24:04] propellant flow lines that are used when
+[00:24:06] the booster is when the ship is on the
+[00:24:09] booster and then to transfer propellant
+[00:24:12] it becomes very simple use control
+[00:24:14] thrusters to accelerate in the direction
+[00:24:17] that you want to empty so so you shoot
+[00:24:21] sorry in this direction propel goes that
+[00:24:24] way and you transfer the propellant very
+[00:24:26] easily into
+[00:24:27] these from that from the tanker to the
+[00:24:29] ship so going to rocket capability this
+[00:24:36] gives you sort of a rough sense of
+[00:24:38] rocket capability starting off at the
+[00:24:41] low end with the Falcon one at a
+[00:24:42] half-ton and then going up to be afar at
+[00:24:45] a hundred fifty so I think it's
+[00:24:48] important note that VFR has more
+[00:24:52] carefully than 75 even with full
+[00:24:56] reusability but but here's the here's
+[00:25:00] the really really important fundamental
+[00:25:03] point let's look at the launch cost
+[00:25:11] the order the order of versus
+[00:25:21] I know at first glance this may seem
+[00:25:26] ridiculous but but it's not the the same
+[00:25:30] is true of aircraft if you want to if
+[00:25:33] you if you bought say a a small
+[00:25:36] single-engine turboprop aircraft that
+[00:25:40] would be one and a half to two million
+[00:25:41] dollars to charter a 747 from California
+[00:25:48] to Australia is half a million dollars
+[00:25:51] there and back the single-engine
+[00:25:54] turboprop can't even get to Australia so
+[00:25:58] a fully reusable system like this so
+[00:26:01] it's fully reusable giant aircraft like
+[00:26:03] 747
+[00:26:05] costs a third as much as an expendable
+[00:26:09] tiny aircraft and in one case you have
+[00:26:13] to build an attack aircraft in that case
+[00:26:14] just have to refuel something so it's
+[00:26:19] it's really crazy that we will be
+[00:26:21] sophisticated rockets and then crash
+[00:26:23] them every time we fly this is mad at so
+[00:26:31] yeah is that that this is this is
+[00:26:33] applicant if says how profound this is
+[00:26:38] and how important really is you know and
+[00:26:42] often I'll be told but you could get
+[00:26:43] more payload if you made it expendable I
+[00:26:46] said yes you could also get more payload
+[00:26:48] from an aircraft if you better the
+[00:26:49] landing gear and the flaps and just
+[00:26:52] parachute it out when you got to your
+[00:26:53] destination but that would be crazy and
+[00:26:56] you would sell zero aircraft Surrey's
+[00:27:01] ability is absolutely fundamental no no
+[00:27:04] no one talk about the value of orbital
+[00:27:07] refilling this is also extremely
+[00:27:09] important so if you just fly VFR to
+[00:27:15] orbit and don't do any refilling it's
+[00:27:19] it's pretty good you'll get a hundred
+[00:27:21] and fifty tons slow orbit and have no
+[00:27:24] and have no fuel to go anywhere else
+[00:27:27] however if you send up tankers and
+[00:27:31] refill in orbit you can refill the tanks
+[00:27:34] all the way to the top
+[00:27:35] and get 150 tons all the way to Mars and
+[00:27:42] if the tanker has highway use capability
+[00:27:47] then you're just paying for the cost of
+[00:27:50] propellant and the cost of oxygen is
+[00:27:53] extremely low and the cost of methane is
+[00:27:56] extremely low so if that's all you're
+[00:28:00] dealing with the cost of retail of
+[00:28:03] refilling your spaceship on-orbit
+[00:28:05] it is tiny and you can get 150 tons all
+[00:28:11] the way to Mars so automated rendezvous
+[00:28:14] and docking and refilling absolutely
+[00:28:18] fundamental
+[00:28:20] so then getting back to the question of
+[00:28:23] how do we pay for for this system this
+[00:28:28] was really I said quite a profound I
+[00:28:34] don't call it breakthrough but
+[00:28:35] realization that if we can build a
+[00:28:38] system that cannibalizes our own
+[00:28:43] products makes our own products
+[00:28:46] redundant then all of the resources
+[00:28:50] which quite enormous that a useful
+[00:28:52] Falcon 9 heavy and dragon can be applied
+[00:28:55] to one system you know some of our
+[00:29:01] customers are conservative and they want
+[00:29:03] to see the they want to see PFR fly
+[00:29:06] several times before they're comfortable
+[00:29:08] launching units so what we plan to do is
+[00:29:10] to build ahead and have a stock of
+[00:29:13] Falcon 9 and dragon vehicles so that so
+[00:29:16] that customers can be comfortable if
+[00:29:18] they want to use the old the old rocket
+[00:29:19] the old spacecraft they can do that
+[00:29:22] because we'll have a bunch in stock but
+[00:29:24] all of our resources will then turn
+[00:29:26] towards building VFR and and we believe
+[00:29:30] that we can do this with the revenue
+[00:29:32] that we with the with the rep with the
+[00:29:34] revenue we receive for launching
+[00:29:36] satellites and for servicing the space
+[00:29:39] station so going to the satellites
+[00:29:43] portion the
+[00:29:46] the size of of this being a 9 meter
+[00:29:48] diameter vehicle it is a huge enabler
+[00:29:51] for new satellites we can actually send
+[00:29:56] something that is almost nine meters in
+[00:30:00] diameter to orbit so for example before
+[00:30:05] if you want to a new Hubble you could
+[00:30:09] send a mirror that has ten times the
+[00:30:12] surface area of the current Hubble as a
+[00:30:16] single unit doesn't have to unfold or
+[00:30:18] anything and or you can send a large
+[00:30:24] number of small satellites you do what
+[00:30:26] it's like you can actually also go
+[00:30:28] around and if you wanted to collect old
+[00:30:30] satellites or clean up space debris you
+[00:30:32] just use a sort of chopper over there
+[00:30:35] and go around and collect collect
+[00:30:39] satellites or collect space degree if
+[00:30:40] you want so that may be something we
+[00:30:44] have to do in the future but that that
+[00:30:47] fairing would open up and retract and
+[00:30:50] then come back down so it's it enables
+[00:30:54] launching of earth satellites that are
+[00:30:57] significantly larger than anything we've
+[00:30:59] done before or significant more
+[00:31:00] satellites at a time than anything
+[00:31:02] that's been done before it's also
+[00:31:04] intended to be able to service the the
+[00:31:06] space station
+[00:31:16] I know it looks a little big rose to the
+[00:31:19] space station but the shuttle also
+[00:31:23] looked big so it'll work looks a little
+[00:31:28] out size but it'll work
+[00:31:30] so it's it'll be capable of doing what
+[00:31:35] dragon does today in terms of
+[00:31:37] transporting cargo and what dragon to
+[00:31:39] will do it in terms of transporting crew
+[00:31:43] and cargo so good a space station
+[00:31:45] servicing it can also go up see much
+[00:31:49] further than that
+[00:31:50] like for example based on calculations
+[00:31:55] we've done we can actually do lunar
+[00:31:58] surface missions with no propellant
+[00:32:01] production on the surface of the Moon so
+[00:32:03] if we do a high elliptic parking orbit
+[00:32:07] for for the ship and retain in high
+[00:32:11] elliptic orbit we can go all the way to
+[00:32:14] the moon and back with no local
+[00:32:17] propellant reduction on the moon so I
+[00:32:20] think that that that enabled that would
+[00:32:22] enable the creation of moon base alpha
+[00:32:25] or some sort of lunar base
+[00:32:28] [Applause]
+[00:32:39] you know quite captivating so the Eagles
+[00:32:47] to see for example how do you transfer
+[00:32:49] cargo from the cargo bay down to the
+[00:32:51] ground is crane so very complicated and
+[00:32:57] [Music]
+[00:32:58] yeah but but since this will enable the
+[00:33:01] creation of a lunar base and its 2017 I
+[00:33:04] mean we should have a lunar base by now
+[00:33:05] what the hell's going on and there of
+[00:33:17] course Mars becoming a multi-planet
+[00:33:21] species it's a hell about of being a
+[00:33:24] single plant species so yeah so we'd
+[00:33:29] start off by setting Commission to to
+[00:33:33] Mars where it would be obviously just
+[00:33:34] landing on rocky ground or dusty ground
+[00:33:38] and it's the same approach that I
+[00:33:41] mentioned before which is you send the
+[00:33:43] spaceship up to orbit yuri tank it or
+[00:33:46] refill it until it has full tanks and it
+[00:33:51] travels to mars lands on Mars for mars
+[00:33:54] you will need local propellant
+[00:33:56] production but Mars has a co2 atmosphere
+[00:34:00] and plenty of water ice that gives you
+[00:34:02] co2 and h2o so you've got you can make
+[00:34:06] therefore ch4 no.2 using the Sabatier
+[00:34:11] process and also the you know voice
+[00:34:14] patia process and I should mention that
+[00:34:18] long term this can also be done on earth
+[00:34:21] so as soon as I get some sort of
+[00:34:24] criticism for why why are using
+[00:34:27] combustion and rockets and you have
+[00:34:28] electric cars like well it isn't some
+[00:34:31] way to make an electric rocket I wish
+[00:34:32] there was but in the long term you can
+[00:34:37] use solar power to extract co2 from the
+[00:34:39] atmosphere combine it with water and
+[00:34:41] produce fuel and oxygen for the rocket
+[00:34:45] so the same thing that we're doing Mars
+[00:34:47] we could do on earth
+[00:34:49] in the long-term but that that's
+[00:34:53] essentially what happens similar to the
+[00:34:54] two to the moon you land land on Mars
+[00:34:56] that the tricky thing with Mars is we do
+[00:34:59] need to build a propellant Depot to
+[00:35:02] refill the tanks and return to Earth but
+[00:35:06] because Mars has lower gravity than
+[00:35:08] Earth you can you do not need a booster
+[00:35:11] so you can go all the way from the
+[00:35:12] surface of Mars to the surface of Earth
+[00:35:14] just using the ship I'll be eight you
+[00:35:18] need to go for two Macs payload number
+[00:35:20] of about twenty to twenty to fifty tons
+[00:35:24] for the return journey to work but it's
+[00:35:26] a single saddle just a single stage all
+[00:35:28] the way back to earth I'll show you the
+[00:35:31] so this is the true physics simulation
+[00:35:38] it's the last about a minute so you come
+[00:35:42] in you're entering very quickly going
+[00:35:44] seven a half kilometres a second for
+[00:35:47] Mars there will be some ablation of the
+[00:35:49] heat shield so it's just like a sort of
+[00:35:51] brake pad wearing away
+[00:35:53] it is a multi-use heat shield but unlike
+[00:35:56] for Earth operations it's coming in hot
+[00:36:00] enough that you really do you will see
+[00:36:02] somewhere of the heat shield
+[00:36:04] but because Mars has an atmosphere
+[00:36:08] albeit not a particularly dense one you
+[00:36:10] can remove almost all the energy or
+[00:36:12] aerodynamically and we've proven out
+[00:36:15] supersonic retropropulsion many times
+[00:36:17] with without the nine so if you're very
+[00:36:20] careful about that the this is a because
+[00:36:24] it's sort of you could see a sort of a
+[00:36:28] mesh system it's not it's not meant to
+[00:36:30] be sort of particularly pretty because
+[00:36:32] it's just her simulate the physics of it
+[00:36:34] but the the size of the current gives
+[00:36:37] you a rough approximation for how much
+[00:36:39] thrust the entrance are producing
+[00:36:56] that's not a typo
+[00:37:01] although it is aspirational so we've
+[00:37:08] already started building the system the
+[00:37:15] tooling for the main tanks is has been
+[00:37:18] ordered the facility is being built we
+[00:37:22] will start construction the first ship
+[00:37:26] around the second quarter of next year
+[00:37:28] so in about six to nine months we should
+[00:37:31] start building the first ship I feel
+[00:37:35] fairly confident that we can complete
+[00:37:37] the ship and be ready for a launch in
+[00:37:40] about five years five years seems like a
+[00:37:43] long time to me
+[00:37:52] and I the the area under the curve of
+[00:37:58] resources over that period of time
+[00:38:00] should enable this time frame you met
+[00:38:02] but if not this time frame I think
+[00:38:04] pretty soon thereafter but that's that's
+[00:38:07] how that's our goal is to try to make
+[00:38:10] the 2022 Maas rendezvous the earth-mars
+[00:38:16] synchronization happens roughly every
+[00:38:18] two years so every two years there's an
+[00:38:20] opportunity for just to fly to Mars so
+[00:38:26] then in 2024 we want to try to fly for
+[00:38:30] ships two of which would be crude and to
+[00:38:33] to cover and to to occur the goal of the
+[00:38:40] of these initial missions is to is to
+[00:38:42] find the best source of water that's
+[00:38:45] what the first mission and then the
+[00:38:46] second mission the goal is to build the
+[00:38:48] the propellant plant so we should with
+[00:38:52] particular with six ships there have
+[00:38:55] plenty of landed mass to construct the
+[00:38:59] propellant Depot which will consist of a
+[00:39:01] large array of solar panels very large
+[00:39:04] array and then everything necessary to
+[00:39:07] mine and refine water and then draw the
+[00:39:10] co2 out of the atmosphere and then
+[00:39:12] create and store deep-fryer ch4 and or
+[00:39:16] to then build up the base starting with
+[00:39:22] one one ship then multiple ships then
+[00:39:25] start building out the city then making
+[00:39:29] the city bigger and even bigger
+[00:39:45] and yeah and over time terraforming was
+[00:39:50] and making it really a nice place to be
+[00:39:57] Thanks
+[00:39:58] it really I think it's quite a quite a
+[00:40:07] beautiful picture and other prior slide
+[00:40:11] it seriously note that on Mars donor
+[00:40:13] desk or blue and it's the sky that's the
+[00:40:16] sky is blue and or dusk and and red
+[00:40:18] during the day it's the opposite of
+[00:40:20] Earth and but there's there's something
+[00:40:26] else if you if you build a ship that's
+[00:40:31] capable of going to Mars
+[00:40:35] what if you take that same ship and go
+[00:40:39] from one place to another on earth so we
+[00:40:43] looked at that and the results are quite
+[00:40:46] interesting let's take a look at that
+[00:41:03] [Music]
+[00:41:19] [Music]
+[00:41:35] [Music]
+[00:41:51] [Music]
+[00:41:58] we're traveling 27,000 ponies now
+[00:42:01] a roughly 80,000 miles an hour
+[00:42:06] it's where the
+[00:42:08] propulsive landing becomes very
+[00:42:10] important
+[00:42:11] to be disappear right
+[00:42:16] [Music]
+[00:42:24] [Applause]
+[00:42:36] so most of what people consider to be
+[00:42:38] long-distance trips would be completed
+[00:42:41] in less than half an hour which
+[00:42:51] yes so that the the great thing about
+[00:42:54] going to space is there's no friction so
+[00:42:57] once you're out of the atmosphere you
+[00:43:00] will go it will smooth as silk no
+[00:43:02] turbulence nothing there's no weather
+[00:43:04] no mr. atmosphere and you can get taught
+[00:43:08] most long-distance places like said in
+[00:43:10] less than half an hour and if we're
+[00:43:14] building this thing to go to the Moon
+[00:43:16] and Mars then why not go to other places
+[00:43:19] on earth as well all right thank you
+[00:43:27] you

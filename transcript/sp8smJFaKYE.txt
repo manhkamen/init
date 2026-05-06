@@ -1,0 +1,1137 @@
+[00:00:00] (patriotic orchestral music) - [Announcer] Please welcome
+[00:00:02] AFA's central Florida
+[00:00:04] Martin H. Harris Chapter President Todd Freece.
+[00:00:11] (audience applauding)
+[00:00:15] - Thank you.
+[00:00:17] Thirty-six years ago,
+[00:00:18] our chapter established this great symposium
+[00:00:21] and has been working closing with AFA
+[00:00:23] to keep it one of the premiere
+[00:00:25] professional development events for airmen.
+[00:00:27] Today, it's our honor to participate
+[00:00:30] in continuing that great tradition
+[00:00:31] by hosting this session.
+[00:00:34] I am pleased to introduce our keynote event
+[00:00:36] to conclude our symposium.
+[00:00:39] Lieutenant General John Thompson
+[00:00:41] is responsible for approximately 6,000 airmen worldwide.
+[00:00:46] He commands an annual budget of over $7 billion
+[00:00:50] to support the research, design, development, launch,
+[00:00:54] acquisition, and sustainment of satellites
+[00:00:56] and their associated command and control systems.
+[00:01:00] Accompanying General Thompson is global innovator Elon Musk.
+[00:01:04] In 1980--
+[00:01:06] (crowd cheering and applauding)
+[00:01:11] In 1983, he taught himself computer programming
+[00:01:14] at the age of 12,
+[00:01:16] sold the code for a Basic-based video game called "Blaster"
+[00:01:20] for approximately $500.
+[00:01:24] And in 1990,
+[00:01:25] in 1995, he started Zip2,
+[00:01:28] a web software company later renamed PayPal in 2001.
+[00:01:34] But more recently, you might know him for
+[00:01:37] for revolutionizing electric cars
+[00:01:39] as CEO and product architect of Tesla Motors.
+[00:01:43] Development--
+[00:01:45] (crowd cheering and applauding)
+[00:01:45] That's all the Tesla owners. (chuckles)
+[00:01:48] Development and manufacturing advanced rockets
+[00:01:50] and spacecraft for missions to and beyond Earth orbit
+[00:01:54] as founder of Space Exploration Technologies, SpaceX.
+[00:01:59] (audience cheering and applauding)
+[00:02:02] And conceptualizing high-speed transportation
+[00:02:05] known as Hyperloop.
+[00:02:07] (audience cheering and applauding)
+[00:02:09] And if you haven't heard
+[00:02:10] some of these quotes by Elon Musk, or Muskisms,
+[00:02:13] let me introduce you to one.
+[00:02:15] Here's my first one and when I first read it,
+[00:02:17] I thought, "Well, it applies to innovation,
+[00:02:20] "it's also written into the contract
+[00:02:22] "of every airman in this room,
+[00:02:25] "and every man and woman who has served."
+[00:02:27] The quote is,
+[00:02:28] "If something is important enough,
+[00:02:31] "even if the odds are against you,
+[00:02:33] "you should still do it."
+[00:02:36] Now, looking back to our speech this morning
+[00:02:39] by Dr. Roper when he talked about innovation,
+[00:02:42] one of the Muskism quotes is
+[00:02:44] "Failure is an option here.
+[00:02:47] "If things are not failing, you are not innovating enough."
+[00:02:52] But my favorite quote,
+[00:02:54] "I would like to die on Mars, just not on impact."
+[00:02:58] (audience laughing and applauding)
+[00:03:00] General Thompson, Mr. Musk, over to you.
+[00:03:02] Thank you and welcome.
+[00:03:04] (chuckling)
+[00:03:09] - Well, Elon, thanks so much for being here today.
+[00:03:13] As you know, and many people in the audience know,
+[00:03:15] we're reprising
+[00:03:17] a fireless fireside chat
+[00:03:20] that we did at Air Force Space Pitch Day
+[00:03:24] back in November.
+[00:03:25] I ran into General Goldfein,
+[00:03:28] the Chief of Staff of the United States Air Force,
+[00:03:29] this morning and maybe I was being
+[00:03:32] a little bit too confident but I said,
+[00:03:34] "Hey, I think that we did such a good job together
+[00:03:38] "at Space Pitch Day that Elon and I got invited back
+[00:03:42] "for a much bigger audience, higher stakes,
+[00:03:45] "and everything like that."
+[00:03:47] And General Goldfein looked at me and went,
+[00:03:49] "No, J.T., you guys are gonna do it until you get it right."
+[00:03:53] (audience laughing)
+[00:03:54] So we're gonna talk a little bit today about innovation.
+[00:03:58] For those of you in the audience that
+[00:04:02] nothing that was introduced about Elon
+[00:04:07] made it to the prefrontal cortex and you're like,
+[00:04:09] "I still don't know who this guy is."
+[00:04:12] You may remember him from a movie role in "Iron Man II"
+[00:04:17] or the TV show "The Big Bang Theory."
+[00:04:21] You may remember him, if you're old like me,
+[00:04:24] when you used to have to do dial-in modems,
+[00:04:27] you may remember how PayPal actually worked
+[00:04:31] over a dial-in modem. - Yeah.
+[00:04:34] - And if, just in case you've had your head
+[00:04:36] in the sand for the last decade,
+[00:04:39] you absolutely have to know him
+[00:04:41] for Space Exploration Technologies, SpaceX,
+[00:04:44] a tremendous partner of the United States Air Force
+[00:04:46] in the space business.
+[00:04:49] And for Tesla.
+[00:04:51] So, just for grins,
+[00:04:55] this fastest-growing auto company
+[00:04:59] on the planet,
+[00:05:00] most amazing capability, and when Elon pulled up,
+[00:05:04] he pulled up, he and his entourage,
+[00:05:06] in three different Teslas this morning.
+[00:05:09] How many Tesla owners do we have in the audience?
+[00:05:13] (audience cheering)
+[00:05:14] Stand up, stand up if you're a Tesla owner.
+[00:05:18] (Elon laughing) All right.
+[00:05:20] (audience applauding)
+[00:05:21] Very nice.
+[00:05:24] - (chuckling) (applause drowns out Elon)
+[00:05:26] - So, Elon, you and I have talked about
+[00:05:28] whether the Air Force is the most innovative service.
+[00:05:33] The Department of the Air Force now,
+[00:05:34] and the last time we interviewed,
+[00:05:36] it was just the Air Force.
+[00:05:37] Now we're the Air Force and the Space Force,
+[00:05:39] that's part of the Department of the Air Force.
+[00:05:41] Most of those people who stood up were in the front row,
+[00:05:43] we have a lot of first adopters here
+[00:05:46] in the front of the audience, apparently.
+[00:05:47] Or maybe those are the folks that just make the most money.
+[00:05:50] (audience laughing) Who knows?
+[00:05:51] Okay, so, again, today's discussion is about innovation.
+[00:05:58] And how we can make the Department of the Air Force
+[00:06:02] the most innovative department
+[00:06:04] within the Department of Defense
+[00:06:06] and perhaps across the United States government.
+[00:06:09] So, Elon, question number one.
+[00:06:12] When you put a weapons system, or a product,
+[00:06:17] into production,
+[00:06:18] and you start delivering it to your customers,
+[00:06:22] very, very frequently there is a push-back
+[00:06:25] within the production organization that,
+[00:06:28] "You know, we don't want to change that product too much.
+[00:06:33] "It's successful."
+[00:06:34] We have a lot of legacy systems
+[00:06:36] that we're responsible for
+[00:06:37] in the Department of the Air Force.
+[00:06:39] There is a lot of reticence, at times,
+[00:06:44] to incrementally improve or add new capabilities
+[00:06:48] to those systems.
+[00:06:49] From the context of Tesla and SpaceX,
+[00:06:53] how do you motivate your workforce?
+[00:06:56] How do you work with your customers?
+[00:06:59] How do you work with technologists
+[00:07:03] in your ecosystems,
+[00:07:05] your various ecosystems,
+[00:07:06] to try and make sure that products don't become stagnant,
+[00:07:11] and they continue to incrementally improve over time?
+[00:07:16] - Sure, well, first of all, thanks for having me here.
+[00:07:18] It's an honor to be here with you and with everyone else
+[00:07:21] from the Space/Air Force.
+[00:07:25] (laughs) (audience laughing)
+[00:07:28] And, we've obviously had a long relationship
+[00:07:32] with the Air Force and very much appreciate
+[00:07:33] the support over the years,
+[00:07:34] so I just wanna make sure I say that.
+[00:07:38] And look forward to doing
+[00:07:39] a lot of interesting things in the future.
+[00:07:43] I think it's actually,
+[00:07:45] it's cool that there is,
+[00:07:48] the creation of the Space Force is happening.
+[00:07:52] I think it makes sense that there's
+[00:07:56] a major branch for every domain, you know?
+[00:08:01] And so the domain of space,
+[00:08:05] the domain of air, are both important.
+[00:08:08] I think space-based is certainly a medium of its own.
+[00:08:13] (laughs)
+[00:08:14] - [General Thompson] Sure.
+[00:08:15] - And
+[00:08:17] I think there's some very exciting things that are possible.
+[00:08:23] If I may just say it,
+[00:08:23] like what the public wants, I think,
+[00:08:27] and I'm actually pretty confident
+[00:08:29] that the public does want this,
+[00:08:31] is a Starfleet Academy.
+[00:08:33] You know with like (laughs) (audience laughing)
+[00:08:36] Yeah, like how do we make "Star Trek" real, you know?
+[00:08:41] That'd be pretty amazing.
+[00:08:43] I'd love that. (laughs) (audience laughing)
+[00:08:45] You know?
+[00:08:47] And so I think the fastest we can make
+[00:08:51] sort of Starfleet real, then, we should try to do that.
+[00:08:55] (chuckles) (audience whoops)
+[00:08:57] - [General Thompson] Well, so, Elon, speaking--
+[00:08:59] (audience applauding)
+[00:08:59] speaking for the United States Space Force,
+[00:09:02] there already is a Starfleet Academy,
+[00:09:04] it's the United States Air Force Academy
+[00:09:06] in Colorado Springs, Colorado.
+[00:09:07] (audience cheering and applauding
+[00:09:08] - Sure.
+[00:09:10] I've been there, I've given a talk,
+[00:09:12] and, you know, the first launch of Falcon 1,
+[00:09:16] we had a Falcon sat from the Air Force Academy.
+[00:09:21] That rocket blew up.
+[00:09:22] (audience laughing)
+[00:09:25] But then the funny thing is, it blew up,
+[00:09:28] the thing is truth is stranger than fiction,
+[00:09:32] the satellite
+[00:09:35] was shot through the fairing,
+[00:09:38] arced through the air a couple hundred meters,
+[00:09:40] and then plunged through the roof of a tool shed
+[00:09:44] and then landed on the floor.
+[00:09:47] And which was actually in reasonably good shape.
+[00:09:49] I mean, for crashing through the ceiling,
+[00:09:50] but, you know, like, recognizable.
+[00:09:53] (audience chuckling)
+[00:09:55] And we gave it back and said,
+[00:09:57] "We've not lost one of your satellites." (laughs)
+[00:10:00] (audience laughing)
+[00:10:02] - So, from a SpaceX perspective,
+[00:10:03] - Just buff it out.
+[00:10:04] - A partial mission success?
+[00:10:06] - Well, it's like, it's not lost, I'm just saying.
+[00:10:09] (both men laughing)
+[00:10:10] It's a little worse for wear, but, you know, here.
+[00:10:16] But then we subsequently launched a future Falcon sat
+[00:10:19] to actual orbit, that was great.
+[00:10:23] So,
+[00:10:26] I think there's,
+[00:10:28] I think we can go a long way towards making
+[00:10:31] Starfleet real and making these, sort of,
+[00:10:37] semi-utopian futures real
+[00:10:42] but it will definitely require radical innovation.
+[00:10:47] One can't get there by incrementally innovating
+[00:10:52] expendable boosters, there's just no way.
+[00:10:53] - Yeah.
+[00:10:54] - So,
+[00:10:56] the,
+[00:10:58] I think
+[00:10:59] we need to push for radical breakthroughs
+[00:11:03] and if you don't push for radical breakthroughs,
+[00:11:05] you're not going to get radical outcomes.
+[00:11:09] And that does mean taking risks.
+[00:11:13] And, common sense, that if you take a big risk,
+[00:11:17] in order to have a big reward, there must be a big risk.
+[00:11:20] It's, most of the time, you cannot find
+[00:11:24] big reward for small risk, those are rare.
+[00:11:28] So you're gonna have some proportionality
+[00:11:30] to the risk and reward.
+[00:11:33] But if the goal is important enough,
+[00:11:36] and I think increasingly the goal is important
+[00:11:40] for many reasons,
+[00:11:44] the goal of having the best technology in space,
+[00:11:51] that is, I think, gonna become increasingly important.
+[00:11:54] And it'll be increasingly important
+[00:11:56] for the United States to use
+[00:11:58] what I think is its greatest attribute
+[00:12:01] which is invention
+[00:12:04] and innovation
+[00:12:06] to create space technology that is the best in the world.
+[00:12:14] And in fact, I think that if the United States
+[00:12:15] does not use breakthrough innovation,
+[00:12:20] it will fall behind.
+[00:12:23] So, I think this is not something that was a risk
+[00:12:27] in times past but I think is a risk now.
+[00:12:30] - Okay.
+[00:12:32] So, yeah.
+[00:12:37] - Do you characterize that risk
+[00:12:39] in terms of peer-adversary competition
+[00:12:43] around the planet?
+[00:12:46] Are you suggesting that it's our adversaries
+[00:12:50] that require us to be those radical innovators?
+[00:12:55] Or is it just we can't become complacent
+[00:12:58] and stay incrementally improving our systems,
+[00:13:03] we must take those giant leaps forward
+[00:13:05] as a nation regardless of the competition?
+[00:13:10] - I think there's little,
+[00:13:11] I have zero doubt that if the United States
+[00:13:14] does not seek great innovations in space,
+[00:13:18] it will be second in space.
+[00:13:20] - Okay.
+[00:13:21] - With, as sure as night follows day.
+[00:13:24] So it is a big deal.
+[00:13:28] But this is
+[00:13:32] a very innovative,
+[00:13:33] there's no country more innovative and inventive
+[00:13:36] than the United States.
+[00:13:37] So it's just important to use that attribute.
+[00:13:41] That's the ace card.
+[00:13:42] - [General Thompson] Okay.
+[00:13:44] And since it seems like we're going down
+[00:13:46] the geopolitical path here on the questions,
+[00:13:50] how does the United States as a nation
+[00:13:53] maintain that innovative edge?
+[00:13:56] That
+[00:14:00] ability to invest in things and take those risks?
+[00:14:04] What kind of governmental
+[00:14:08] policies or processes
+[00:14:10] do we have to encourage the right kinds
+[00:14:12] of behavior in your view?
+[00:14:15] - Well, I think having outcome-based procurement
+[00:14:20] is actually very important. - Okay.
+[00:14:23] - To say like, this is the outcome that is sought
+[00:14:25] and who can achieve this outcome?
+[00:14:28] Or achieve this outcome to a greater degree?
+[00:14:32] That company will,
+[00:14:34] that's who the Air Force will do business with.
+[00:14:36] And will procure the thing that is radically innovative
+[00:14:41] as measured by what is important for leadership in space.
+[00:14:49] So,
+[00:14:52] I mean I do think it's absolutely fundamental
+[00:14:55] to achieve full reusability in access to space.
+[00:14:59] This is the Holy Grail of space.
+[00:15:02] At the point at which you have full reusability
+[00:15:05] for orbital rockets,
+[00:15:07] then you have
+[00:15:10] a profound
+[00:15:11] advantage over anyone else.
+[00:15:13] Profound.
+[00:15:15] It will be like, if, in the Air Force,
+[00:15:18] if you have planes that could be used once,
+[00:15:23] or if you had multi-use planes,
+[00:15:26] that could be flown over and over again, like normal,
+[00:15:30] and all your adversaries had single-use planes.
+[00:15:33] That would be no contest.
+[00:15:36] It's the same thing in space.
+[00:15:38] - [General Thompson] Okay.
+[00:15:39] - Yeah, this is extremely fundamental.
+[00:15:45] So, the cost of propellant
+[00:15:50] is typically on the order of
+[00:15:53] 1% of the cost of the
+[00:15:56] of the vehicle.
+[00:15:58] Or less.
+[00:15:59] So, if you have a vehicle that is, say,
+[00:16:05] I dunno, LOX kerosine, like Falcon 9 or something like that,
+[00:16:11] you know, it's,
+[00:16:13] the oxygen and the fuel are, yeah,
+[00:16:16] maybe a half-million dollars or something like that.
+[00:16:20] But then, depending upon the mission,
+[00:16:22] the mission price can be anywhere from
+[00:16:24] 60 to $100 million.
+[00:16:26] So,
+[00:16:29] the Falcon 9 is a partially-reusable vehicle but not fully.
+[00:16:33] The vehicle we're working on right now,
+[00:16:37] quite difficult,
+[00:16:39] is Starship.
+[00:16:41] And
+[00:16:44] yeah, that has the potential for full reusability.
+[00:16:49] But I think it'd be great to have other companies, as well,
+[00:16:52] that are doing full reusability.
+[00:16:54] I think competition is a good thing.
+[00:16:58] It may seem at times that shouldn't we
+[00:17:02] focus all our efforts on one system
+[00:17:07] and rather than divide them and have
+[00:17:10] two competing systems.
+[00:17:14] Like, not to cause controversy, (moans)
+[00:17:17] but like, in my opinion,
+[00:17:19] Joint Strike Fighter,
+[00:17:22] there should be a competitor to JSF.
+[00:17:27] I know that's a controversial subject but
+[00:17:30] you know, I think it's not good to have one provider.
+[00:17:36] It's good to have competition
+[00:17:37] where that competition is meaningful
+[00:17:40] and somebody can actually lose.
+[00:17:41] Like, so, then, (audience chuckling)
+[00:17:48] so, yeah. - [General Thompson] Okay.
+[00:17:52] - Yeah.
+[00:17:53] - So, in radical innovation,
+[00:17:56] obviously the workforce is a really key component of that.
+[00:18:02] I mean as, I mean, during your PayPal days,
+[00:18:05] you were actually doing coding, right?
+[00:18:07] But in SpaceX and Tesla,
+[00:18:10] they are so large that Elon can't do everything.
+[00:18:14] What sort of things do you think about
+[00:18:17] in terms of motivating a workforce like
+[00:18:20] like we have in the Department of the Air Force,
+[00:18:24] that will help them become more radically innovative?
+[00:18:28] What sort of things do you look for in people
+[00:18:31] or in processes that make the workforce better?
+[00:18:35] - Sure, well, I think the massive thing that can be done
+[00:18:39] is to make sure your incentive structure
+[00:18:41] is such that innovation is rewarded
+[00:18:45] and lack of innovation is punished.
+[00:18:47] There's gotta be a carrot and a stick.
+[00:18:48] So if somebody is innovating
+[00:18:53] and doing, making great progress,
+[00:18:57] then they should be promoted sooner.
+[00:19:00] And if somebody is completely failing to innovate,
+[00:19:03] not every role requires innovation,
+[00:19:05] but if they're in a role where innovation
+[00:19:08] is should be happening and it's not happening,
+[00:19:12] then they should either not be promoted or exited.
+[00:19:16] And let me tell you, you'll get innovation real fast.
+[00:19:20] (audience laughing) - [General Thompson] Okay.
+[00:19:21] The stick. - Yeah.
+[00:19:22] It's like, how much do you want it?
+[00:19:23] - Yeah.
+[00:19:24] (audience cheering and applauding)
+[00:19:29] So, does that carrot and stick approach help,
+[00:19:32] do you think, people be more
+[00:19:36] risk averse
+[00:19:37] or less risk averse?
+[00:19:42] - Well,
+[00:19:44] when trying different things,
+[00:19:47] you've gotta have some acceptance of failure,
+[00:19:49] as you were alluding to earlier.
+[00:19:51] Failure must be an option.
+[00:19:52] If failure is not an option,
+[00:19:53] it's going to result in extremely conservative choices
+[00:19:55] and you may get something even worse
+[00:19:59] than lack of innovation,
+[00:20:00] things may go backwards.
+[00:20:04] So, if,
+[00:20:07] what you really want is
+[00:20:14] you want reward and punishment to be
+[00:20:16] proportionate to the actions that you seek.
+[00:20:20] So, if what you're seeking is innovation,
+[00:20:24] then you should reward success and innovation
+[00:20:27] and
+[00:20:28] only,
+[00:20:30] there should be minor consequences for lack of,
+[00:20:34] minor consequences for trying and failing.
+[00:20:38] Those should be minor.
+[00:20:41] Significant rewards for trying and succeeding.
+[00:20:44] Minor consequences for trying and not succeeding.
+[00:20:48] And major negative consequences for not trying.
+[00:20:54] - [General Thompson] Okay.
+[00:20:55] - So, if you have that incentive structure,
+[00:20:58] you will get innovation like you can't believe.
+[00:21:01] - Okay, - Yeah.
+[00:21:02] - So, you've talked at Tesla shareholder meetings
+[00:21:07] and in various interviews that you consider
+[00:21:11] the machine that builds the machine
+[00:21:13] - [Elon] Yes. - To be
+[00:21:15] just as important if not more important
+[00:21:17] than the machine itself. - [Elon] Yep.
+[00:21:18] - So, we talked about the workforce aspects.
+[00:21:21] Are there processes that you use within your company
+[00:21:25] that are parts of that machine
+[00:21:27] that you think are particularly valuable
+[00:21:28] for innovative, radical change?
+[00:21:35] - Well, what I mean by the machine that builds the machine
+[00:21:37] is that the
+[00:21:39] the production,
+[00:21:42] designing the production system of a new product is
+[00:21:48] I think at least an order of magnitude
+[00:21:52] or two orders of magnitude harder
+[00:21:53] than designing the initial prototype.
+[00:21:55] - [General Thompson] Yeah.
+[00:21:58] - I think like, in America,
+[00:22:00] there's been less
+[00:22:04] less importance in modern times
+[00:22:05] placed on manufacturing.
+[00:22:08] And I think this is a mistake.
+[00:22:12] At this point, I would really classify,
+[00:22:15] in fact I sent an email to SpaceX just saying this,
+[00:22:19] at this point, I think designing a rocket is trivial.
+[00:22:22] Just trivial.
+[00:22:23] There's like tons of books that'll, you read them,
+[00:22:25] you know,
+[00:22:27] if you can understand equations, you can design a rocket.
+[00:22:31] Real easy. (audience laughing)
+[00:22:33] Yeah.
+[00:22:34] If you say, like, two-stage,
+[00:22:38] and 2% of your liftoff mass to orbit,
+[00:22:42] to design something like that, piece of cake.
+[00:22:47] Now say you wanna go into production with that.
+[00:22:52] Let's say the next step is
+[00:22:53] you wanna make even one of those things.
+[00:22:55] Okay, now making even one of those things
+[00:22:57] and getting it to orbit is hard.
+[00:23:01] But the designing of it is not hard.
+[00:23:03] The making of it, of even one, is hard.
+[00:23:05] The making of a production line
+[00:23:07] that builds and launches many is extremely hard.
+[00:23:12] And then the next level beyond that would be
+[00:23:18] creating a fully-reusable system
+[00:23:21] and having that be in volume production
+[00:23:23] and volume launch.
+[00:23:25] That's super, super hard.
+[00:23:29] So, that's,
+[00:23:32] but by building the machine that builds the machine,
+[00:23:33] I mean creating the production system
+[00:23:36] and
+[00:23:38] I keep emphasizing to SpaceX
+[00:23:42] the hard part is making it
+[00:23:45] and making lots of them - [General Thompson] Yeah.
+[00:23:46] - and launching frequently.
+[00:23:50] 'Cause reuse must not just be,
+[00:23:53] it can't be reuse like the shuttle.
+[00:23:55] It's gotta be rapid and complete reuse.
+[00:23:58] So the shuttle was a case where
+[00:24:00] the reuse was very slow
+[00:24:02] and it was not complete.
+[00:24:05] The main tank was lost every time.
+[00:24:08] And refurbing the shuttle between flights
+[00:24:11] was extremely expensive.
+[00:24:14] It's not even clear whether it was worth
+[00:24:16] recovering the booster shells from the ocean.
+[00:24:20] So,
+[00:24:22] just like an aircraft,
+[00:24:24] the rocket must be rapidly and completely reusable.
+[00:24:28] And then you need lots of them.
+[00:24:34] So, just doing kind of back of the envelope,
+[00:24:37] what's needed to establish a self-sustaining city on Mars,
+[00:24:42] these are big numbers,
+[00:24:44] but I think you need on the order of a million tons
+[00:24:48] to the surface of Mars, useful payload.
+[00:24:50] Something like that.
+[00:24:53] Because we sit on the top of a massive
+[00:24:56] base of infrastructure.
+[00:24:58] The economy is,
+[00:25:00] you think of all the things that are mined and then refined,
+[00:25:03] and then just the many steps in the refinement,
+[00:25:06] and in order to produce, like, your phone,
+[00:25:09] or your toaster, even,
+[00:25:11] there's a vast base of industry that is required
+[00:25:14] to produce even a simple household item.
+[00:25:17] - Yeah.
+[00:25:18] - It's very difficult.
+[00:25:20] So,
+[00:25:25] so you've gotta recreate that on Mars.
+[00:25:28] So a million tons on Mars means,
+[00:25:31] and we're just talking orders of magnitude here,
+[00:25:34] and hopefully it's not 10 million tons,
+[00:25:36] and hopefully, maybe it's less than a million tons,
+[00:25:38] but probably not 100,000 tons.
+[00:25:41] So, that means you need to
+[00:25:46] get about
+[00:25:48] about 5 million tons to Earth orbit, of useful payload.
+[00:25:55] So we're talking like,
+[00:25:57] so essentially, unless you have a launch system
+[00:25:59] that is somewhere in the megaton per year range, to orbit,
+[00:26:06] it's not relevant. - Okay.
+[00:26:09] - Yeah.
+[00:26:10] - So, Starlink.
+[00:26:14] As you're scaling to build more and more Starlink satellites
+[00:26:18] to go on more and more reusable rockets,
+[00:26:21] what are some of the challenges you've had to overcome
+[00:26:24] in Starlink production so that you can perfect
+[00:26:27] that machine that builds the machine?
+[00:26:32] - Yeah, Starlink production is going well, actually.
+[00:26:35] That's the,
+[00:26:38] that was a hard thing to get right.
+[00:26:43] We made many iterations on the Starlink prototypes.
+[00:26:48] And then, as I said,
+[00:26:50] then building the Starlink production line was,
+[00:26:53] I dunno, 1000% harder than designing
+[00:26:55] the satellite to begin with.
+[00:26:57] But it is important to have like, a,
+[00:27:04] to design for manufacturing and have a type-B backloop
+[00:27:07] between the design of the object
+[00:27:09] and the manufacturing system.
+[00:27:11] So, when you design the object at first,
+[00:27:14] you don't realize all the parts
+[00:27:16] that are really difficult to manufacture.
+[00:27:19] And so having the manufacturing system and the design,
+[00:27:24] bringing those up at the same time,
+[00:27:26] so that you're actually in the beginning
+[00:27:28] making a thing that you know is wrong
+[00:27:30] but you're actually figuring out what's hard to manufacture.
+[00:27:32] That's the real problem.
+[00:27:35] So, we brought up the Starlink production line
+[00:27:40] before we actually had the design finalized.
+[00:27:43] Which is actually the right thing to do.
+[00:27:45] And then we discovered, oh, there's all these things that
+[00:27:47] in the design that are very difficult to make.
+[00:27:51] And so therefore we must change the design.
+[00:27:55] And the satellite ended up having the same capability,
+[00:27:59] but just was very easy to make and launch.
+[00:28:05] So, I say very easy, it's sort of hard, but,
+[00:28:10] (laughing)
+[00:28:11] but it's being done
+[00:28:13] and the satellites are being produced at a rate now
+[00:28:18] faster than we can launch them.
+[00:28:20] So, and the cost of the satellite has dropped below
+[00:28:24] the cost of transporting it to orbit.
+[00:28:27] Even when taking a Falcon 9
+[00:28:31] in the most reused configuration,
+[00:28:33] which is to get the booster back
+[00:28:34] and you get the fairings back.
+[00:28:37] The cost of transporting the satellite to orbit
+[00:28:41] exceeds the cost of the satellite.
+[00:28:44] So the satellite's in a good situation.
+[00:28:46] - Okay.
+[00:28:47] - And the cost of that satellite
+[00:28:48] will keep coming down as we ramp up rate
+[00:28:51] and make design improvements.
+[00:28:53] So we really need Starship to carry Starlink
+[00:28:57] in order to get the total
+[00:29:01] delivered cost to orbit
+[00:29:03] to be much better than it is today.
+[00:29:06] - [General Thompson] Okay. - Which is still pretty good.
+[00:29:09] - When you, so in terms of deciding what to build,
+[00:29:16] you can take feedback from customers
+[00:29:18] and let customers pull to you what they want,
+[00:29:21] or you can be radically innovative within your company
+[00:29:24] or, you know, a small set of individuals
+[00:29:26] and develop something and push it
+[00:29:28] into the industrial base.
+[00:29:29] So, customer pull would be Tesla owners wanting
+[00:29:35] new features on the existing fleet.
+[00:29:39] Push would be, company push would be something like
+[00:29:44] when Apple pushed the iPad to everybody
+[00:29:47] and nobody knew what an iPad was
+[00:29:48] until they touched it and went, "Wow."
+[00:29:50] - [Elon] Sure.
+[00:29:51] - And everybody wants an iPad now.
+[00:29:53] What do you wall think about in terms of that balance
+[00:29:56] between customer pull and company push?
+[00:30:00] - Well, in the beginning, nobody wanted a Tesla.
+[00:30:03] I can tell you that.
+[00:30:04] (audience laughing)
+[00:30:08] When we made the original Roaster sports car,
+[00:30:12] people were like, "Why would I want an electric car?
+[00:30:14] "My gasoline car works fine."
+[00:30:17] I'm like, "No, an electric car's better, you should try it."
+[00:30:19] (audience laughing)
+[00:30:21] And it was hard to get people to do a test drive.
+[00:30:26] First of all, nobody knew who we were,
+[00:30:28] they never heard of this company.
+[00:30:29] I'm like, "Yeah, we're named after Nikola Tesla.
+[00:30:31] "You know that guy?
+[00:30:32] "Nope." (laughs) (audience laughing)
+[00:30:37] So, for sure we were doing push in the beginning
+[00:30:40] 'cause there was no one telling us
+[00:30:42] that they wanted an electric car.
+[00:30:44] So it was not out of, like,
+[00:30:47] you know, lots of people coming up to me saying,
+[00:30:49] "Hey, I really want an electric car."
+[00:30:51] I heard that zero times. (audience laughing)
+[00:30:55] So we were like, "It's like, man, we better
+[00:30:57] "make an electric car
+[00:30:57] "and show that these things can be good."
+[00:30:59] And then people would want them.
+[00:31:02] I think it was Henry Ford said,
+[00:31:04] when we was talking about the Model T,
+[00:31:08] if you asked the public what they wanted,
+[00:31:10] they'd say "a faster horse."
+[00:31:12] So, if you did a big survey and said,
+[00:31:14] "Hey, public," before automobiles, "what would you like?"
+[00:31:19] It's like, "Well, I'd like my horse
+[00:31:20] "to go three miles per hour faster
+[00:31:21] "and eat less food and
+[00:31:25] "you know, be stronger
+[00:31:27] "and live longer and that kind of thing."
+[00:31:30] There will be basically a bunch of incremental
+[00:31:33] improvements on a horse.
+[00:31:36] 'Cause when you say, "What about an automobile?
+[00:31:39] "Like a car that drives itself?"
+[00:31:40] Like, "What are you talking about?
+[00:31:41] "That sounds crazy."
+[00:31:44] But when you actually make an automobile
+[00:31:46] and give it to people and say,
+[00:31:47] "Okay, now, this is a horse where
+[00:31:49] "you can keep it in the barn
+[00:31:50] "and if you leave for a month, it's still alive." (laughs)
+[00:31:53] (audience laughing)
+[00:31:57] Yeah.
+[00:31:59] So, carry more weight than a horse,
+[00:32:01] and go further and that kind of thing.
+[00:32:03] So,
+[00:32:06] it's like when it's a radically new product,
+[00:32:09] people don't know that they want it
+[00:32:10] because it's just not in their scope.
+[00:32:13] I think when they first started making TV's,
+[00:32:17] they did a nationwide survey,
+[00:32:19] I think this may have in like '46 or '48,
+[00:32:22] it was like a famous nationwide survey,
+[00:32:25] "Will you ever buy a TV?"
+[00:32:28] And it was like 96% of respondents said "No."
+[00:32:33] Some crazy number.
+[00:32:34] Like basically everyone's like,
+[00:32:35] "Would you buy a TV?"
+[00:32:37] And maybe they put a price in there or something, I dunno.
+[00:32:38] But it was famously almost everyone said
+[00:32:42] they would not buy a TV
+[00:32:43] but they didn't know what they were talking about.
+[00:32:46] - So the big game-changing stuff at the beginning
+[00:32:49] is a company push kind of a thing most of the time.
+[00:32:52] - [Elon] Yeah. - But then,
+[00:32:54] changes to the product over time
+[00:32:56] can be a lot more customer pull kind of a focus?
+[00:33:00] - Yeah, changes to the product over time can be,
+[00:33:04] incremental changes,
+[00:33:06] then customers can certainly tell you,
+[00:33:09] it's good to get customer feedback to say,
+[00:33:11] "How can we improve the product?"
+[00:33:14] And once they're using it,
+[00:33:15] they can say, "Okay, I like this thing about it,
+[00:33:17] "I don't like this other thing."
+[00:33:19] And then we can improve the product over time.
+[00:33:21] Customer feedback after they have the fundamental thing,
+[00:33:25] is great. - Okay.
+[00:33:27] - Yeah. - Okay, so,
+[00:33:29] in the audience here,
+[00:33:30] we have a lot of air and space warfighters,
+[00:33:33] we have people who use systems,
+[00:33:37] we have a lot of developmental teams
+[00:33:40] on both the government and the industry side,
+[00:33:42] and we have the air and space leadership of the nation.
+[00:33:47] So, I've got a little Lightning Round here for ya.
+[00:33:49] - Great.
+[00:33:50] - To try and influence, maybe, some of those younger folks
+[00:33:53] in the back who are looking for the next big thing.
+[00:33:56] So, in terms of different kinds of technology,
+[00:34:00] whether it's artificial intelligence
+[00:34:02] or medical or
+[00:34:05] batteries or whatever,
+[00:34:07] in the next five years,
+[00:34:10] what technology do you think will see the most advancement?
+[00:34:17] - Well, it's difficult to assess most in those contexts
+[00:34:21] 'cause they're very different.
+[00:34:22] But I think the probably most transformative,
+[00:34:25] most fundamentally transformative will be A.I.
+[00:34:28] - [General Thompson] A.I.?
+[00:34:28] Okay.
+[00:34:29] And if you were recommending to some of the young officers
+[00:34:33] and enlisted troops in the room
+[00:34:37] what sort of degrees to pursue at college
+[00:34:41] or what sort of education that they should prioritize
+[00:34:44] for themselves in the modern era,
+[00:34:47] what would you recommend?
+[00:34:49] - Computer Science and Physics.
+[00:34:51] - [General Thompson] Computer Science and Physics, okay.
+[00:34:53] How many Computer Science people do we have out there?
+[00:34:55] (a few members of the audience whooping)
+[00:34:56] How many Physics people?
+[00:34:58] (a few members of the audience whooping)
+[00:34:59] Okay.
+[00:34:59] We need more, apparently. (audience laughing)
+[00:35:02] Okay-- - Wait, essentially,
+[00:35:03] Information Theory and Physical Theory
+[00:35:06] if you want to understand the nature of the universe,
+[00:35:08] and these have
+[00:35:11] very good predictive power,
+[00:35:14] Physics and Computer Science.
+[00:35:15] - [General Thompson] Okay. - Yeah.
+[00:35:18] - Okay, as a nation that is interested
+[00:35:21] in radical innovation to maintain its competitive edge,
+[00:35:25] what are the things that the Department of the Air Force
+[00:35:28] should be investing more in, other than reusable rockets?
+[00:35:33] - Right. - From your perspective.
+[00:35:36] - Again, I can't emphasize enough how important
+[00:35:38] reusable rockets are. (laughs) (audience laughing)
+[00:35:41] You know?
+[00:35:43] You'll love it. (audience laughing)
+[00:35:48] It's great.
+[00:35:50] So,
+[00:35:54] and I think you could actually do
+[00:35:55] point to point on Earth,
+[00:35:58] to go long distances and be much better than aircraft.
+[00:36:02] Because basically just think of like an ICBM
+[00:36:06] minus the nuke, add a land, you know?
+[00:36:09] So, just sort of in the option package.
+[00:36:12] Just, you know, (audience laughing)
+[00:36:13] uncheck "Nuke" and then add "Landing System". (laughs)
+[00:36:17] (laughing)
+[00:36:19] And that's definitely going to get you
+[00:36:20] wherever you want to go the fastest.
+[00:36:24] 'Cause that's why they made ICBM's,
+[00:36:24] they get there the fastest.
+[00:36:27] So, I think that's going to be pretty exciting.
+[00:36:35] Yeah, I think, uh,
+[00:36:40] yeah,
+[00:36:43] once you have dramatically lower cost
+[00:36:45] access to space,
+[00:36:46] then many things are enabled.
+[00:36:51] You could think of like,
+[00:36:51] once you got the Union Pacific Railroad,
+[00:36:54] then getting to the west coast was much faster
+[00:36:58] and much less dangerous. - [General Thompson] Yeah.
+[00:37:00] - You're not likely to sort of
+[00:37:01] end up eating your compatriots in a snowy situation.
+[00:37:05] (audience laughing)
+[00:37:08] So, you can just take the train.
+[00:37:12] (audience laughing)
+[00:37:13] (Elon laughing)
+[00:37:16] So at the beginning, they thought,
+[00:37:19] "Why the heck are they building that stupid railway?
+[00:37:21] "There's nobody there." (laughs)
+[00:37:24] And they're like, but once you build the railway,
+[00:37:27] they're like,
+[00:37:28] "Okay, now it's easy to get to the west coast."
+[00:37:31] And now a huge portion of the Earth's population
+[00:37:34] is on the west coast.
+[00:37:36] Actually, California is the most populous state
+[00:37:38] in the nation.
+[00:37:40] But it used to be least populous, I suppose, or pretty low.
+[00:37:47] So,
+[00:37:49] many things are possible once the transport
+[00:37:53] problem is solved.
+[00:37:56] So that's why I think it's so fundamental.
+[00:38:01] If you can't get there or getting there takes a long time
+[00:38:05] and you can't risk, every mission's gotta work,
+[00:38:09] then it's very hard to innovate.
+[00:38:10] - [General Thompson] Yeah.
+[00:38:12] - It's gotta be that, okay, some missions won't work
+[00:38:14] and the cost of running the experiment is low,
+[00:38:18] that's why I'm harping so much on the cost of transport.
+[00:38:23] So,
+[00:38:28] you know, once you're there, I think, like,
+[00:38:30] say establishing a base on the Moon or a base on Mars,
+[00:38:33] there's just a tremendous amount of work
+[00:38:36] that's needed to create a self-sustaining base
+[00:38:40] on the Moon or Mars.
+[00:38:41] And it opens up a tremendous amount of opportunity
+[00:38:43] just as the Union Pacific Railroad did
+[00:38:46] by making access to the west coast
+[00:38:50] much easier.
+[00:38:51] - [General Thompson] Okay.
+[00:38:55] - Yeah.
+[00:38:57] Outside of the space realm,
+[00:38:59] I think there's still a lot of opportunity in tunnels.
+[00:39:03] I've been saying that for a long time.
+[00:39:07] Tunnels are great. (chuckles)
+[00:39:12] They're really great.
+[00:39:14] And The Boring Company is about to finish
+[00:39:17] its first tunnel in Vegas.
+[00:39:18] I encourage people to copy, please copy The Boring Company
+[00:39:22] or do better, that'd be great.
+[00:39:26] There's
+[00:39:31] - So in terms of domains, you have subterranean.
+[00:39:34] - Yeah.
+[00:39:35] - Obviously, Tesla covers
+[00:39:37] the ground domain as capabilities.
+[00:39:40] You've got the space domain covered with SpaceX
+[00:39:44] and Starlink capabilities.
+[00:39:47] I think that since this is the Air Warfare Symposium,
+[00:39:50] folks in the audience might be interested in
+[00:39:52] if you have any ideas for the air domain specifically.
+[00:39:57] - Well, for the air domain,
+[00:40:01] I think things are definitely going to go
+[00:40:05] into kind of autonomous
+[00:40:09] or locally autonomous drone warfare,
+[00:40:12] that's where it's at, where the future will be.
+[00:40:15] I'm just saying, it's not I want the future to be this.
+[00:40:18] It's just, this is what the future will be.
+[00:40:20] - Okay.
+[00:40:21] - It's autonomous drone warfare.
+[00:40:25] And at a local level,
+[00:40:29] the,
+[00:40:33] I can't believe I'm saying this
+[00:40:34] because this is dangerous,
+[00:40:35] but it's simply what will occur,
+[00:40:37] is sort of
+[00:40:39] drones locally
+[00:40:41] being autonomous
+[00:40:43] and
+[00:40:48] but I think we still want to retain
+[00:40:51] sort of like, you know,
+[00:40:55] authority to damage or destroy
+[00:41:01] anything that isn't an autonomous drone. (chuckles)
+[00:41:05] We'll keep that authority back here
+[00:41:06] with a person in the loop.
+[00:41:09] - [General Thompson] Okay.
+[00:41:11] - The fighter jet era has passed.
+[00:41:14] That is,
+[00:41:16] it's just, yeah, the fighter jet era has passed.
+[00:41:20] - Okay.
+[00:41:21] - So, it's drones, yeah.
+[00:41:23] - [General Thompson] Um, let's go back to failure
+[00:41:25] for a minute. (audience laughing)
+[00:41:30] And the mindset that you have,
+[00:41:33] you and your leadership team at Tesla and SpaceX,
+[00:41:35] have on failure.
+[00:41:36] I mean, the SpaceX blooper reel
+[00:41:39] that you guys did in
+[00:41:40] - Sure.
+[00:41:41] - I think it was 2017 timeframe.
+[00:41:44] Was definitely, "Hey, we embrace this learning that occurs."
+[00:41:48] More recently with the Tesla truck
+[00:41:51] and the ball through the window.
+[00:41:54] - [Elon] Yeah.
+[00:41:55] - Also, that mindset of--
+[00:41:57] - Didn't go through the window.
+[00:41:59] (audience laughs)
+[00:42:02] - That mindset that embraces failure,
+[00:42:05] how do you personally, I mean, those kinds of failures
+[00:42:10] would drive a lot of us in this room nuts.
+[00:42:13] It doesn't seem to drive you nuts.
+[00:42:14] Seems like you're very comfortable with it.
+[00:42:17] Can you talk about the mindset that requires
+[00:42:19] for you to be that accepting of that kind of failure?
+[00:42:23] - Uh, sure, shall we roll the video?
+[00:42:25] (laughing)
+[00:42:26] Should we not?
+[00:42:27] - No, we should not roll the video, not yet.
+[00:42:28] - Okay, okay. (chuckles)
+[00:42:34] Well, I think of these things as just,
+[00:42:37] there's a certain amount of time,
+[00:42:38] and within that time,
+[00:42:40] you want the best net outcome.
+[00:42:44] So,
+[00:42:45] for all the set of actions that you can do,
+[00:42:50] there's going to be,
+[00:42:53] and some of which will fail,
+[00:42:54] some of which will succeed,
+[00:42:56] and you want the net useful
+[00:43:00] output of your set of actions
+[00:43:02] to be the highest.
+[00:43:05] So,
+[00:43:10] I'd have to use a baseball analogy.
+[00:43:13] You know, in baseball, they don't let you
+[00:43:14] just sit there and wait for the perfect pitch
+[00:43:17] until you get a real easy one.
+[00:43:19] They're gonna give you three shots.
+[00:43:21] And then the third one, they say, okay, get off the,
+[00:43:25] go back to the,
+[00:43:27] put somebody else up there.
+[00:43:29] So, you have three strikes on baseball.
+[00:43:34] Look, you're not on bat anymore.
+[00:43:37] So, what you're really looking for
+[00:43:40] is like what's the batting average?
+[00:43:43] You know, how you're doing on
+[00:43:46] on score
+[00:43:49] and there's gonna be some amount of failure.
+[00:43:54] But you want your net output,
+[00:43:58] that useful output to be maximized.
+[00:44:01] Failure is essentially irrelevant
+[00:44:03] unless it is catastrophic. - Okay.
+[00:44:06] - Yeah. - Okay.
+[00:44:08] Intellectual property.
+[00:44:10] Obviously, Tesla, SpaceX, Solar City
+[00:44:14] have amazing capabilities that they're bringing
+[00:44:18] to the public and to the government every day.
+[00:44:22] How do you protect your intellectual property
+[00:44:24] in a world where it seems like the cloud
+[00:44:28] and servers and things are constantly under attack
+[00:44:31] from people wishing to free you
+[00:44:33] of your intellectual property?
+[00:44:37] - Yeah, actually, at Tesla, we just open-sourced
+[00:44:40] our patents some years ago.
+[00:44:42] So anyone can use our patents.
+[00:44:44] So we really have not been tried to protect
+[00:44:46] intellectual property in that sense.
+[00:44:49] We've tried to actually smooth the path
+[00:44:52] because the overarching goal of Tesla
+[00:44:55] is to accelerate the advent of sustainable energy.
+[00:44:58] And so if we
+[00:45:02] created a patent portfolio
+[00:45:04] that discouraged other companies from making electric cars,
+[00:45:07] that would be inconsistent with our mission.
+[00:45:09] So we open-sourced all the patents.
+[00:45:12] - [General Thompson] Okay.
+[00:45:13] - In order to help the other,
+[00:45:14] anyone else who wants to make an electric car.
+[00:45:16] So, I guess that's the opposite of protecting the IP.
+[00:45:23] Now, the real way I think you actually achieve
+[00:45:26] intellectual property protection
+[00:45:27] is by innovating fast enough.
+[00:45:30] If your rate of innovation is high,
+[00:45:32] then you don't need to worry about protecting the IP
+[00:45:36] because other companies will be copying
+[00:45:39] something that you did years ago.
+[00:45:42] And that's fine, you know.
+[00:45:46] Just make sure your rate of innovation is fast.
+[00:45:51] Speed of innovation is what matters.
+[00:45:55] And I do say this to my teams quite a lot.
+[00:46:00] That innovation-per-unit time,
+[00:46:01] it's like innovation per year if you wanna say it like that
+[00:46:04] is what matters, not innovation absent time.
+[00:46:08] Because if you're wanting to make, say,
+[00:46:11] a 100% improvement in something,
+[00:46:13] and that took 100 years or one year,
+[00:46:16] that's radically different.
+[00:46:18] So, it's like what is your rate of innovation?
+[00:46:23] That matters.
+[00:46:24] And is the rate of innovation,
+[00:46:27] is that accelerating or decelerating?
+[00:46:32] A weird thing happens when companies get big is that,
+[00:46:34] most companies, or organizations, the bigger they get,
+[00:46:38] they tend to get less innovative.
+[00:46:43] Not just less innovative on a per-person basis
+[00:46:45] but less innovative in the absolute.
+[00:46:49] And I think this is probably because
+[00:46:51] the incentive structure is not
+[00:46:54] is not there for innovation.
+[00:46:59] It's not enough to use words to encourage innovation.
+[00:47:03] The incentive structure must be aligned with that.
+[00:47:06] That's fundamental.
+[00:47:09] So.
+[00:47:12] - So, taking that from a business level to a national level,
+[00:47:16] in terms of, obviously, United States,
+[00:47:18] largest economy in the world,
+[00:47:20] China, the second-largest economy in the world
+[00:47:22] currently and gaining fast,
+[00:47:25] what sort of things could you share
+[00:47:27] with the audience here that are your thoughts
+[00:47:30] on the competition, economic or military,
+[00:47:35] between the United States and China?
+[00:47:37] - Sure.
+[00:47:40] Well, I think China's a real interesting country,
+[00:47:42] I have to say.
+[00:47:44] The thing to appreciate about China
+[00:47:47] is just that there's a lot of really smart,
+[00:47:49] really hard-working people there.
+[00:47:52] And they're gonna do a lot of great things.
+[00:47:58] This is sort of independent of Chinese government policy,
+[00:48:03] they're just gonna do a lot of interesting things.
+[00:48:08] The thing that will feel pretty strange
+[00:48:11] is that the Chinese economy is going to be
+[00:48:14] probably at least twice as big as the U.S. economy.
+[00:48:18] Maybe three times, but at least twice.
+[00:48:23] Yeah, so, that assumes a GDP per capita
+[00:48:26] still less than the U.S.
+[00:48:29] But since they have about four or five times the population,
+[00:48:36] then it would only require getting to a GDP per capita
+[00:48:40] of half the United States for their economy
+[00:48:43] to be twice the size of ours.
+[00:48:47] And as I'm sure people in this room know,
+[00:48:49] the foundation of war is economics.
+[00:48:53] And so if you
+[00:48:56] if you have half the resources,
+[00:49:00] of the counterparty, then you better be real innovative.
+[00:49:05] If you're not innovative, you're gonna lose.
+[00:49:07] (trumpet music blaring)
+[00:49:09] - I'm not sure whether that's a cyber attack
+[00:49:11] that's ongoing or not here, so.
+[00:49:22] (string music blaring) (audience laughing)
+[00:49:26] The clock says I have 11 minutes left, is that not true?
+[00:49:33] - I guess it's moot.
+[00:49:35] - All right, so Smooth Jazz Elon,
+[00:49:37] - Now the smooth jazz. (audience laughing)
+[00:49:40] - [Announcer] It's coming through the house system,
+[00:49:41] we're working to get it shut off.
+[00:49:43] - Thank you.
+[00:49:47] (audience laughing)
+[00:49:51] - Um, yes, well, um, at any rate, (laughs)
+[00:50:02] so with respect to China, China's economy is gonna be
+[00:50:08] two to three times the size of the U.S. economy,
+[00:50:10] at least double.
+[00:50:13] Therefore, in order for the U.S. to be competitive
+[00:50:16] on a military level,
+[00:50:18] the innovation has to overcome a gigantic gap
+[00:50:21] in economic output.
+[00:50:24] - [General Thompson] Okay.
+[00:50:25] - So in the absence of radical innovation,
+[00:50:27] the U.S. will be militarily second.
+[00:50:31] - Okay.
+[00:50:33] - Basic, basic math.
+[00:50:36] - What,
+[00:50:38] from the standpoint of
+[00:50:41] radical innovation,
+[00:50:44] we already talked about workforce,
+[00:50:45] we talked about processes,
+[00:50:46] we talked about protecting intellectual property rights,
+[00:50:51] let's talk about overall culture.
+[00:50:55] That culture that you try and push into your companies
+[00:50:59] that makes them successful.
+[00:51:01] Any of us, and I sat right next to
+[00:51:03] one of your SpaceX employees on the plane here yesterday,
+[00:51:06] a young engineer,
+[00:51:09] it was motivating for me just to talk to her
+[00:51:13] - Yep.
+[00:51:14] - About what she was doing every day
+[00:51:15] and how important her job was
+[00:51:17] and I just felt like the only other place
+[00:51:19] I've seen that kind of culture is, frankly,
+[00:51:22] in the Department of the Air Force
+[00:51:24] with some of our young folks
+[00:51:25] that are sprinkled around the back of the room.
+[00:51:27] How do you create that culture at SpaceX and Tesla
+[00:51:31] to make employees like that?
+[00:51:35] - Well, wow, this smooth jazz is on us
+[00:51:38] (laughing)
+[00:51:39] with a vengeance.
+[00:51:43] I feel like we're in a big elevator. (laughs)
+[00:51:46] (audience laughing and applauding)
+[00:51:53] So, first of all, when we interview people,
+[00:51:56] we do ask for some evidence of exceptional ability
+[00:52:00] which in most cases includes innovation.
+[00:52:04] That's not to say that everyone needs to be innovative.
+[00:52:07] But we certainly need those that are doing
+[00:52:09] advanced engineering to be innovative.
+[00:52:12] And ideally everyone is at least to some degree innovative.
+[00:52:16] So, at the interview point,
+[00:52:20] we select for people who want to create new technology.
+[00:52:26] And then the incentive structure is set up
+[00:52:31] such that
+[00:52:34] innovation is rewarded,
+[00:52:36] making mistakes along the way
+[00:52:39] does not come with a big penalty.
+[00:52:42] And but failure to try to innovate
+[00:52:46] at all comes with a big penalty.
+[00:52:48] You'll be fired. - [General Thompson] Okay.
+[00:52:51] - Yeah.
+[00:52:52] - The carrot and stick, that's the stick.
+[00:52:54] - If you don't even try,
+[00:52:56] or if somebody doesn't even try to innovate
+[00:52:59] or their innovation aspirations are very,
+[00:53:05] are not very good,
+[00:53:06] then, yeah, they will no longer be at the company.
+[00:53:09] - Okay, okay. - Yeah.
+[00:53:11] - All right, so, we've got about five minutes left.
+[00:53:14] And what I'd like to do is just turn it over to you, Elon,
+[00:53:18] to talk about whatever you'd like to talk about.
+[00:53:20] If you have a message for the audience here,
+[00:53:23] you have a thousand-plus air and space professionals
+[00:53:27] in the greatest Air and Space Force on the planet.
+[00:53:30] So whaddya wanna tell 'em?
+[00:53:33] - We've gotta make Starfleet happen.
+[00:53:36] (General Thompson laughing) (audience laughing)
+[00:53:37] Like, you know?
+[00:53:44] So we want real big spaceships that can go real far places,
+[00:53:50] and this will probably get me into the most trouble of all,
+[00:53:54] I think there should be a new uniform.
+[00:53:56] (audience laughing)
+[00:54:00] That's like, I dunno,
+[00:54:03] cool uniforms, cool spaceships, you know?
+[00:54:05] (audience laughing)
+[00:54:06] I think when the public hears "Space Force"
+[00:54:09] that's what they think.
+[00:54:10] It's like, okay, we're gonna have some sweet spaceships
+[00:54:13] and, like, pretty good uniforms and stuff.
+[00:54:16] And that'll be, that's what they'll probably want.
+[00:54:20] So, we want the sci-fi futures,
+[00:54:24] the good sci-fi futures,
+[00:54:26] to be real and ideally to become real
+[00:54:29] while we're still alive.
+[00:54:31] You know, and we want to see it happen.
+[00:54:33] And so I think we really need to drive
+[00:54:37] the rate of innovation to be such that
+[00:54:39] we would see
+[00:54:42] big, big breakthroughs, big improvements in space technology
+[00:54:47] in the years to come.
+[00:54:50] So, yeah.
+[00:54:52] Just, like, try to make Starfleet happen
+[00:54:54] as soon as humanly possible
+[00:54:56] and definitely while we're still alive.
+[00:54:59] Yeah, so.
+[00:55:02] I'm not sure about warp drive,
+[00:55:03] but other stuff I think can be done.
+[00:55:06] - [General Thompson] Gotcha.
+[00:55:07] - Warp drive and teleportation, probably not.
+[00:55:09] But big space ships that can go far places,
+[00:55:12] definitely, that can be done.
+[00:55:14] - [General Thompson] Understood.
+[00:55:14] - All right.
+[00:55:15] - Ladies and gentlemen, Elon Musk.
